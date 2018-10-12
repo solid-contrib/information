@@ -6,6 +6,7 @@ constructive community while helping to build Solid. This commitment calls for a
 community where participants behave according to the rules of the following Code
 of Conduct:
 
+- Do not consume excessive resources. Solid is not a general backup facility; it provides managed access to Linked Data resources. Community Managers reserve the right to [close accounts](#closing-accounts) being used for bulk storage or computation. Indications of bulk storage include inappropriate media (disk images, audio or video files, tarballs or zip files). For the time being, disk storage is limited to 25 Megabytes. If users wish to propose a paid service, please contact a Community Manager.
 - Communicate and behave with respect, professionalism, fairness, and
 sensitivity.
 - Communicate constructively and avoid demeaning or insulting behavior or
@@ -29,7 +30,7 @@ the issue can take place by contacting a Core Contributor. They may temporarily
 or permanently ban an individual from participating in activities, e.g. in a
 chat, mail or in Git for acting against the Code of Conduct.
 
-Best practices for the Solid Community include:
+## Best practices for the Solid Community include:
 
 - Contribute! Help Solid be the best it can be. Work together constructively
 toward the good working of the technology.
@@ -60,6 +61,13 @@ pointers to more info.
 - There are multiple ways of achieving the same goals, but when you build
 something new, check what already exists so we can better understand and help
 you with your contribution.
+
+## Closing accounts
+
+- Account owners may close their own accounts. Community Managers may choose to close accounts of users violating the [Code of Conduct](#code-of-conduct).
+- Before closing down an account, Community Managers will notify the owner of the account.
+- The account owner will be given a week to contest the decision to close the account or to recover any data they need from the account before it is disabled.
+
 
 Based on:
 - https://www.w3.org/Consortium/cepc/  (and an as-of-yet unpublished “Best
