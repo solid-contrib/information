@@ -14,6 +14,11 @@ language.
 all backgrounds and identities. This includes, but is not limited to, members of
 any race, religion, national origin, sexual orientation, and gender identity and
 expression.
+- Be mindful of people's time and effort spent on contributions to the project.
+In discussions, read other people's points, make an effort to understand,
+and reply to relevant statements and questions they write.
+Substantiate your opinions, concerns, or issues respectfully with arguments
+of an appropriate technical level to keep the discussion clear and focused.
 - Do not insult or put down other participants. Harassment (whether verbal,
 physical or sexual) and other exclusionary behavior are not acceptable.
 - Disagreements, both social and technical, happen all the time. Whenever
