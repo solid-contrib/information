@@ -21,7 +21,7 @@ To give individuals control over their data when using the web to open up innova
 
 ## Plan
 
-The Solid plan is defined in the [plan.md](plan) (TBD). 
+The Solid plan is defined in the [plan.md](plan.md) (TBD). 
 To make suggestions for changes please submit a pull request or
 an issue on github. Suggestions will be incorporated depending on the
 decision of the community leader and implemented by the community
@@ -30,7 +30,7 @@ manager.
 ## Community Roles
 
 You can find a list of the [various roles within the Solid community](community-roles.md)
- as well as the responsibilities associated with each
+as well as the responsibilities associated with each
 role. Individuals will be appointed to the roles by the community
 leader.
 
@@ -50,11 +50,10 @@ manager.
 
 To suggest a change to the Solid code, submit a pull request. 
 
-Solid has a code of conduct which all community members must keep in
+Solid has a [code of conduct](code-of-conduct.md) which all community members must keep in
 mind when contributing to Solid. If you would like to report an issue
 around the code of conduct or have a concern about Solid governance,
-please contact the community manager or submit an issue using the
-github tag ‘code of conduct report’.
+please contact the community manager or submit an issue.
 
 To make suggestions around governance, roles, plans, review process,
 themes to discuss at Solid Online or for the advisory board please
@@ -77,9 +76,9 @@ manager.
 ## Tools
 
 * Chat 
-  * Discourse: To get started introduce yourself and get to know others in the community. 
-  * Gitter 
-  * Reddit
+  * [Discourse](https://forum.solidproject.org/): To get started [introduce yourself and get to know others](https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20) in the community. 
+  * [Gitter](https://gitter.im/solid/chat)
+  * [Reddit](https://www.reddit.com/r/SOLID/submit)
 
 
 ## Events
@@ -87,7 +86,8 @@ manager.
 Solid events are run by community members in various cities around the
 world. Solid events provide an opportunity for community members to
 meet and talk about Solid in person. Find out about Solid events near
-you or start a Solid event and let others know about it here.
+you or start a Solid event and let others know about it 
+[here](https://forum.solidproject.org/t/find-solid-events-near-you/703).
 
 To facilitate inclusion of all interested parties the community
 manager organises Solid Online monthly event where anyone can tune in
