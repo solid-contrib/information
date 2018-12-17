@@ -21,16 +21,16 @@ To give individuals control over their data when using the web to open up innova
 
 ## Plan
 
-The Solid plan is defined in the plan.md of the Solid community
-repo. To make suggestions for changes please submit a pull request or
+The Solid plan is defined in the [plan.md](plan) (TBD). 
+To make suggestions for changes please submit a pull request or
 an issue on github. Suggestions will be incorporated depending on the
 decision of the community leader and implemented by the community
 manager.
 
 ## Community Roles
 
-You can find a list of the various roles within the Solid community
-here as well as the responsibilities associated with each
+You can find a list of the [various roles within the Solid community](community-roles.md)
+ as well as the responsibilities associated with each
 role. Individuals will be appointed to the roles by the community
 leader.
 
