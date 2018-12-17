@@ -1,4 +1,4 @@
-# Solid Community Roles and Responsibilities  
+Eduardo Ibacache Rodriguez# Solid Community Roles and Responsibilities  
 This document aims to identify the various roles within the Solid community,
 and the responsibilities associated with each role, where applicable.
 
@@ -57,4 +57,4 @@ and project strategy meetings.
 * **Project Release Manager** - Kjetil Kjernsmo
 * **Solid Core Contributors** - Ruben Verborgh, Arne Hassel, Justin Bingham, Kjetil Kjernsmo
 * **Panel Coordinator** - Maya Rinehart, Felix Poon, Tony Morelli
-* **Solid Panelist** - Eric Prud’hommeaux, Eduardo Rodriguez, Teodora Petkova,  David Booth
+* **Solid Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth
