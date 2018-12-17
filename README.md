@@ -6,14 +6,14 @@ around the Solid community issues around governance will be documented
 in this community repository.
 
 ## Table of Contents
-Mission and Values 
-Plan 
-Community Roles
-Checks and Balances 
-Processes
-Tools 
-Events
-Advisory Board 
+ * [Mission and Values](#mission-and-values) 
+ * [Plan](#plan) 
+ * [Community Roles](#community-roles)
+ * [Checks and Balances](#checks-and-balances) 
+ * [Processes](#processes)
+ * [Tools](#tools) 
+ * [Events](#events)
+ * [Advisory Board](#advisory-board) 
 
 
 ## Mission and Values
