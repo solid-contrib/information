@@ -1,4 +1,4 @@
-Eduardo Ibacache Rodriguez# Solid Community Roles and Responsibilities  
+# Solid Community Roles and Responsibilities  
 This document aims to identify the various roles within the Solid community,
 and the responsibilities associated with each role, where applicable.
 
