@@ -47,3 +47,14 @@ technical content writing.
 The Project Release Manager is responsible for determining which features and/or
 bug-fixes will make a given project release. They must attend regular stand-ups
 and project strategy meetings.
+
+
+## Individuals currently occupying roles
+
+* **Community Leader** - Tim Berners-Lee
+* **Community Manager** - Mitzi László
+* **Repository Manager** - Kjetil Kjernsmo
+* **Project Release Manager** - Kjetil Kjernsmo
+* **Solid Core Contributors** - Ruben Verborgh, Arne Hassel, Justin Bingham, Kjetil Kjernsmo
+* **Panel Coordinator** - Maya Rinehart, Felix Poon, Tony Morelli
+* **Solid Panelist** - Eric Prud’hommeaux, Eduardo Rodriguez, Teodora Petkova,  David Booth
