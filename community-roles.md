@@ -32,6 +32,9 @@ Panel Coordinators are responsible for designing and running tests with the Soli
 ## Solid Panelist
 The Solid panel engages in continuous tests to improve the user experience. When a test is set up by the Solid panel coordinators the community manager will reach out to the Solid panel to ask if they would like to participate in this test. Tests will take approximately half an hour each on average. If the user tester is available and willing to take the test, they will be sent instructions by the Solid panel coordinators. Solid panelist can withdraw from the panel at any point. To volunteer to become a Solid panelist contact the community manager.
 
+## Solid Event Organiser
+The [Solid Event](solid-events.md) Organiser is responsible for organising and coordinatiing a Solid Event in a stated city. The position of Solid Event Organiser will be filled by an individual for as long as an event is scheduled in the future.
+
 ## Individuals currently occupying roles
 * **Community Leader** - [Tim Berners-Lee](https://github.com/timbl)
 * **Community Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
@@ -40,3 +43,4 @@ The Solid panel engages in continuous tests to improve the user experience. When
 * **Solid Core Contributors** - [Ruben Verborgh](https://github.com/RubenVerborgh), Arne Hassel, [Justin Bingham](https://github.com/justinwb), [Kjetil Kjernsmo](https://github.com/kjetilk)
 * **Panel Coordinator** - Maya Rinehart, Felix Poon, [Tony Morelli](https://github.com/tony-morelli)
 * **Solid Panelist** - [Eric Prud’hommeaux](https://github.com/ericprud), [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway), [Teodora Petkova](https://github.com/TheodoraPetkova), [David Booth](https://github.com/dbooth-boston), [Pieter Hayvaert](https://github.com/pheyvaer)
+* **Solid Event Organiser** - Solid event organisers are listed alongside the corresponsing [Solid Event](solid-events.md)
