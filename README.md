@@ -4,12 +4,15 @@ The community is working on the [open source initiative of Solid](https://github
 
 ## Table of Contents
  * [Mission and Values](#mission-and-values) 
- * [Plan](#plan) 
+ * [Spec, Plan, and Documentation](#spec-plan-and-documentation) 
  * [Community Roles](#community-roles)
+ * [Community Support Meetings](#community-support-meetings)
  * [Checks and Balances](#checks-and-balances) 
  * [Processes](#processes)
+ * [Licensing](#licensing)
+ * [Pod Providers and WebID Providers](#pod-providers-and-webid-providers)
  * [Tools](#tools) 
- * [Events](#events)
+ * [Solid Events](#solid-events)
  * [Advisory Board](#advisory-board) 
 
 
