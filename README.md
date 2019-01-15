@@ -45,7 +45,7 @@ Community members can share ideas and propose solutions on each pull request or 
 Step 3. Merge
 The relevant project release manager will judge and implement the merge. If there is a difference of opinion about a merge between the contributor and the relevant project release manager, they will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement.
 
-If you are working on Solid [let others know your processes] (processes.md). 
+If you are working on Solid let others know your processes.
 
 ## Licensing
 [Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](Solid-logo.md). 
