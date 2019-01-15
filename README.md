@@ -51,7 +51,10 @@ If you are working on Solid [let others know your processes] (processes.md).
 [Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](Solid-logo.md). 
 
 ## Pod Providers and WebID Providers 
-If you would like to become a [Pod Providers](pod-providers.md) and/or a [WebID Provider](webid-provider.md) you can let others know. 
+There is a list of [Pod Providers](pod-providers.md) and a [WebID Provider](webid-provider.md). If you are operating as a Pod Provider or a WebID Provider you can let others know by adding it to the list. 
+
+## Solid Apps 
+There is a list of [Solid apps](https://github.com/solid/solid-apps). If you have built a new Solid app you can let others know about it by adding it to the list. 
 
 ## Tools
 There are several existing Solid community communications channels including: 
