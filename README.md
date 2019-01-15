@@ -51,7 +51,7 @@ If you are working on Solid let others know your processes.
 [Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Solid Related Tools 
-There are tools that work with Solid including [Pod Providers](pod-providers.md), [WebID Provider](webid-provider.md), [Solid apps](https://github.com/solid/solid-apps), and [Developer Support Tools](https://github.com/solid/developer-support-tools). If you are operating as one of these tools make sure it fulfills the relevant [requirements](https://github.com/solid/community/blob/master/solid-tool-requirements.md) and let others know by adding to the appropriate list. 
+There are tools that work with Solid including [Pod Providers](pod-providers.md), [WebID Provider](webid-provider.md), [Solid apps](https://github.com/solid/community/blob/master/solid-apps), and [Developer Support Tools](https://github.com/solid/developer-support-tools). If you are operating as one of these tools make sure it fulfills the relevant [requirements](https://github.com/solid/community/blob/master/solid-tool-requirements.md) and let others know by adding to the appropriate list. 
 
 ## Solid Conversations
 There are several existing Solid community communications channels including: 
