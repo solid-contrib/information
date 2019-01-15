@@ -48,7 +48,7 @@ The relevant project release manager will judge and implement the merge. If ther
 If you are working on Solid let others know your processes.
 
 ## Licensing
-[Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](Solid-logo.md). 
+[Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Pod Providers and WebID Providers 
 There is a list of [Pod Providers](pod-providers.md) and a [WebID Provider](webid-provider.md). If you are operating as a Pod Provider or a WebID Provider you can let others know by adding it to the list. 
