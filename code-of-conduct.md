@@ -15,7 +15,7 @@ all backgrounds and identities. This includes, but is not limited to, members of
 any race, religion, national origin, sexual orientation, and gender identity and
 expression.
 - Do not insult or put down other participants. Harassment (whether verbal,
-physical or sexual) and other exclusionary behavior are not acceptable.
+physical or sexual) and other exclusionary behavior is not acceptable.
 - Disagreements, both social and technical, happen all the time. Whenever
 inappropriate behaviors are observed members of the community should strive to
 bring the discussion back to a more professional level. In most cases
@@ -34,26 +34,26 @@ Best practices for the Solid Community include:
 - Contribute! Help Solid be the best it can be. Work together constructively
 toward the good working of the technology.
 - Stay on topic. Remember others voices need to be heard as well as yours and
-you must allow the space for other members to participate (e.g.: don't monologue
-or respond to every comment.).
+you must allow the space for other members to participate (e.g. don't monologue
+or respond to every comment).
 - Respect the expertise and contributions of other members of the community
-(e.g.: don't assume that you are "the smartest person in the room"). Remember
+(e.g. don't assume that you're "the smartest person in the room"). Remember
 that this is a community with different backgrounds who have valuable
 contributions to make.
 - Listen first and be sure you understand the point of view of the other person
-(e.g.: don't assume that others are disagreeing with you because they don't
+(e.g. don't assume that others are disagreeing with you because they don't
 understand what you’re saying and don't suggest that another person's comments
 are invalid because they have a different opinion).
-- Respond from an informed and inclusive point of view (e.g.: don't respond to
+- Respond from an informed and inclusive point of view (e.g. don't respond to
 comments without reading the background information).
-- Do review the work of others to see if you are doing something which other
-groups have already done (ie: “reinventing the wheel”).
+- Do review the work of others to see if you are doing something that other
+groups have already done (i.e. don't “reinvent the wheel”).
 - Know that your contribution is still valuable even if it is not integrated.
-- Remember the work is about more than just your area of interest (e.g.: don't
+- Remember the work is about more than just your area of interest (e.g. don't
 let your personal or professional goals impede the progress of the group).
 - Do contact a Community Manager if you feel someone has been working in a way
 that is having a negative impact on the work of the group, if they are insulting
-or harassing you, or unfairly impeding your own ability to work
+or harassing you, or unfairly impeding your own ability to work.
 - Maintain an open mindset and encourage others to do the same. There might be
 things you or others haven't heard about yet, so be open to send and receive
 pointers to more info.
