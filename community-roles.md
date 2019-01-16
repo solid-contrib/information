@@ -57,4 +57,4 @@ and project strategy meetings.
 * **Project Release Manager** - Kjetil Kjernsmo
 * **Solid Core Contributors** - Ruben Verborgh, Arne Hassel, Justin Bingham, Kjetil Kjernsmo
 * **Panel Coordinator** - Maya Rinehart, Felix Poon, Tony Morelli
-* **Solid Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth
+* **Solid Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
