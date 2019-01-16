@@ -19,7 +19,7 @@ The community is working on the [open source initiative of Solid](https://github
 To give individuals control over their data when using the web to open up innovation on the web. 
 
 ## Spec, Plan, and Documentation
-To make suggestions to the the [Solid spec](https://github.com/solid/solid-spec), [Solid plan](https://github.com/solid/community/blob/master/plan.md), or [Solid documentation](https://github.com/solid/community/blob/master/documentation) please submit a pull request or an issue on github. Suggestions will be incorporated by the community manager. If there is a difference of opinion about the incorporation of a suggestion, the community managaer and relevant community members will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement. 
+To make suggestions to the the [Solid spec](https://github.com/solid/solid-spec), [architechture](https://github.com/solid/solid-architecture), [Solid plan](https://github.com/solid/community/blob/master/plan.md), or [Solid documentation](https://github.com/solid/community/blob/master/documentation) please submit a pull request or an issue on github. Suggestions will be incorporated by the community manager. If there is a difference of opinion about the incorporation of a suggestion, the community managaer and relevant community members will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement. 
 
 ## Community Roles
 You can find a list of the [various roles within the Solid community](community-roles.md) as well as the responsibilities associated with each role. Individuals will be appointed to the roles by the community leader. 
