@@ -32,16 +32,14 @@ Solid has a [code of conduct](code-of-conduct.md) which all community members mu
 To make suggestions around Solid governance, roles, plans, review process, themes to discuss at Solid World or for the advisory board please contact the community manager or submit an [issue](https://github.com/solid/community/blob/master/issue-template.md). The community manager will add the ‘governance suggestion’ tag to those issues. The community manager will be responsible for incorporating suggestions. If there is a difference of opinion to which a compromise cannot be met the community leader will make the final judgement.
 
 ## Processes 
-Step 1. Submission
-Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. If you are working on an issue or pull request assign yourself to that issue to let everyone you are working on it.
+Step 1. Making a Suggestion
+Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description. 
 
-Step 2. Consensus
-Community members can share ideas and propose solutions on each pull request or issue. 
+Step 2. Inviting a Conversation around your Suggestion to Find Consensus
+Let others know about your suggestion by posting it on solid/suggestions. Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opporunity to share ideas and propose solutions. 
 
-Step 3. Merge
-The relevant project release manager will judge and implement the merge. If there is a difference of opinion about a merge between the contributor and the relevant project release manager, they will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement.
-
-If you are working on Solid let others know your processes.
+Step 4. Coming to a Conclusion through Compromise  
+Two weeks after the opening of the pull request or issue, members of the Solid Team are responsible for confirming the final decision, assiging action points to those responsible, and merging pull requests and issues. If there is a difference of opinion about a merge, parties are encoursed to talk to find a compromise. As a last resort, when a compromise cannot be found the community leader will make the final judgement.
 
 ## Licensing
 [Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
