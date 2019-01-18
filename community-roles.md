@@ -51,10 +51,10 @@ and project strategy meetings.
 
 ## Individuals currently occupying roles
 
-* **Community Leader** - Tim Berners-Lee
-* **Community Manager** - Mitzi László
-* **Repository Manager** - Kjetil Kjernsmo
-* **Project Release Manager** - Kjetil Kjernsmo
-* **Solid Core Contributors** - Ruben Verborgh, Arne Hassel, Justin Bingham, Kjetil Kjernsmo
-* **Panel Coordinator** - Maya Rinehart, Felix Poon, Tony Morelli
+* **Community Leader** - [Tim Berners-Lee](https://github.com/timbl)
+* **Community Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
+* **Repository Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
+* **Project Release Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
+* **Solid Core Contributors** - [Ruben Verborgh](https://github.com/RubenVerborgh), [Arne Hassel](https://github.com/megoth_twitter), [Justin Bingham](https://github.com/justinwb), [Kjetil Kjernsmo](https://github.com/kjetilk)
+* **Panel Coordinator** - [Maya Rinehart](https://github.com/mayarhinehart), [Felix Poon](https://github.com/fcfpoon), [Tony Morelli](https://github.com/tony-morelli)
 * **Solid Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
