@@ -38,15 +38,16 @@ A Project Core Contributor is a key team member on an official Solid project.
 They may have issues assigned to them, review and merge pull requests, and must
 attend regular stand-ups and project strategy meetings.
 
-## Project Contributor
-A Project Contributor is anyone who contributes to an official Solid project.
-Contributions come in many forms, from coding and qa to experience design and
-technical content writing.
-
 ## Project Release Manager
 The Project Release Manager is responsible for determining which features and/or
 bug-fixes will make a given project release. They must attend regular stand-ups
 and project strategy meetings.
+
+## Panel Coordinator
+Panel Coordinators are responsible for designing and running tests with the Solid Panelists as well as publishing test results to the Solid community. Panel Coordinators are expected to join the weekly User Testing meeting which is moderated by the Community Manager.
+
+## Solid Panelist
+Solid Panelists are individuals who are available for a range of tests over time to improve the Solid user experience. When there is a test set up by the Panel Coordinators, the Community Manager will reach out to the relevant Solid Panelists to ask if they would like to participate in that particular test. Each test will take approximately 30 minutes, Solid Panelists are not obliged to participate in all tests, and Solid Panelists can stop being on the Solid Panel at any point. Tests will be designed to improve the Solid experience.
 
 
 ## Individuals currently occupying roles
