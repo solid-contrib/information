@@ -59,3 +59,17 @@ Solid Panelists are individuals who are available for a range of tests over time
 * **Solid Core Contributors** - [Ruben Verborgh](https://github.com/RubenVerborgh), [Arne Hassel](https://github.com/megoth_twitter), [Justin Bingham](https://github.com/justinwb), [Kjetil Kjernsmo](https://github.com/kjetilk)
 * **Panel Coordinator** - [Maya Rinehart](https://github.com/mayarhinehart), [Felix Poon](https://github.com/fcfpoon), [Tony Morelli](https://github.com/tony-morelli)
 * **Solid Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
+
+## Associations of Individuals
+Individuals currently occuptying roles have the following associations and roles at other organisations. 
+
+[Tim Berners-Lee](https://github.com/timbl): co-founder of inrupt
+[Mitzi László](https://github.com/Mitzi-Laszlo): communications manager at inrupt, ethics auditor at European Commissions
+[Kjetil Kjernsmo](https://github.com/kjetilk): senior developer at inrupt
+[Arne Hassel](https://github.com/megoth_twitter): senior developer at inrupt
+[Ruben Verborgh](https://github.com/RubenVerborgh): professor at the University of Ghent
+[Justin Bingham](https://github.com/justinwb): co-founder of Janeiro Digital working with inrupt
+[Maya Rinehart](https://github.com/mayarhinehart):user experience designer at Janeiro Digital working with inrupt
+[Felix Poon](https://github.com/fcfpoon): user experience designer at Janeiro Digital working with inrupt
+[Tony Morelli](https://github.com/tony-morelli): director of product and design at Janeiro Digital working with inrupt
+
