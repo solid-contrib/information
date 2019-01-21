@@ -12,7 +12,7 @@ There are many new terms to describe Solid, which you can read about in the [Sol
  * [Providers](##providers)
  * [The Solid Team](#the-solid-team)
  * [Community Support Meetings](##community-support-meetings)
- * [Advisory Board](##advisory board)
+ * [Advisory Board](##advisory-board)
  * [Community Roles](##community-roles)
  * [Community Support Meetings](##community-support-meetings)
  * [Advisory Board](##advisory-board)
