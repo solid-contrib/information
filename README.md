@@ -8,12 +8,10 @@ There are many new terms to describe Solid, which you can read about in the [Sol
  * [Goal](##goal)
  * [Progress](##progress)
  * [Resources](##resources)
- * [Providers](##providers)
- 
+ * [Providers](##providers) 
  * [The Solid Team](#the-solid-team)
  * [Community Support Meetings](##community-support-meetings)
  * [Advisory Board](##advisory-board)
- 
  * [How to Contribute](#how-to-contribute)
  * [Solid Conversations](##solid-conversations)
  * [Solid Events](##solid-events)
