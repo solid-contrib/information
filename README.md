@@ -42,10 +42,12 @@ There are weekly recurring [community support meetings](https://github.com/solid
 The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the community leader via the community manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Community Leader with the support of the Community Manager. The advisory board will take part in several workshops to discuss the governance issues together. The community manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the community manager.
 
 # How to Contribute
-If you would like to make a suggestion to code of copy submit a pull request or [issue (https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE). 
+If you would like to make a suggestion to code of copy submit a pull request or [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE). 
 
 
 The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue. If there is a difference of opinion to which a compromise cannot be met the community leader will make the final judgement.
+
+You can see an overview of new suggestions and resolved suggestions in [Status](https://github.com/solid/community/blob/master/status.md)
 
 Solid has a [code of conduct](code-of-conduct.md) which all community members must keep in mind when contributing to Solid. If you would like to report an [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE) around the code of conduct or have a concern about Solid governance, please contact the community manager or submit an [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE). The community manager will tag issues related to the code of conduct with the code of conduct tag. The community manager will be responsible for proposing a solution and speaking to the relevant parties to resolve the issue. If a compromise around any difference of opinion cannot be found, the community leader will make the final judgement on a solution. 
 
