@@ -53,7 +53,7 @@ If you are working on Solid let others know your processes.
 [Solid Resouces](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. If there is a link that you feel should be included submit a pull request with the suggested link. 
 
 ## Solid Related Tools 
-There are tools that work with Solid including [Pod Providers](pod-providers.md), [WebID Provider](webid-provider.md), [Solid apps](https://github.com/solid/community/blob/master/solid-apps), and [Developer Support Tools](https://github.com/solid/developer-support-tools). If you are operating as one of these tools make sure it fulfills the relevant [requirements](https://github.com/solid/community/blob/master/solid-tool-requirements.md) and let others know by adding to the appropriate list. 
+There are tools that work with Solid including [Pod Providers](pod-providers.md), [WebID Provider](webid-provider.md), [Solid apps](https://github.com/solid/community/blob/master/solid-apps.md), and [Developer Support Tools](https://github.com/solid/developer-support-tools). If you are operating as one of these tools make sure it fulfills the relevant [requirements](https://github.com/solid/community/blob/master/solid-tool-requirements.md) and let others know by adding to the appropriate list. 
 
 ## Solid Conversations
 There are several existing Solid community communications channels including: 
