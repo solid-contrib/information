@@ -7,15 +7,13 @@ There are many new terms to describe Solid, which you can read about in the [Sol
 ## Table of Contents
  * [Goal](##goal)
  * [Progress](##progress)
- * [Licensing](##Licensing) 
  * [Resources](##resources)
  * [Providers](##providers)
+ 
  * [The Solid Team](#the-solid-team)
  * [Community Support Meetings](##community-support-meetings)
  * [Advisory Board](##advisory-board)
- * [Community Roles](##community-roles)
- * [Community Support Meetings](##community-support-meetings)
- * [Advisory Board](##advisory-board)
+ 
  * [How to Contribute](#how-to-contribute)
  * [Solid Conversations](##solid-conversations)
  * [Solid Events](##solid-events)
