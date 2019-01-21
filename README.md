@@ -73,11 +73,3 @@ There are several existing Solid community communications channels including:
 [Solid events](solid-events.md) are run by community members in various cities around the world. Solid events provide an opportunity for community members to meet and talk about Solid in person. If you decide to run a Solid event [let others know about it](solid-events.md). 
 
 To facilitate inclusion of all interested parties the community manager organises [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) monthly event where anyone can tune in for a one-hour conversation around a set theme. To propose a theme for Solid World conversations, contact the community manager.
-
-
-
-
-
-
-
-
