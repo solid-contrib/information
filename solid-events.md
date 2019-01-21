@@ -1,5 +1,5 @@
 
-2019 February 8th - Solid Stockholm organised by [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway)
+2019 February 8th - [Solid Stockholm](https://www.meetup.com/Solid-Sweden/events/257923996/) organised by [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway)
 
 2019 February 6th - [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444) organised by [Mitzi László](https://github.com/Mitzi-Laszlo)
 
