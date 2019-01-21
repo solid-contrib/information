@@ -1,6 +1,6 @@
 # Solid Community
 
-The community is working on the [open source initiative of Solid](https://github.com/solid) with Community Leader Tim Berners-Lee. In order to promote transparency around the Solid community issues around governance will be documented in this community repository. There are many new terms to describe Solid, which you can read about in the [Solid Dictionary](https://github.com/solid/community/blob/master/plan.md). 
+The community is working on the [open source initiative of Solid](https://github.com/solid) with Community Leader Tim Berners-Lee. In order to promote transparency around the Solid community issues around governance will be documented in this community repository. There are many new terms to describe Solid, which you can read about in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md). 
 
 ## Table of Contents
  * [Mission and Values](#mission-and-values) 
