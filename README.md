@@ -26,7 +26,13 @@ The [Solid documentation](https://github.com/solid/community/blob/master/documen
 [Solid Resouces](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. 
 
 ## Providers 
-There are tools that work with Solid and fullfill the relevant [requirements (https://github.com/solid/community/blob/master/solid-tool-requirements.md) including [Pod Providers](pod-providers.md), [WebID Provider](webid-provider.md), [Solid App Providers](https://github.com/solid/community/blob/master/solid-apps.md), and [Developer Support Tool Providers](https://github.com/solid/developer-support-tools). 
+There are tools that work with Solid including:
+* [Pod Providers](pod-providers.md)
+* [WebID Provider](webid-provider.md)
+* [Solid App Providers](https://github.com/solid/community/blob/master/solid-apps.md)
+* [Developer Support Tool Providers](https://github.com/solid/developer-support-tools) 
+
+You can read more about [how to become a Solid Provider](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
 
 # The Solid Team 
 You can find a list of the [various roles within the Solid community](community-roles.md) as well as the responsibilities associated with each role. To apply to a Solid Team role contact the community manager with your cv and motivation statement. Individuals will be appointed to the roles by the community leader. 
