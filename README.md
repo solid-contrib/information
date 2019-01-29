@@ -1,12 +1,12 @@
-The Solid community is working on the [open source initiative of Solid](https://github.com/solid) with Community Leader Tim Berners-Lee. 
+Solid(https://github.com/solid), an initiative led by Tim Berners-Lee, is a set of specifications, including examples of these specification, on how to achieve the goal of decentralising power on the web to ensure that the web is used for the global public interest. 
 
-The community repository is designed to give an overview of Solid, promote transparcency around governance, and agree on processes about how to work togehter. 
-
-There are many new terms to describe Solid, which you can read about in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md). [Solid code is licensed](licence.md) under the MIT license and there are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
+This community repository is designed to give an overview of Solid(https://github.com/solid) and describe how to engage. 
 
 ## Table of Contents
- * [Goal](##goal)
- * [Progress](##progress)
+ * [Specifications](##Specifications)
+ * [Examples](##Examples)
+ * [Licensing](##Licensing)
+ * [Solid Logo](##Solid Logo)
  * [Resources](##resources)
  * [Providers](##providers) 
  * [The Solid Team](#the-solid-team)
@@ -16,11 +16,23 @@ There are many new terms to describe Solid, which you can read about in the [Sol
  * [Solid Conversations](##solid-conversations)
  * [Solid Events](##solid-events)
 
-## Goal
-The [Solid spec](https://github.com/solid/solid-spec) and [architechture](https://github.com/solid/solid-architecture) descibe how Solid distributes power on the web by giving individuals control over their data an in turn opening up the opportunity for innovation. 
+## Specifications
+ Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architechture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interelated. 
 
-## Progress  
+| Specification  | Example |
+| ------------- | ------------- |
+| [Solid](https://github.com/solid/solid-spec)  | [Solid Example](https://github.com/solid/solid)  |
+| [Web Access Control](https://github.com/solid/web-access-control-spec)  | Example  |
+| [WebID OIDC](https://github.com/solid/webid-oidc-spec)  | Example  |
+
+## Examples 
 The [Solid documentation](https://github.com/solid/community/blob/master/documentation.md) describes what has already been built and to find out what is currently being worked on you can read the [status of the projects](https://github.com/orgs/solid/projects).
+
+## Licensing 
+Solid copy, code, and the logo is open source and [licensed](licence.md) under the MIT license. 
+
+## Solid Logo
+There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Resources
 [Solid Resouces](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. You can also read, ask, or answer the [Frequently Unanswered Questions](https://github.com/solid/community/blob/master/frequently-unanswered-questions.md). 
