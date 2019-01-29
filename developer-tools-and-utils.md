@@ -6,7 +6,6 @@ To be included, items must:
 - be relevant
 - be open-source
 - be in a healthy and well-maintained state
-- provide value to the Solid developer community
 
 ## Libraries and Toolkits
 
