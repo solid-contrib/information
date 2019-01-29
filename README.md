@@ -30,7 +30,7 @@ There are tools that work with Solid including:
 * [Pod Providers](pod-providers.md)
 * [WebID Providers](webid-providers.md)
 * [Solid Applications](solid-apps.md)
-* [Developer Tools and Utilities](developer-tools-and-utils.md)
+* [Developer Tools and Utilities](developer-tools.md)
 
 You can read more about [how to become a Solid Provider](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
 
