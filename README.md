@@ -23,7 +23,7 @@ The [Solid spec](https://github.com/solid/solid-spec) and [architechture](https:
 The [Solid documentation](https://github.com/solid/community/blob/master/documentation.md) describes what has already been built and to find out what is currently being worked on you can read the [status of the projects](https://github.com/orgs/solid/projects).
 
 ## Resources
-[Solid Resouces](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links.
+[Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. You can also read, ask, or answer the [Frequently Unanswered Questions](https://github.com/solid/community/blob/master/frequently-unanswered-questions.md).
 
 ## Providers
 There are tools that work with Solid including:
