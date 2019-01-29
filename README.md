@@ -6,7 +6,7 @@ This community repository is designed to give an overview of [Solid](https://git
  * [Specifications](##Specifications)
  * [Examples](##Examples)
  * [Licensing](##Licensing)
- * [Solid Logo](##Solid Logo)
+ * [Solid Logo](##solid-logo)
  * [Resources](##resources)
  * [Providers](##providers) 
  * [The Solid Team](#the-solid-team)
