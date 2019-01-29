@@ -1,4 +1,4 @@
-Solid(https://github.com/solid), an initiative led by Tim Berners-Lee, is a set of specifications, including examples of these specification, on how to achieve the goal of decentralising power on the web to ensure that the web is used for the global public interest. 
+[Solid](https://github.com/solid), an initiative led by Tim Berners-Lee, is a set of specifications, including examples of these specification, on how to achieve the goal of decentralising power on the web to ensure that the web is used for the global public interest. 
 
 This community repository is designed to give an overview of Solid(https://github.com/solid) and describe how to engage. 
 
