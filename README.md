@@ -19,14 +19,14 @@ This community repository is designed to give an overview of [Solid](https://git
 ## Specifications
  Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architechture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interelated. 
 
-| Specification  | Example |
-| ------------- | ------------- |
-| [Solid](https://github.com/solid/solid-spec)  | [Solid Example](https://github.com/solid/solid)  |
-| [Web Access Control](https://github.com/solid/web-access-control-spec)  | Example  |
-| [WebID OIDC](https://github.com/solid/webid-oidc-spec)  | Example  |
+ - [Solid](https://github.com/solid/solid-spec)  
+ - [Web Access Control](https://github.com/solid/web-access-control-spec) 
+ - [WebID OIDC](https://github.com/solid/webid-oidc-spec) 
 
-## Examples 
+## Examples
 The [Solid documentation](https://github.com/solid/community/blob/master/documentation.md) describes what has already been built and to find out what is currently being worked on you can read the [status of the projects](https://github.com/orgs/solid/projects).
+
+ - [Solid Server](https://github.com/solid/solid) with [changelog](https://github.com/solid/node-solid-server/blob/release/v5.0.0/CHANGELOG.md) documenting the versions. 
 
 ## Licensing 
 Solid copy, code, and the logo is open source and [licensed](licence.md) under the MIT license. 
