@@ -2,7 +2,7 @@
 
 20190203 - [FOSDEM: Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/)
 
-0528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
+20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
 
@@ -19,6 +19,8 @@
 20151013 [Cambridge Semantic Web Meetup] (http://slides.com/deiu/solid-tech#/) - [source](slides-solid-tech.html)
 
 20150925 - [Web.br](http://conferenciaweb.w3c.br/) [Re-decentralize the Web" conference](https://deiu.github.io/2015-web.br-conference#/) - [source](slides-re-decentralize.html) - [video](https://www.youtube.com/watch?v=BPZiBDPKiGk)
+
+[Talks by Ruben Verborgh](https://github.com/search?q=%23solid+%23slides)
 
 ## Solid Articles
 
