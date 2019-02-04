@@ -4,9 +4,9 @@
 
 ### Stable releases
 
-Link|Responsible for Domain Name and Terms|Responsible for Hosting|Location of Hosting|Terms|
-|---|---------------------------|-----------------------|-------------------|
-|https://solidtest.space/||| 
+Link|Responsible for Domain Name and Terms|Responsible for Hosting|Location of Hosting|
+|---|-------------------------------------|-----------------------|-------------------|
+|https://solidtest.space/|||
 |https://inrupt.net/|[inrupt inc](https://inrupt.com/terms-of-service)|[Amazon](https://aws.amazon.com)| USA|
 |https://solid.community/|||
 
