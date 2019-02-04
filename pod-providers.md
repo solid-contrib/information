@@ -1,8 +1,18 @@
-POD providers for Solid are listed below: 
+# POD providers for Solid
 
-Link|Responsible for Domain Name|Responsible for Hosting|Loction of Hosting|
-|---|---------------------------|-----------------------|------------------|
+## Running node-solid-server
+
+### Stable releases
+
+Link|Responsible for Domain Name and Terms|Responsible for Hosting|Location of Hosting|Terms|
+|---|---------------------------|-----------------------|-------------------|
 |https://solidtest.space/||| 
-|https://inrupt.net/||| 
+|https://inrupt.net/|[inrupt inc](https://inrupt.com/terms-of-service)|[Amazon](https://aws.amazon.com)| USA|
 |https://solid.community/|||
+
+### Development releases 
+
+Link|Responsible for Domain Name|Responsible for Hosting|Location of Hosting|
+|---|---------------------------|-----------------------|-------------------|
 |https://solid.authing.cn/|||
+|https://dev.inrupt.net/|[inrupt inc](https://inrupt.com/terms-of-service)|[Amazon](https://aws.amazon.com)| USA|
