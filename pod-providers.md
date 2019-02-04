@@ -12,7 +12,7 @@ Link|Responsible for Domain Name and Terms|Responsible for Hosting|Location of H
 
 ### Development releases 
 
-Link|Responsible for Domain Name|Responsible for Hosting|Location of Hosting|
-|---|---------------------------|-----------------------|-------------------|
-|https://solid.authing.cn/|||
-|https://dev.inrupt.net/|[inrupt inc](https://inrupt.com/terms-of-service)|[Amazon](https://aws.amazon.com)| USA|
+Link|Responsible for Domain Name|Responsible for Hosting|Location of Hosting|Note|
+|---|---------------------------|-----------------------|-------------------|----|
+|https://solid.authing.cn/||||
+|https://dev.inrupt.net/|[inrupt inc](https://inrupt.com/terms-of-service)|[Amazon](https://aws.amazon.com)| USA|Just for testing, data may be deleted.|
