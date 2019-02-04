@@ -16,7 +16,7 @@
 
 20151018 [Redecentralize conference](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
 
-20151013 [Cambridge Semantic Web Meetup] (http://slides.com/deiu/solid-tech#/) - [source](slides-solid-tech.html)
+20151013 [Cambridge Semantic Web Meetup](http://slides.com/deiu/solid-tech#/) - [source](slides-solid-tech.html)
 
 20150925 - [Web.br](http://conferenciaweb.w3c.br/) [Re-decentralize the Web" conference](https://deiu.github.io/2015-web.br-conference#/) - [source](slides-re-decentralize.html) - [video](https://www.youtube.com/watch?v=BPZiBDPKiGk)
 
