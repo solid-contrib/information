@@ -36,7 +36,7 @@ Step 1. Making a Suggestion
 Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description. 
 
 Step 2. Inviting a Conversation around your Suggestion to Find Consensus
-Let others know about your suggestion by posting it on solid/suggestions. Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opporunity to share ideas and propose solutions. 
+Let others know about your suggestion by posting it on [solid/suggestions](https://gitter.im/solid/suggestions). Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opporunity to share ideas and propose solutions. 
 
 Step 4. Coming to a Conclusion through Compromise  
 Two weeks after the opening of the pull request or issue, members of the Solid Team are responsible for confirming the final decision, assiging action points to those responsible, and merging pull requests and issues. If there is a difference of opinion about a merge, parties are encoursed to talk to find a compromise. As a last resort, when a compromise cannot be found the community leader will make the final judgement.
