@@ -37,9 +37,10 @@ Solid Panelists are individuals who are available for a range of tests over time
 ## Solid Event Organiser
 The [Solid Event](solid-events.md) Organiser is responsible for organising and coordinatiing a Solid Event in a stated city. The position of Solid Event Organiser will be filled by an individual for as long as an event is scheduled in the future.
 
-## Individuals currently occupying roles
+## Individuals currently occupying roles 
+Find out any [associations](associations.md) individuals occupying these roles have to other organisations. 
 
-* **Community Leader** - [Tim Berners-Lee](https://github.com/timbl)
+* **Community Leader** - [Tim Berners-Lee](https://github.com/timbl) 
 * **Community Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
 * **Repositories Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
 * **Project Release Manager** 
