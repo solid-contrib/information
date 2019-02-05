@@ -65,6 +65,16 @@ You can see an overview of new suggestions and resolved suggestions in [Status](
 
 Solid has a [code of conduct](code-of-conduct.md) which all community members must keep in mind when contributing to Solid. If you would like to report an [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE) around the code of conduct or have a concern about Solid governance, please contact the community manager or submit an [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE). The community manager will tag issues related to the code of conduct with the code of conduct tag. The community manager will be responsible for proposing a solution and speaking to the relevant parties to resolve the issue. If a compromise around any difference of opinion cannot be found, the community leader will make the final judgement on a solution. 
 
+## Processes 
+Step 1. Making a Suggestion
+	Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description. 
+ 
+ Step 2. Inviting a Conversation around your Suggestion to Find Consensus
+	Let others know about your suggestion by posting it on [solid/suggestions](https://gitter.im/solid/suggestions). Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opporunity to share ideas and propose solutions. 
+ 
+ Step 3. Coming to a Conclusion through Compromise  
+	Two weeks after the opening of the pull request or issue, members of the Solid Team are responsible for confirming the final decision, assiging action points to those responsible, and merging pull requests and issues. If there is a difference of opinion about a merge, parties are encoursed to talk to find a compromise. As a last resort, when a compromise cannot be found the community leader will make the final judgement. If the pull request or issue is unresolved for more than two weeks the person who submittied the issue or pull request is encouraged to make a concrete suggestion about the steps needed to reach resolution and send it to the Solid Team member to finalise. Commentators are encouraged to find resolutions independently rather than expecting others to resolve items for them.
+
 ## Solid Conversations
 There are several existing Solid community communications channels including: 
 
