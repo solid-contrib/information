@@ -4,7 +4,7 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 
 | Repository | License| Year |  Licensors | 
 | -------------  | ------------- | -------------  | ------------- |
-| [acl-check](https://github.com/solid/acl-check/blob/master/LICENSE) | [MIT license](https://en.wikipedia.org/wiki/MIT_License)| 2016 - present|  Tim Berners-Lee, Kjetil Kjernsmo, Arne Hassel | 
+| [acl-check](https://github.com/solid/acl-check/blob/master/LICENSE) | [MIT license](https://en.wikipedia.org/wiki/MIT_License)| 2016 - present|  Tim Berners-Lee, Kjetil Kjernsmo | 
 | chat-pane  | MIT license | 2018 - present  | Tim Berners-Lee |
 | community  | MIT license | 2018  - present  | Justin Bingham, Kjetil Kjernsmo, Tim Berners-Lee, Mitzi László |
 | contacts-pane  | MIT license | 2018  - present  | Tim Berners-Lee |
@@ -20,7 +20,7 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | meeting-pane| MIT license| 2017 - present
 | node-solid-server| MIT license| 2014 - present| Nicola Greco, Ruben Verborgh, Dmitri Zagidulin, Andrei Sambra, Kjetil Kjernsmo, Arne Hassel| 
 | node-solid-ws| MIT license | | Melvin Carvalho,Dmitri Zagidulin, Nicola Greco| 
-| oidc-auth-manager | MIT license| 2017 - present| Dmitri Zagidulin, Kjetil Kjernsmo, Arne Hassel, Sergey Malinin, Justin Bingham, Melvin Carvalho| 
+| oidc-auth-manager | MIT license| 2017 - present| Dmitri Zagidulin, Kjetil Kjernsmo, Sergey Malinin, Justin Bingham, Melvin Carvalho| 
 | oidc-op| MIT license| 2016 - present| Anvil Research, Inc.| 
 | oidc-rp| MIT license| 2016 - present| Anvil Research, Inc.| 
 | oidc-rs| MIT license| 2016 - present| Anvil Research, Inc.| 
@@ -39,19 +39,19 @@ solid-apps| Melvin Carvalho,  Andrei Sambra, Nicola Greco, Noam Bachmann, Dmitri
 | solid-auth-tls| MIT license| 2016 - present| Dmitri Zagiduli,  Daniel Friedman| 
 | solid-cli| MIT license| 2018 - present| Ruben Verborgh| 
 | solid-client| MIT license| 2015 - present| Dmitri Zagiduli, Andrei Sambra, Daniel Friedman
-, Ruben Verborgh, Lars-Magnus Skog, Abdurrahman Ibrahim Ghanem, Tim Berners-Lee, Nicola Greco| 
+, Lars-Magnus Skog, Abdurrahman Ibrahim Ghanem, Tim Berners-Lee, Nicola Greco| 
 | solid-connections-us| MIT license| 2016 - present| Tim Berners-Lee, Andrei Sambra|
 | solid-dashboard-ui| MIT license| 2016 - present| Tim Berners-Lee, Andrei Sambra| 
 solid-email| MIT license| 2018 - present| Tim Berners-Lee| 
-| solid-idp-list| MIT license| 2015 - present| Andrei Sambra, Ruben Verborgh, Melvin Carvalho| 
-| solid-idps| MIT license| 2015 - present| Andrei Sambra, Ruben Verborgh, Melvin Carvalho, Nicola Greco| 
-| solid-inbox| MIT license| 2015 - present| Andrei Sambra, Ruben Verborgh, Melvin Carvalho| 
-| solid-multi-rp-client| MIT license| 2016 - present| Dmitri Zagiduli, Ruben Verborgh, Justin Bingham| 
+| solid-idp-list| MIT license| 2015 - present| Andrei Sambra, Melvin Carvalho| 
+| solid-idps| MIT license| 2015 - present| Andrei Sambra, Melvin Carvalho, Nicola Greco| 
+| solid-inbox| MIT license| 2015 - present| Andrei Sambra, Melvin Carvalho| 
+| solid-multi-rp-client| MIT license| 2016 - present| Dmitri Zagiduli, Justin Bingham| 
 | solid-namespace| MIT license| 2016 - present| Dmitri Zagiduli| 
 | solid-notifications| MIT license| 2016 - present| Dmitri Zagiduli| 
-| solid-pane-source| MIT license| 2014 - present| Arne Hassel, Tim Berners-Lee| 
-| solid-panes| MIT license| 2016 - present| Dmitri Zagiduli, Melvin Carvalho, Tim Berners-Lee, Ruben Verborgh, Sarven Capadisli, Matt Farmer, Paul Friedman, Johan Bové, Tim Mclver, Matthew Elphick, Pei-Tang Huang| 
-| solid-permissions| MIT license| 2016 - present| Daniel Friedman, Kjetil Kjernsmo, Ruben Verborgh, Dmitri Zagiduli| 
+| solid-pane-source| MIT license| 2014 - present| Tim Berners-Lee| 
+| solid-panes| MIT license| 2016 - present| Dmitri Zagiduli, Melvin Carvalho, Tim Berners-Lee, Sarven Capadisli, Matt Farmer, Paul Friedman, Johan Bové, Tim Mclver, Matthew Elphick, Pei-Tang Huang| 
+| solid-permissions| MIT license| 2016 - present| Daniel Friedman, Kjetil Kjernsmo, Dmitri Zagiduli| 
 | solid-platform| | | Nicola Greco, Melvin Carvalho, Dmitri Zagiduli, Ted Thibodeau| 
 | solid-profile-ui| MIT license| 2016 - present| Andrei Sambra, Daniel Friedman| 
 | solid-sign-up| | | Guillaume Baudusseau| 
