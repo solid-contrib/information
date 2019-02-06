@@ -1,5 +1,5 @@
 
-2019 February 20th - [Solid Meetup Saxony Germany](https://www.facebook.com/events/1534811303288245/) organised by [Team 4C](https://wefourc.com/)
+2019 February 20th - [Solid Saxony](https://www.facebook.com/events/1534811303288245/) organised by [Team 4C](https://wefourc.com/)
 
 2019 February 8th - [Solid Stockholm](https://www.meetup.com/Solid-Sweden/events/257923996/) organised by [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway)
 
