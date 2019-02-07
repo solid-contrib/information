@@ -1,16 +1,16 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
-20191131_Weekly Community Support Meeting
+20190131_Weekly Community Support Meeting
  - Decide on practical interim solution for solidproject.org domain and hosting, website upkeep, licensing body, Solid spec maintenance and upkeep: 
   - Conversation about communicating Solid: 
  
-20191124_Weekly Community Support Meeting
+20190124_Weekly Community Support Meeting
  - Discuss Licensing: need to define licensing body 
  - Discuss website content: collect requests made by community  
  - Decide on Solid World theme: Channel = appear.in is a good sharing tool (could be good to get a pro accounts), Content = Solid chat demo plus an explanation of the code, Other topics for the future how to annotate documents using linked data
  - Conversation on defining and communicating Solid: technology/ standards/ protocol/ community, Perspectives = social, economic, technical, phycological, Multifaceted, Solid is a web technology that adds identity authorisation and store (?), Gives possibility to control data (is this impact related?), Need to distinguish Solid from blockchain, explain linked data, don't oversimplify, protocol has multiple meanings, software uses several protocols, Solid is a web technology that adds identity authentication and data storage around the individual, Web technology – a technology built on the existing web, Problem/ solution approach – be careful to represent Solid as a single solution, there are social elements, Solid is also a social movement, Technical approach to help with social problems
 
-20191117_Weekly Community Support Meeting
+20190117_Weekly Community Support Meeting
  - update on full transparency of minutes from now on review community Support Meeting and Agenda.md pull request
  - Update on merge of community readme and roles pull requests
  - Update on gitter solid/team on gitter
