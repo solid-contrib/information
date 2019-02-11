@@ -1,5 +1,9 @@
 ## Solid Talks
 
+20190208 - [Solid Stockholm](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit#slide=id.p) 
+
+20190206 - [Solid World February](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) 
+
 20190203 - [FOSDEM: Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/)
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
@@ -31,3 +35,24 @@
 ## Solid Resources
 
 [Understanding Linked Data](https://github.com/solid/understanding-linked-data)
+
+[Roadmap to Becoming a Solid Developer](https://github.com/LearnSolid/solid-roadmap) 
+
+## Resources around Solid themes 
+Share and read news articles, talks, and other content that reflects themes related to Solid. 
+
+20190209 - [The Globe and Mail - I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/) 
+
+20190131 - [Engadget - How sex censorship killed the internet we love](https://www.engadget.com/2019/01/31/sex-censorship-killed-internet-fosta-sesta/)
+
+20190123 - [GQ - Cal Newport on why we'll look back at our smartphones like cigarettes](https://www.gq.com/story/cal-newport-digital-minimalism)
+
+20190116 -  [Centre for Data Innovation - Few Americans Willing to Pay for Privacy](https://www.datainnovation.org/2019/01/survey-few-americans-willing-to-pay-for-privacy/) 
+
+20181219 - [The Verge - Prime and Punishment](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement) 
+
+20181219 - [The Ringer - The Cost of Living in Mark Zuckerberg's Internet Empire](https://www.theringer.com/tech/2018/12/19/18148701/mark-zuckerberg-facebook-year-in-review)
+
+20181130 - [Why are there so few smartphones in popular movies/](https://www.youtube.com/watch?v=PCWg6KJgjeI) 
+
+20180712 - [Wired - Tumblr's displaced porn bloggers test their new platforms](https://www.wired.com/story/tumblr-porn-bloggers-dreamwidth-pillowfort/)

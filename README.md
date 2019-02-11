@@ -79,11 +79,13 @@ Step 1. Making a Suggestion
 There are several existing Solid community communications channels including: 
 
   * [Discourse](https://forum.solidproject.org/): To get started [introduce yourself and get to know others](https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20) in the community. 
-  * [Gitter](https://gitter.im/solid/chat)
+  * [Gitter](https://gitter.im/solid/chat): To get started [introduce yourself and get to know others](https://gitter.im/solid/introductions) in the community
   * [Reddit](https://www.reddit.com/r/SOLID/submit)
 
 ## Solid Events
-[Solid events](solid-events.md) are run by community members in various cities around the world. Solid events provide an opportunity for community members to meet and talk about Solid in person. If you decide to run a Solid event [let others know about it](solid-events.md). 
+[Solid events](solid-events.md) are run by community members in various cities around the world. Solid events provide an opportunity for community members to meet and talk about Solid in person. 
+
+If you decide to run a Solid event you can read [guidance](solid-event-guidance.md) from previous event organisers and you should [let others know about the details of your Solid Event](solid-events.md). 
 
 To facilitate inclusion of all interested parties the community manager organises [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) monthly event where anyone can tune in for a one-hour conversation around a set theme. To propose a theme for Solid World conversations, contact the community manager.
 

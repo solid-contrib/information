@@ -1,8 +1,14 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
+20190214_Weekly Community Support Meeting
+
+20190207_Weekly Community Support Meeting
+ - Discuss Solid World March: 
+ - Discuss how to structure W3C meeting: 
+
 20190131_Weekly Community Support Meeting
- - Decide on practical interim solution for solidproject.org domain and hosting, website upkeep, licensing body, Solid spec maintenance and upkeep: 
-  - Conversation about communicating Solid: 
+ - Decide on practical interim solution for solidproject.org domain and hosting, website upkeep, licensing body, Solid spec maintenance and upkeep: speak to W3C to ask them for their opinion
+  - Conversation about Solid specs: There are the specs describing the movement for technical architecture meaning that all apps should be compatible regardless. Maybe there should also be a 'happy Solid' that uses Solid in a particular way, for example, apps that don't advertise at all. 
  
 20190124_Weekly Community Support Meeting
  - Discuss Licensing: need to define licensing body 
