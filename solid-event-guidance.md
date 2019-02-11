@@ -2,6 +2,21 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 
 # Solid Event Formats
 
+##General guidance
+If your event is general and targeted to a wide audience, it is important that you cover What, Why, How, When, described so anyone can understand.
+- What is Solid? 
+- Why should I use Solid?
+- How can I use it?
+- When are things coming? (Roadmap for example)
+
+Try to give use case examples, for example, slides 14-17, [Eduardos slides, Stockholm Meetup February 2019](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit?usp=sharing)
+
+One speaker can cover it all or try to have different speakers, for example:
+1) Solid what is and why. (Include also the philosophy behind)
+2) Uses cases and business. (Targeted to Entrepreneurs, Investors, Startups)
+3) Solid Tech. (SDK, RDF, etc..)
+
+
 ## Entrepreneur-Investor Pitching 
 One format is to invite local entrepreneurs and developers to pitch an idea for a Solid app or Pod Provider. You can also invite investors to pitch why their funds are appropriate for Solid values. 
 
