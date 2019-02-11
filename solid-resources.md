@@ -53,4 +53,6 @@ Share and read news articles, talks, and other content that reflects themes rela
 
 20181219 - [The Ringer - The Cost of Living in Mark Zuckerberg's Internet Empire](https://www.theringer.com/tech/2018/12/19/18148701/mark-zuckerberg-facebook-year-in-review)
 
+20181130 - [Why are there so few smartphones in popular movies/](https://www.youtube.com/watch?v=PCWg6KJgjeI) 
+
 20180712 - [Wired - Tumblr's displaced porn bloggers test their new platforms](https://www.wired.com/story/tumblr-porn-bloggers-dreamwidth-pillowfort/)
