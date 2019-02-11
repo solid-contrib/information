@@ -14,3 +14,7 @@ Sometimes it is useful to talk about the core values that define the Solid desig
 # Logistics 
 
 Partnering with existing meetups or organisations that regularly host events has the benefit of learning from their experience. Logistics can include anything from providing a space and equipment such as a projector or sound system. Partnering with experienced event organisers may also be useful in promoting the event itself. If the previous events are aligned with Solid perhaps their audiences would be interested in joining. 
+
+# Content 
+
+You can find [Solid resources](https://github.com/solid/community/blob/master/solid-resources.md) with previous presentation content. 
