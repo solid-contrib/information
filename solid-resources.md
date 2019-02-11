@@ -33,3 +33,5 @@
 ## Solid Resources
 
 [Understanding Linked Data](https://github.com/solid/understanding-linked-data)
+
+[Roadmap to Becoming a Solid Developer](https://github.com/LearnSolid/solid-roadmap) 
