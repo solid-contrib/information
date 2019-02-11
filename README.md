@@ -79,7 +79,7 @@ Step 1. Making a Suggestion
 There are several existing Solid community communications channels including: 
 
   * [Discourse](https://forum.solidproject.org/): To get started [introduce yourself and get to know others](https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20) in the community. 
-  * [Gitter](https://gitter.im/solid/chat)
+  * [Gitter](https://gitter.im/solid/chat): To get started [introduce yourself and get to know others](https://gitter.im/solid/introductions)
   * [Reddit](https://www.reddit.com/r/SOLID/submit)
 
 ## Solid Events
