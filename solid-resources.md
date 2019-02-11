@@ -41,14 +41,14 @@
 ## Resources around Solid themes 
 Share and read news articles, talks, and other content that reflects themes related to Solid. 
 
+20190209 - [The Globe and Mail - I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/) 
+
 20190131 - [Engadget - How sex censorship killed the internet we love](https://www.engadget.com/2019/01/31/sex-censorship-killed-internet-fosta-sesta/)
 
 20190123 - [GQ - Cal Newport on why we'll look back at our smartphones like cigarettes](https://www.gq.com/story/cal-newport-digital-minimalism)
 
-20180712 - [Wired - Tumblr's displaced porn bloggers test their new platforms](https://www.wired.com/story/tumblr-porn-bloggers-dreamwidth-pillowfort/)
-
-20190209 - [The Globe and Mail - I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/) 
-
 20181219 - [The Verge - Prime and Punishment](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement) 
 
 20181219 - [The Ringer - The Cost of Living in Mark Zuckerberg's Internet Empire](https://www.theringer.com/tech/2018/12/19/18148701/mark-zuckerberg-facebook-year-in-review)
+
+20180712 - [Wired - Tumblr's displaced porn bloggers test their new platforms](https://www.wired.com/story/tumblr-porn-bloggers-dreamwidth-pillowfort/)
