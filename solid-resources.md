@@ -1,5 +1,7 @@
 ## Solid Talks
 
+20190208 - [Solid Stockholm](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit#slide=id.p) 
+
 20190206 - [Solid World February](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) 
 
 20190203 - [FOSDEM: Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/)
