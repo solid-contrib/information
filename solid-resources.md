@@ -1,5 +1,7 @@
 ## Solid Talks
 
+20190206 - [Solid World February](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) 
+
 20190203 - [FOSDEM: Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/)
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
