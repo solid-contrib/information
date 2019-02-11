@@ -47,6 +47,8 @@ Share and read news articles, talks, and other content that reflects themes rela
 
 20190123 - [GQ - Cal Newport on why we'll look back at our smartphones like cigarettes](https://www.gq.com/story/cal-newport-digital-minimalism)
 
+20190116 -  [Centre for Data Innovation - Few Americans Willing to Pay for Privacy](https://www.datainnovation.org/2019/01/survey-few-americans-willing-to-pay-for-privacy/) 
+
 20181219 - [The Verge - Prime and Punishment](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement) 
 
 20181219 - [The Ringer - The Cost of Living in Mark Zuckerberg's Internet Empire](https://www.theringer.com/tech/2018/12/19/18148701/mark-zuckerberg-facebook-year-in-review)
