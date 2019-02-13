@@ -78,9 +78,22 @@ Step 1. Making a Suggestion
 ## Solid Conversations
 There are several existing Solid community communications channels including: 
 
-  * [Discourse](https://forum.solidproject.org/): To get started [introduce yourself and get to know others](https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20) in the community. 
-  * [Gitter](https://gitter.im/solid/chat): To get started [introduce yourself and get to know others](https://gitter.im/solid/introductions) in the community
-  * [Reddit](https://www.reddit.com/r/SOLID/submit)
+### [Discourse](https://forum.solidproject.org/)
+
+* To get started [introduce yourself and get to know others](https://forum.solidproject.org/t/welcome-to-the-solid-forum-please-introduce-yourself-here-great-to-have-you-on-board/440/20) in the community. 
+
+### [Gitter](https://gitter.im/solid/chat): 
+  
+* [introductions](https://gitter.im/solid/introductions): is a channel to introduce yourself when you are new to Solid and read the introductions of others 
+* [chat](https://gitter.im/solid/chat): is a channel to ask quick questions and orient yourself. If you have a longer discussion then it's best to look at (## Processes) which explains how to make a suggestion in the form of an issue or pull requset. 
+* [suggestions](https://gitter.im/solid/suggestions): is a channel to let others know about your pull request or issue. Thi sis not a place to talk about the suggestion, this happens in the pull request or issue itself. 
+* [node-solid-server](https://gitter.im/solid/node-solid-server): a channel to talk about the [NSS-5.0.0](https://github.com/orgs/solid/projects/1) project 
+* [app-development](https://gitter.im/solid/app-development): a channel to talk about developing a Solid app
+* [site-and-docs](https://gitter.im/solid/site-and-docs): a channel to talk about documentation 
+* [team](https://gitter.im/solid/team): a private channel where the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) talk about community support which also happens in the recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md)
+* [solid-spec](https://gitter.im/solid/solid-spec?source=suggested-menu): a channel to talk about the development of the spec which also happens in the [w3c Solid community group](https://www.w3.org/community/solid/) recurring calls 
+
+### [Reddit](https://www.reddit.com/r/SOLID/submit)
 
 ## Solid Events
 [Solid events](solid-events.md) are run by community members in various cities around the world. Solid events provide an opportunity for community members to meet and talk about Solid in person. 
