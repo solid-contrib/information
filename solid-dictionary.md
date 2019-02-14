@@ -4,10 +4,10 @@ A unique way to identify an entity such as an individual, company, organisation,
 ### PublicKey WebID
 A URI that refers to a person that uniquely identifies a user to their public key
 
-### POD (Personal Online Datastore)
+### Pod (Personal Online Datastore)
 A secure repository containing the user’s data. Users control application access to their POD(s).
 
-### POD Manager
+### Pod Manager
 An application that provides a UI and UX that allows the user to manage their Things, Files, People, and Applications. This management includes permissioning.
 
 ### Thing(s)
