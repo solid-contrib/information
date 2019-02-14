@@ -61,4 +61,3 @@ A decentralized system for allowing different users and groups of users, forms o
 
 ### [WebID](https://www.w3.org/wiki/WebID)
 A unique way to identify an entity such as an individual, company, organisation, or institutions. The WebID allows for an entity to be references using a Uniform Resource Identifier (URI) when their profile is hosted on a different web server than their own. 
-
