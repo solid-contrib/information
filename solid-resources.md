@@ -32,11 +32,13 @@
 
 20181231 [NRC - Herselwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
 
-## Solid Resources
+## Solid Teaching Materials
 
 [Understanding Linked Data](https://github.com/solid/understanding-linked-data)
 
 [Roadmap to Becoming a Solid Developer](https://github.com/LearnSolid/solid-roadmap) 
+
+[RDF Test](https://docs.google.com/forms/d/e/1FAIpQLSfl23GB63VPeIDNCG17CMJndInv2Vuo1DFsq4KYljJ39OI_2w/viewform)
 
 ## Resources around Solid themes 
 Share and read news articles, talks, and other content that reflects themes related to Solid. 
