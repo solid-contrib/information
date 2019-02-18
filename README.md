@@ -15,6 +15,8 @@ This community repository is designed to give an overview of [Solid](https://git
  * [How to Contribute](#how-to-contribute)
  * [Solid Conversations](##solid-conversations)
  * [Solid Events](##solid-events)
+ * [Public Speaking](##public-speaking)
+ * [User Testing](##user-testing)
 
 ## Specifications
  Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architechture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interelated. 
@@ -88,6 +90,9 @@ There are several existing Solid community communications channels including:
 If you decide to run a Solid event you can read [guidance](solid-event-guidance.md) from previous event organisers and you should [let others know about the details of your Solid Event](solid-events.md). 
 
 To facilitate inclusion of all interested parties the community manager organises [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) monthly event where anyone can tune in for a one-hour conversation around a set theme. To propose a theme for Solid World conversations, contact the community manager.
+
+## Press 
+[Solid Resources](solid-resources) include talks and articles on Solid. If you would like to invite one of the Solid team for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.  
 
 ## User Testing 
 User Testing is carried out to systematically test assumptions on a specific element. If you would like to become part of the User Testing Panel or you are a Solid Provider and would like to test an element of your POD, WebID, App or Developer Tool [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md).
