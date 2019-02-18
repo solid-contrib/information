@@ -4,7 +4,7 @@
 
 20190206 - [Solid World February](https://vimeo.com/manage/videos) with [presentation on Solid Chess by Pieter Heyvaert](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) and presentation on Solid Chat by Eduardo Ibacache Rodriguez
 
-20190203 - [FOSDEM: Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/)
+20190203 - [Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/) by Ruben Verborgh at FOSDEM [slides](https://rubenverborgh.github.io/Slides-FOSDEM-2019/) – [video](https://video.fosdem.org/2019/Janson/solid_web_decentralization.mp4)
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
 
