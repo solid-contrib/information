@@ -1,13 +1,13 @@
 # User Stories for the Solid Server
 
 To enable more people to get involved, to improve code quality to
-production grade and to accelerate development, I would like to hear
+production grade, and to accelerate development, I would like to hear
 your User Stories for the server.
 
 This is to better understand better what people want and need from the
 server. User Stories are short descriptions of a need written from the
-perspective of a user,
-[see e.g. this article](https://www.mountaingoatsoftware.com/agile/user-stories). They
+perspective of a user, see 
+[this article for an example](https://www.mountaingoatsoftware.com/agile/user-stories). They
 are generally of the form:
 
 > As a *type-of-user*, I want to *some-goal* so that *some-reason*.
