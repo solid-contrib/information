@@ -36,7 +36,7 @@ This would require something new from the registration system, in
 terms of limits on who can register and what default Access Control
 Lists they will be given.
 
-Please add your short User Stories to the [Wiki](link there). As we
+Please add your short User Stories to the [Wiki](https://github.com/solid/community/wiki/Server-User-Stories). As we
 gather people from the community to work on the server, a group
 (consisting both of Inrupters and others committed to writing
 the server) will form to go through the User Stories, find out which
