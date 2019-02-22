@@ -19,7 +19,7 @@ This community repository is designed to give an overview of [Solid](https://git
  * [User Testing](##user-testing)
 
 ## Specifications
- Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architechture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interelated. 
+ Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architecture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interrelated. 
 
  - [Solid](https://github.com/solid/solid-spec)  
  - [Web Access Control](https://github.com/solid/web-access-control-spec) 
@@ -37,7 +37,7 @@ Solid copy, code, and the logo is open source and [licensed](licence.md) under t
 There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Resources
-[Solid Resouces](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. You can also read, ask, or answer the [Frequently Unanswered Questions](https://github.com/solid/community/blob/master/frequently-unanswered-questions.md). 
+[Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md) list talks, lessons, and interviews given by the Solid team as well as articles about Solid and useful related links. You can also read, ask, or answer the [Frequently Unanswered Questions](https://github.com/solid/community/blob/master/frequently-unanswered-questions.md). 
 
 ## Providers 
 There are tools that work with Solid including:
@@ -52,7 +52,7 @@ You can read more about [how to become a Solid Provider](https://github.com/soli
 You can find a list of the [various roles within the Solid community](community-roles.md) as well as the responsibilities associated with each role. To apply to a Solid Team role contact the community manager with your cv and motivation statement. Individuals will be appointed to the roles by the community leader. 
 
 ## Community Support Meetings
-There are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the community manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description. To make a suggestion for an agenda item at the community support meeting please submit a pull request directly to the [community support meeting agenda](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md). Suggestions will be incorporated by the community manager. If there is a difference of opinion about the incorporation of a suggestion, the community managaer and relevant community members will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement.
+There are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the community manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description. To make a suggestion for an agenda item at the community support meeting please submit a pull request directly to the [community support meeting agenda](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md). Suggestions will be incorporated by the community manager. If there is a difference of opinion about the incorporation of a suggestion, the community manager and relevant community members will first talk to try and find a compromise. When a compromise cannot be found the community leader will make the final judgement.
 
 ## Advisory Board
 The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the community leader via the community manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Community Leader with the support of the Community Manager. The advisory board will take part in several workshops to discuss the governance issues together. The community manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the community manager.
@@ -72,10 +72,10 @@ Step 1. Making a Suggestion
 	Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description. 
  
  Step 2. Inviting a Conversation around your Suggestion to Find Consensus
-	Let others know about your suggestion by posting it on [solid/suggestions](https://gitter.im/solid/suggestions). Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opporunity to share ideas and propose solutions. 
+	Let others know about your suggestion by posting it on [solid/suggestions](https://gitter.im/solid/suggestions). Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opportunity to share ideas and propose solutions. 
  
  Step 3. Coming to a Conclusion through Compromise  
-	Two weeks after the opening of the pull request or issue, members of the Solid Team are responsible for confirming the final decision, assiging action points to those responsible, and merging pull requests and issues. If there is a difference of opinion about a merge, parties are encoursed to talk to find a compromise. As a last resort, when a compromise cannot be found the community leader will make the final judgement. If the pull request or issue is unresolved for more than two weeks the person who submittied the issue or pull request is encouraged to make a concrete suggestion about the steps needed to reach resolution and send it to the Solid Team member to finalise. Commentators are encouraged to find resolutions independently rather than expecting others to resolve items for them.
+	Two weeks after the opening of the pull request or issue, members of the Solid Team are responsible for confirming the final decision, assigning action points to those responsible, and merging pull requests and issues. If there is a difference of opinion about a merge, parties are encouraged to talk to find a compromise. As a last resort, when a compromise cannot be found the community leader will make the final judgement. If the pull request or issue is unresolved for more than two weeks the person who submitted the issue or pull request is encouraged to make a concrete suggestion about the steps needed to reach resolution and send it to the Solid Team member to finalise. Commentators are encouraged to find resolutions independently rather than expecting others to resolve items for them.
 
 ## Solid Conversations
 There are several existing Solid community communications channels including: 
