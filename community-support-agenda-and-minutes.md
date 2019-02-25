@@ -1,6 +1,16 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
+20190221_Weekly Community Support Meeting
+ - Update of govenance interim solutions: 
+ - Review W3C Solid Community agenda: 
+ - Review Solid World agenda: 
+ - Review public speaking requests: 
+ 
 20190214_Weekly Community Support Meeting
+ - Recap of W3C opinion on Solid governance interim solution and follow up email converstaion: ongoing converstaions needed to come to a consensus on route forward
+ - Discuss the funding strategy of Solid community support: to be put forward to Community Leader
+ - Review W3C Solid Community agenda: Community Manager spoke to Solid spec writters and asked about preffered route forward as well as attending another W3C working group meeting to observe how they carried it out as well as drafted an agenda for chair of previous meeting to review
+ - Review Solid World agenda:Community Manager reached out to potential speakers and will get a confirmation next week to be able to publish the invitation
 
 20190207_Weekly Community Support Meeting
  - Discuss Solid World March: 
