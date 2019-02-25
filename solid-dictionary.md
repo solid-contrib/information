@@ -1,5 +1,8 @@
 ### ACL file (Access Control List)
 Defines the properties associated with the level of access of a user. Comprised of classes (e.g., “Agent” this allows anyone and anything to access”)
+A user interface control panel, profile etc. Who/what is granted which access to each segment of each pod. From 'Pod Visable' then full access(owner) Invite only etc etc all the way down to 'View only' and 'Pod Not Visable'
+Only an "Agent/Oracle" can fully access a Pod if the Owner gives that consent for things like Recovery and maintaining trust.
+A way for certain segments of a Pod to Interlink and network with other segments of other Pods.
 
 ### File(s)
 A piece of data (of some type), that is stored on a pod server. This file has a url endpoint. 
