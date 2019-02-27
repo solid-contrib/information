@@ -48,6 +48,11 @@
 * Date: March 6th 
 * Attendee: Arne
 
+## Ethical Deep Dive 
+* Location: 
+* Date: March 8th 
+* Attendee: Mitzi 
+
 ## Norwegian Research Centre for Computers and Law 
 * Location: Oslo
 * Date: March 14th 
