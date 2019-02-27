@@ -21,6 +21,11 @@
 
 # April 2019 
 
+## Hackathon
+* Location: Groningen
+* Date: 11th - 15th April 
+* Attendee: Mitzi
+
 ## W3C Graph Data Workshop
 * Location: Berlin
 * Date: 3rd April
