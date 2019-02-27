@@ -1,5 +1,10 @@
 # December 2019 
 
+## 
+* Location: Paris 
+* Date: 10th - 12th December
+* Attendee: 
+
 # November 2019 
 
 # October 2019 
