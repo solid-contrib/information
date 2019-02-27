@@ -31,6 +31,11 @@
 * Date: 4th April
 * Attendee: Ruben 
 
+## Linked Data Meetup
+* Location: Gothenburg
+* Date: 25th April
+* Attendee: Kjetil
+
 ## Oslo Blockchain Day 
 * Location: Oslo
 * Date: 30th April
