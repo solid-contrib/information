@@ -4,6 +4,11 @@
 
 # October 2019 
 
+## Pensioners University
+* Location: Drammen
+* Date: 7th October
+* Attendee: Kjetil
+
 # September 2019
 
 # August 2019
