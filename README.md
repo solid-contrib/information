@@ -91,7 +91,7 @@ There are several existing Solid community communications channels including:
 * [app-development](https://gitter.im/solid/app-development): a channel to talk about developing a Solid app
 * [site-and-docs](https://gitter.im/solid/site-and-docs): a channel to talk about documentation 
 * [team](https://gitter.im/solid/team): a private channel where the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) talk about community support which also happens in the recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md)
-* [solid-spec](https://gitter.im/solid/solid-spec?source=suggested-menu): a channel to talk about the development of the spec which also happens in the [w3c Solid community group](https://www.w3.org/community/solid/) recurring calls 
+* [solid-spec](https://gitter.im/solid/solid-spec): a channel to talk about the development of the spec which also happens in the [w3c Solid community group](https://www.w3.org/community/solid/) recurring calls 
 
 ### [Reddit](https://www.reddit.com/r/SOLID)
 
