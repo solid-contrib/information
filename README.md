@@ -93,7 +93,7 @@ There are several existing Solid community communications channels including:
 * [team](https://gitter.im/solid/team): a private channel where the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) talk about community support which also happens in the recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md)
 * [solid-spec](https://gitter.im/solid/solid-spec?source=suggested-menu): a channel to talk about the development of the spec which also happens in the [w3c Solid community group](https://www.w3.org/community/solid/) recurring calls 
 
-### [Reddit](https://www.reddit.com/r/SOLID/submit)
+### [Reddit](https://www.reddit.com/r/SOLID)
 
 ## Solid Events
 [Solid events](solid-events.md) are run by community members in various cities around the world. Solid events provide an opportunity for community members to meet and talk about Solid in person. 
