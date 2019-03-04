@@ -104,6 +104,9 @@ If you decide to run a Solid event you can read [guidance](solid-event-guidance.
 
 To facilitate inclusion of all interested parties the community manager organises [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) monthly event where anyone can tune in for a one-hour conversation around a set theme. To propose a theme for Solid World conversations, contact the community manager.
 
+## Solid Openening Hours 
+If you'd like to chat with the Solid team, we'll be available on Tuesday at 15.30 CET for an hour. [Tune in](https://zoom.us/j/396557130) to meet the Solid Team and ask questions. 
+
 ## Press 
 [Solid Resources](solid-resources) include talks and articles on Solid. If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.  
 
