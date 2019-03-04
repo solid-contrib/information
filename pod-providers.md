@@ -8,7 +8,7 @@
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 | https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          ??          |
 | https://solid.community/          |                          ??                         |                        ??                         |         ??          |          ??          |
-| https://solidtest.space/          |                          ??                         |                        ??                         |         ??          |          ??          |
+| https://solidtest.space/          |                          ???                         |                        ??                         |         ??          |          ??          |
 
 ### Development releases 
 
