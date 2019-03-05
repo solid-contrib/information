@@ -1,7 +1,9 @@
 To become a Solid Provider the requirements are full accurate transparency on:
 * entities responsible
 * location of hosting
-* use of data if any by who and for what ideally in the form of complete terms and conditions and a privacy policy
+* use of data if any by who and for what ideally in the form of complete terms and conditions and a privacy policy]
+
+Code must be open source. 
 
 # POD Provider 
 [Publish the details of your POD]((https://github.com/solid/community/blob/master/solid-apps.md) including: name of POD, link to the POD, entity responisble for the POD domain, location of hosting 
