@@ -9,6 +9,7 @@ A place for weekly Solid updates including progress and plans.
 Past
 * [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) organised [Solid Stockholm](https://www.meetup.com/Solid-Sweden/events/257923996/)
 * [Team 4C](https://wefourc.com/) organised [Solid Saxony](https://forum.solidproject.org/t/solid-meetup-saxony-germany/1215) Future
+Future
 * 21st - 22nd March: [Kelly O'Brien](https://github.com/InruptKelly) will be organising [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542)
 
 ## [Solid Team Talks](https://github.com/solid/community/blob/master/solid-team-talks.md) 
