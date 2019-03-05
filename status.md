@@ -4,6 +4,7 @@ A place for weekly Solid updates including progress and plans.
 
 * This months theme is Data Ethics 
 * started Solid Opening hours every Tuesday at 15:30 CET
+* [W3C Solid Community Group](https://www.w3.org/community/solid/) coming up on Thursday at 14:00 
 
 ## [Solid Events](https://github.com/solid/community/blob/master/solid-events.md)
 Past
