@@ -43,7 +43,7 @@ There are defined [Solid logo usage guidelines](https://github.com/solid/communi
 There are tools that work with Solid including:
 * [Pod Providers](pod-providers.md) (you can also self host)
 * [WebID Provider](webid-provider.md) (you can also self host)
-* [Solid App Providers](https://github.com/solid/community/blob/master/solid-apps.md)
+* [Solid App Providers](https://github.com/solid/solid-apps)
 * [Developer Support Tool Providers](https://github.com/solid/community/blob/master/developer-tools.md) 
 
 You can read more about [how to become a Solid Provider](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
