@@ -41,8 +41,8 @@ There are defined [Solid logo usage guidelines](https://github.com/solid/communi
 
 ## Providers 
 There are tools that work with Solid including:
-* [Pod Providers](pod-providers.md)
-* [WebID Provider](webid-provider.md)
+* [Pod Providers](pod-providers.md) (you can also self host)
+* [WebID Provider](webid-provider.md) (you can also self host)
 * [Solid App Providers](https://github.com/solid/community/blob/master/solid-apps.md)
 * [Developer Support Tool Providers](https://github.com/solid/community/blob/master/developer-tools.md) 
 
@@ -102,7 +102,7 @@ There are several existing Solid community communications channels including:
 
 If you decide to run a Solid event you can read [guidance](solid-event-guidance.md) from previous event organisers and you should [let others know about the details of your Solid Event](solid-events.md). 
 
-To facilitate inclusion of all interested parties the community manager organises [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) monthly event where anyone can tune in for a one-hour conversation around a set theme. To propose a theme for Solid World conversations, contact the community manager.
+For the latest [status](https://github.com/solid/community/blob/master/status.md) update you can tune into the monthly [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) event organised by the Solid Community Manager. There will also be a talk by a guest speaker on the theme of the month. 
 
 ## Solid Openening Hours 
 If you'd like to chat with the Solid team, we'll be available on Tuesday at 15.30 CET for an hour. [Tune in](https://global.gotomeeting.com/join/174809373) to meet the Solid Team and ask questions. 
