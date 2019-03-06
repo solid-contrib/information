@@ -22,7 +22,7 @@ Future
 * 28th March: Ruben will attend [Beyond Data](https://www.smart-circle.org/beyonddata/program/) in Eindhoven 
 * 4th April: Ruben will attend [STRP Festival](https://strp.nl/program/ruben-verborgh-be) in Eindhoven
 
-## [Solid Apps](https://github.com/solid/community/blob/master/solid-apps.md)
+## [Solid Apps](https://github.com/solid/solid-apps)
 * [Form Router] by Form Router inc to submit and extract data from a Pod (please send feedback to jim@formrouter.com)
 * A-PHEVOS by Aditya Shukla derived from Photo, Event, Organise and Share is an alpha version of a POD manager
 

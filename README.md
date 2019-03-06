@@ -3,20 +3,20 @@
 This community repository is designed to give an overview of [Solid](https://github.com/solid) and describe how to engage. 
 
 ## Table of Contents
- * [Specifications](##Specifications)
- * [Examples](##Examples)
- * [Licensing](##Licensing)
- * [Solid Logo](##solid-logo)
- * [Resources](##resources)
- * [Providers](##providers) 
+ * [Specifications](#Specifications)
+ * [Examples](#Examples)
+ * [Licensing](#Licensing)
+ * [Solid Logo](#solid-logo)
+ * [Resources](#resources)
+ * [Providers](#providers)
  * [The Solid Team](#the-solid-team)
- * [Community Support Meetings](##community-support-meetings)
- * [Advisory Board](##advisory-board)
+ * [Community Support Meetings](#community-support-meetings)
+ * [Advisory Board](#advisory-board)
  * [How to Contribute](#how-to-contribute)
- * [Solid Conversations](##solid-conversations)
- * [Solid Events](##solid-events)
- * [Public Speaking](##public-speaking)
- * [User Testing](##user-testing)
+ * [Solid Conversations](#solid-conversations)
+ * [Solid Events](#solid-events)
+ * [Public Speaking](#public-speaking)
+ * [User Testing](#user-testing)
 
 ## Specifications
  Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architecture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interrelated. 
@@ -69,7 +69,7 @@ Solid has a [code of conduct](code-of-conduct.md) which all community members mu
 
 ## Processes 
 Step 1. Making a Suggestion
-	Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/blob/master/issue-template.md) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description. 
+	Submit a GitHub pull request if you would like to make a specific change to code or text or a [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE) if you would like to raise a general point. Assign the appropriate labels by listing them in the optional extend description.
  
  Step 2. Inviting a Conversation around your Suggestion to Find Consensus
 	Let others know about your suggestion by posting it on [solid/suggestions](https://gitter.im/solid/suggestions). Solid/suggestions is not a place to talk about the suggestion, this happens in the pull request or issue itself. Leave the pull request or issue open for two weeks to give others in the Solid community the opportunity to share ideas and propose solutions. 
