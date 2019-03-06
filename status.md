@@ -12,6 +12,7 @@ Past
 * [Team 4C](https://wefourc.com/) organised [Solid Saxony](https://forum.solidproject.org/t/solid-meetup-saxony-germany/1215) Future
 Future
 * 21st - 22nd March: [Kelly O'Brien](https://github.com/InruptKelly) will be organising [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542)
+* 9th April - [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) will be organising [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_%E2%80%93_April_9th_2019)
 
 ## [Solid Team Talks](https://github.com/solid/community/blob/master/solid-team-talks.md) 
 Past
