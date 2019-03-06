@@ -6,6 +6,7 @@ The main goal of the weekly recurring community support meeting is to ensure tho
  - Review "Free Food? Sponsored by" artwork proposal
  - Review [Pod Provider requirments](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
  - Prepare for upcoming talks this week (Kjetil at Norwegian Research Centre for Computers and Law)
+ - Decide on theme and speaker options for Solid World April
 
 20190228_Weekly Community Support Meeting
 (cancelled)
