@@ -3,20 +3,20 @@
 This community repository is designed to give an overview of [Solid](https://github.com/solid) and describe how to engage. 
 
 ## Table of Contents
- * [Specifications](##Specifications)
- * [Examples](##Examples)
- * [Licensing](##Licensing)
- * [Solid Logo](##solid-logo)
- * [Resources](##resources)
- * [Providers](##providers) 
+ * [Specifications](#Specifications)
+ * [Examples](#Examples)
+ * [Licensing](#Licensing)
+ * [Solid Logo](#solid-logo)
+ * [Resources](#resources)
+ * [Providers](#providers) 
  * [The Solid Team](#the-solid-team)
- * [Community Support Meetings](##community-support-meetings)
- * [Advisory Board](##advisory-board)
+ * [Community Support Meetings](#community-support-meetings)
+ * [Advisory Board](#advisory-board)
  * [How to Contribute](#how-to-contribute)
- * [Solid Conversations](##solid-conversations)
- * [Solid Events](##solid-events)
- * [Public Speaking](##public-speaking)
- * [User Testing](##user-testing)
+ * [Solid Conversations](#solid-conversations)
+ * [Solid Events](#solid-events)
+ * [Public Speaking](#public-speaking)
+ * [User Testing](#user-testing)
 
 ## Specifications
  Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/community/blob/master/solid-dictionary.md) and a full overview of the [architecture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interrelated. 
