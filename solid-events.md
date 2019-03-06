@@ -1,3 +1,4 @@
+2019 April 9th - [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_%E2%80%93_April_9th_2019) organised by [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/)
 
 2019 March 21st - 22nd - [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542) organised by [Kelly O'Brien](https://github.com/InruptKelly)
 
