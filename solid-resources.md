@@ -1,5 +1,7 @@
 ## Solid Talks
 
+20190306 - [Solid World March](https://docs.google.com/presentation/d/1GNwyh4T132-NDcLPpHkYvAsnx3-mGIRstykXcyGd2oQ/edit?usp=sharing)
+
 20190208 - [Solid Stockholm](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit#slide=id.p) 
 
 20190206 - [Solid World February](https://vimeo.com/316638368) with [presentation on Solid Chess by Pieter Heyvaert](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) and presentation on Solid Chat by Eduardo Ibacache Rodriguez
