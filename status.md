@@ -45,7 +45,7 @@ Future
 * 1st - 3rd March: Mitzi will be attending [Rebooting the Web of Trust](https://www.weboftrust.info/next-event-page.html) in Barcelona 
 * 6th March: Kjetil will be attending Your Digital Identity Norway in Oslo
 
-## [Solid Apps](https://github.com/solid/community/blob/master/solid-apps.md)
+## [Solid Apps](https://github.com/solid/solid-apps)
 * [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) by Bourgeoa
 * [Solid IDE](https://jeff-zucker.github.io/solid-ide/?url=https://solside.solid.community/public/samples/index.html) by Jeff Zucker as a file browser
  

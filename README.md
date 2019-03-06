@@ -3,9 +3,9 @@
 This community repository is designed to give an overview of [Solid](https://github.com/solid) and describe how to engage. 
 
 ## Table of Contents
- * [Specifications](#Specifications)
- * [Examples](#Examples)
- * [Licensing](#Licensing)
+ * [Specifications](#specifications)
+ * [Examples](#examples)
+ * [Licensing](#licensing)
  * [Solid Logo](#solid-logo)
  * [Resources](#resources)
  * [Providers](#providers)
@@ -15,7 +15,7 @@ This community repository is designed to give an overview of [Solid](https://git
  * [How to Contribute](#how-to-contribute)
  * [Solid Conversations](#solid-conversations)
  * [Solid Events](#solid-events)
- * [Public Speaking](#public-speaking)
+ * [Press](#press)
  * [User Testing](#user-testing)
 
 ## Specifications
