@@ -1,12 +1,16 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
-20190307_Weekly Community Support Meeting
+20190314_Weekly Community Support Meeting
  - Update of domain terms, licensing, trademark, and communications interim solutions 
  - Review Ledger Project suggestion
  - Review "Free Food? Sponsored by" artwork proposal
  - Review [Pod Provider requirments](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
- - Prepare for upcoming talks this week (Kjetil at Norwegian Research Centre for Computers and Law)
+ - Prepare for upcoming talks this week
  - Decide on theme and speaker options for Solid World April
+
+20190307_Weekly Community Support Meeting
+ - Reveiw issue about ['Review period of code PRs'](https://github.com/solid/community/issues/56) included conversation minutes in the issue itself 
+ - Prepare for upcoming talks this week (Kjetil at Norwegian Research Centre for Computers and Law): Kjetil preparing
 
 20190228_Weekly Community Support Meeting
 (cancelled)
