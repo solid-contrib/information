@@ -23,7 +23,7 @@ Future
 * 28th March: Ruben will attend [Beyond Data](https://www.smart-circle.org/beyonddata/program/) in Eindhoven 
 * 4th April: Ruben will attend [STRP Festival](https://strp.nl/program/ruben-verborgh-be) in Eindhoven
 
-## [Solid Apps](https://github.com/solid/community/blob/master/solid-apps.md)
+## [Solid Apps](https://github.com/solid/solid-apps)
 * [Form Router] by Form Router inc to submit and extract data from a Pod (please send feedback to jim@formrouter.com)
 * A-PHEVOS by Aditya Shukla derived from Photo, Event, Organise and Share is an alpha version of a POD manager
 
@@ -46,7 +46,7 @@ Future
 * 1st - 3rd March: Mitzi will be attending [Rebooting the Web of Trust](https://www.weboftrust.info/next-event-page.html) in Barcelona 
 * 6th March: Kjetil will be attending Your Digital Identity Norway in Oslo
 
-## [Solid Apps](https://github.com/solid/community/blob/master/solid-apps.md)
+## [Solid Apps](https://github.com/solid/solid-apps)
 * [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) by Bourgeoa
 * [Solid IDE](https://jeff-zucker.github.io/solid-ide/?url=https://solside.solid.community/public/samples/index.html) by Jeff Zucker as a file browser
  

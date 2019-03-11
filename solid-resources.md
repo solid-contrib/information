@@ -16,7 +16,7 @@
 
 20160407 [IPRI meeting](https://slides.com/deiu/redecentralize-2015#/) and [slides](slides-redecentralize-conf.html)
 
-20160324 [W3C Developers Meetup](http://www.meetup.com/W3C-developers-in-Boston/events/229580827/) - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
+20160324 W3C Developers Meetup in Boston - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
 
 20151018 [Redecentralize conference](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
 
