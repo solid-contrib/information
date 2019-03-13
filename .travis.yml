@@ -1,0 +1,7 @@
+language: generic
+install:
+  - npm install -g markdown-link-validator
+script:
+  # linkedin profiles don't return 200s
+  # gitter link is a private link and thus can't return 200
+  - markdown-link-validator -i 'linkedin.com/in/|gitter.im/solid/team' .
