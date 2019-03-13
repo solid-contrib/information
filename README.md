@@ -58,6 +58,8 @@ There are weekly recurring [community support meetings](https://github.com/solid
 The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the community leader via the community manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Community Leader with the support of the Community Manager. The advisory board will take part in several workshops to discuss the governance issues together. The community manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the community manager.
 
 # How to Contribute
+The Solid Spec is discussed at the [W3C Solid Community Group](https://www.w3.org/community/solid/wiki/Main_Page) call which happens biweekly and is [open for anyone to join](https://www.w3.org/community/solid/).  
+
 If you would like to make a suggestion to code of copy submit a pull request or [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE). 
 
 
