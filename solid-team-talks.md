@@ -36,6 +36,11 @@
 * Date: 8/9th April 
 * Attendees: Kjetil & Arne
 
+## Hackathon
+* Location: Groningen
+* Date: 11th - 15th April 
+* Attendee: Mitzi
+
 ## W3C Graph Data Workshop
 * Location: Berlin
 * Date: 3rd April
