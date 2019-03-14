@@ -31,6 +31,11 @@
 
 # April 2019 
 
+## Girl Geek Dinners Oslo
+* Location: Oslo
+* Date: 8/9th April 
+* Attendees: Kjetil & Arne
+
 ## W3C Graph Data Workshop
 * Location: Berlin
 * Date: 3rd April
