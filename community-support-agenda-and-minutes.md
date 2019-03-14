@@ -1,27 +1,27 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
 20190314_Weekly Community Support Meeting
- - Decide on how we would like to use the Solid Community workshop next Wednesday Morning
- - Decide on our preferred route to respond to misinformation about Solid in news articles
- - Decide on theme and speaker options for Solid World April (potentially SSI)
- - Update on feedback from last weeks talks (Kjetil at Norwegian Research Centre for Computers and Law)
- - Update of domain terms, licensing, trademark, and communications interim solutions 
- - Review Ledger Project suggestion
- - Review "Free Food? Sponsored by" artwork proposal
- - Review [Pod Provider requirments](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md)
+ - Decide on how we would like to use the Solid Community workshop next Wednesday Morning: define how to measure a healthy community, a roadmap for the coming year, decide how to engage with audiences beyond developers
+ - Decide on our preferred route to respond to misinformation about Solid in news articles: only respond if there is substantially more misinformation
+ - Decide on theme and speaker options for Solid World April (potentially SSI): try out a recorded podcast and use the theme of SSI and identity
+ - Update on feedback from last weeks talks (Kjetil at Norwegian Research Centre for Computers and Law): if they ask for academic partnerships work with Ruben
+ - Update of domain terms, licensing, trademark, and communications interim solutions: to be discussed next week 
+ - Review Ledger Project suggestion: Mitzi to put together a proposal to run by Tim and John
+ - Review "Free Food? Sponsored by" artwork proposal: Solid too young to engage 
+ - Review [Pod Provider requirments](https://github.com/solid/community/blob/master/becoming-a-solid-provider.md): enforcement an issue so best not to have requirements beyond the Solid spec
 
 20190307_Weekly Community Support Meeting
- - Reveiw issue about ['Review period of code PRs'](https://github.com/solid/community/issues/56) included conversation minutes in the issue itself 
+ - Reveiw issue about ['Review period of code PRs'](https://github.com/solid/community/issues/56): included conversation minutes in the issue itself 
  - Prepare for upcoming talks this week (Kjetil at Norwegian Research Centre for Computers and Law): Kjetil preparing
 
 20190228_Weekly Community Support Meeting
 (cancelled)
 
 20190221_Weekly Community Support Meeting
- - Update of govenance interim solutions: 
- - Review W3C Solid Community agenda: 
- - Review Solid World agenda: 
- - Review public speaking requests: 
+ - Update of govenance interim solutions: no update
+ - Review W3C Solid Community agenda: accepted, make sure to publish on W3C wiki
+ - Review Solid World agenda: accepted
+ - Review public speaking requests: reviewed inbound until June
  
 20190214_Weekly Community Support Meeting
  - Recap of W3C opinion on Solid governance interim solution and follow up email converstaion: ongoing converstaions needed to come to a consensus on route forward
