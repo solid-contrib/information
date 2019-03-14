@@ -1,4 +1,4 @@
-[Solid](https://github.com/solid), an initiative led by Tim Berners-Lee, is a set of specifications, including examples of these specification, on how to achieve the goal of decentralising power on the web to ensure that the web is used for the global public interest. You can read more on the Solid values(https://github.com/solid/community/blob/master/solid-values.md) and the [code of conduct](code-of-conduct.md) which all community members are encouraged to keep in mind when contributing. If you have a concern that you would like to raise submit and [issue]or reach out to the community manager personally. 
+[Solid](https://github.com/solid), an initiative led by Tim Berners-Lee, is a set of specifications, including examples of these specification, on how to achieve the goal of decentralising power on the web to ensure that the web is used for the global public interest. You can read more on the [Solid values](https://github.com/solid/community/blob/master/Solid-values.md) and the [code of conduct](code-of-conduct.md) which all community members are encouraged to keep in mind when contributing. If you have a concern that you would like to raise submit and [issue](https://github.com/solid/community/tree/master/.github/ISSUE_TEMPLATE) or reach out to the community manager personally.
 
 This community repository is designed to give an overview of [Solid](https://github.com/solid) and describe how to engage. 
 
@@ -31,7 +31,7 @@ The [Solid documentation](https://github.com/solid/community/blob/master/documen
  - [Solid Server](https://github.com/solid/solid) with [changelog](https://github.com/solid/node-solid-server/blob/release/v5.0.0/CHANGELOG.md) documenting the versions. 
 
 ## Licensing 
-Solid copy, code, and the logo is open source and [licensed](licence.md) under the MIT license. 
+Solid copy, code, and the logo is open source and [licensed](license.md) under the MIT license. 
 
 ## Solid Logo
 There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
@@ -42,7 +42,7 @@ There are defined [Solid logo usage guidelines](https://github.com/solid/communi
 ## Providers 
 There are tools that work with Solid including:
 * [Pod Providers](pod-providers.md) (you can also self host)
-* [WebID Provider](webid-provider.md) (you can also self host)
+* [WebID Provider](becoming-a-solid-provider.md#webid-provider) (you can also self host)
 * [Solid App Providers](https://github.com/solid/solid-apps)
 * [Developer Support Tool Providers](https://github.com/solid/community/blob/master/developer-tools.md) 
 
@@ -101,7 +101,7 @@ For the latest [status](https://github.com/solid/community/blob/master/status.md
 If you'd like to chat with the Solid team, we'll be available on Tuesday at 15.30 CET for an hour. [Tune in](https://zoom.us/j/334489790) to meet the Solid Team and ask questions. 
 
 ## Press 
-[Solid Resources](solid-resources) include talks and articles on Solid. If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.  
+[Solid Resources](solid-resources.md) include talks and articles on Solid. If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.  
 
 ## User Testing 
 User Testing is carried out to systematically test assumptions on a specific element. If you would like to become part of the User Testing Panel or you are a Solid Provider and would like to test an element of your POD, WebID, App or Developer Tool [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md).
