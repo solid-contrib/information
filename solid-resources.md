@@ -1,22 +1,22 @@
 ## Solid Talks
 
+20190306 - [Solid World March](https://docs.google.com/presentation/d/1GNwyh4T132-NDcLPpHkYvAsnx3-mGIRstykXcyGd2oQ/edit?usp=sharing)
+
 20190208 - [Solid Stockholm](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit#slide=id.p) 
 
 20190206 - [Solid World February](https://vimeo.com/316638368) with [presentation on Solid Chess by Pieter Heyvaert](https://pieterheyvaert.com/blog/2019/02/10/solid-world-summary/) and presentation on Solid Chat by Eduardo Ibacache Rodriguez
 
 20190203 - [Solid: taking back the Web through decentralization](https://rubenverborgh.github.io/Slides-FOSDEM-2019/) by Ruben Verborgh at FOSDEM [slides](https://rubenverborgh.github.io/Slides-FOSDEM-2019/) – [video](https://video.fosdem.org/2019/Janson/solid_web_decentralization.mp4)
 
-20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
+20180802 [Decentralized Web Summit](https://solid.github.io/dweb-summit-2018/) USA
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
-
-20180202 [Decentralized Web Summit](https://solid.github.io/dweb-summit-2018/) USA
 
 20171212 [CNI Fall 2017 Meeting - Herbert van der Sompel](https://www.slideshare.net/hvdsomp/paul-evan-peters-lecture/)
 
 20160407 [IPRI meeting](https://slides.com/deiu/redecentralize-2015#/) and [slides](slides-redecentralize-conf.html)
 
-20160324 [W3C Developers Meetup](http://www.meetup.com/W3C-developers-in-Boston/events/229580827/) - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
+20160324 W3C Developers Meetup in Boston - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
 
 20151018 [Redecentralize conference](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
 

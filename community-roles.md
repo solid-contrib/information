@@ -47,8 +47,8 @@ Find out any [associations](associations.md) individuals occupying these roles h
 ASAP on Server - [Kjetil Kjernsmo](https://github.com/kjetilk)
 NSS - 5.0.0  - [Kjetil Kjernsmo](https://github.com/kjetilk)
 * **Project Core Contributor** 
-ASAP on Server - [[Arne Hassel](https://github.com/megoth_twitter)
-NSS - 5.0.0  - [Arne Hassel](https://github.com/megoth_twitter)
+ASAP on Server - [[Arne Hassel](https://github.com/megoth)
+NSS - 5.0.0  - [Arne Hassel](https://github.com/megoth)
 * **User Testing Panel Coordinator** - [Maya Rinehart](https://github.com/mayarhinehart), [Felix Poon](https://github.com/fcfpoon), [Tony Morelli](https://github.com/tony-morelli)
 * **Solid User Testing Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
 * **Solid Event Organiser** - see upcoming organisers for upcoming [Solid Events](solid-events.md) 

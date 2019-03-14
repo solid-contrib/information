@@ -1,5 +1,10 @@
 # December 2019 
 
+## 
+* Location: Paris 
+* Date: 10th - 12th December
+* Attendee: 
+
 # November 2019 
 
 # October 2019 
@@ -19,7 +24,17 @@
 
 # May 2019
 
+## IndieWebCamp Utrecht 
+* Location: Utrecht
+* Date: 18th May
+* Attendee:  
+
 # April 2019 
+
+## Girl Geek Dinners Oslo
+* Location: Oslo
+* Date: 8/9th April 
+* Attendees: Kjetil & Arne
 
 ## Hackathon
 * Location: Groningen
@@ -35,6 +50,11 @@
 * Location: Eindhoven
 * Date: 4th April
 * Attendee: Ruben 
+
+## Linked Data Meetup
+* Location: Gothenburg
+* Date: 25th April
+* Attendee: Kjetil
 
 ## Oslo Blockchain Day 
 * Location: Oslo
