@@ -1,5 +1,11 @@
 The main goal of the weekly recurring community support meeting is to ensure those in Solid roles (except user panelists) are engaging constructively with the Solid community, as well as providing the governance, guidance, and resources necessary to foster the ecosystem.
 
+20190320_Weekly Community Support Meeting
+ - Update of domain terms, licensing, trademark, and communications interim solutions:
+ - Define how to measure a healthy community
+ - Design a roadmap for the coming year 
+ - Decide how to engage with audiences beyond developers
+ 
 20190314_Weekly Community Support Meeting
  - Decide on how we would like to use the Solid Community workshop next Wednesday Morning: define how to measure a healthy community, a roadmap for the coming year, decide how to engage with audiences beyond developers
  - Decide on our preferred route to respond to misinformation about Solid in news articles: only respond if there is substantially more misinformation
