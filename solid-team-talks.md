@@ -14,6 +14,11 @@
 * Date: 7th October
 * Attendee: Kjetil
 
+## European Data Ethics Forum
+* Location: Copenhagen
+* Date: 10th October
+* Attendee: Mitzi 
+
 # September 2019
 
 # August 2019
