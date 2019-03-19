@@ -50,9 +50,6 @@ Step 1. Making a Suggestion
  
  Step 3. Coming to a Conclusion through Compromise  
  	Who is responsible for processing the suggestion? The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue. If there is a difference of opinion, parties are encouraged to talk to find a compromise. If a compromise cannot be met the community leader will make the final judgement.
-	
-# WebID Providers
-[WebID Provider](webid-provider.md)
 
 # Pod Providers 
 Users can either use a Pod provider who self host. There is an open channel for people to talk about self hosting. 
