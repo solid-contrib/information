@@ -39,6 +39,9 @@ Solid Panelists are individuals who are available for a range of tests over time
 ## Solid Event Organiser
 The [Solid Event](solid-events.md) Organiser is responsible for organising and coordinatiing a Solid Event in a stated city. The position of Solid Event Organiser will be filled by an individual for as long as an event is scheduled in the future.
 
+# Solid Advisor
+The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the Community Leader with the support of the Community Manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Community Leader with the support of the Community Manager. The advisory board will take part in several workshops to discuss the governance issues together. The community manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the Community Manager.
+
 ## Individuals currently occupying roles 
 Find out any [associations](associations.md) individuals occupying these roles have to other organisations. 
 
@@ -77,4 +80,6 @@ solid, solid-panes, solid-ui, mashlib, Repository Manager: [Tim Berners-Lee](htt
 
 * **Solid User Testing Panelists** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
 
-* **Solid Event Organiser** - see upcoming organisers for upcoming [Solid Events](solid-events.md) 
+* **Solid Event Organiser** - see upcoming organisers for upcoming [Solid Events](solid-events.md)
+
+* **Solid Advisors** - 
