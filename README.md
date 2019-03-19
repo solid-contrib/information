@@ -12,6 +12,7 @@ Solid specs, code, copy, and logo are open source and [licensed](licence.md) und
 The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/community/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.
 	
 # Building  Solid
+Anyone can build on Solid, there are multiple ways in which you can build: 
  * [Solid Specifications](#solid-specifications)
  * [Pod Providers](#pod-providers)
  * [Solid Apps](#solid-apps)
