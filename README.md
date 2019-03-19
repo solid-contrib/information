@@ -1,36 +1,26 @@
 [Solid](https://github.com/solid) is an initiative led by Tim Berners-Lee with the goal of decentralising power on the web to ensure that the web is used for the global public interest. Currently, Solid is ready for developers to build on Solid rather than end users. 
 
-## Table of Contents
- * [Solid Team](#solid-team)
- * [Solid Specifications](#specifications)
- * [WebID Providers](#webid-providers)
- * [Pod Providers](#pod-providers)
- * [Solid App Developer](#solid-app-developer)
- * [Solid Developer Tools](#solid-developer-tools)
- * [Solid Events](#solid-events) 
- 
-# The Solid Team 
-You can find a list of the [various roles within the Solid community](community-roles.md) as well as the responsibilities associated with each role. To apply to a Solid Team role contact the Community Manager with your cv and motivation statement. Individuals will be appointed to the roles by the Community Leader. 
+Solid Opening Hours are a chance to chat with the Solid Team. You can [tune in](https://zoom.us/j/334489790) every Tuesday at 15.30 CET for an hour.
 
-## Community Support Meetings
-There are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the Community Manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description. 
-
-## Solid Openening Hours 
-If you'd like to chat with the Solid team, we'll be available every Tuesday at 15.30 CET for an hour. [Tune in](https://zoom.us/j/334489790) to meet the Solid Team and ask questions. 
-
-## Solid World
 [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) is a podcast where you can get up to speed with Solid and tune into the latest conversations. You can also read the latest [status update](https://github.com/solid/community/blob/master/status.md) 
 
+The [roles and responsibilites]((community-roles.md) of the Solid Team are defined by the Community Leader who also appoints individuals to those roles. If you would like to apply for a role, [contact the Community Manager](community-roles.md) with your cv and motivation statement.
+
+The Solid Team has a closed gitter chat and there are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the Community Manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description.
+
+There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). Solid specs, code, copy, and logo are open source and [licensed](licence.md) under the MIT license. 
+
 ## Press
-The Solid Team occasionally give talks or writes articles. You can find out about [upcoming talks](https://github.com/solid/community/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details. 
-
-## Solid Logo
-There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
-
-## Licensing 
-Solid specs, code, copy, and logo are open source and [licensed](licence.md) under the MIT license. 
+The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/community/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.
+	
+# Building  Solid
+ * [Solid Specifications](#solid-specifications)
+ * [Pod Providers](#pod-providers)
+ * [Solid Apps](#solid-apps)
+ * [Solid Developer Tools](#solid-developer-tools)
+ * [Solid Events](#solid-events)
  
-# Solid Specifications
+## Solid Specifications
 At the core of Solid are the Solid specifications: 
  - [Solid](https://github.com/solid/solid-spec)  
  - [Web Access Control](https://github.com/solid/web-access-control-spec) 
@@ -51,7 +41,7 @@ Step 1. Making a Suggestion
  Step 3. Coming to a Conclusion through Compromise  
  	Who is responsible for processing the suggestion? The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue. If there is a difference of opinion, parties are encouraged to talk to find a compromise. If a compromise cannot be met the community leader will make the final judgement.
 
-# Pod Providers 
+## Pod Providers 
 Users can either use a Pod provider who self host. There is an open channel for people to talk about self hosting. 
 
 Anyone have become a Pod Provider. 
@@ -60,17 +50,17 @@ There are example [Solid Servers](https://github.com/solid/solid) with [changelo
 
 If you are building a Pod, let others know about your [Pod Providers](pod-providers.md). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Pod Provider gitter thread to talk with other Pod Providers. 
 
-# Solid App Developer 
+## Solid Apps  
 Anyone can build a Solid app. 
 
 If you are building a Solid app, let others know about your [Solid App](https://github.com/solid/solid-apps). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Solid app developer gitter thread to talk with other Solid app developers 
 
-# Solid Developer Tools
+## Solid Developer Tools
 Anyone can build Solid app developer tools. 
 
 If you are building a Solid app developer tools, let others know about your [Developer Support Tool Providers](https://github.com/solid/community/blob/master/developer-tools.md). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Solid app developer tools gitter thread to talk with others who are building Solid app developers tools. 
 
-# Solid Events
+## Solid Events
 [Solid Events](solid-events.md) provide an opportunity for community members to meet and talk about Solid in person. 
 
 Anyone can organise a Solid Event. 
