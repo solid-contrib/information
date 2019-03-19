@@ -4,11 +4,9 @@
 
 [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) is a podcast where you can get up to speed with Solid and tune into the latest conversations. You can also read the latest [status update](https://github.com/solid/community/blob/master/status.md) 
 
-The [roles and responsibilites](community-roles.md) of the Solid Team are defined by the Community Leader who also appoints individuals to those roles. If you would like to apply for a role, [contact the Community Manager](community-roles.md) with your cv and motivation statement.
+The [Solid Team](community-roles.md) has a closed gitter chat and there are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the Community Manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description. The roles and responsibilites of the Solid Team are defined by the Community Leader who also appoints individuals to those roles. If you would like to apply for a role, [contact the Community Manager](community-roles.md) with your cv and motivation statement.
 
-The Solid Team has a closed gitter chat and there are weekly recurring [community support meetings](https://github.com/solid/community/blob/master/community-support-agenda-and-minutes.md) via online calls moderated by the Community Manager. Individuals with specified community roles need to attend the community support meetings if stated in their role description.
-
-There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). Solid specs, code, copy, and logo are open source and [licensed](licence.md) under the MIT license. 
+Solid specs, code, copy, and logo are open source and [licensed](licence.md) under the MIT license. There are defined [Solid logo usage guidelines](https://github.com/solid/community/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Press
 The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/community/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/community/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/community/blob/master/community-roles.md) for public speaking or for an interview for an article please [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md) and provide the details.
