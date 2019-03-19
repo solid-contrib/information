@@ -1,6 +1,6 @@
 [Solid](https://github.com/solid) is an initiative led by Tim Berners-Lee with the goal of decentralising power on the web to ensure that the web is used for the global public interest. Currently, Solid is ready for developers to build on Solid rather than end users. 
 
-Solid Opening Hours are a chance to chat with the Solid Team. You can [tune in](https://zoom.us/j/334489790) every Tuesday at 15.30 CET for an hour.
+[Solid Opening Hours]((https://zoom.us/j/334489790) are a chance to chat with the Solid Team. You can tune in every Tuesday at 15.30 CET for an hour.
 
 [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) is a podcast where you can get up to speed with Solid and tune into the latest conversations. You can also read the latest [status update](https://github.com/solid/community/blob/master/status.md) 
 
