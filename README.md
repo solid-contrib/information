@@ -1,4 +1,4 @@
-[Solid](https://github.com/solid) is an initiative led by Tim Berners-Lee with the goal of decentralising power on the web to ensure that the web is used for the global public interest. Currently, Solid is ready for developers to build on Solid rather than end users. 
+[Solid](https://github.com/solid) is an initiative led by Tim Berners-Lee with the goal of decentralising power on the web to ensure that the web is used for the global public interest as defined by the [Solid values](https://github.com/solid/community/blob/master/solid-values.md). Currently, Solid is ready for developers to build on Solid rather than end users. 
 
 [Solid Opening Hours](https://zoom.us/j/334489790) are a chance to chat with the Solid Team. You can tune in every Tuesday at 15.30 CET for an hour.
 
@@ -18,6 +18,12 @@ Anyone can build on Solid, there are multiple ways in which you can build:
  * [Solid Apps](#solid-apps)
  * [Solid Developer Tools](#solid-developer-tools)
  * [Solid Events](#solid-events)
+ 
+Solid encourages you to keep the [code of conduct](code-of-conduct.md) in mind. If you are have a concern you can contact the Solid Team or submit and issue.
+
+[Discourse](https://forum.solidproject.org/), the [solid/chat](https://gitter.im/solid/chat) on gitter and [Reddit](https://www.reddit.com/r/SOLID) are great places to ask general questions which you can also search for on the [Frequently Unanswered Questions](https://github.com/solid/community/blob/master/frequently-unanswered-questions.md).
+
+User Testing is carried out to systematically test assumptions on a specific element. If you would like to become part of the User Testing Panel or would like to test an item that you hvave build on Solid [contact the Community Manager](https://github.com/solid/community/blob/master/community-roles.md).
  
 ## Solid Specifications
 At the core of Solid are the Solid specifications: 
@@ -41,7 +47,7 @@ Step 1. Making a Suggestion
  	Who is responsible for processing the suggestion? The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue. If there is a difference of opinion, parties are encouraged to talk to find a compromise. If a compromise cannot be met the community leader will make the final judgement.
 
 ## Pod Providers 
-Users can either use a Pod provider who self host. There is an open channel for people to talk about self hosting. 
+Users can either use a Pod Provider who self host. There is an open channel for people to talk about self hosting. 
 
 Anyone have become a Pod Provider. 
 
