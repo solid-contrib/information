@@ -25,7 +25,7 @@ Step 1. Making a Suggestion
 ## Licensing 
 Solid copy, code, and the logo is open source and [licensed](licence.md) under the MIT license. 
 
-# WebID
+# WebID Providers
 [WebID Provider](webid-provider.md)
 
 # Pod Providers 
