@@ -45,7 +45,7 @@ To be included, items must:
 
 * **[Mashlib](https://github.com/linkeddata/mashlib)**
 \- solid-compatible data mashup library and Data Browser
-\- by []()
+\- by [LinkedData](https://github.com/linkeddata/rdflib.js/)
 
 
 ## Developer Tool Ideas
