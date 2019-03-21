@@ -10,14 +10,22 @@ Solid specs, code, copy, and logo are open source and [licensed](licence.md) und
 
 ## Press
 The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/information/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/information/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/information/blob/master/solid-team.md) for public speaking or for an interview for an article please [contact the Solid Manager](https://github.com/solid/information/blob/master/solid-roles.md) and provide the details.
+
+## Solid Events
+[Solid Events](solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. 
+
+Anyone can organise a Solid Event. 
+
+You can read [guidance](solid-event-guidance.md) from previous event organiser, which you can also contribute to once you have completed your Solid Event. 
+
+If you are organising a Solid Event, [let others know about the details](solid-events.md). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Solid Event organisers gitter thread to talk with others who are building Solid app developers tools. 
 	
-# Building  Solid
+# Solid Ecosystem
 Anyone can build on Solid, there are multiple ways in which you can build: 
  * [Solid Specifications](#solid-specifications)
  * [Pod Providers](#pod-providers)
  * [Solid Apps](#solid-apps)
  * [Solid Developer Tools](#solid-developer-tools)
- * [Solid Events](#solid-events)
  
 Solid encourages you to keep the [code of conduct](code-of-conduct.md) in mind. If you are have a concern you can contact the Solid Team or submit and issue.
 
@@ -65,11 +73,5 @@ Anyone can build Solid app developer tools.
 
 If you are building a Solid app developer tools, let others know about your [Developer Support Tool Providers](https://github.com/solid/information/blob/master/developer-tools.md). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Solid app developer tools gitter thread to talk with others who are building Solid app developers tools. 
 
-## Solid Events
-[Solid Events](solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. 
-
-Anyone can organise a Solid Event. 
-
-You can read [guidance](solid-event-guidance.md) from previous event organiser, which you can also contribute to once you have completed your Solid Event. 
-
-If you are organising a Solid Event, [let others know about the details](solid-events.md). If you have shown demonstrable contributions judged by the Solid Team you will be invited to the closed Solid Event organisers gitter thread to talk with others who are building Solid app developers tools. 
+# Solid Community 
+Solid Community are multiple organisations and individuals working as volunteers to building open source solutions based on the Solid specification. 
