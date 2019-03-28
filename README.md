@@ -1,7 +1,5 @@
 [Solid](https://github.com/solid) is an initiative led by Tim Berners-Lee with the goal of decentralising power on the web to ensure that the web is used for the global public interest as defined by the [Solid values](https://github.com/solid/community/blob/master/solid-values.md). Currently, Solid is ready for developers to build on Solid rather than end users. 
 
-[Solid Opening Hours](https://zoom.us/j/334489790) are a chance to chat with the Solid Team. You can tune in every Tuesday at 15.30 CET for an hour.
-
 [Solid World](https://www.eventbrite.com/e/solid-world-tickets-53692744444?aff=erellivmlt) is a podcast where you can get up to speed with Solid and tune into the latest conversations. You can also read the latest [status update](https://github.com/solid/information/blob/master/status.md) 
 
 The [Solid Team](solid-team.md) has a closed gitter chat and there are weekly recurring [Solid support meetings](https://github.com/solid/information/blob/master/solid-support-agenda-and-minutes.md) via online calls moderated by the Solid Manager. Individuals with specified Solid roles need to attend the Solid support meetings if stated in their role description. The roles and responsibilites of the Solid Team are defined by the Solid Leader who also appoints individuals to those roles. If you would like to apply for a role, [contact the Solid Manager](solid-team.md) with your cv and motivation statement.
