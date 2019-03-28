@@ -9,7 +9,7 @@ The [Solid Team](solid-team.md) has a closed gitter chat and there are weekly re
 Solid specs, code, copy, and logo are open source and [licensed](license.md) under the MIT license. There are defined [Solid logo usage guidelines](https://github.com/solid/information/blob/master/solid-logo-usage-guidelines.md). 
 
 ## Press
-The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/information/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/information/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/information/blob/master/solid-team.md) for public speaking or for an interview for an article please [contact the Solid Manager](https://github.com/solid/information/blob/master/solid-roles.md) and provide the details.
+The Solid Team occasionally give talks or write articles. You can find out about [upcoming talks](https://github.com/solid/information/blob/master/solid-team-talks.md) as well as see recordings of past talks on [Solid Resources](https://github.com/solid/information/blob/master/solid-resources.md). If you would like to invite one of the [Solid team](https://github.com/solid/information/blob/master/solid-team.md) for public speaking or for an interview for an article please [contact the Solid Manager](solid-team.md) and provide the details.
 
 ## Solid Events
 [Solid Events](solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. 
@@ -41,7 +41,7 @@ At the core of Solid are the Solid specifications:
  
 Terms used in the Solid specifications are defined in the [Solid Dictionary](https://github.com/solid/information/blob/master/solid-dictionary.md) and a full overview of the [architecture](https://github.com/solid/solid-architecture) explains how the Solid specifications are interrelated. 
 
-The Solid specifications are discussed and developed by the [W3C Solid Community Group](https://www.w3.org/information/solid/wiki/Main_Page) which is [open for anyone to join]. The Solid W3C Community Group communicates using a mailing list and biweekly hour long calls which you will be part of if you join. The [agenda and minutes](https://www.w3.org/community/solid/wiki/Meetings) for the calls are publicly available. 
+The Solid specifications are discussed and developed by the [W3C Solid Community Group](https://www.w3.org/community/solid/wiki/Main_Page) which is [open for anyone to join]. The Solid W3C Community Group communicates using a mailing list and biweekly hour long calls which you will be part of if you join. The [agenda and minutes](https://www.w3.org/community/solid/wiki/Meetings) for the calls are publicly available.
 
 Changes to the spec are made using the following process: 
 
