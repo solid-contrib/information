@@ -2,6 +2,8 @@
 
 https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg 
 
+20190330 - [How a chess app interacts with Solid](https://pieterheyvaert.com/blog/2019/03/30/solid-chess-interaction)
+
 20190306 - [Solid World March](https://docs.google.com/presentation/d/1GNwyh4T132-NDcLPpHkYvAsnx3-mGIRstykXcyGd2oQ/edit?usp=sharing)
 
 20190208 - [Solid Stockholm](https://docs.google.com/presentation/d/1G34UGSzaGCXdeMgOTWup-54y7JdCoFwMPtlojidIKdc/edit#slide=id.p) 
