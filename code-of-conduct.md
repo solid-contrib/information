@@ -25,12 +25,12 @@ physical or sexual) and other exclusionary behavior is not acceptable.
 inappropriate behaviors are observed members of the community should strive to
 bring the discussion back to a more professional level. In most cases
 misunderstandings and disagreements can be resolved informally. Do not hesitate
-to [contact](https://github.com/solid/community/blob/master/community-roles.md) Core Contributors or the Community Manager if you feel that your
+to [contact](solid-team.md) Core Contributors or the Community Manager if you feel that your
 concerns are not being sufficiently addressed. We hope that most concerns can be
 solved this way. However, if one person believes another's behavior is
 inappropriate (inconsistent with the Code of Conduct or the good working of the
 group), and ordinary communication between them is not possible, escalation of
-the issue can take place by [contacting](https://github.com/solid/community/blob/master/community-roles.md) a Core Contributor. They may temporarily
+the issue can take place by [contacting](solid-team.md) a Core Contributor. They may temporarily
 or permanently ban an individual from participating in activities, e.g. in a
 chat, mail or in Git for acting against the Code of Conduct.
 
@@ -56,7 +56,7 @@ groups have already done (i.e. don't “reinvent the wheel”).
 - Know that your contribution is still valuable even if it is not integrated.
 - Remember the work is about more than just your area of interest (e.g. don't
 let your personal or professional goals impede the progress of the group).
-- Do [contact](https://github.com/solid/community/blob/master/community-roles.md) a Community Manager if you feel someone has been working in a way
+- Do [contact](solid-team.md) a Community Manager if you feel someone has been working in a way
 that is having a negative impact on the work of the group, if they are insulting
 or harassing you, or unfairly impeding your own ability to work.
 - Maintain an open mindset and encourage others to do the same. There might be

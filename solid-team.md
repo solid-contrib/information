@@ -8,8 +8,8 @@ and the responsibilities associated with each role, where applicable.
 - [Project Release Manager](#project-release-manager)
 - [Project Core Contributor](#project-core-contributor)
 - [User Testing Panel Coordinator](#user-testing-panel-coordinator)
-- [Solid User Testing Panelist](Solid-user-testing-panelist)
-- [Solid Event Organiser](Solid-Event-Organiser) 
+- [Solid User Testing Panelist](#solid-user-testing-panelist)
+- [Solid Event Organiser](#solid-event-organiser)
 
 ## Community Leader
 The Community Leader defines the governing vision of the Solid project, and channels that vision into the projects and initiatives created to realise it. They are responsible for selecting core contributors, approving official projects and initiatives, prioritising official project roadmaps, and have the final say on project disagreements. The Community Leader has admin rights of Solid tools and can optionally attend the weekly recurring community support meeting.
@@ -17,7 +17,7 @@ The Community Leader defines the governing vision of the Solid project, and chan
 ## Community Manager
 The Community Leader defines the governing vision of the Solid project, and channels that vision into the projects and initiatives created to realise it. They are responsible for selecting core contributors, approving official projects and initiatives, prioritising official project roadmaps, and have the final say on project disagreements. The Community Leader has admin rights of Solid tools and can optionally attend the weekly recurring community support meeting.
 
-## Repositories Manager
+## Repository Manager
 The Repositories Manager controls Github, NPM, and other Solid organisation properties related to the storage, management, and distribution of official Solid projects. They are responsible for keeping these properties clean and well-organised on behalf of the Solid community. The Repositories Manager has admin rights of Solid tools must attend the weekly recurring community support meeting.
 
 ## Project Release Manager
