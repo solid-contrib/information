@@ -18,15 +18,15 @@ https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg
 
 20171212 [CNI Fall 2017 Meeting - Herbert van der Sompel](https://www.slideshare.net/hvdsomp/paul-evan-peters-lecture/)
 
-20160407 [IPRI meeting](https://slides.com/deiu/redecentralize-2015#/) and [slides](slides-redecentralize-conf.html)
+20160407 [IPRI meeting](https://slides.com/deiu/redecentralize-2015#/) and [slides](https://github.com/solid/talks/blob/master/slides-redecentralize-conf.html)
 
-20160324 W3C Developers Meetup in Boston - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html)
+20160324 W3C Developers Meetup in Boston - [view](https://slides.com/deiu/redecentralize-2015#/) - [source](https://github.com/solid/talks/blob/master/slides-redecentralize-conf.html)
 
-20151018 [Redecentralize conference](https://slides.com/deiu/redecentralize-2015#/) - [source](slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
+20151018 [Redecentralize conference](https://slides.com/deiu/redecentralize-2015#/) - [source](https://github.com/solid/talks/blob/master/slides-redecentralize-conf.html) - [video](https://www.youtube.com/watch?v=yi4SgNyDJ9w)
 
-20151013 [Cambridge Semantic Web Meetup](http://slides.com/deiu/solid-tech#/) - [source](slides-solid-tech.html)
+20151013 [Cambridge Semantic Web Meetup](http://slides.com/deiu/solid-tech#/) - [source](https://github.com/solid/talks/blob/master/slides-solid-tech.html)
 
-20150925 - [Web.br](http://conferenciaweb.w3c.br/) [Re-decentralize the Web" conference](https://deiu.github.io/2015-web.br-conference#/) - [source](slides-re-decentralize.html) - [video](https://www.youtube.com/watch?v=BPZiBDPKiGk)
+20150925 - [Web.br](http://conferenciaweb.w3c.br/) [Re-decentralize the Web" conference](https://deiu.github.io/2015-web.br-conference#/) - [source](https://github.com/solid/talks/blob/master/slides-re-decentralize.html) - [video](https://www.youtube.com/watch?v=BPZiBDPKiGk)
 
 [Talks by Ruben Verborgh](https://github.com/search?q=%23solid+%23slides)
 

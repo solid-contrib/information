@@ -3,16 +3,16 @@ The [Solid GitHub account](https://github.com/solid) was started by the [Solid a
 The [Solid GitHub account](https://github.com/solid) includes the following. 
 
 # Solid Specifications 
-T specifications. 
+The Solid specifications can be found in the following repositories: 
+* [Solid](https://github.com/solid/solid-spec)  
+* [Web Access Control](https://github.com/solid/web-access-control-spec) 
+* [WebID OIDC](https://github.com/solid/webid-oidc-spec) 
+
+The [Solid Team](solid-team.md) works with the [W3C Solid Community Group](https://www.w3.org/community/solid/) (which you can also read about on the [Solid/information solid.md](solid.md) to support the development of the Solid specifications as well as coordinating those who are implementing the Solid. 
 
 # Information about Solid
 Information about Solid  can be found in the following repos:
-information, vocab, solid-tutorial-intro, solid-tutorial-angular, solid-tutorial-rdflib.js, profile-viewer-tutorial, understanding-linked-data, solid-tutorial-pastebin, web-summit-2018, intro-to-sohe Solid specifications can be found in the following repos: 
-* [Solid](https://github.com/solid/solid-spec)
-* [Web Access Control](https://github.com/solid/web-access-control-spec)
-* [WebID OIDC](https://github.com/solid/webid-oidc-spec)) 
-
-The [Solid Team](solid-team.md) works with the [W3C Solid Community Group](https://www.w3.org/community/solid/) (which you can also read about on the [Solid/information solid.md](solid.md) to support the development of the Solid specifications as well as coordinating those who are implementing the Solidlid-slides, releases, solid-architecture, user guide, solid-namespace, solid-platform, solid-apps, and solid.mit.edu
+information, vocab, solid-tutorial-intro, solid-tutorial-angular, solid-tutorial-rdflib.js, profile-viewer-tutorial, understanding-linked-data, solid-tutorial-pastebin, web-summit-2018, intro-to-solid-slides, releases, solid-architecture, user guide, solid-namespace, solid-platform, solid-apps, and solid.mit.edu
 
 Currently there is no defined individual responsible for these repositories, although anyone can suggest to update the information by submitting a pull request or issue. If you would like to become responsible for these repositories including keeping the information up to date and incorporating suggestions from pull requests and issues contact the Solid Manager. The information in these repositories can also be found in the [W3C Solid Community Group](https://www.w3.org/community/solid/). 
 
