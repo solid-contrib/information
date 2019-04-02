@@ -18,7 +18,7 @@ The Solid Manager implements the governing vision of the Solid project. The Soli
 The Solid Specification Repository Manager is responsible for keeping the properties of their Solid specification repositories well-organised and communicating any changes clearly and publicly. The Solid Specification Repository Manager has admin rights of the Solid specification repositories and is expected to provide resolution and a defined route forward on any difference of opinion that may occur.
 
 ## Solid Experts 
-The Solid Experts are responsible for providing support to those looking to implement the Solid specification. 
+Solid Experts provide support and guidance to those looking to implement the Solid specification.They have admin rights on all Solid repositories, and are expected to participate in regular community group meetings, and maintain availability for project specific collaboration as needed.
 
 ## Solid Advisor
 The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the Solid Leader with the support of the Solid Manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Solid Leader with the support of the Solid Manager. The advisory board will take part in several workshops to discuss the governance issues together. The Solid Manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the Solid Manager.
@@ -33,6 +33,8 @@ The [Solid Event](solid-events.md) Organiser is responsible for organising and c
 * **Solid Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
 
 * **Solid Specifications Repositories Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
+
+ **Solid Experts** - [Ruben Verborgh](https://github.com/RubenVerborgh), [Justin Bingham](https://github.com/justinwb)
 
 * **Solid Advisors** - a list of candidates is being put forward
 
