@@ -3,7 +3,7 @@ This document aims to identify the various roles within Solid, and the responsib
 
 - [Solid Leader](#solid-leader)
 - [Solid Manager](#solid-manager)
-- [Solid Specifications Repository Manager](#repository-manager)
+- [Solid Specifications Repository Manager](#solid-specifications-repository-manager)
 - [Solid Experts](#solid-experts)
 - [Solid Advisor](#solid-advisor)
 - [Solid Event Organiser](#solid-event-organiser)
