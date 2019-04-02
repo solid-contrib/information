@@ -1,54 +1,39 @@
-# Solid Community Roles and Responsibilities  
-This document aims to identify the various roles within the Solid community,
-and the responsibilities associated with each role, where applicable.
+# Solid Roles and Responsibilities  
+This document aims to identify the various roles within Solid, and the responsibilities associated with each role, where applicable.
 
-- [Community Leader](#community-leader)
-- [Community Manager](#community-manager)
-- [Repositories Manager](#repository-manager)
-- [Project Release Manager](#project-release-manager)
-- [Project Core Contributor](#project-core-contributor)
-- [User Testing Panel Coordinator](#user-testing-panel-coordinator)
-- [Solid User Testing Panelist](#solid-user-testing-panelist)
+- [Solid Leader](#solid-leader)
+- [Solid Manager](#solid-manager)
+- [Solid Specifications Repository Manager](#repository-manager)
+- [Solid Experts](#solid-experts)
+- [Solid Advisor](#solid-advisor)
 - [Solid Event Organiser](#solid-event-organiser)
 
-## Community Leader
-The Community Leader defines the governing vision of the Solid project, and channels that vision into the projects and initiatives created to realise it. They are responsible for selecting core contributors, approving official projects and initiatives, prioritising official project roadmaps, and have the final say on project disagreements. The Community Leader has admin rights of Solid tools and can optionally attend the weekly recurring community support meeting.
+## Solid Leader
+The Solid Leader defines the governing vision of the Solid project. The Solid Leader is responsible for approving the descriptions of the responsibilities of the Solid team roles as well as appointing individuals to the roles. The decision of the Solid Leader around approving changes to the Solid specifications can override the decisions of the Solid Specifications Reposotory Manager. The decision of the Solid Leader around implementation of the Solid vision can override the decisions of the Solid Manager. If there are differences of opinion, the Solid Leader has the final say on the way forward. The Solid Leader has admin rights of all Solid repositories. 
 
-## Community Manager
-The Community Leader defines the governing vision of the Solid project, and channels that vision into the projects and initiatives created to realise it. They are responsible for selecting core contributors, approving official projects and initiatives, prioritising official project roadmaps, and have the final say on project disagreements. The Community Leader has admin rights of Solid tools and can optionally attend the weekly recurring community support meeting.
+## Solid Manager
+The Solid Manager implements the governing vision of the Solid project. The Solid Manager is responsible for coordination and collaboration to develop the Solid specifications and the implementation of the Solid specifications as well as the Solid Advisory Board. The Solid Manager is responsible for moderating the W3C Solid Community Group calls. The Solid Manager is responsible for keeping the W3C Solid Community Group information up to date including Solid solutions and contributors as well as encouraging and supporting Solid Event organisers. The Solid Manager is responsible for coordinating Solid User testing. The Solid Manager has admin rights of all Solid repositories. 
 
-## Repository Manager
-The Repositories Manager controls Github, NPM, and other Solid organisation properties related to the storage, management, and distribution of official Solid projects. They are responsible for keeping these properties clean and well-organised on behalf of the Solid community. The Repositories Manager has admin rights of Solid tools must attend the weekly recurring community support meeting.
+## Solid Specifications Repository Manager
+The Solid Specification Repository Manager is responsible for keeping the properties of their Solid specification repositories well-organised and communicating any changes clearly and publicly. The Solid Specification Repository Manager has admin rights of the Solid specification repositories and is expected to provide resolution and a defined route forward on any difference of opinion that may occur.
 
-## Project Release Manager
-The Project Release Managers are responsible for determining which features and/or bug-fixes will be merged into the release of their respective [projects](https://github.com/orgs/solid/projects). Project release managers must attend the weekly recurring community support meeting. The Project Release Manager of a specific [project](https://github.com/orgs/solid/projects) is responsible for leading that project. 
+## Solid Experts 
+The Solid Experts are responsible for providing support to those looking to implement the Solid specification. 
 
-## Project Core Contributor
-A Project Core Contributor is a key team member on an official Solid project.
-They may have issues assigned to them, review and merge pull requests, and must
-attend regular stand-ups and project strategy meetings.
-
-## User Testing Panel Coordinator
-Panel Coordinators are responsible for designing and running tests with the Solid Panelists as well as publishing test results to the Solid community. Panel Coordinators are expected to join the weekly user testing meeting which is moderated by the Community Manager.
-
-## Solid User Testing Panelist
-Solid Panelists are individuals who are available for a range of tests over time to improve the Solid user experience. When there is a test set up by the Panel Coordinators, the Community Manager will reach out to the relevant Solid Panelists to ask if they would like to participate in that particular test. Each test will take approximately 30 minutes, Solid Panelists are not obliged to participate in all tests, and Solid Panelists can stop being on the Solid Panel at any point. Tests will be designed to improve the Solid experience. Solid User Testing Panelists do not take part in the community support meeting nor in the solid/team gitter chat to avoid bias during the test.
+## Solid Advisor
+The Solid advisory board has the role of constructing a plan on how to uphold the original Solid values and mission. The plan needs to promote efficient, effective, inclusive, and transparent governance. The Solid advisory board should submit the plan to the Solid Leader with the support of the Solid Manager. Once the plan has been submitted the advisory board will be dismantled. Advisory board members will be appointed by the Solid Leader with the support of the Solid Manager. The advisory board will take part in several workshops to discuss the governance issues together. The Solid Manager will be coordinating the workshops. If you would like to suggest an issue to be addressed by the advisory board, please contact the Solid Manager.
 
 ## Solid Event Organiser
 The [Solid Event](solid-events.md) Organiser is responsible for organising and coordinating a Solid Event in a stated city. The position of Solid Event Organiser will be filled by an individual for as long as an event is scheduled in the future.
 
-## Individuals currently occupying roles 
-Find out any [associations](associations.md) individuals occupying these roles have to other organisations. 
+## Individuals currently occupying roles
 
-* **Community Leader** - [Tim Berners-Lee](https://github.com/timbl) 
-* **Community Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
-* **Repositories Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
-* **Project Release Manager** 
-ASAP on Server - [Kjetil Kjernsmo](https://github.com/kjetilk)
-NSS - 5.0.0  - [Kjetil Kjernsmo](https://github.com/kjetilk)
-* **Project Core Contributor** 
-ASAP on Server - [[Arne Hassel](https://github.com/megoth)
-NSS - 5.0.0  - [Arne Hassel](https://github.com/megoth)
-* **User Testing Panel Coordinator** - [Maya Rinehart](https://github.com/mayarhinehart), [Felix Poon](https://github.com/fcfpoon), [Tony Morelli](https://github.com/tony-morelli)
-* **Solid User Testing Panelist** - Eric Prud’hommeaux, Eduardo Ibacache Rodriguez, Teodora Petkova,  David Booth, Pat McBennett
-* **Solid Event Organiser** - see upcoming organisers for upcoming [Solid Events](solid-events.md) 
+* **Solid Leader** - [Tim Berners-Lee](https://github.com/timbl)
+
+* **Solid Manager** - [Mitzi László](https://github.com/Mitzi-Laszlo)
+
+* **Solid Specifications Repositories Manager** - [Kjetil Kjernsmo](https://github.com/kjetilk)
+
+* **Solid Advisors** - a list of candidates is being put forward
+
+* **Solid Event Organiser** - see Solid Events to find out the event organiser of each
