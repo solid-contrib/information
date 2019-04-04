@@ -8,7 +8,7 @@ The Solid specifications can be found in the following repositories:
 * [Web Access Control](https://github.com/solid/web-access-control-spec) 
 * [WebID OIDC](https://github.com/solid/webid-oidc-spec) 
 
-The [Solid Team](solid-team.md) works with the [W3C Solid Community Group](https://www.w3.org/community/solid/) (which you can also read about on the [Solid/information solid.md](solid.md) to support the development of the Solid specifications as well as coordinating those who are implementing the Solid. 
+The [Solid Team](solid-team.md) works with the [W3C Solid Community Group](https://www.w3.org/community/solid/) (which you can also read about on the [Solid/information solid.md](https://github.com/solid/information/blob/master/w3c-solid-community-group.md) to support the development of the Solid specifications as well as coordinating those who are implementing the Solid. 
 
 # Information about Solid
 Information about Solid  can be found in the following repos:
