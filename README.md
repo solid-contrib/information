@@ -25,6 +25,7 @@ oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, k
 
 # Solid Learning Material
 * [Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
+* [Intro to Solid](https://github.com/solid/intro-to-solid-slides)
 * [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro)
 * [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
 * [Solid Tutorial rdflib](https://github.com/solid/solid-tutorial-angular.js)
@@ -67,6 +68,7 @@ Groups implementing the Solid  have a dedicated channel based on the implemtatni
 Solid Projects have dedicated chat channels. 
 * solid/node-solid-server: originally a place to talk about [Solid Project NSS-v5.0.0](https://github.com/orgs/solid/projects/1) and now a dedicated space for [Solid Project ASAP on Server](https://github.com/orgs/solid/projects/2)
 * solid-panes: coming soon
+* site-and-docs: coming soon
 
 Solid Challenges have dedicated channels associated to them
 * solid/chat-app: a place to talk about the implementation of the Solid specification when building chat applications
