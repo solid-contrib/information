@@ -25,6 +25,7 @@ oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, k
 
 # Solid Learning Material
 * [Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
+* [Solid Servers Tools and Packages](https://github.com/solid/solid-platform)
 * [Intro to Solid](https://github.com/solid/intro-to-solid-slides)
 * [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro)
 * [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
@@ -35,6 +36,8 @@ oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, k
 * [Solid Vocabularies](https://github.com/solid/vocab)
 * [Releases](https://github.com/solid/releases)
 * [Userguide](https://github.com/solid/userguide)
+* [Solid Releases](https://github.com/solid/releases)
+* [Solid Namespace](https://github.com/solid/solid-namespace) 
 
 # Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event. If you are thinking about running a Solid Event in your city below is some guidance from previous Solid Event Organisers. If you have run a Solid Event, please contribute to the guidance information and share your learnings with the Solid Manager to incorporate. If you are organising a Solid Event, let others know about it by publishing it. 
