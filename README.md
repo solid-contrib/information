@@ -1,8 +1,6 @@
-
-
 The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using defined processes.
 
-Solid aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification. 
+Solid aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification. Read more about the [Solid values](https://github.com/solid/information/blob/master/solid-values.md). 
 
 # Solid Specifications 
 The Solid specifications can be found in the following repositories: 
@@ -35,9 +33,10 @@ oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, k
 * [Solid Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin)
 * [Solid Vocabularies](https://github.com/solid/vocab)
 * [Releases](https://github.com/solid/releases)
+* [Userguide](https://github.com/solid/userguide)
 
 # Solid Events 
-Solid Events provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event for which you can find guidance and a list of upcoming events. 
+[Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event. If you are thinking about running a Solid Event in your city below is some guidance from previous Solid Event Organisers. If you have run a Solid Event, please contribute to the guidance information and share your learnings with the Solid Manager to incorporate. If you are organising a Solid Event, let others know about it by publishing it. 
 
 # Solid Resources 
 If you know of any grants or channels to apply to resources that would allow developers to focus on building their application on solid, please do share them. 
@@ -52,7 +51,7 @@ Read all past questions or ask a new question on the [Frequently Unanswered Ques
 Each repository has a license of which you can get an [overview](https://github.com/solid/information/blob/master/license.md). 
 
 # Solid Press 
-You can find a list of [mentions of Solid in the press](https://github.com/solid/information/blob/master/solid-resources.md). The Solid Team occasionally give talks. Find out about [upcoming Solid Team talks](https://github.com/solid/information/blob/master/solid-team-talks.md). Contact the Solid Team if you are interested in inviting them a a speaker at your event.   
+You can find a list of [mentions of Solid in the press](https://github.com/solid/information/blob/master/solid-resources.md). The Solid Team and W3C Solid Community Group occasionally give talks or write articles. Find out about [upcoming Solid Team talks](https://github.com/solid/information/blob/master/solid-team-talks.md). Contact the Solid Team if you are interested in inviting them a a speaker at your event.   
 
 # Solid Conversations
 The  Gitter chats associated to the [Solid GitHub account](https://github.com/solid) include 
