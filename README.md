@@ -1,4 +1,4 @@
-The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using defined processes.
+The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md).
 
 Solid aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification. Read more about the [Solid values](https://github.com/solid/information/blob/master/solid-values.md). 
 
