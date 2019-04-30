@@ -42,6 +42,10 @@ oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, k
 # Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event. If you are thinking about running a Solid Event in your city below is some guidance from previous Solid Event Organisers. If you have run a Solid Event, please contribute to the guidance information and share your learnings with the Solid Manager to incorporate. If you are organising a Solid Event, let others know about it by publishing it. 
 
+# Solid Challenges 
+Solid Challenges are set by a lead who can provide guidance to those who participate in a specific goal. Previous Solid Challenges include: 
+* [Solid Chat](https://gitter.im/solid/chat-app) by [Jose Emilio Labra Gayo](https://github.com/labra)
+
 # Solid Resources 
 If you know of any grants or channels to apply to resources that would allow developers to focus on building their application on solid, please do share them. 
 
