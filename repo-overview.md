@@ -1,5 +1,5 @@
 
-| Item  | Associated Repositories  | Individuals Involved | Individuals Association | 
+| Item  |  Repositories  | Individuals | Association | 
 | ------------- | ------------- | ------------- | ------------- | 
 | Solid Specifications | [Web Access Control Spec](https://github.com/solid/web-access-control-spec), [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec), [Default Spec](https://github.com/solid/default-spec), [Solid Spec](https://github.com/solid/solid-spec) | [Tim Berners-Lee](https://github.com/timbl), [Mitzi László](https://github.com/Mitzi-Laszlo), [Kjetil Kjernsmo](https://github.com/kjetilk) |[Solid Team](https://github.com/solid/information/blob/master/solid-team.md) |  
 | Solid Information | [Information](https://github.com/solid/information), [Solid Apps](https://github.com/solid/solid-apps) | [Tim Berners-Lee](https://github.com/timbl), [Mitzi László](https://github.com/Mitzi-Laszlo), [Kjetil Kjernsmo](https://github.com/kjetilk) |[Solid Team](https://github.com/solid/information/blob/master/solid-team.md) |  
