@@ -1,6 +1,7 @@
 Solid Events are an opportunity for the Solid community to meet in personal locally. 
 
 * 2019 May 22nd - [Solid London](https://www.meetup.com/Solid-London/) organised by [Paul Worral](https://www.linkedin.com/in/worrall/)
+* 2019 May 13th - [Solid Toronto](https://www.llbrandlab.com/events/solid-toronto-meetup) organised by [Li Lu](https://github.com/SolidToronto)
 * 2019 May 8th - [Solid New York](https://www.meetup.com/NextWeb-NYC/) organised by Brian Cort
 * 2019 May 2nd - [Solid Seattle](https://www.eventbrite.com/e/solid-seattle-tickets-60131990402) by Jon Pederson 
 * 2019 April 9th - [Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/260087036/) organised by [John Bartas](http://www.bartas.net/resume.html) 
