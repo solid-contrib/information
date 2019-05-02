@@ -26,7 +26,7 @@ A good team can make all the difference. Examples of roles include:
 - presentation host
 
 # Venue
-Partnering with existing meetups or organisations that regularly host events has the benefit of learning from their experience and benefit from their existing setup. 
+Partnering with existing meetups or organisations that regularly host events has the benefit of learning from their experience and benefit from their existing setup. Make sure to select a venue that can accommodate the amount of people you expect with sufficient tables and chairs. 
 
 # Equipment
 Organising a projector, sound system, and laptop for displaying the presentation in advance is important for a smooth running event. Make sure you have the right cables and preferably do a trial run before the event. If you partner with a venue that is familiar with hosting events, make sure to know who to contact about equipment setup. 
@@ -63,7 +63,11 @@ The web needs a mid-course correction. Solid, an open source project led by inve
 Once your invite is published make sure to submit a pull request to add it to the listing above or reach out to the Solid Team to ask for it to be published. 
 
 # Promotion
-Make sure to spread the news about the event in local channels. Share the invite with people who organise events with a  audiences that could share interests such as developers, data ethicists, and designers. 
+Make sure to spread the news about the event in local channels. Share the invite with people who organise events with a  audiences that could share interests such as developers, data ethicists, and designers. Channels to consider include: 
+* [gitter solid/chat](https://gitter.im/solid/chat)
+* [Reddit Solid](https://www.reddit.com/r/SOLID/) 
+* Local media events and calendars 
+* Local developer groups 
 
 # Join the Solid Event Organisers 
 Join the [solid/solid-events gitter channel](https://gitter.im/solid/solid-events) to speak with other Solid Event organisers
