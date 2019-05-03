@@ -25,20 +25,7 @@ The implementation of the Solid specifications can be found in the following rep
 oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, keychain, solid-pane, solid-notifications, solid-profile-ui, solid-connections-ui, pane-source, jose, solid-inbox, oidc-op, solid-tif, solid-client, oidc-rp, issue-panes, solid, solid-idp-list, kvplus-files, solid-email, oidc-web, solid-sign-up, solid, takeout-import, node-solid-ws, solid-auth-tls,  solid-auth-oidc, meeting-pane, solid-dips, solid-cli, solid-web-client, solid-permissions, acl-check, node-solid-server, solid-auth-client, wac-allow, mavo-solid, solid-auth-client, ldflex-playground, query-ldflex, react-components, profile-viewer-react, solid, solid-panes, solid-ui, mashlib
 
 # Solid Learning Material
-* [Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
-* [Solid Servers Tools and Packages](https://github.com/solid/solid-platform)
-* [Intro to Solid](https://github.com/solid/intro-to-solid-slides)
-* [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro)
-* [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
-* [Solid Tutorial rdflib](https://github.com/solid/solid-tutorial-angular.js)
-* [Solid Tutorial Profile Viewer Tutorial](https://github.com/solid/profile-viewer-tutorial)
-* [Solid Tutorial Understanding Linked Data](https://github.com/solid/understanding-linked-data)
-* [Solid Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin)
-* [Solid Vocabularies](https://github.com/solid/vocab)
-* [Releases](https://github.com/solid/releases)
-* [Userguide](https://github.com/solid/userguide)
-* [Solid Releases](https://github.com/solid/releases)
-* [Solid Namespace](https://github.com/solid/solid-namespace) 
+Read more about [Solid App development](https://github.com/solid/information/blob/master/app-development.md), becoming a Pod Provider, [self hosting a Pod](https://github.com/solid/information/blob/master/self-hosting.md), and [becoming a WebID Provider](https://github.com/solid/information/blob/master/webid-provider.md). 
 
 # Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event. If you are thinking about running a Solid Event in your city below is some guidance from previous Solid Event Organisers. If you have run a Solid Event, please contribute to the guidance information and share your learnings with the Solid Manager to incorporate. If you are organising a Solid Event, let others know about it by publishing it. 
