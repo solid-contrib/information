@@ -15,3 +15,4 @@
 * [Userguide](https://github.com/solid/userguide)
 * [Solid Releases](https://github.com/solid/releases)
 * [Solid Namespace](https://github.com/solid/solid-namespace) 
+* [Some background](https://github.com/solid/information/blob/master/background.md)
