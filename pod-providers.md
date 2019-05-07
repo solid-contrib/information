@@ -2,8 +2,8 @@
 
 |               Link                |    Responsible for Domain Name and Terms of Use     |             Responsible for Hosting               | Location of Hosting | Solid Server Version |
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
-| https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          ??          |
-| https://solid.community/          |                          ??                         |                        ??                         |         ??          |          ??          |
+| https://inrupt.net/               | [Inrupt, Inc.](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          NSS 4.x          |
+| https://solid.community/          |                          ??                         |                       NSS 4.x                         |         ??          |          ??          |
 | https://solid.authing.cn/         |                          ??                         |                        ??                         |         ??          |          ??          |
 
 # Experimental Solid Servers
