@@ -1,3 +1,4 @@
+* [Intro to Solid Tutorial](https://github.com/solid/solid-tutorial-intro)
 * [Solid Apps with Angular](https://solid.inrupt.com/docs/writing-solid-apps-with-angular)
 * [Solid Apps with React](https://solid.inrupt.com/docs/writing-solid-apps-with-react)
 * [Jackson Morgan Instructions](https://github.com/jaxoncreed/solid-in-your-lunch-hour)
