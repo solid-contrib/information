@@ -16,3 +16,5 @@
 * [Solid Releases](https://github.com/solid/releases)
 * [Solid Namespace](https://github.com/solid/solid-namespace) 
 * [Some background](https://github.com/solid/information/blob/master/background.md)
+* https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg 
+* https://github.com/LearnSolid/solid-roadmap
