@@ -5,7 +5,8 @@ Solid Challenges have defined goals, leaders, and end dates. If you would like t
 * Challenge Definition: to build a Solid Chat application 
 * Start Date: January 2019 
 * End Date: June 2019 
-* Top Submissions: 
+* Gitter Chat Channel: https://gitter.im/solid/chat-app 
+* Submissions: https://arquisoft.github.io/course1819.html#StudentProjects
 
 # Solid Blog Challenge
 * Led by: [Ruben Verborgh](https://github.com/RubenVerborgh)
