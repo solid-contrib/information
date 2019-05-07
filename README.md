@@ -13,6 +13,8 @@ The Solid specifications can be found in the following repositories:
 * [Solid](https://github.com/solid/solid-spec)  
 * [Web Access Control](https://github.com/solid/web-access-control-spec) 
 * [WebID OIDC](https://github.com/solid/webid-oidc-spec)
+
+[Read how to make a suggestion to the Solid specification](https://github.com/solid/information/blob/master/decision-making-processes.md#changes-to-the-solid-specification). 
   
 
 # Solid Team
@@ -44,7 +46,7 @@ The implementation of the Solid specifications can be found in the following rep
 oidc-auth-manager, solid-multi-rp-client, folder-pane, pane-registry, oidc-rs, keychain, solid-pane, solid-notifications, solid-profile-ui, solid-connections-ui, pane-source, jose, solid-inbox, oidc-op, solid-tif, solid-client, oidc-rp, issue-panes, solid, solid-idp-list, kvplus-files, solid-email, oidc-web, solid-sign-up, solid, takeout-import, node-solid-ws, solid-auth-tls,  solid-auth-oidc, meeting-pane, solid-dips, solid-cli, solid-web-client, solid-permissions, acl-check, node-solid-server, solid-auth-client, wac-allow, mavo-solid, solid-auth-client, ldflex-playground, query-ldflex, react-components, profile-viewer-react, solid, solid-panes, solid-ui, mashlib
 
 # Solid Learning Material
-Read more about [Solid App development](https://github.com/solid/information/blob/master/app-development.md), [becoming a Pod provider](https://github.com/solid/information/blob/master/pod-development.md), [self hosting a Pod](https://github.com/solid/information/blob/master/self-hosting.md), and [becoming a Solid identity provider](https://github.com/solid/information/blob/master/webid-provider.md). 
+Read more about [Solid App development](https://github.com/solid/information/blob/master/app-development.md), [becoming a Pod provider](https://github.com/solid/information/blob/master/pod-development.md), [self hosting a Pod](https://github.com/solid/information/blob/master/self-hosting.md), and [becoming a Solid identity provider](https://github.com/solid/information/blob/master/webid-provider.md). You can also find a list of linked data learning resources. 
 
 # Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Anyone can organise a Solid Event. If you are thinking about running a Solid Event in your city below is some guidance from previous Solid Event Organisers. If you have run a Solid Event, please contribute to the guidance information and share your learnings with the Solid Manager to incorporate. If you are organising a Solid Event, let others know about it by publishing it. 
