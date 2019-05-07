@@ -6,7 +6,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 | Date | Event | Organizer(s) |
 |------|-------|--------------|
 | 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
-| 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto),  [Kris Chen](https://github.com/kristophor)| 
+| 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto) | 
 | 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort |
 
 
