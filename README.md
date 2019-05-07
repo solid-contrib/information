@@ -1,5 +1,3 @@
-The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md).
-
 Solid aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification. Read more about the [Solid values](https://github.com/solid/information/blob/master/solid-values.md). 
 
 # Solid Specifications 
@@ -7,6 +5,16 @@ The Solid specifications can be found in the following repositories:
 * [Solid](https://github.com/solid/solid-spec)  
 * [Web Access Control](https://github.com/solid/web-access-control-spec) 
 * [WebID OIDC](https://github.com/solid/webid-oidc-spec)
+
+# Solid Team
+The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md). The Solid Team is responsible for: 
+* Coordinating the definition of the Solid values
+* Coordinating the definition of the Solid specifications including from technical, legal, and design perspectives
+* Providing examples of the Solid specification under open source licensing
+* Promoting awareness of Solid
+* Coordinating the several parties implementing the Solid specification 
+* Coordinating the development of a Solid Test suite to automate the checking of compliance of solutions to the Solid specifications
+* Providing an updated list of Solid solutions
 
 # W3C Solid Community Group
 Anyone can implement the Solid specifications and is encouraged to [join the W3C SOlid Coommunity Group](https://www.w3.org/community/solid/) where the the development of the Solid specifications as well as coordinating those who are implementing the Solid is discussed. [Minutes of previous conversations and agendas of upcoming conversations of the W3C Solid community Group](https://www.w3.org/community/solid/wiki/Meetings) are publicly available. You can find a list of all organisations implementing the Solid specifications. 
