@@ -39,7 +39,7 @@ Read a list of [Solid Apps](https://github.com/solid/solid-apps) as well as [ins
  Read a list of [Pod Providers](https://github.com/solid/information/blob/master/pod-providers.md) as well as instructions on [how to become a Pod Provider](https://github.com/solid/information/blob/master/pod-development.md) or [self host a Pod](https://github.com/solid/information/blob/master/self-hosting.md). 
  
  # Solid Learning Material
-Read more about [Solid App development](https://github.com/solid/information/blob/master/app-development.md), [becoming a Pod provider](https://github.com/solid/information/blob/master/pod-development.md), [self hosting a Pod](https://github.com/solid/information/blob/master/self-hosting.md), and [becoming a Solid identity provider](https://github.com/solid/information/blob/master/webid-provider.md). You can also find a list of linked data learning resources. 
+Read more about [Solid App development](https://github.com/solid/information/blob/master/app-development.md), [becoming a Pod provider](https://github.com/solid/information/blob/master/pod-development.md), [self hosting a Pod](https://github.com/solid/information/blob/master/self-hosting.md), and [becoming a Solid identity provider](https://github.com/solid/information/blob/master/webid-provider.md). You can also find a list of [linked data learning resources](https://github.com/solid/information/blob/master/learning-linked-data.md). 
 
 # Solid Test Suite 
 [The Solid Test Suite is currently being developed](https://github.com/orgs/solid/projects/5). Once the Solid Test suite is ready you will be able to test if your Solid solution is adhering to the Solid specification with the Solid Test suite. 
