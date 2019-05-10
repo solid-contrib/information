@@ -2,7 +2,7 @@
 Defines the properties associated with the level of access of a user. Comprised of classes (e.g., “Agent” this allows anyone and anything to access”)
 
 ### File(s)
-A piece of data (of some type), that is stored on a pod server. This file has a url endpoint. 
+A piece of data (of some type), that is stored on a Pod server. This file has a url endpoint. 
 
 ### Graph Database 
 The data storage model used by the semantic web. An RDF graph can be visualized as a node and directed-arc diagram, in which each triple is represented as a node-arc-node link. RDF graphs are set(s) of “subject - predicate - object” triples that are used to express descriptions of resources. The Turtle language is used to express these triples. 
@@ -21,10 +21,10 @@ Target of the link
 ### [OWL (Web Ontology Language)](https://www.w3.org/2001/sw/wiki/OWL)
 A Semantic Web language that builds on RDF
 
-### POD (Personal Online Datastore)
-A secure repository containing the user’s data. Users control application access to their POD(s).
+### Pod (Personal Online Datastore)
+A secure repository containing the user’s data. Users control application access to their Pod(s).
 
-### POD Manager
+### Pod Manager
 An application that provides a UI and UX that allows the user to manage their Things, Files, People, and Applications. This management includes permissioning.
 
 ### Predicate 
