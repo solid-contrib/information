@@ -5,6 +5,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 
 | Date | Event | Organizer(s) |
 |------|-------|--------------|
+|2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)|
 | 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
 | 2019-05-13 | [Solid Toronto](https://www.llbrandlab.com/events/solid-toronto-meetup) | [Li Lu](https://github.com/SolidToronto) |
 | 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort |
