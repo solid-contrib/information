@@ -63,9 +63,6 @@ Solid Challenges are set by a lead who can provide guidance to those who partici
 # Solid Resources 
 [Read more about resources](https://github.com/solid/information/blob/master/solid-resources.md) that could be suited to building on Solid. If you know of any grants or channels to apply to resources that would allow developers to focus on building their application on solid, please do share them by [adding them to the list](https://github.com/solid/information/blob/master/solid-resources.md). 
 
-# Solid Logo and Terms 
-You can read a complete set of standardised definitions in the [Solid dictionary](https://github.com/solid/information/blob/master/solid-dictionary.md) and the [Solid Logo usage guidelines](https://github.com/solid/information/blob/master/solid-logo-usage-guidelines.md). 
-
 # FAQs 
 Read all past questions or ask a new question on the [Frequently Unanswered Questions](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md) page. 
 
@@ -74,6 +71,9 @@ Each repository has a license of which you can get an [overview](https://github.
 
 # Solid Press 
 You can find a list of [mentions of Solid in the press](https://github.com/solid/information/blob/master/solid-resources.md). The Solid Team and W3C Solid Community Group occasionally give talks or write articles. Find out about [upcoming Solid Team talks](https://github.com/solid/information/blob/master/solid-team-talks.md). Contact the Solid Team if you are interested in inviting them a a speaker at your event.   
+
+## Solid Logo and Terms 
+You can read a complete set of standardised definitions in the [Solid dictionary](https://github.com/solid/information/blob/master/solid-dictionary.md) and the [Solid Logo usage guidelines](https://github.com/solid/information/blob/master/solid-logo-usage-guidelines.md). 
 
 # Solid Conversations
 The  Gitter chats associated to the [Solid GitHub account](https://github.com/solid) include 
