@@ -38,14 +38,7 @@ Read a list of [Solid Apps](https://github.com/solid/solid-apps) as well as [ins
 [The Solid Test Suite is currently being developed](https://github.com/orgs/solid/projects/5). Once the Solid Test suite is ready you will be able to test if your Solid solution is adhering to the Solid specification with the Solid Test suite. 
 
 # Solid Team
-The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md). The Solid Team is responsible for: 
-* Coordinating the definition of the Solid values
-* Coordinating the definition of the Solid specifications including from technical, legal, and design perspectives
-* Providing examples of the Solid specification under open source licensing
-* Promoting awareness of Solid
-* Coordinating the several parties implementing the Solid specification 
-* Coordinating the development of a Solid Test suite to automate the checking of compliance of solutions to the Solid specifications
-* Providing an updated list of Solid solutions
+The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md). 
 
 # Solid Projects 
 [Solid Projects](https://github.com/orgs/solid/projects) are implementations of the Solid specification within Solid Github account. Anyone can submit a project proposal to the Solid Team including a description of the project name, scope, manager, contributors and names of associated repositories needed. The Project Manager is responsible for determining the scope of a [project](https://github.com/orgs/solid/projects) as well as supporting the coordination of the Project Team Member. The Project Manager will ensure that any issues and pull requests related to their project are assigned to Project Team Member, ensure that those assigned are on the case, and are responsible for merging pull requests and closing issues associated to their project. A Project Manager has admin rights over the project they manage. A Project Team Member is working on a specific official Solid [project](https://github.com/orgs/solid/projects). Project Team Members may have issues assigned to them by the Project  Manager. Project Team Members have admin rights of projects they are working on. If you would like to join an existing project, reach out to corresponding Project Manager. If you would like to start a new project, reach out to the Solid Manager with your project proposal including a defined aim, Project Manager, and Project Team.
