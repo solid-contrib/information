@@ -9,7 +9,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 | 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
 | 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto) | 
 
-(past events are [listed below](https://github.com/solid/information/solid-events.md#past-events))
+(past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
 Solid Events are run by members of the Solid community like you. Here you can 
 find a comprehensive guide to help you along the way. Reach out to the Solid 
