@@ -8,10 +8,8 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 |2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)|
 | 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
 | 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto) | 
-| 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort |
 
-
-(past events are listed below)
+(past events are [listed below](https://github.com/solid/information/solid-events.md#past-events))
 
 Solid Events are run by members of the Solid community like you. Here you can 
 find a comprehensive guide to help you along the way. Reach out to the Solid 
@@ -118,6 +116,7 @@ to speak with other Solid Event organisers
 
 | Date | Event | Organizer(s) |
 |------|-------|--------------|
+| 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort |
 | 2019-05-02 | [Solid Seattle](https://www.eventbrite.com/e/solid-seattle-tickets-60131990402) | [Jon Pederson](https://www.linkedin.com/in/jonpederson/) |
 | 2019-04-09 | [Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/260087036/) | [John Bartas](http://www.bartas.net/resume.html) |
 | 2019-04-09 | [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_–_April_9th_2019) | [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) |
