@@ -6,6 +6,10 @@
 
 Primary Colour: Royal Lavendar #7C4DFF 
 
+#  Terms 
+
+'Solid' and 'Pod' are capitalised. 
+
 # Typography 
 
 Body Text Font: 
