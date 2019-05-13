@@ -13,6 +13,7 @@ This is a roadmap of development and specification activities arround the Solid 
 | Make it easier for  developers to create Solid apps
 | Jeff Zucker|------------- |
 | Solid Chat Challenge | Make a functioning chat app for the Solid community to use | Jose Emilio Labra | https://gitter.im/solid/chat-app |
+| Open Network | Improve usablility & broader community with multiple Solid implementations. Aim is to improve accessibility for general consumer. | [Fabian Cook](https://twitter.com/fabiancook) | [Open Network on Github](https://github.com/o-network) |
 
 Ideas for Roadmap: 
 * 
