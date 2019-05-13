@@ -71,19 +71,20 @@ You can read a complete set of standardised definitions in the [Solid dictionary
 # Solid Conversations
 The  Gitter chats associated to the [Solid GitHub account](https://github.com/solid) include 
 
-* solid/chat: a place to talk about all things Solid
-* solid/solid-spec: a place to talk about the Solid specification. Note that actual changes to the Solid specification happen through the official processes. 
+* [solid/chat](https://gitter.im/solid/chat): a place to talk about all things Solid
+* [solid/solid-spec](https://gitter.im/solid/solid-spec): a place to talk about the Solid specification. Note that actual changes to the Solid specification happen through the official processes. 
 
 Groups implementing the Solid  have a dedicated channel based on the implemtatnion. 
-* solid/app-development: Solid app developers can share tips and ask questions on this channel 
-* solid/pod-providers: coming soon
-* solid/events: coming soon
+* [solid/app-development](https://gitter.im/solid/app-development): Solid app developers can share tips and ask questions on this channel 
+* [solid/pods](https://gitter.im/solid/pods): coming soon
+* [solid/events](https://gitter.im/solid/solid-events): coming soon
 
 Solid Projects have dedicated chat channels. 
-* solid/node-solid-server: originally a place to talk about [Solid Project NSS-v5.0.0](https://github.com/orgs/solid/projects/1) and now a dedicated space for [Solid Project ASAP on Server](https://github.com/orgs/solid/projects/2)
-* solid-panes: coming soon
-* site-and-docs: coming soon
+* [site-and-docs](https://gitter.im/solid/site-and-docs): a place to talk about the Solid Project '[Solid Content Generation](https://github.com/orgs/solid/projects/6)'
+* [solid/test-suite](https://gitter.im/solid/test-suite): a place to talk about the Solid Project '[Test Suite](https://github.com/orgs/solid/projects/5)'
+* [solid/data-browser](https://gitter.im/solid/data-browser): a place to talk about the Solid Project '[Solid data browser UI/UX/DX](https://github.com/orgs/solid/projects/4)'
+* [solid/node-solid-server](https://gitter.im/solid/node-solid-server): originally a place to talk about [Solid Project NSS-v5.0.0](https://github.com/orgs/solid/projects/1) and now a dedicated space for [Solid Project ASAP on Server](https://github.com/orgs/solid/projects/2)
 
 Solid Challenges have dedicated channels associated to them
-* solid/chat-app: a place to talk about the implementation of the Solid specification when building chat applications
-* solid/blog-app
+* [solid/chat-app](https://gitter.im/solid/chat-app): a place to talk about the [Solid Chat Challenge](https://github.com/solid/information/blob/master/solid-challenges.md#solid-chat-challenge)
+* solid/blog-app: coming soon as a place to talk about the [Solid Blog Challenge](https://github.com/solid/information/blob/master/solid-challenges.md#solid-blog-challenge)
