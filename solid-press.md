@@ -28,6 +28,8 @@
 
 ## Solid Articles
 
+20190511 [De Tijd](https://www.tijd.be/dossiers/nieuwe-inzichten/we-moeten-weer-baas-worden-over-onze-data/10125717.html)
+
 20190121 [MIT Technology Review](http://www.mittrchina.com/news/3453)
 
 20181231 [NRC - Herselwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
