@@ -1,26 +1,36 @@
 # Abstract 
 This document is an in-progress proposal which is not currently in effect. It describes how decision-making within the Solid project might work. Importantly, the Solid Leader needs to approve any decision making processes for it to be legitimate and the Solid Leader can block decisions at any point.
 
+In short, the proposal is for the Solid team to lead decision making processes concerning Solid which can involve votes by the Solid Decision Panel.  
+
 # Purpose
-There are several converstaions happening via pull requests and issues around the Solid specification. Some of these conversations date back to 2015 and there is a range of complexity and degrees of agreement. The Solid project has been worked on by multiple changing teams who each had slightly different ways of coming to consensus. This document is a proposal about legitimate decision-making on Solid between all the parties working on Solid. 
+There are several converstaions happening via pull requests and issues around the Solid specification. Some of these conversations date back to 2015 and there is a range of complexity and degrees of agreement. The Solid project has been worked on by multiple changing teams who each had slightly different ways of deciding how to decide. Although, largely there is agreement on those working on Solid, it is unclear how to resolve open ended questions especially when there are light differences of opinion between some individuals. Therefore open ended questions tend to lie in a vacuum of uncertainty around how to decide how to decide. This purpose of this proposal is to come to a collective agreement about legitimate decision-making on Solid between all the parties working on Solid. 
 
 # Scope
-At the moment the scope of this document is for changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. 
-
-There are other decisions that may be possible to think about, for example: 
+At the moment the focus of this document is for changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. There are other decisions that could also fall under this decision making process, including: 
 * How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account? 
 * What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)? 
 * Which communication channels to use for Solid conversations? 
-* What to include in the Solid test suite? 
+* What to include in the Solid test suite?
+(please add more items you should be on this list) 
 
-# [The Solid Team](https://github.com/solid/information/blob/master/solid-team.md)
+# [The Solid Team]
+The Solid Team is a 5 person trusted group who manage Solid, which currently consists of: 
+* Tim Berners-Lee
+* Mitzi László
+* Kjetil Kjernsmo
+* Ruben Verborgh 
+* Justin Bingham 
 
-## Role 
-The Solid Team is a trusted group who manage Solid. They assume [defined roles](https://github.com/solid/information/blob/master/solid-team.md) required to achieve the Solid project's goals, especially those that require a high level of trust. The specific [defined roles](https://github.com/solid/information/blob/master/solid-team.md) in the Solid team can be edited by anyone through a Github pull request and need to be approved by the Solid Leader.
+The Solid Team assume [defined roles](https://github.com/solid/information/blob/master/solid-team.md) required to achieve the Solid project's goals, especially those that require a high level of trust. The defined [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) as well as indiviudals apointed were defined by open suggestions by anyone on a Github pull request which were ultimately approved by the Solid Leader, Tim Berners-Lee. 
 
-They make decisions that shape the future of the project. The Solid Team are expected to act as role models for the community and custodians of the project, on behalf of the community and all those who rely on Solid. The Solid Team will interveve where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. They have authority over Solid Project infrastructure, including the Solid Github organisation and repositories, the bug tracker, mailing lists, conversation channels etc.  
-
-The Solid Team is responsible for: 
+## Mandate 
+The Solid team shall work to: 
+* Maintain the quality and stability of Solid 
+* Make contributing as accessible, inclusive, and sustainable as possible 
+* Establish appropriate decision-making processes
+* Seek consensus among those building on Solid and using Solid before acting in a formal capacity 
+* Act as a court of final appeal for decisions where all other methods have failed
 * Coordinating the definition of the Solid values
 * Coordinating the definition of the Solid specifications including from technical, legal, and design perspectives
 * Providing examples of the Solid specification under open source licensing
@@ -29,38 +39,88 @@ The Solid Team is responsible for:
 * Coordinating the development of a Solid Test suite to automate the checking of compliance of solutions to the Solid specifications
 * Providing an updated list of Solid solutions
 
-## Requirements 
-Solid team members need to demonstrate:
-* a good grasp of the philosophy of the Solid Project
-* a solid track record of being constructive and helpful
-* significant contributions to Solid project's goals, in any form
-* willingness to dedicate some time to improving Solid
+## Powers 
+The Solid Team has broad authority to make decisions about Solid. For exmaple, they can: 
+* Formally accept or reject suggestions (usually in the form of a GitHub pull request or issue) 
+* Enforce or update the Solid project's code of conduct 
+* Manage Solid assets and infrastructure, including the Solid Github organisation and repositories, the bug tracker, mailing lists, conversation channels etc.
 
-## Apppoinment
-Anyone can apply to a Solid Team role. The Solid Leader appointments candidates to roles.
+However, the Solid Team cannot modify this decision making process or affect the membership of the Solid Decision Panel, except via the mechanisms specified in this decision making process document. 
+
+The Solid Team should look for ways to use these powers as little as possible. Instead of voting it's better to seek consensus. Instead of ruling on individuals it's better to define standard processes for decision making. It's better to establish a Code of Conduct committee than to rule on individual cases, etc. 
+
+To use its powers, the Solid Team votes. The Solid leader can always veto the voting outcome. Every Solid Team member  must either vote or explicitly abstain. Members with conflicts of interest on a particular vote must abstain. Passing requires a strict majority of non-abstaining council members.
+
+Whenever possible, the council's deliberations and votes shall be held in public.
+
+## Electing the Solid Team 
+A Solid Team election consists of two phases: 
+* Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a core team member. Self-nominations are allowed.
+* Phase 2: Each individual on the Solid Decision Panel can vote for zero to five of the candidates. Voting is performed anonymously. Candidates are ranked by the total number of votes they receive. If a tie occurs, it may be resolved by mutual agreement among the candidates, or else the winner will be chosen at random.
+
+Each phase lasts one to two weeks and should be publicly communicated. The election process is managed by the Election Manager nominated by the outgoing Solid Team. 
+
+The Solid Team should ideally reflect the diversity of individuals building on Solid and using Solid. The Solid Decision  Panel is encouraged to vote accordingly.
+
+## Term 
+A new Solid Team is elected after five years. 
+
+## Vacancies 
+Solid Team members may resign thier position at any time. 
+
+Whenever there is a vacancy during the regular Solid Team term, an election will take place as described above to appoint a replacement to serve out the rest of the term.
+
+If a Solid Team member drops out of touch and cannot be contacted for a month or longer for reasons other than sick leave or pregnancy leave, then the rest of the Solid Team may vote to initiate an election as described above. 
+
+Solid Team members may take sick leave or pregnancy leave and an election will take place to appoint an interim individual. 
+
+## Conflicts of Interest 
+Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust . In order to avoid any appearance of conflict of interest, at most 2 members of the council can work for any single employer.
+
+In a Solid Team election, if 3 of the top 5 vote-getters work for the same employer, then whichever of them ranked lowest is disqualified and the 6th-ranking candidate moves up into 5th place; this is repeated until a valid Solid Team is formed.
+
+During a Solid Team term, if changing circumstances cause this rule to be broken (for instance, due to a Solid Team member changing employment), then one or more Solid Team members must resign to remedy the issue, and the resulting vacancies can then be filled as normal election.
+
+## Vote of No Confidence
+In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. (For example: egregious and ongoing code of conduct violations.) This can be accomplished by a Solid Decision Panel vote, but unlike other votes, this requires at least a two-thirds majority.
+
+A no-confidence vote is triggered when a Solid Decision Panel member calls for one publically on an appropriate project communication channel, and ten other Solid Decision Panel members second the proposal. The vote lasts for two weeks. Solid Decision Panel members vote for or against. If at least two thirds of voters express a lack of confidence, then the vote succeeds.
+
+There are two forms of no-confidence votes: those targeting a single member, and those targeting the Solid Team as a whole. The initial call for a no-confidence vote must specify which type is intended. If a single-member vote succeeds, then that member is removed from the Solid Team and the resulting vacancy can be handled in the usual way. If a whole-Solid Team vote succeeds, the Solid Team is dissolved and a new Solid Team election is triggered immediately.
 
 # The Solid Decision Panel 
+Solid team members need to demonstrate a good grasp of the philosophy of the Solid Project, a good track record of being constructive and helpful, significant contributions to Solid project's goals, in any form and willingness to dedicate some time to improving Solid. 
 
-## Criteria 
-Possible candidates for the Decision Panel, that could be adapted according to the type of decision include: 
+## Mandate 
+The Solid Decision Panel make decisions that shape the future of the project. The Solid Decsion Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will interveve where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
+
+## Requirements 
+The Solid Decision Panel consists of 
 * [Solid Team](https://github.com/solid/information/blob/master/solid-team.md)
 * [MIT Solid Project Team](https://solid.mit.edu) 
-* [W3C Solid Community Group Participants](https://www.w3.org/community/solid/participants)
-
-The W3C Solid Community Group is open to anyone although there is an application process that may need to be taken into consideration. Potentially it could be wise to make the criteria more specific that the W3C Solid COmmunity Group Participants, for example: 
 * Active Identity Providers   
 * Active Pod providers 
 * Active Solid app providers 
-* Active Solid Users
+* Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
+(please include further sugestions, precautions of existing suggestions, and detailed criteria of existing suggestions) 
 
 Once there is a Solid Test Suite it could be made a requirement that identity providers, Pod providers, and Solid app providers need to pass the Solid Test Suite to be able to participate in the Solid Decision Panel. 
 
-Also, you could have a minimum engagement from Solid users, for example: has a WebID, has  Pod, uses a Solid app regularly and actively. 
+Companies with multiple employees have a vote per individual employee rather than per company. 
 
-# Changes to the Solid Specification
+## Apppoinment
+Anyone can apply to the Solid Decision Panel as long as they fullfill the criteria above. The Solid Leader appointments candidates to roles. 
+
+
+# Election Process for Decisions other than Appointing Individuals to Roles 
+* Changes to the Solid specification
+* Changes to the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
+* Changes to the Solid Test Suite
+* Starting or changing a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
+
 
 ## Step 1. Making a Suggestion 
-Anyone can suggest a change to the Solid specification by getting a GitHub account and submitting a pull request or issues to the Solid specification repositories. 
+Anyone can suggest a change by getting a GitHub account and submitting a pull request or issues to the relevant repository on the Solid GitHub account. 
 
 ## Step 2. Inviting a Conversation around your Suggestion to Find Consensus
 You will then need to get a W3C account and join the W3C Solid Community Group to raise a conversation about your suggestion as an item on the weekly call agenda. By adding the item to the agenda all members of the W3C Solid Community Group will be automatically notified and therefore are able to comment on the pull request or issue directly. 
@@ -74,9 +134,11 @@ Anyone can suggest routes forward to the suggested changes with pros and cons of
 This step is to make sure that everyone has a chance to voice their thoughts on all the options and their opinions of each so that they feel that all the options are given a chance.
 
 ## Step 3. Coming to a Conclusion through Compromise  
-The Solid Manager would collect the options, pros, and cons, and then make sure that everyone on the Decision Panel receives a complete copy of all the information via the github pull request and issue.
+The Solid Manager collects the options, pros, and cons, and then make sure that everyone on the Solid Decision Panel receives a complete copy of all the information via the github pull request and issue.
 
-Each individual in the Decision Panel has one vote even if they have multiple criteria for being in the Decision panel, so each person in the Decision Panel has an equal voice. Each individual can vote on a first and second choice, or they can abstain. After counting the first choice votes, the votes from the bottom three options get transferred to the second choice vote to avoid strategic voting that does not reflect the true opinion of the Decision Panel. The votes are recounted and the majority vote wins. The Solid Manager's responsibilities are to -- 
+Each individual in the Decision Panel has one vote even if they have multiple criteria for being in the Decision panel, so each person in the Decision Panel has an equal voice. Each individual can vote on a first and second choice, or they can abstain. After counting the first choice votes, the votes from the bottom three options get transferred to the second choice vote to avoid strategic voting that does not reflect the true opinion of the Decision Panel. The votes are recounted and the majority vote wins. 
+
+The Solid Manager's responsibilities are to:  
 * make sure everyone on the Decision Panel is aware of the vote
 * explain how they can vote
 * collect the final results
