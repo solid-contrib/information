@@ -58,11 +58,11 @@ Solid currently is working on access controls to selectively limit the data acce
 ## Can I make sure that nobody has a copy of my data? 
 Solid does not get the data you already sent out back. As soon as you start using Solid, you will be the sole controller of the data you generate while using these apps. If you would like to ask for your data to be deleted from other services, In Europe there is a law called the Right to be Forgotten which makes it possible for European citizens to ask for their data to be deleted.
 
-## Does a copy of my data controlled by others exits? 
+## Does a copy of my data controlled by others exist? 
 Yes. Today, other people and organisations have a copy of your data, but you may not. And, just because you have a copy of your data doesn’t necessarily mean that others won’t also have a copy.
  
 ## If everyone used Solid would I lose my favorite internet services? 
-No. Search engines and communication tools do not need to track you to work.  Hopefully over time all the nice things you get from dilos which don’t let you control your data will be echoed by new solid-compatible ones which do.
+No. Search engines and communication tools do not need to track you to work.  Hopefully over time all the nice things you get from silos which don’t let you control your data will be echoed by new solid-compatible ones which do.
 
 ## Can people working at the place where I choose to store my data see my data? 
 Today, the POD is not encrypted therefore your service provider could see your data. The Solid community is working on POD encryption to change this. 
@@ -73,7 +73,7 @@ This depends on the agreement you have with your hosting provider.
 ## Arguably the Semantic Web or Linked Data never took off, so why is Solid working with it? 
 Today, almost a quarter of all websites are currently using the semantic web or linked data. The Solid community is working to provide seamless convenience to developers to work with the semantic web or linked data more easily.
 
-## What is the solid architecture?
+## What is the Solid architecture?
 Technically, Solid is about creating a single solid API which any app can use to talk to any store, so the user has a choice of several places to put data, and complete control of sharing or not in in case. The client-server API is made of HTTP and LDP and WACL and some glue, extra HTTP headers, a little posix metadata. That is a significant, but finite, spec., which every Solid server must meet. Servers to storage, access control. Clients can send small changes to and data file as though it were a database, and can also subscribe to any changes other users make.  Then clients can talk to each other via the servers without the servers needing to know anything about the applications. So then as well as the client-server API, we need common standards for allow the clients to interoperate: “client-client” specs. How to discover the user’s contacts, the user’s general stuff, (type indexes), preferences, groups and communities, preferences within those communities. And then domain-specific standards for chat, photos, music, issue tracking, likes, bookmarks, health, fitness, academic record, CV, and so on. 
  
 ## Does Solid use blockchain?
@@ -89,7 +89,7 @@ Organisations that are legal entities can get a WebID and POD in exactly the sam
 Yes, if the original data controller allows an app to transfer and store personal data, that data can exist in more than one POD. 
 
 ## Does Solid mean we won’t need so many password? 
-Yes. When you use Solid you can use applications that would interact with your POD and therefore the login mechanism would be much simpler than having to create accounts on each and every service. However, you will still have to manager what data you would like to share with each application. 
+Yes. When you use Solid you can use applications that would interact with your POD and therefore the login mechanism would be much simpler than having to create accounts on each and every service. However, you will still have to manage what data you would like to share with each application. 
 
 ## Where does authorisation happen? 
 In the container server. 
@@ -99,7 +99,7 @@ Category: Solid: The Basics
 Data protection does not mean a total lock down of data, it means ensuring that data is used to the advantage and wishes of the individual to which that data belongs. If a service needs data to provide a service that the individual would like and does not put the individual at unnecessary risk, then that data transfer is legitimate. Solid provides an overview to an individual of their complete data via their POD and allows them to conveniently give access and deny access at any point.
 
 ## How does a POD determine who has access to data?
-The specification for how Solid figures out access to a given resource is described in Web Access Controll (WAC). The specification uses the terms Access Control List Resources (or simply ACLs) and agents (e.g. a random visitor or a authenticated user) to describe which modes of access a user might have to a resource (the modes described are Read, Write, Append, and Control).In addition to describing resources to a specific resource, ACLs can also be used to describe default access to resources that reside within a given container. So if a resource doesn’t have ACLs describing that specific resource, Solid will try to figure out which default access that resource have based on the containers it resides in. If it doesn’t find ACLs for the container, it will continue to look in the parent container, and so on, until it reaches the root container.You can think of containers as folders on your computer. In this case, Solid will look for ACLs for a resource by looking through the parent folders of a document until it comes to the root of your computer.
+The specification for how Solid figures out access to a given resource is described in Web Access Control (WAC). The specification uses the terms Access Control List Resources (or simply ACLs) and agents (e.g. a random visitor or a authenticated user) to describe which modes of access a user might have to a resource (the modes described are Read, Write, Append, and Control).In addition to describing resources to a specific resource, ACLs can also be used to describe default access to resources that reside within a given container. So if a resource doesn’t have ACLs describing that specific resource, Solid will try to figure out which default access that resource have based on the containers it resides in. If it doesn’t find ACLs for the container, it will continue to look in the parent container, and so on, until it reaches the root container.You can think of containers as folders on your computer. In this case, Solid will look for ACLs for a resource by looking through the parent folders of a document until it comes to the root of your computer.
 
 ## What is a Solid pane?
 Panes are an integral part of the Solid Data Browser, which is the view you’ll get when you’re consuming certain types of resources on the Solid server (and is the view most people discover once they’ve created a WebID and start looking around their POD). 
@@ -144,7 +144,7 @@ To delete a document using the Solid Data Browser you need to navigate to the co
 
 Once you’ve selected that you should can hover the left side to see a stop sign icon:
 
-By clicking this you’ll be asked to verify the action a couple of times, and then it will be removed. (Right now there is a bug so that the list isn’t reloaded when the resource is deleted, so you have to reload the page to see the change in the list.)
+By clicking this you’ll be asked to verify the action a couple of times, and then it will be removed. (Right now there is [a bug](https://github.com/solid/solid-panes/issues/71) so that the list isn’t reloaded when the resource is deleted, so you have to reload the page to see the change in the list.)
 
 ## How to add your picture to your Solid POD? 
 If you want to add a picture to your profile, the easiest thing is to use the Contact pane (it’s the default pane shown when you navigate to your WebID).
@@ -184,8 +184,8 @@ Currently there are no developer kits in development for Android or iOS.
 
 If you really want to have an app that can be installed on Android or iOS, you might consider:
 
-Write it as a progressive web app, or
-Write it as a hybrid app
+- Writing it as a progressive web app, or
+- Writing it as a hybrid app
 
 ## What is the best way to test while developing the panes in solid/solid-panes?
 Status: My approach is quite convoluted, so might not be “the best” approach?
