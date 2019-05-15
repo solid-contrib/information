@@ -1,10 +1,5 @@
 # Abstract 
-This document is an in-progress proposal which is not currently in effect. It describes how decision-making within the Solid project might work. Importantly, the Solid Leader needs to approve any decision making processes for it to be legitimate and the Solid Leader can block decisions at any point.
-
-In short, the proposal is for the Solid team to lead decision making processes concerning Solid which can involve votes by the Solid Decision Panel.  
-
-# Purpose
-There are several converstaions happening via pull requests and issues around the Solid specification. Some of these conversations date back to 2015 and there is a range of complexity and degrees of agreement. The Solid project has been worked on by multiple changing teams who each had slightly different ways of deciding how to decide. Although, largely there is agreement on those working on Solid, it is unclear how to resolve open ended questions especially when there are light differences of opinion between some individuals. Therefore open ended questions tend to lie in a vacuum of uncertainty around how to decide how to decide. This purpose of this proposal is to come to a collective agreement about legitimate decision-making on Solid between all the parties working on Solid. 
+This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Decision Panel for votes on occasion. The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
 # Scope
 At the moment the focus of this document is for changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. There are other decisions that could also fall under this decision making process, including: 
