@@ -29,7 +29,7 @@ To build on Solid a basic understanding of Linked Data is helpful. You can  find
 Identity providers authenticate users with a WebID. The identity provider is the server hosting the profile documents to which the WebIDs refer used to authenticate for WebID-OIDC. Some identity providers are also Pod providers. Read a list of [identity providers](https://github.com/solid/solid-idp-list) as well as instructions on how to [become a Solid identity provider](https://github.com/solid/information/blob/master/webid-provider.md). 
 
  ## Pod Providers
-Pod providers offer storage to the user. Some Pod providers are also identity providers. Read a list of [Pod Providers](https://github.com/solid/information/blob/master/pod-providers.md) as well as instructions on [how to become a Pod Provider](https://github.com/solid/information/blob/master/pod-development.md) or [self host a Pod](https://github.com/solid/information/blob/master/self-hosting.md). 
+Pod providers offer storage to the user. Some Pod providers are also identity providers. Read a list of [Pod Providers](https://github.com/solid/pods/tree/master) as well as instructions on [how to become a Pod Provider](https://github.com/solid/information/blob/master/pod-development.md) or [self host a Pod](https://github.com/solid/information/blob/master/self-hosting.md). 
  
  ## Solid Apps
 Read a list of [Solid Apps](https://github.com/solid/solid-apps) as well as [instructions on how to build a Solid app](https://github.com/solid/information/blob/master/app-development.md). Solid applications are somewhat like multi-user applications where instances talk to each other through a shared filesystem, and the Web is that filesystem.
@@ -76,8 +76,8 @@ The  Gitter chats associated to the [Solid GitHub account](https://github.com/so
 
 Groups implementing the Solid  have a dedicated channel based on the implemtatnion. 
 * [solid/app-development](https://gitter.im/solid/app-development): Solid app developers can share tips and ask questions on this channel 
-* [solid/pods](https://gitter.im/solid/pods): coming soon
-* [solid/events](https://gitter.im/solid/solid-events): coming soon
+* [solid/pods](https://gitter.im/solid/pods): Solid Pod providers can share tips and ask questions on this channel 
+* [solid/events](https://gitter.im/solid/solid-events): Solid Event organisers can share tips and ask questions on this channel 
 
 Solid Projects have dedicated chat channels. 
 * [site-and-docs](https://gitter.im/solid/site-and-docs): a place to talk about the Solid Project '[Solid Content Generation](https://github.com/orgs/solid/projects/6)'
