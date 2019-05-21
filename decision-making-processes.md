@@ -1,13 +1,13 @@
 # Abstract 
-This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Decision Panel for votes on occasion. The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
+This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Panel for their opinion via a vote on occasion. The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
 # Scope
-At the moment the focus of this document is for changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. There are other decisions that could also fall under this decision making process, including: 
+The scope of Solid governance includes but it not limited to: 
+* Changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. 
 * How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account? 
 * What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)? 
 * Which communication channels to use for Solid conversations? 
 * What to include in the Solid test suite?
-(please add more items you should be on this list) 
 
 # [The Solid Team]
 The Solid Team is a 5 person trusted group who manage Solid, which currently consists of: 
@@ -40,7 +40,7 @@ The Solid Team has broad authority to make decisions about Solid. For exmaple, t
 * Enforce or update the Solid project's code of conduct 
 * Manage Solid assets and infrastructure, including the Solid Github organisation and repositories, the bug tracker, mailing lists, conversation channels etc.
 
-However, the Solid Team cannot modify this decision making process or affect the membership of the Solid Decision Panel, except via the mechanisms specified in this decision making process document. 
+However, the Solid Team cannot modify this decision making process or affect the membership of the Solid Panel, except via the mechanisms specified in this decision making process document. 
 
 The Solid Team should look for ways to use these powers as little as possible. Instead of voting it's better to seek consensus. Instead of ruling on individuals it's better to define standard processes for decision making. It's better to establish a Code of Conduct committee than to rule on individual cases, etc. 
 
@@ -50,8 +50,8 @@ Whenever possible, the council's deliberations and votes shall be held in public
 
 ## Electing the Solid Team 
 A Solid Team election consists of two phases: 
-* Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a core team member. Self-nominations are allowed.
-* Phase 2: Each individual on the Solid Decision Panel can vote for zero to five of the candidates. Voting is performed anonymously. Candidates are ranked by the total number of votes they receive. If a tie occurs, it may be resolved by mutual agreement among the candidates, or else the winner will be chosen at random.
+* Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a Solid team member. Self-nominations are allowed.
+* Phase 2: Each individual on the Solid Panel can vote for zero to five of the candidates. Voting is performed anonymously. Candidates are ranked by the total number of votes they receive. If a tie occurs, it may be resolved by mutual agreement among the candidates, or else the winner will be chosen at random.
 
 Each phase lasts one to two weeks and should be publicly communicated. The election process is managed by the Election Manager nominated by the outgoing Solid Team. 
 
@@ -77,20 +77,22 @@ In a Solid Team election, if 3 of the top 5 vote-getters work for the same emplo
 During a Solid Team term, if changing circumstances cause this rule to be broken (for instance, due to a Solid Team member changing employment), then one or more Solid Team members must resign to remedy the issue, and the resulting vacancies can then be filled as normal election.
 
 ## Vote of No Confidence
-In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. (For example: egregious and ongoing code of conduct violations.) This can be accomplished by a Solid Decision Panel vote, but unlike other votes, this requires at least a two-thirds majority.
+In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. (For example: egregious and ongoing code of conduct violations.) This can be accomplished by a Solid Panel vote, but unlike other votes, this requires at least a two-thirds majority.
 
-A no-confidence vote is triggered when a Solid Decision Panel member calls for one publically on an appropriate project communication channel, and ten other Solid Decision Panel members second the proposal. The vote lasts for two weeks. Solid Decision Panel members vote for or against. If at least two thirds of voters express a lack of confidence, then the vote succeeds.
+A no-confidence vote is triggered when a Solid Panel member calls for one publically on an appropriate project communication channel, and ten other Solid Panel members second the proposal. The vote lasts for two weeks. Solid Panel members vote for or against. If at least two thirds of voters express a lack of confidence, then the vote succeeds.
 
 There are two forms of no-confidence votes: those targeting a single member, and those targeting the Solid Team as a whole. The initial call for a no-confidence vote must specify which type is intended. If a single-member vote succeeds, then that member is removed from the Solid Team and the resulting vacancy can be handled in the usual way. If a whole-Solid Team vote succeeds, the Solid Team is dissolved and a new Solid Team election is triggered immediately.
 
-# The Solid Decision Panel 
-Solid team members need to demonstrate a good grasp of the philosophy of the Solid Project, a good track record of being constructive and helpful, significant contributions to Solid project's goals, in any form and willingness to dedicate some time to improving Solid. 
+# The Solid Panel 
+Solid Panel members need to demonstrate a good grasp of the philosophy of the Solid Project, a good track record of being constructive and helpful, significant contributions to Solid project's goals, in any form and willingness to dedicate some time to improving Solid. 
+
+The Solid Team consults the Solid Panel for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Panel can request a vote on issues that they feel are important to open up to a wider vote. If there are two Solid Panel members who back the first Solid Panel request for a vote, the vote will go ahead.
 
 ## Mandate 
-The Solid Decision Panel make decisions that shape the future of the project. The Solid Decsion Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will interveve where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
+The Solid Panel make decisions that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will interveve where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
 
 ## Requirements 
-The Solid Decision Panel consists of 
+The Solid Panel consists of 
 * [Solid Team](https://github.com/solid/information/blob/master/solid-team.md)
 * [MIT Solid Project Team](https://solid.mit.edu) 
 * Active Identity Providers   
@@ -99,13 +101,12 @@ The Solid Decision Panel consists of
 * Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
 (please include further sugestions, precautions of existing suggestions, and detailed criteria of existing suggestions) 
 
-Once there is a Solid Test Suite it could be made a requirement that identity providers, Pod providers, and Solid app providers need to pass the Solid Test Suite to be able to participate in the Solid Decision Panel. 
+Once there is a Solid Test Suite it could be made a requirement that identity providers, Pod providers, and Solid app providers need to pass the Solid Test Suite to be able to participate in the Solid Panel. 
 
 Companies with multiple employees have a vote per individual employee rather than per company. 
 
 ## Apppoinment
-Anyone can apply to the Solid Decision Panel as long as they fullfill the criteria above. The Solid Leader appointments candidates to roles. 
-
+Anyone can apply to the Solid Panel as long as they fullfill the criteria above. The Solid Leader appointments candidates to roles. 
 
 # Election Process for Decisions other than Appointing Individuals to Roles 
 * Changes to the Solid specification
@@ -129,12 +130,12 @@ Anyone can suggest routes forward to the suggested changes with pros and cons of
 This step is to make sure that everyone has a chance to voice their thoughts on all the options and their opinions of each so that they feel that all the options are given a chance.
 
 ## Step 3. Coming to a Conclusion through Compromise  
-The Solid Manager collects the options, pros, and cons, and then make sure that everyone on the Solid Decision Panel receives a complete copy of all the information via the github pull request and issue.
+The Solid Manager collects the options, pros, and cons, and then make sure that everyone on the Solid Panel receives a complete copy of all the information via the github pull request and issue.
 
-Each individual in the Decision Panel has one vote even if they have multiple criteria for being in the Decision panel, so each person in the Decision Panel has an equal voice. Each individual can vote on a first and second choice, or they can abstain. After counting the first choice votes, the votes from the bottom three options get transferred to the second choice vote to avoid strategic voting that does not reflect the true opinion of the Decision Panel. The votes are recounted and the majority vote wins. 
+Each individual in the Panel has one vote even if they have multiple criteria for being in the Solid panel, so each person in the Panel has an equal voice. Each individual can vote on a first and second choice, or they can abstain. After counting the first choice votes, the votes from the bottom three options get transferred to the second choice vote to avoid strategic voting that does not reflect the true opinion of the Panel. The votes are recounted and the majority vote wins. 
 
 The Solid Manager's responsibilities are to:  
-* make sure everyone on the Decision Panel is aware of the vote
+* make sure everyone on the Panel is aware of the vote
 * explain how they can vote
 * collect the final results
 * communicate the outcome
