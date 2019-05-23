@@ -1,4 +1,10 @@
-# Code of Conduct
+# Code of Conduct 
+
+Personal threats or discriminatory threats towards arbitary groups on Solid gitter, Solid forum, the W3C Solid Community Group call and mailing list typically may result in a ban of the threatening individual implemented by the Solid Team.
+
+Repeated and sustained straying from the [defined aims of the Solid gitter channels](https://github.com/solid/information#connect) typically may result in a ban of the individuals straying from the defined aim that will be implemented by the Solid Team. 
+
+Below are some general expectations around how participants of the Solid community are encouraged to behave. 
 
 Participants in the Solid community are expected to behave professionally and
 respectfully. This community is committed to maintain a positive and
