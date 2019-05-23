@@ -19,3 +19,4 @@
 * [Some background](https://github.com/solid/information/blob/master/background.md)
 * https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg 
 * https://github.com/LearnSolid/solid-roadmap
+* Pieter Heyvaert's detailed [writeup](https://forum.solidproject.org/t/decentralized-chess-game/365/20) on building [solid-chess](https://github.com/pheyvaer/solid-chess) provides a peek into architecting Solid applications.
