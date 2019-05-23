@@ -19,44 +19,7 @@ ___
 
 # Values
 
-Solid has 6 core values that should be embodied in everything that it represents or represents it:
-
-Interoperability 
--
-There should be no boundaries to where Solid goes and who it serves.
-
-In practice: ensuring all functionality, content or experiences are as accessible and usable as possible to ensure anyone can access.
-
-Self-determination
--
-Everyone should be able to use Solid in a way that works for them and shouldn’t be subject to doctrine, dictation or directive.
-
-In practice: creating applications that are customisable and allow users to make their own.
-
-Equal access
--
-Solid should be indiscriminate in the way it operates and speak to everyone equally.
-
-In practice: experiences, communications and content that are engineered to be as accessible as possible.
-
-Sourcing
--
-It should be easy to find the source of anything associated with Solid so that anyone can judge its trustworthiness.
-
-In practice: pro-active transparency in everything - where information comes from, who created what and how it was created.
-
-Public Value
--
-Long-term public interest should always be given priority over short-term private interest.
-
-In practice: applications and engagement with long-term value to everyone, no matter what their background, experience or understanding.
-
-Connecting
--
-Solid applications, events and communications should look to aid or promote connectivity in every aspect.
-
-In practice: a focus on functionality, action and information which helps link people and organisations together more effectively.
-___
+Solid has [core values](https://github.com/solid/information/blob/master/solid-values.md) that should be embodied in everything that it represents or represents it: Interoperability, Self-determination, Equal access, Sourcing, Public Value, Connecting
 
 # Logo
 
