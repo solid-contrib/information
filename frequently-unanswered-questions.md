@@ -206,4 +206,12 @@ Category: Managing Your Solid Pod
 https://forum.solidproject.org/t/invalid-login-to-pod-on-own-server/142
 STATUS: The specific issue is still being researched on, maybe not applicable for this FAQ?
 
+## Why are Pods not encrypted? 
 
+## What if my Pod provider stops being trustworthy and stops being Solid spec compliant so I can't switch to another Pod provider and bring my data with me anymore? what if pod providers just lock you in anyway? (it's not that easy to just download terabytes of data and move it to a different provider, without support of your current one)
+
+## How does Solid ensure performance when querying lots of resources from all arround the web?
+
+## Where would complex calculations like building up a personal news feed be? 
+
+## Won't reliance on DNS get problematic? 
