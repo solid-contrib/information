@@ -63,7 +63,7 @@ The [Solid GitHub account](https://github.com/solid) was started by the [Solid a
 Read all past questions or ask a new question on the [Frequently Unanswered Questions](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md) page. 
 
 # Press 
-You can find a list of [mentions of Solid in the press](https://github.com/solid/information/blob/master/solid-resources.md). The Solid Team and W3C Solid Community Group occasionally give talks or write articles. Find out about [upcoming Solid Team talks](https://github.com/solid/information/blob/master/solid-team-talks.md). Contact the Solid Team if you are interested in inviting them a a speaker at your event.   
+You can find a list of [mentions of Solid in the press](https://github.com/solid/information/blob/master/solid-press.md). The Solid Team and W3C Solid Community Group occasionally give talks or write articles. Find out about [upcoming Solid Team talks](https://github.com/solid/information/blob/master/solid-team-talks.md). Contact the Solid Team if you are interested in inviting them a a speaker at your event.   
 
 # Connect
 
