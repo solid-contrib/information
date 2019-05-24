@@ -1,4 +1,8 @@
-## Solid Talks
+## Articles 
+
+## Talks 
+ 
+ 20190522 - [Angelo V Presentation at Solid London](https://angelo.veltens.org/slides/2019/solid-introduction)
 
 20190330 - [How a chess app interacts with Solid](https://pieterheyvaert.com/blog/2019/03/30/solid-chess-interaction)
 
@@ -76,3 +80,5 @@ Share and read news articles, talks, and other content that reflects themes rela
 2015 - [RAND - Public Perception of Security and Privacy](https://www.rand.org/pubs/research_reports/RR704.html) 
 
 [The Baffler - 404 Page Not Found](https://thebaffler.com/salvos/404-page-not-found-wagner)
+
+
