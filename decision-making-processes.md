@@ -89,7 +89,7 @@ Solid Panel members need to demonstrate a good grasp of the philosophy of the So
 The Solid Team consults the Solid Panel for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Panel can request a vote on issues that they feel are important to open up to a wider vote. If there are two Solid Panel members who back the first Solid Panel request for a vote, the vote will go ahead.
 
 ## Mandate 
-The Solid Panel make decisions that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will interveve where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
+The Solid Panel make decisions that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
 
 ## Requirements 
 The Solid Panel consists of 
@@ -99,21 +99,20 @@ The Solid Panel consists of
 * Active Pod providers 
 * Active Solid app providers 
 * Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
-(please include further sugestions, precautions of existing suggestions, and detailed criteria of existing suggestions) 
+(please include further suggestions, precautions of existing suggestions, and detailed criteria of existing suggestions) 
 
 Once there is a Solid Test Suite it could be made a requirement that identity providers, Pod providers, and Solid app providers need to pass the Solid Test Suite to be able to participate in the Solid Panel. 
 
 Companies with multiple employees have a vote per individual employee rather than per company. 
 
-## Apppoinment
-Anyone can apply to the Solid Panel as long as they fullfill the criteria above. The Solid Leader appointments candidates to roles. 
+## Appoinment
+Anyone can apply to the Solid Panel as long as they fulfill the criteria above. The Solid Leader appoints candidates to roles. 
 
 # Election Process for Decisions other than Appointing Individuals to Roles 
 * Changes to the Solid specification
 * Changes to the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
 * Changes to the Solid Test Suite
 * Starting or changing a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
-
 
 ## Step 1. Making a Suggestion 
 Anyone can suggest a change by getting a GitHub account and submitting a pull request or issues to the relevant repository on the Solid GitHub account. 
@@ -140,9 +139,11 @@ The Solid Manager's responsibilities are to:
 * collect the final results
 * communicate the outcome
 
+Solid specification 0.9 will be released on July 1st, and new versions of the Solid specification will be released every six months For a change to the Solid specification to be merged there needs to be at least one working implemetation that adheres to the changed Solid specification.
+
 # History 
 
-The Solid project was started by Tim Berners-Lee, who serves as Benevolent Disctator for Life (BDFL) from inception. If there is a difference of opinion, parties are encouraged to talk to find a compromise. The Solid Specification Repository Manager is responsible for processing the suggestion to a change to the Solid specifications and deciding on the route forward. The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue.  If a compromise cannot be met the Solid Leader will make the final judgement.
+The Solid project was started by Tim Berners-Lee, who has served as Benevolent Dictator for Life (BDFL) from inception. If there is a difference of opinion, parties are encouraged to talk to find a compromise. The Solid Specification Repository Manager is responsible for processing the suggestion to a change to the Solid specifications and deciding on the route forward. The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue.  If a compromise cannot be met the Solid Leader will make the final judgement.
 
 # References 
 
