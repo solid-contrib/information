@@ -94,7 +94,7 @@ The Solid Panel make decisions that shape the future of the project. The Solid P
 ## Requirements 
 The Solid Panel consists of 
 * [Solid Team](https://github.com/solid/information/blob/master/solid-team.md)
-* [MIT Solid Project Team](https://solid.mit.edu) 
+* former [MIT Solid Project Team](https://solid.mit.edu) 
 * Active Identity Providers   
 * Active Pod providers 
 * Active Solid app providers 
