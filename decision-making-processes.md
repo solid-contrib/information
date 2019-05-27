@@ -153,3 +153,4 @@ This document was put together with inspiration and learnings from the following
 * Chales M Schweik and Meelis Kitsting (2010) [Applying Elinor Ostrom’s Rule Classification Framework to the Analysis of Open Source Software Commons. Transnational Corporations Review](http://www.tnc-online.net/pic/2010032809124697.pdf)
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)
 * Aymeric Augustin (xxxx) [Django](https://docs.djangoproject.com/en/dev/internals/organization/)
+* https://tc39.github.io/process-document/
