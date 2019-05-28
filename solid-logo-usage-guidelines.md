@@ -49,21 +49,15 @@ Usage: in conjunction with outlined Solid logo as a key branding element e.g. ma
 
 Secondary
 -
-**Deep Sky Blue** - #01C9EA, R1 G201 B234
+**Geyser Grey** - #DAE0E6, R218 G224 B230
 Usage: core functionality and signposting e.g. icons and secondary buttons/controls. Avoid use in content.
-
-**Cerulean Blue** - #18A9E6, R24 G169 B230
-Usage: core functionality and signposting e.g. icons and secondary buttons/controls. Avoid use in content. 
 
 Tertiary
 -
-**Geyser Grey** - #DAE0E6, R218 G224 B230
+**Calatina Blue** - #083575, R8 G53 B117
 Usage: for background fills, UI functionality, dividers, illustration
 
-**Calatina Blue** - #083575, R8 G53 B117
-Usage: for background fills and illustration.
-
-**Medium Spring Green** - #01FAAB, R1 G250 B171
+**Flamengo Pink** - #FF6969, R255 G105 B105
 Usage: for background fills and illustration.
 
 Utility colours
@@ -85,15 +79,13 @@ ___
 
 The Solid brand features two typefaces:
 
-**RALEWAY**
+**Volkhov**
  
 Usage: headlines, sub headlines, buttons, pull quotes
 
-**Roboto**
+**Neue Einstellung**
  
 Usage: body copy, links, controls, labels
-
-Both fonts are available as [Google Fonts](https://fonts.google.com)
 ___
 
 # Iconography
