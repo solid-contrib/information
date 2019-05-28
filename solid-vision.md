@@ -1,72 +1,52 @@
-# Solid Values
+# Solid Vision 
 
 Solid is an open-source project to restore the power and agency of individuals on the web. 
 
-**In Solid, decisions around personal data should be made by the person (Self-determination)**
+## Self-Determination
+**In Solid, decisions around personal data should be made by the person**
 
-Solid believes that decisions around how to share what personal data with who should be decided by the person. 
+Solid believes that decisions about personal data should be made by the person that the personal data describes. 
 
 Solid uses the General Data Protection Regulation Article 4(1) definition of ‘personal data’: 
-
 “‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;”
 
-Personal data is an extension of the self, and therefore deserves protection from invasions of
-privacy, sovereignty, and freedom.
+Personal data can be in the public or the private domain (or somewhere in between). Personal data can be generated very deliberately such as when writing a message to someone or through accidental expression as an unintented consequence of using an online tool. 
 
-Previously, internet technology could be seen as a product which "if you don't like it, don't use it".
-Nowadays, we have to consider it as infrastructure which every human deserves access to, a bit
-like roads and hospitals.
+Self-determination involves the app user making decisions about the data generated as a result of using an application, rather than the developer or owner of the application. Decisions around personal data include where data should be stored and who should have access to what data when and for what purpose. How a person identifies themselves online is defined by Solid. 
 
-However, internet technology emerges from capitalist processes which sometimes leads to the invasions
-of personal data rights mentioned above. Important initiatives to improve this situation take on
-different forms: journalism/activism to raise awareness (like EFF or ToS;DR), legislation (like GDPR), and
-project that aim to build better internet technology (like Mozilla or Unhosted).
+No one should make a decision around personal data on behalf of another person without in depth consultation. App developers are responsible for ensuring that the app user is equipped with the necessary information to make informed decisions and should be very careful to not manipulate the app users decisions. 
 
-Data is considered an extension of self. People and legal entities should be given the tools for self-determination. Self-determination involves the app user controlling data generated as a result of using an application, rather than the developer or owner of the application. Data control includes deciding where the data is stored as well as who sees what data, for what purpose, when. No individual should make a decision on behalf of another individual without consultation and ensuring that the individually is equipped with the necessary information to make an informed decision on the matter at hand that does not take advantage of convenience nudging. An individual or legal entity should be able to connect data they control to the data others control.
+## Interoperability 
+**In Solid, it should be possible for everyone to use online tools and to be able to switch between tools if they change their mind **
 
-**In Solid, tools are interoperable (Interoperability)**
+When Sir Tim Berners-Lee invented the web, it was intended for everyone. Solid reaffirms the intention by making it possible for anyone to participate regardless of which app they choose to use. 
 
-In Solid, data is separate from applications
+In Solid, data is separate from applications and data can move seemlessly from one application to another application with uniform data formats described by the Solid specification. 
 
-Data should be interoperable to ensure that individuals or legal entities are able to self-determine independently of the technical possibilities. Technical hurdles should not be used as an excuse to not provide interoperability. There should be equal access to the web by all individuals both for consumption and creation. Although, for example, development, may take education, this education should be freely available and accessible by all. It should be easy to find the source of a piece of data so that one can judge the trustworthiness of the data.
+Different apps have different value sets, for example around privacy, which are infused into the app design. Solid app users can easily switch between Solid apps and bring the data generated while using Solid apps with them. Bringing personal data from old Solid apps used to new Solid apps used means that the functionality is maintained and the user doesn't have to compromise their values when choosing which tools to use.  
 
-When an application is used and data is generated, that data is independently stored from the application in the format described by the Solid spec. Uniform data formats mean that data can be transferred and reused as well as combined i.e. interoperability. 
+Unnecessary technical hurdles or business opportunities should not be used as an excuse to not provide interoperability. 
 
-Everyone should be able to use Solid in a way that works for them and shouldn’t be subject to doctrine, dictation or directive.
+There should be equal access to the web by all individuals both for consumption and creation. Although, for example, development, may take education, this education should be freely available and accessible by all. It should be easy to find the source of a piece of data so that one can judge the trustworthiness of the data. Everyone should be able to use Solid in a way that works for them and shouldn’t be subject to doctrine, dictation or directive. Solid should be indiscriminate in the way it operates and speak to everyone equally.
 
-In practice: creating applications that are customisable and allow users to make their own.
+In Solid, users are free to move between apps without interruption of service while avoiding vendor lock-in. 
 
-Solid should be indiscriminate in the way it operates and speak to everyone equally.
+## Data Protection 
+**In Happy Solid, only essential apps are listed and the default settings of these apps are so that the minimum amount of data needed to obtain access to human rights is shared in conditions that maximise data protection** 
 
-In practice: experiences, communications and content that are engineered to be as accessible as possible.
+When personal data is considered as as extension of the person past frameworks of understandings around how people should interact such as the Declaration of Human Rights become easier to apply. 
 
-**In Solid, data of people below the age of 18 have default sharing settings (Data Protection)** 
+Commonly the first data a person generates is the ultrasound of the baby’s mother. To exist, a person shares data. Therefore, in the same sense that it is questionable if it is possible to get consent to breath a particular air, consent around data is questionable. Similar to the offline, contract law around online consent should not overule other more substantial legal and social agreements. 
 
-To exist, a person shares data. Therefore, in the same sense that it is questionable if it is possible to get consent to breath a particular air, consent around data is questionable. 
+Previously, web technology could be seen as an optional product which "if you don't like it, don't use it".
+Nowadays, one has to consider it as infrastructure which every human deserves access to, a bit like roads and hospitals.
 
-Commonly the first data a person generated is the ultrasound of the baby’s mother.
+Values such as privacy and sovereignty are core to Solid. The default settings of Solid apps should follow the priciples of data minimisation i.e. the minimum data to carry out the app functionality should be collected. 
 
-In Solid there is are default data sharing settings until a person turns 18. The default settings are defined as the minimum required to share to access the UN Human Rights while maximising data protection. 
+When relating Solid to GDPR, the 'WebID' is the identifier of the data subject, the Pod provider is a data controller, and the Solid app is a data processor. 
 
-Distinguish private and public data as well as if it was generated as a deliberate or accidental expression. 
-
-When relating Solid to GDPR, the WebID is the identifier of the data subject, the Pod provider is a data controller, and the Solid app is a data processor.
-
-Long-term public interest should always be given priority over short-term private interest.
-
-In practice: applications and engagement with long-term value to everyone, no matter what their background, experience or understanding.
-
-**(Linked Data)**
-
-Solid applications, events and communications should look to aid or promote connectivity in every aspect.
-
-In practice: a focus on functionality, action and information which helps link people and organisations together more effectively.
-
-It should be easy to find the source of anything associated with Solid so that anyone can judge its trustworthiness.
-
-In practice: pro-active transparency in everything - where information comes from, who created what and how it was created.
+In Solid there is are default data sharing settings until a person turns 18. The default settings are defined as the minimum required to share to access the UN Human Rights while maximising data protection (Happy Solid?). 
 
 # References 
 * https://agilemanifesto.org/
 * https://www.iotmanifesto.com 
-
