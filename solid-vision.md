@@ -17,7 +17,7 @@ Self-determination involves the app user making decisions about the data generat
 No one should make a decision around personal data on behalf of another person without in depth consultation. App developers are responsible for ensuring that the app user is equipped with the necessary information to make informed decisions and should be very careful to not manipulate the app users decisions. 
 
 ## Interoperability 
-**In Solid, it should be possible for everyone to use online tools and to be able to switch between tools if they change their mind **
+**In Solid, it should be possible for everyone to use online tools and to be able to switch between tools if they change their mind**
 
 When Sir Tim Berners-Lee invented the web, it was intended for everyone. Solid reaffirms the intention by making it possible for anyone to participate regardless of which app they choose to use. 
 
