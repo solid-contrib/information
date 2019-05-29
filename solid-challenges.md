@@ -1,4 +1,4 @@
-Solid Challenges have defined goals, leaders, and end dates. If you would like to lead a Solid Chat Challenge reach out to the Solid Team with your proposal. 
+Solid Challenges have defined goals, leaders, and end dates. If you would like to lead a Solid Challenge reach out to the Solid Team with your proposal. 
 
 # Solid Chat Challenge 
 * Led by: [Jose Emilio Labra Gayo](https://github.com/labra)
