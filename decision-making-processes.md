@@ -120,7 +120,9 @@ Anyone can suggest a change by getting a GitHub account and submitting a pull re
 ## Step 2. Inviting a Conversation around your Suggestion to Find Consensus
 You will then need to get a W3C account and join the W3C Solid Community Group to raise a conversation about your suggestion as an item on the weekly call agenda. By adding the item to the agenda all members of the W3C Solid Community Group will be automatically notified and therefore are able to comment on the pull request or issue directly. 
 
-Anyone can suggest routes forward to the suggested changes with pros and cons of each route forward on the original pull request or issues. Below is a table format where all the final suggested routes forward, pros and cons should be included. 
+Anyone can suggest routes forward to the suggested changes with pros and cons of each route forward on the original pull request or issues. 
+
+Below is a suggested table format where all the final suggested routes forward, pros and cons could be included when the conversation becomes longer and more complex. 
 
 | Route Forward | Pros to Consider | Cons to Consider |
 | ------------- | ------------- | ------------- |
