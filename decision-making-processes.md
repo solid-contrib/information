@@ -2,7 +2,7 @@
 This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Panel for their opinion via a vote on occasion. The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
 # Scope
-The scope of Solid governance includes but it not limited to: 
+The scope of Solid governance includes but is not limited to: 
 * Changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. 
 * How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account? 
 * What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)? 
@@ -17,7 +17,7 @@ The Solid Team is a 5 person trusted group who manage Solid, which currently con
 * Ruben Verborgh 
 * Justin Bingham 
 
-The Solid Team assume [defined roles](https://github.com/solid/information/blob/master/solid-team.md) required to achieve the Solid project's goals, especially those that require a high level of trust. The defined [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) as well as indiviudals apointed were defined by open suggestions by anyone on a Github pull request which were ultimately approved by the Solid Leader, Tim Berners-Lee. 
+The Solid Team assume [defined roles](https://github.com/solid/information/blob/master/solid-team.md) required to achieve the Solid project's goals, especially those that require a high level of trust. The defined [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) as well as individuals appointed were defined by open suggestions by anyone on a Github pull request which were ultimately approved by the Solid Leader, Tim Berners-Lee. 
 
 ## Mandate 
 The Solid team shall work to: 
@@ -40,7 +40,7 @@ The Solid Team has broad authority to make decisions about Solid. For example, t
 * Enforce or update the Solid project's code of conduct 
 * Manage Solid assets and infrastructure, including the Solid Github organisation and repositories, the bug tracker, mailing lists, conversation channels etc.
 
-However, the Solid Team cannot modify this decision making process or affect the membership of the Solid Panel, except via the mechanisms specified in this decision making process document. 
+However, the Solid Team cannot modify this decision making process or affect the membership of the Solid Panel (see below for description of Solid Panel), except via the mechanisms specified in this decision making process document. 
 
 The Solid Team should look for ways to use these powers as little as possible. Instead of voting it's better to seek consensus. Instead of ruling on individuals it's better to define standard processes for decision making. It's better to establish a Code of Conduct committee than to rule on individual cases, etc. 
 
@@ -51,6 +51,7 @@ Whenever possible, the Solid Team's deliberations and votes shall be held in pub
 ## Electing the Solid Team 
 A Solid Team election consists of two phases: 
 * Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a Solid team member. Self-nominations are allowed.
+
 * Phase 2: Each individual on the Solid Panel can vote for zero to five of the candidates. Voting is performed anonymously. Candidates are ranked by the total number of votes they receive. If a tie occurs, it may be resolved by mutual agreement among the candidates, or else the winner will be chosen at random.
 
 Each phase lasts one to two weeks and should be publicly communicated. The election process is managed by the Election Manager nominated by the outgoing Solid Team. 
@@ -141,7 +142,7 @@ The Solid Team's responsibilities are to:
 * collect the final results
 * communicate the outcome
 
-Solid specification 0.9 will be released on July 1st, and new versions of the Solid specification will be released every six months For a change to the Solid specification to be merged there needs to be at least one working implemetation that adheres to the changed Solid specification.
+Solid specification 0.9 will be released on July 1st, and new versions of the Solid specification will be released every six months. For a change to the Solid specification to be merged there needs to be at least one working implemetation that adheres to the changed Solid specification.
 
 # History 
 
