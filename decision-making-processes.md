@@ -61,7 +61,7 @@ The Solid Team should ideally reflect the diversity of individuals building on S
 A new Solid Team is elected after five years. 
 
 ## Vacancies 
-Solid Team members may resign thier position at any time. 
+Solid Team members may resign their position at any time. 
 
 Whenever there is a vacancy during the regular Solid Team term, an election will take place as described above to appoint a replacement to serve out the rest of the term.
 
