@@ -49,7 +49,10 @@ To use its powers, the Solid Team votes. The Solid leader can always veto the vo
 Whenever possible, the Solid Team's deliberations and votes shall be held in public.
 
 ## Electing the Solid Team 
-A Solid Team election consists of two phases: 
+
+The first Solid Team including Mitzi László, Kjetil Kjernsmo, Ruben Verborgh, and Justin Bingham is appointed directly by the Solid Leader for a five year appointment.
+
+Following Solid Teams will be appointed through election. A Solid Team election consists of two phases: 
 * Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a Solid team member. Self-nominations are allowed.
 
 * Phase 2: Each individual on the Solid Panel can vote for zero to five of the candidates. Voting is performed anonymously. Candidates are ranked by the total number of votes they receive. If a tie occurs, it may be resolved by mutual agreement among the candidates, or else the winner will be chosen at random.
@@ -71,7 +74,7 @@ If a Solid Team member drops out of touch and cannot be contacted for a month or
 Solid Team members may take sick leave or pregnancy leave and an election will take place to appoint an interim individual. 
 
 ## Conflicts of Interest 
-Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust . In order to avoid any appearance of conflict of interest, at most 2 members of the Solid Team can work for any single employer.
+Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers, the mere appearance of any one company dominating Solid development could itself be harmful and erode trust . In order to avoid any appearance of conflict of interest, at most 2 members of the Solid Team can work for any single employer. This does not apply for the first appointment of the first Solid Team because there is a single dominant employer working on Solid at the time. 
 
 In a Solid Team election, if 3 of the top 5 vote-getters work for the same employer, then whichever of them ranked lowest is disqualified and the 6th-ranking candidate moves up into 5th place; this is repeated until a valid Solid Team is formed.
 
@@ -90,7 +93,7 @@ Solid Panel members need to demonstrate a good grasp of the philosophy of the So
 The Solid Team consults the Solid Panel for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Panel can request a vote on issues that they feel are important to open up to a Solid panel. If there are two Solid Panel members who back the first Solid Panel request for a vote, the vote will go ahead.
 
 ## Mandate 
-The Solid Panel make decisions that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
+The Solid Panel give advice that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
 
 ## Requirements 
 The Solid Panel consists of 
