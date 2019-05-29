@@ -143,7 +143,7 @@ Solid specification 0.9 will be released on July 1st, and new versions of the So
 
 # History 
 
-The Solid project was started by Tim Berners-Lee, who has served as Benevolent Dictator for Life (BDFL) from inception. If there is a difference of opinion, parties are encouraged to talk to find a compromise. The Solid Specification Repository Manager is responsible for processing the suggestion to a change to the Solid specifications and deciding on the route forward. The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue.  If a compromise cannot be met the Solid Leader will make the final judgement.
+The Solid project was started by Tim Berners-Lee, who has served as the Solid Leader from inception. If there is a difference of opinion, parties are encouraged to talk to find a compromise. The Solid Specification Repository Manager is responsible for processing the suggestion to a change to the Solid specifications and deciding on the route forward. The repository manager of the repository to which the suggestion pertains to will be responsible for merging and closing the pull request or issue.  If a compromise cannot be met the Solid Leader will make the final judgement.
 
 # References 
 
