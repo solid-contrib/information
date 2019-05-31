@@ -4,12 +4,12 @@ This document defines the formal governance process for Solid, and records how t
 The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
 # Scope
-The scope of Solid governance includes but is not limited to: 
-* Changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. 
-* How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
-* What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
-* Which communication channels to use for Solid conversations
-* What to include in the Solid test suite
+The scope of Solid governance includes but is not limited to changes to: 
+* The Solid specification
+* Solid test suite
+* [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
+* [Solid Projects](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
+* Communication channels to use for Solid conversations
 
 # [The Solid Team]
 The Solid Team is a 5 person trusted group who manage Solid, which currently consists of: 
@@ -20,6 +20,8 @@ The Solid Team is a 5 person trusted group who manage Solid, which currently con
 * Justin Bingham 
 
 The Solid Team assume [defined roles](https://github.com/solid/information/blob/master/solid-team.md) required to achieve the Solid project's goals, especially those that require a high level of trust. The defined [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) as well as individuals appointed were defined by open suggestions by anyone on a Github pull request which were ultimately approved by the Solid Leader, Tim Berners-Lee. 
+
+The first Solid Team including Mitzi László, Kjetil Kjernsmo, Ruben Verborgh, and Justin Bingham is appointed directly by the Solid Leader for a five year appointment.
 
 ## Mandate 
 The Solid team shall work to: 
@@ -51,9 +53,6 @@ To use its powers, the Solid Team votes. The Solid leader can always veto the vo
 Whenever possible, the Solid Team's deliberations and votes shall be held in public.
 
 ## Electing the Solid Team 
-
-The first Solid Team including Mitzi László, Kjetil Kjernsmo, Ruben Verborgh, and Justin Bingham is appointed directly by the Solid Leader for a five year appointment.
-
 Following Solid Teams will be appointed through election. A Solid Team election consists of two phases: 
 * Phase 1: Candidates advertise their interest in serving. Candidates must be nominated by a Solid team member. Self-nominations are allowed.
 
@@ -97,7 +96,7 @@ The Solid Team consults the Solid Panel for advice on occasion when an internal 
 A [list of the current Solid Panel members](https://github.com/solid/information/blob/master/solid-panel.md) can be found. 
 
 ## Mandate 
-The Solid Panel give advice that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
+The Solid Panel gives advice that shapes the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Panel will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
 
 ## Requirements 
 The Solid Panel consists of 
@@ -123,16 +122,16 @@ Decisions other than appointing individuals to roles, such as those listed below
 * Changes to the Solid Test Suite
 * Starting or changing the aim or project manager of a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
 
-
-## Step 1. Making a Suggestion 
+## Standard Decision Making Process
+Step 1. Making a Suggestion 
 Anyone can suggest a change by getting a GitHub account and submitting a pull request or issues to the relevant repository on the Solid GitHub account. 
 
-## Step 2. Inviting a Conversation around your Suggestion to Find Consensus
-You will then need to get a W3C account and join the W3C Solid Community Group to raise a conversation about your suggestion as an item on the weekly call agenda. By adding the item to the agenda all members of the W3C Solid Community Group will be automatically notified and therefore are able to comment on the pull request or issue directly. 
+Step 2. Inviting a Conversation around your Suggestion to Find Consensus
+You can post the pull request or issue on the relevant channels to invite conversation. 
 
 Anyone can suggest routes forward to the suggested changes with pros and cons of each route forward on the original pull request or issues. 
 
-Below is a suggested table format where all the final suggested routes forward, pros and cons could be included when the conversation becomes longer and more complex. 
+Below is a possible table format where all the final suggested routes forward, pros and cons could be included when the conversation becomes longer and more complex. 
 
 | Route Forward | Pros to Consider | Cons to Consider |
 | ------------- | ------------- | ------------- |
@@ -140,12 +139,13 @@ Below is a suggested table format where all the final suggested routes forward, 
 
 This step is to make sure that everyone has a chance to voice their thoughts on all the options and their opinions of each so that they feel that all the options are given a chance.
 
-The original pull request or issue needs to be open for one week unless it's a typo correction. 
+If the suggestion is a change to the Solid specification ou will then need to get a W3C account and join the W3C Solid Community Group to raise a conversation about your suggestion as an item on the weekly call agenda. By adding the item to the agenda all members of the W3C Solid Community Group will be automatically notified and therefore are able to comment on the pull request or issue directly. If the suggestion is a change to the Solid specification then you will need to state why this change is necessary. For example, is it to remove ambiguity or to provide a more beautiful solution to something that is already solved.
 
-## Step 3. Coming to a Conclusion through Compromise  
-The Solid Team will make a decision about if to include the suggestion. 
+Step 3. Coming to a Conclusion through Compromise  
+The Solid Team will make a decision about if to include the suggestion. The original pull request or issue needs to be open for one week unless it's a typo correction.
 
-If five members of the Solid Panel raise concern about the decision of the Solid Team this triggers the voting process. 
+## Elaborate Decision Making Process 
+If three members of the Solid Panel raise a concern about the decision of the Solid Team this triggers the voting process. 
 
 The voting process occurs in the following way. The Solid Team collects the options, pros, and cons, and then make sure that everyone on the Solid Panel receives a complete copy of all the information via the github pull request and issue.
 
