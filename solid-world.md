@@ -1,5 +1,20 @@
 Solid World is a place to get a quick update about what's going on in the Solid Community this month. 
 
+# Solid May (1st June 2019)
+
+## New Solid Apps 
+* 
+
+## Solid Events Coming up this month 
+* [Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111) by Jose Emilio Labra Gayo
+
+## Solid Events that happened this month 
+* Solid Seattle by Jon Pederson 
+* [Solid New York](https://www.meetup.com/NextWeb-NYC/) by Brian Cort
+* [Solid Toronto](https://www.llbrandlab.com/events/solid-toronto-meetup) by Li Lu
+* [Solid London](https://www.meetup.com/Solid-London/) by Paul Worral 
+* [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) by Christian Buggedei 
+
 # Solid April (1st May 2019)
 
 The Solid Chat Challenge led by Jose Emilio Labra Gayo is ongoing with the first prototypes coming through. The Solid Blog Challenge led by Ruben Verborgh was launched this month. 
