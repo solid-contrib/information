@@ -1,13 +1,15 @@
 # Abstract 
-This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Panel for their opinion via a vote on occasion. The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
+This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is based around Solid Team who consult the Solid Panel for their opinion via a vote on occasion. 
+
+The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
 # Scope
 The scope of Solid governance includes but is not limited to: 
 * Changes to the Solid specification. Decisions around the Solid Specification changes need to have a procedure around them to encourage conversation to find accepted legitimate solutions to more complex decisions. 
-* How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account? 
-* What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)? 
-* Which communication channels to use for Solid conversations? 
-* What to include in the Solid test suite?
+* How to start a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
+* What to include on the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
+* Which communication channels to use for Solid conversations
+* What to include in the Solid test suite
 
 # [The Solid Team]
 The Solid Team is a 5 person trusted group who manage Solid, which currently consists of: 
@@ -92,6 +94,8 @@ Solid Panel members need to demonstrate a good grasp of the philosophy of the So
 
 The Solid Team consults the Solid Panel for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Panel can request a vote on issues that they feel are important to open up to a Solid panel. If there are two Solid Panel members who back the first Solid Panel request for a vote, the vote will go ahead.
 
+A [list of the current Solid Panel members](https://github.com/solid/information/blob/master/solid-panel.md) can be found. 
+
 ## Mandate 
 The Solid Panel give advice that shape the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Team will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention. 
 
@@ -112,11 +116,13 @@ Companies with multiple employees have a vote per individual employee rather tha
 ## Appoinment
 Anyone can apply to the Solid Panel as long as they fulfill the criteria above. The Solid Leader appoints candidates to roles. 
 
-# Election Process for Decisions other than Appointing Individuals to Roles 
+# Decision Making Process 
+Decisions other than appointing individuals to roles, such as those listed below, are made in the following way. 
 * Changes to the Solid specification
 * Changes to the [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
 * Changes to the Solid Test Suite
 * Starting or changing the aim or project manager of a [Solid Project](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
+
 
 ## Step 1. Making a Suggestion 
 Anyone can suggest a change by getting a GitHub account and submitting a pull request or issues to the relevant repository on the Solid GitHub account. 
@@ -134,8 +140,14 @@ Below is a suggested table format where all the final suggested routes forward, 
 
 This step is to make sure that everyone has a chance to voice their thoughts on all the options and their opinions of each so that they feel that all the options are given a chance.
 
+The original pull request or issue needs to be open for one week unless it's a typo correction. 
+
 ## Step 3. Coming to a Conclusion through Compromise  
-The Solid Team collects the options, pros, and cons, and then make sure that everyone on the Solid Panel receives a complete copy of all the information via the github pull request and issue.
+The Solid Team will make a decision about if to include the suggestion. 
+
+If five members of the Solid Panel raise concern about the decision of the Solid Team this triggers the voting process. 
+
+The voting process occurs in the following way. The Solid Team collects the options, pros, and cons, and then make sure that everyone on the Solid Panel receives a complete copy of all the information via the github pull request and issue.
 
 Each individual in the Panel has one vote even if they have multiple criteria for being in the Solid panel, so each person in the Panel has an equal voice. Each individual can vote on a first and second choice, or they can abstain. Each individual in the Panel has seven days to vote. If the individaul does not vote after seven days their vote will automatically be counted as an abstaining vote. After counting the first choice votes, the votes from the bottom three options get transferred to the second choice vote to avoid strategic voting that does not reflect the true opinion of the Panel. The votes are recounted and the majority vote wins. 
 
