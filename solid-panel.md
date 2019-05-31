@@ -23,3 +23,13 @@ The Solid Panel consists of:
 | Pieter Heyvaert|||||x||
 | Jeff Zucker |||||x||
 | Jose Emilio Labra Gayo |||||x||
+| Michiel de Jong |||x|x|||
+| Arne Hassel |||x|x|||
+| Jackson Morgan |||x|x|||
+| James Martin |||x|x|||
+| Vincent Tunru |||x|x|||
+| Tony Morelli |||x|x|||
+| Kevin Howard |||x|x|||
+| Pat McBennet |||x|x|||
+| Sander Gates |||x|x|||
+| Fabian Cooke |||x|x|||
