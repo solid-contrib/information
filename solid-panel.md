@@ -33,3 +33,4 @@ The Solid Panel consists of:
 | Pat McBennet |||x|x|||
 | Sander Gates |||x|x|||
 | Fabian Cooke |||x|x|||
+| (add) |||||||
