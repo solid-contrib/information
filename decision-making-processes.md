@@ -3,6 +3,8 @@ This document defines the formal governance process for Solid, and records how t
 
 The Solid Team has broad authority, which they seek to exercise as rarely as possible. The Solid Leader (who is in the Solid Team) needs to approve any decision making processes for it to be legitimate and the Solid Leader can veto decisions at any point. 
 
+This document is to be reviewed when there are one thousand eligible candidates for the Solid Panel (see description of Solid Panel below). 
+
 # Scope
 The scope of Solid governance includes but is not limited to changes to: 
 * The Solid specification
@@ -10,6 +12,8 @@ The scope of Solid governance includes but is not limited to changes to:
 * [Solid roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
 * [Solid Projects](https://github.com/orgs/solid/projects) i.e. a GitHub project in the Solid Github account
 * Communication channels to use for Solid conversations
+
+
 
 # [The Solid Team]
 The Solid Team is a 5 person trusted group who manage Solid, which currently consists of: 
