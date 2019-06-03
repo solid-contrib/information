@@ -2,7 +2,9 @@
 This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is provided by the Solid Team, who interface with and consult one or more Solid Panels for direction via a vote on occasion. The Solid Team has broad authority, which they may exercise as necessary to ensure the viability and integrity of Solid. The Solid Leader heads the Solid Team, and sanctions this governance structure. The Solid Leader can veto decisions and adjust direction as they see fit.
 
 # Solid Team
+
 The Solid Team is a trusted group that manages Solid, currently consisting of:
+
 * Tim Berners-Lee (Solid Leader)
 * Mitzi László
 * Kjetil Kjernsmo
@@ -59,7 +61,7 @@ In exceptional circumstances, it may be necessary to remove someone from the Sol
 
 # Solid Panels
 
-Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification.
+Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification. Proposed, Active, and Archived Solid Panels are [listed here](solid-panels.md).
 
 A new Panel is sanctioned by a majority vote of the Solid Team. Requests for the formation of a new Panel may be submitted to any member of the Solid Team. To be considered, a Panel must be able to demonstrate a clear and substantial benefit to the Solid Mission, and must maintain that trajectory to remain active. Benefit and trajectory are measured by the Solid Team. Not all Panels will be expected to persist indefinitely.
 
