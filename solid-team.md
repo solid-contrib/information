@@ -6,13 +6,13 @@ This document identifies the individuals named to the Solid Team, as well any re
 
 The Solid Team are dedicated stewards of Solid, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap. See [Governance](governance.md) for more information on the role that the Solid Team plays in the governance of Solid.
 
-| Individual            | Role                        |
-| --------------------- | --------------------------- |
-| Tim Berners-Lee       | [Leader](#solid-leader)     |
-| Mitzi László          | [Manager](#solid-manager)   |
-| Kjetil Kjernsmo       | [Team Member](#team-member) |
-| Ruben Verborgh        | [Team Member](#team-member) |
-| Justin Bingham        | [Team Member](#team-member) |
+| Individual            | Role                              |
+| --------------------- | --------------------------------- |
+| Tim Berners-Lee       | [Leader](#solid-leader)           |
+| Mitzi László          | [Manager](#solid-manager)         |
+| Kjetil Kjernsmo       | [Team Member](#solid-team-member) |
+| Ruben Verborgh        | [Team Member](#solid-team-member) |
+| Justin Bingham        | [Team Member](#solid-team-member) |
 
 # Solid Team Roles
 
@@ -31,6 +31,6 @@ The Solid Manager is responsible for moderating the W3C Solid Community Group ca
 The Solid Manager is responsible for encouraging and supporting Solid Event organizers and other constructive community events and activities.
 
 ## Solid Team Member
-All members of the Solid Team (including Solid Leader and Solid Manager) are tasked with advancing the Solid Mission through their work supporting the Solid Roadmap. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](solid-team.md#team-mandate).
+All members of the Solid Team (including Solid Leader and Solid Manager) are tasked with advancing the Solid Mission through their work supporting the Solid Roadmap. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](governance.md#team-mandate).
 
 Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
