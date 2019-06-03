@@ -33,7 +33,9 @@ The mandate of the Solid Team includes but is not limited to:
 
 ## Decision Making
 
-For any substantive decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
+For any substantive decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
+
+Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
 
 The Solid Team utilizes the decision making framework [articulated herein](#decision-making-process).
 
@@ -81,7 +83,7 @@ Every Panel will have a stated purpose that can be mapped directly to the Solid 
 
 Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
 
-The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
+Stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
 
 ## Panel Nominations
 
@@ -115,17 +117,15 @@ We employ a framework for making decisions on the Solid Team and across Solid Pa
 
 This process may take place on or across different mediums. Wherever it transpires, what is most important is that the process is inclusive for those individuals that have a part in making the decision, and transparent for those who would be impacted by the same.
 
-1. __Identity the Problem__ - The problem and the reason why the problem needs to be solved is well understood. The way in which solving the problem impacts the Solid Roadmap should be highlighted.
+1. __Identity the Problem__ - The problem and the reason why the problem needs to be solved must be well understood. This includes an understanding of how solving the problem supports the Solid Roadmap.
 
-2. __Lay out Options__ - Detail reasonable paths forward, including pros and cons for each option. If you aren't in a position to explain the negative consequences of your proposal, you should consider whether you understand what you're proposing well enough. This is important to ensure that informed decisions are made.
+2. __Lay out Options__ - Detail reasonable paths forward, including pros and cons for each option. This is important to ensure that informed decisions are made.
 
 3. __Invite Conversation__ - Ensure that decision makers and (in most cases) affected parties have reviewed the material and have the ability to provide their input. Oftentimes, this occurs within Github, but can extend out into group calls, group chats, community meetings, and more.
 
 4. __Vote__ - Decision makers conduct a vote by simple majority.
-  * Stalemates on the Solid Team are resolved by the Solid Leader
-  * Stalemates on a Solid Panel are resolved by a majority vote of the Solid Team
 
-5. __Document and Communicate__ - Once a decision is made, it is documented and communicated. The reason why the decision was made should be documented, and included in any communication
+5. __Document and Communicate__ - Once a decision is made, the reason why should be documented, and then included as part of a notification through established communication channels (as appropriate).
 
 # References
 
