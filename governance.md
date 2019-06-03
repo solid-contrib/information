@@ -1,5 +1,7 @@
 # Solid Governance
-This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is provided by the Solid Team, who interface with and consult one or more Solid Panels for direction via a vote on occasion. The Solid Team has broad authority, which they may exercise as necessary to ensure the viability and integrity of Solid. The Solid Leader heads the Solid Team, and sanctions this governance structure. The Solid Leader can veto decisions and adjust direction as they see fit.
+This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is provided by the Solid Team, who may also consult one or more Solid Panels for direction via a vote on occasion. The Solid Team has broad authority, which they may exercise as necessary to ensure the viability and integrity of Solid.
+
+The Solid Leader heads the Solid Team, and sanctions this governance structure. The Solid Leader can veto decisions and adjust direction as they see fit.
 
 # Solid Team
 
@@ -11,29 +13,29 @@ The Solid Team is a trusted group that manages Solid, currently consisting of:
 * Ruben Verborgh
 * Justin Bingham
 
-The Solid Team fulfills [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader, Tim Berners-Lee.
+The Solid Team fulfills [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
 
 ## Mandate
 
 The mandate of the Solid Team includes but is not limited to:
 
 * __Solid Roadmap__ - Curation of the Solid Roadmap, comprised of the Solid Mission, Solid Values, and Key Success Factors. The Solid Team works to ensure that any and all decisions, priorities, and output are always in alignment with the Solid Roadmap.
-* __Solid Specification__ - Managing the evolution of the Solid Specification, with an aim to encourage constructive dialogue and foster changes that result in healthy successive iterations aligned with the Solid Roadmap.
-* __Solid Panel__ - Sanction of Solid Panel groups, as well as initiatives or duties associated with a Panel. Also includes voting on Panel nominees.
+* __Solid Specification__ - Guiding the evolution of the Solid Specification, with an aim to encourage constructive dialogue and foster changes that result in healthy successive iterations aligned with the Solid Roadmap.
+* __Solid Panel__ - Sanction of [Solid Panels](#solid-panels), as well as initiatives or duties associated with a Panel. Also includes voting on Panel nominees.
 * __Solid Projects__ - Sanction and oversight of any [Solid Projects](https://github.com/orgs/solid/projects), as well as repositories hosted under the [Solid GitHub organization](https://github.com/solid/), including sanctioned initiatives undertaken by Solid Panel groups, and open source community reference implementations of the Solid Specification in different languages and technical stacks.
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
 * __Solid Brand__ - Definition and evolution of the Solid Brand, including any associated brand assets.
 * __Solid Evangelism__ - Fostering awareness and use of Solid across geographic, economic, industrial, and academic verticals.
-* __Solid Compliance__ - Creation and curation of the [Solid Test Suite](https://github.com/solid/test-suite), which any Solid specification compliant server or client must pass to be considered a fully compliant implementation.
-* __Solid Communication Channels__ - Sanction and oversight of official Solid communication mediums, such as chatrooms, forums, mailing lists, and message boards.
+* __Solid Compliance__ - Creation and curation of the [Solid Test Suite](https://github.com/solid/test-suite), which any Solid specification compliant server must pass to be considered a fully compliant implementation.
+* __Solid Communication Channels__ - Sanction and oversight of official Solid project communication mediums, such as chatrooms, forums, mailing lists, and message boards.
 * __Solid Participation__ - Make contributing and/or participating in the evolution of Solid as accessible, inclusive, and sustainable as possible.
 * __Solid Governance__ - Establish and foster appropriate decision-making processes, ensuring that decisions and associated processes are always aimed towards furtherance of the Solid mission, and supportive of a healthy and beneficent Solid ecosystem. Where necessary, act as a court of final appeal for decisions where all other methods have failed.
 
 ## Decision Making
 
-For any substantive decisions, the Solid Team votes. The Solid leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
+For any substantive decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
 
-The Solid Team utilizes the Decision Making Framework [articulated herein](#decision-making-process).
+The Solid Team utilizes the decision making framework [articulated herein](#decision-making-process).
 
 ## Vacancies
 
@@ -43,7 +45,7 @@ Solid Team members may take a leave of absence for sickness, pregnancy, or for a
 
 If a Solid Team member not on a leave of absence drops out of touch and cannot be contacted or fails to contribute positively for a month or longer, then the rest of the Solid Team may vote to remove that team member and nominate another to replace them.
 
-## Team Nominations and Member Selection
+## Team Nominations
 
 The Solid Team may decide by majority vote to expand the size of the team. It may also need to fill a vacancy on the team. In either case, this nomination process will be used to propose new team members for addition to the team.
 
@@ -57,7 +59,7 @@ Solid Team members are trusted to act in the best interests of Solid rather than
 
 ## Vote of No Confidence
 
-In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Team member must be supported by a majority vote of the Solid Team, with final approval by the Solid Leader.
+In exceptional circumstances, it may be necessary to remove someone from the Solid Team against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Team member must be supported by a majority vote of the Solid Team, with explicit approval by the Solid Leader.
 
 # Solid Panels
 
@@ -77,11 +79,11 @@ Every Panel will have a stated purpose that can be mapped directly to the Solid 
 
 ## Decision Making
 
-Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), be transparent in work being conducted under their mandate, and provide regular status updates through established channels.
+Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
 
 The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
 
-## Panel Nominations and Member Selection
+## Panel Nominations
 
 An individual can be nominated to a Panel by:
 - A Solid Team Member
@@ -95,7 +97,7 @@ Panel members must be approved by a majority vote of the Panel (if already estab
 
 ## Vacancies
 
-A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the mechanism articulated herein.
+A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the mechanism [articulated herein](#panel-nominations).
 
 ## Conflicts of Interest
 
