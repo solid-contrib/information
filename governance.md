@@ -5,15 +5,9 @@ The Solid Leader heads the Solid Team, and sanctions this governance structure. 
 
 # Solid Team
 
-The Solid Team is a trusted group that manages Solid, currently consisting of:
+The [Solid Team](solid-team.md) are dedicated stewards of Solid, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap.
 
-* Tim Berners-Lee (Solid Leader)
-* Mitzi László
-* Kjetil Kjernsmo
-* Ruben Verborgh
-* Justin Bingham
-
-The Solid Team fulfills [roles and responsibilities](solid-team.md) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
+The Solid Team fulfills [roles and responsibilities](solid-team.md#solid-team-roles) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
 
 ## Team Mandate
 
