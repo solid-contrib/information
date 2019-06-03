@@ -51,9 +51,7 @@ The Solid Team should reflect the diversity of individuals and organizations in 
 
 ## Conflicts of Interest
 
-Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers.
-
-As a mechanism to foster diverse representation on the Solid Team and limit conflicts of interest, any nominee whose employer already has two team members on the current Solid Team will be disqualified, unless one of the current members working for that same employer agrees to step down.
+Solid Team members are trusted to act in the best interests of Solid rather than themselves or their employers. Violation may result in removal from the team through a vote of no confidence.
 
 ## Vote of No Confidence
 
@@ -99,13 +97,13 @@ A Solid Panel member may resign their position at any time. Whenever there is a 
 
 ## Conflicts of Interest
 
-Solid Panel members are trusted to act in the best interests of Solid rather than themselves or their employers.
+Solid Panel members are trusted to act in the best interests of Solid rather than themselves or their employers. Violation may result in removal from the panel through a vote of no confidence.
 
 ## Vote of No Confidence
 
 In exceptional circumstances, a Panel may need to be dissolved by a majority vote of the Solid Team.
 
-It may also be necessary to remove someone from a Solid Panel against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Panel member must be supported by a majority vote of the Solid Panel in question. The Solid Team also reserves the right to remove a Panel member by majority vote, or to veto the removal of a Panel member.
+It may also be necessary to remove someone from a Solid Panel against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Panel member must be supported by a majority vote of the Solid Panel in question. The Solid Team also reserves the right to remove a Panel member, or to veto the removal of a Panel member, through a majority vote of the Solid Team.
 
 # Decision Making Process
 
