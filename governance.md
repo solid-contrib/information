@@ -13,9 +13,9 @@ The Solid Team is a trusted group that manages Solid, currently consisting of:
 * Ruben Verborgh
 * Justin Bingham
 
-The Solid Team fulfills [roles and responsibilities](https://github.com/solid/information/blob/master/solid-team.md) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
+The Solid Team fulfills [roles and responsibilities](solid-team.md) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
 
-## Mandate
+## Team Mandate
 
 The mandate of the Solid Team includes but is not limited to:
 
@@ -73,7 +73,7 @@ All Solid Panel members need to demonstrate a firm grasp of the philosophy of th
 
 The Solid Team may consult one or more Panels for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Team can request a vote on issues that they feel are important to open up to one or more Solid panels.
 
-## Mandate
+## Panel Mandate
 
 Every Solid Panel is expected to actively contribute to the evolution of Solid in a way that supports the Solid Roadmap and the healthy growth of the Solid Ecosystem. Panel members are expected to act as custodians of Solid, within and outside of the community.
 
