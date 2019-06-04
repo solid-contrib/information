@@ -1,11 +1,11 @@
 # Solid Governance
-This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is provided by the Solid Team, who may also consult one or more Solid Panels for direction via a vote on occasion. The Solid Team has broad authority, which they may exercise as necessary to ensure the viability and integrity of Solid.
+This document defines the formal governance process for Solid, and records how this has changed over time. Currently, governance is provided by the Solid Team, who may also consult one or more Solid Panels for direction via a vote on occasion. The Solid Team has the great responsibility to exercise their authority when necessary to ensure the viability and integrity of Solid, while at the same time fostering a collaborative, transparent, and supportive environment for contribution.
 
 The Solid Leader heads the Solid Team, and sanctions this governance structure. The Solid Leader can veto decisions and adjust direction as they see fit.
 
 # Solid Team
 
-The [Solid Team](solid-team.md) are dedicated stewards of Solid, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap.
+The [Solid Team](solid-team.md) are dedicated stewards of the Solid Project, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap.
 
 The Solid Team fulfills [roles and responsibilities](solid-team.md#solid-team-roles) necessary to realize the Solid mission and provide an effective means of governance. Individuals occupying these roles were appointed by and serve at the pleasure of the Solid Leader.
 
@@ -16,7 +16,7 @@ The mandate of the Solid Team includes but is not limited to:
 * __Solid Roadmap__ - Curation of the Solid Roadmap, comprised of the Solid Mission, Solid Values, and Key Success Factors. The Solid Team works to ensure that any and all decisions, priorities, and output are always in alignment with the Solid Roadmap.
 * __Solid Specification__ - Guiding the evolution of the Solid Specification, with an aim to encourage constructive dialogue and foster changes that result in healthy successive iterations aligned with the Solid Roadmap.
 * __Solid Panel__ - Sanction of [Solid Panels](#solid-panels), as well as initiatives or duties associated with a Panel. Also includes voting on Panel nominees.
-* __Solid Projects__ - Sanction and oversight of any [Solid Projects](https://github.com/orgs/solid/projects), as well as repositories hosted under the [Solid GitHub organization](https://github.com/solid/), including sanctioned initiatives undertaken by Solid Panel groups, and open source community reference implementations of the Solid Specification in different languages and technical stacks.
+* __Solid Projects__ - Sanction and oversight of any repositories hosted under the [Solid GitHub organization](https://github.com/solid/), including sanctioned initiatives undertaken by Solid Panel groups and/or the Solid Team, and open source community reference implementations of the Solid Specification in different languages and technical stacks.
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
 * __Solid Brand__ - Definition and evolution of the Solid Brand, including any associated brand assets.
 * __Solid Evangelism__ - Fostering awareness and use of Solid across geographic, economic, industrial, and academic verticals.
@@ -27,7 +27,7 @@ The mandate of the Solid Team includes but is not limited to:
 
 ## Decision Making
 
-For any substantive decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
+For any substantial decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
 
 Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
 
