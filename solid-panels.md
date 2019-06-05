@@ -31,3 +31,5 @@ No Solid Panels have been established yet.
 # Archived Solid Panels
 
 No Solid Panels have been closed and subsequently archived yet.
+
+.
