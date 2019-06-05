@@ -15,7 +15,7 @@ The mandate of the Solid Team includes but is not limited to:
 
 * __Solid Roadmap__ - Curation of the Solid Roadmap, comprised of the Solid Mission, Solid Values, and Key Success Factors. The Solid Team works to ensure that any and all decisions, priorities, and output are always in alignment with the Solid Roadmap.
 * __Solid Specification__ - Guiding the evolution of the Solid Specification, with an aim to encourage constructive dialogue and foster changes that result in healthy successive iterations aligned with the Solid Roadmap.
-* __Solid Panel__ - Sanction of [Solid Panels](#solid-panels), as well as initiatives or duties associated with a Panel. Also includes voting on Panel nominees.
+* __Solid Panel__ - Sanction of new [Solid Panels](#solid-panels), as well as initiatives or duties associated with a Panel. Also includes voting on Panel nominees.
 * __Solid Projects__ - Sanction and oversight of any repositories hosted under the [Solid GitHub organization](https://github.com/solid/), including sanctioned initiatives undertaken by Solid Panel groups and/or the Solid Team, and open source community reference implementations of the Solid Specification in different languages and technical stacks.
 * __Solid Website__ - Curation and Management of the [Solid Website](https://www.solidproject.org).
 * __Solid Brand__ - Definition and evolution of the Solid Brand, including any associated brand assets.
@@ -27,9 +27,9 @@ The mandate of the Solid Team includes but is not limited to:
 
 ## Decision Making
 
-For any substantial decisions, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
+Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision. The Solid Team always strives to operate in a manner that aims for team consensus without the need for formalized voting.
 
-Transparency in the decision making process is important. Decisions will be documented along with the rationale and considerations taken into account around a given decision.
+For any substantial decisions where consensus cannot be reached, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
 
 The Solid Team utilizes the decision making framework [articulated herein](#decision-making-process).
 
@@ -77,7 +77,7 @@ Every Panel will have a stated purpose that can be mapped directly to the Solid 
 
 Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
 
-Stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
+Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
 
 ## Panel Nominations
 
@@ -117,7 +117,7 @@ This process may take place on or across different mediums. Wherever it transpir
 
 3. __Invite Conversation__ - Ensure that decision makers and (in most cases) affected parties have reviewed the material and have the ability to provide their input. Oftentimes, this occurs within Github, but can extend out into group calls, group chats, community meetings, and more.
 
-4. __Vote__ - Decision makers conduct a vote by simple majority.
+4. __Reach Consensus or Vote__ - Decision makers should strive to reach a simple consensus. When consensus cannot be reached, they should conduct a vote by simple majority.
 
 5. __Document and Communicate__ - Once a decision is made, the reason why should be documented, and then included as part of a notification through established communication channels (as appropriate).
 
