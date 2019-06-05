@@ -34,3 +34,5 @@ The Solid Manager is responsible for encouraging and supporting Solid Event orga
 All members of the Solid Team (including Solid Leader and Solid Manager) are tasked with advancing the Solid Mission through their work supporting the Solid Roadmap. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](governance.md#team-mandate).
 
 Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
+
+.
