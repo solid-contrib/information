@@ -1,7 +1,7 @@
 # Solid POD Providers
 
-|Link|Responsible for Domain Name and Terms of Use|Responsible for Hosting|Location of Hosting|Solid Server Version| Solid Server Version | Contact |
-|------------------|------------------|-----------------|-------------------|--------------------|--------------------|-----------------|
+|Link|Responsible for Domain Name and Terms of Use|Responsible for Hosting|Location of Hosting|Solid Server Version| Contact |
+|------------------|------------------|-----------------|-------------------|--------------------|--------------------|
 | https://inrupt.net/               | [Inrupt, Inc. terms of service](https://inrupt.com/terms-of-service) |         [Amazon](https://aws.amazon.com)          |         USA         |          NSS 4.x          | info@inrupt.com|
 | https://solid.community/| ?? | ?? |         ??          |           NSS 4.x          | |
 
