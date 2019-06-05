@@ -131,3 +131,5 @@ This document was put together with inspiration and learnings from the following
 * Sean McDonald (2019) [Reclaiming Data Trusts. CIGO](https://www.cigionline.org/articles/reclaiming-data-trusts)
 * Aymeric Augustin (xxxx) [Django](https://docs.djangoproject.com/en/dev/internals/organization/)
 * https://tc39.github.io/process-document/
+
+.
