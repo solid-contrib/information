@@ -3,9 +3,10 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 
 # Upcoming events
 
-| Date | Event | Organizer(s) |
+| Date | Event | Organiser(s) |
 |------|-------|--------------|
 |2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)|
+|2019-07-06|[Solid London](https://www.meetup.com/Solid-London/events/262097388/)|Paul Worral|
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
