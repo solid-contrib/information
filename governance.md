@@ -12,6 +12,76 @@ The first Solid Team including Mitzi László, Kjetil Kjernsmo, Ruben Verborgh, 
 Solid governance as explained here in gitub.com/solid/information/governance.md has been written over several weeks in public and has been communicated clearly at the weekly W3C Solid Community Group meetings before being presented to the Solid Leader for final approval. The Solid Leader needs to approve any decision making processes for it to be legitimate. Solid governance is to be reviewed when there are one thousand eligible candidates for the Solid Panel (see description of Solid Panel below) and will not be edited in the iterim so as to provide stability to focus on the building of Solid. 
 
 # Solid Team
+Here we identify the individuals named to the Solid Team, as well any responsibilities associated with their respective roles.
+
+# Solid Team Members
+
+The Solid Team are dedicated stewards of Solid, tasked with realising the Solid Mission by supporting the fulfillment of the Solid Roadmap. See [Governance](governance.md) for more information on the role that the Solid Team plays in the governance of Solid.
+
+All members of the Solid Team are tasked with advancing the Solid mission through their work supporting the Solid Roadmap together. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](governance.md#team-mandate).
+
+Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
+
+| Individual            | Role                              |
+| --------------------- | --------------------------------- |
+| Tim Berners-Lee       | [Leader](#solid-leader)           |
+| Mitzi László          | [Manager](#solid-manager)         |
+| Ruben Verborgh        | [Solid Specification Manager](#solid-specification-manager) |
+| Justin Bingham        | [Solid Website Manager](#solid-website-manger) |
+| Kjetil Kjernsmo       | [Solid Research](#solid-research-manager) |
+
+# Solid Team Roles
+
+- [Solid Leader](#solid-leader)
+- [Solid Manager](#solid-manager)
+- [Solid Specification Manager](#solid-specification-manager)
+- [Solid Website Manager](#solid-website-manger)
+- [Solid Research](#solid-research-manager)
+
+## Solid Leader
+The Solid Leader defines the governing mission and vision of Solid, along with key factors for success, which are manifested in the Solid Roadmap. The Solid Leader is the de-facto head of Solid, as well as the leading member of the Solid Team. 
+
+If there are differences of opinion, the Solid Leader has the final say on the way forward. The Solid Leader has unique veto power and can overide the decisions of the Solid Team.
+
+Responsibilities: 
+* approving governance related decisions such as descriptions of the responsibilities of the Solid team roles and processes for making decisions 
+* appointing individuals to the roles of the first Solid Team (further appointment is by a vote) 
+* reviewing decisions of the Solid Team and intervening with the decisions of the Solid Team if neccesary. 
+
+## Solid Manager
+The Solid Manager implements the governing vision and mission of Solid.
+
+Responsibilities: 
+* coordinating collaboration to develop Solid 
+* moderating Solid calls
+* ensuring that Solid information up to date and well-organised 
+* communicating any changes clearly and publicly
+* encouraging and supporting Solid Event organisers and other constructive community events and activities
+* encouraging and supporting Solid Projects which involves the publication of the project name, project scope as well as allocation of the Project Manager and Project Contributors
+
+## Solid Specification Manager
+The Solid Specifications Manager ensures the Solid spec is inclusive, up to date, and clearly communicated. 
+
+Responsibilities:
+* Ensuring that people working on and using Solid are aware of suggestions in time for them to give their opinion 
+* Incorporating suggestions into the Solid spec 
+* Communicating changes to the Solid specification clearly and publicy 
+* Maintaining the Solid specification in terms of formatting and grammar 
+
+## Solid Website Manager 
+The Solid Website Manager ensures that the Solid website is up to date, accurate, and publicy available
+
+Responsibilities: 
+* Maintaining the Solid Website 
+* Updating the Solid Website to make sure information is relevant and up to date
+
+## Solid Research Manager 
+The Solid Research Manager investigates new trends relevant to Solid and ensures that they are applied to the Solid mission where appropriate. 
+
+Responsibilities: 
+* Identifying new trends pertinent to Solid 
+* Proposing how new techniques could be applied to Solid 
+* Communicating new trends to those working on and using Solid to make sure they are aware
 
 The [Solid Team](solid-team.md) are dedicated trusted stewards of Solid fulfilling [roles and responsibilities](solid-team.md#solid-team-roles). 
 
@@ -84,7 +154,112 @@ In a Solid Team election, if 3 of the top 5 vote-getters work for the same emplo
 During a Solid Team term, if changing circumstances cause this rule to be broken (for instance, due to a Solid Team member changing employment), then one or more Solid Team members must resign to remedy the issue, and the resulting vacancies can then be filled as normal election.
 
 # Solid Panel
-Read more about the [Solid Panel](solid-panel.md). 
+# Solid Panels
+
+Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For information on how Solid Panels are governed, see [Solid Governance](decision-making-processes.md).
+
+# Proposed Solid Panels
+
+Proposed Solid Panels are subject to a majority vote by the Solid Team.
+
+## Specification Panel
+
+The purpose of the Specification Panel is to ensure that the Solid Specification is complete, robust, and evolves in alignment with the Solid Roadmap, and to provide advice and guidance to those looking to create specification compliant implementations.
+
+The first proposed initiative, to be started immediately, is for this panel to commence the creation of the v1.0 Solid Specification.
+
+## Security Panel
+
+The purpose of the Security Panel is to ensure that the Solid security model is well-documented, comprehensive, and constantly evolving, as well as to provide security-related advice and guidance to other panels, and to the Solid Team.
+
+The first proposed initiative, to be started immediately, is for this panel to commence with the creation of an in-depth documentation of the Solid security model.
+
+## Interoperability Panel
+
+Interoperability of data across applications is crucial to the core value proposition of Solid. The purpose of the Interoperability Panel is to ensure that Solid is always capable of delivering robust interoperability, and that tooling and resources are available to foster the same.
+
+The first proposed initiative, to be started immediately, is for the panel to commence with a proposal for data discovery by client applications in a Solid Pod.
+
+# Active Solid Panels
+
+No Solid Panels have been established yet.
+
+# Archived Solid Panels
+
+No Solid Panels have been closed and subsequently archived yet.
+
+
+Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification. Proposed, Active, and Archived Solid Panels are [listed here].
+
+A new Panel is sanctioned by a majority vote of the Solid Team. Requests for the formation of a new Panel may be submitted to any member of the Solid Team. To be considered, a Panel must be able to demonstrate a clear and substantial benefit to the Solid Mission, and must maintain that trajectory to remain active. Benefit and trajectory are measured by the Solid Team. Not all Panels will be expected to persist indefinitely.
+
+All Solid Panel members need to demonstrate a firm grasp of the philosophy of the Solid Project and the Solid Roadmap. They must demonstrate a track record of being constructive and collaborative, and a willingness to dedicate time to advance the Solid Mission through their work on the Panel.
+
+The Solid Team may consult one or more Panels for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Team can request a vote on issues that they feel are important to open up to one or more Solid panels.
+
+Solid Panel members need to demonstrate a good grasp of the philosophy of the Solid Project, a good track record of being constructive and helpful, significant contributions to Solid project's goals, in any form and willingness to dedicate some time to improving Solid. 
+
+The Solid Team consults the Solid Panel for advice on occasion when an internal Solid Team vote is not sufficient. Sufficiency is judged by the Solid Team. The Solid Panel can request a vote on issues that they feel are important to open up to a Solid panel. If there are two Solid Panel members who back the first Solid Panel request for a vote, the vote will go ahead.
+
+A [list of the current Solid Panel members](https://github.com/solid/information/blob/master/solid-panel.md) can be found.
+
+The Solid Panel consists of 
+* [Solid Team](https://github.com/solid/information/blob/master/solid-team.md)
+* former [MIT Solid Project Team](https://solid.mit.edu) 
+* Active Identity Providers   
+* Active Pod providers 
+* Active Solid app providers 
+* Active Solid Users who show a minimum engagement of having a WebID, Pod, and use at least one Solid app regularly and actively
+(please include further suggestions, precautions of existing suggestions, and detailed criteria of existing suggestions) 
+
+Once there is a Solid Test Suite it could be made a requirement that identity providers, Pod providers, and Solid app providers need to pass the Solid Test Suite to be able to participate in the Solid Panel. 
+
+Companies with multiple employees have a vote per individual employee rather than per company. 
+
+Anyone can apply to the Solid Panel as long as they fulfill the criteria above. The Solid Leader appoints candidates to roles.
+
+## Mandate
+
+Every Solid Panel is expected to actively contribute to the evolution of Solid in a way that supports the Solid Roadmap and the healthy growth of the Solid Ecosystem. Panel members are expected to act as custodians of Solid, within and outside of the community.
+
+Every Panel will have a stated purpose that can be mapped directly to the Solid Roadmap, and the Solid Team may task that Panel with specific initiatives to be completed as part of the fulfillment of its mandate. For example, the Specification Panel could be tasked with an initiative to complete the next major version of the Solid Specification.
+
+The Solid Panel gives advice that shapes the future of the project. The Solid Panel are expected to act as role models acting as custodians of Solid on behalf of all those who rely on Solid. The Solid Panel will intervene where neccessary, in online conversations or at official Solid Events on the rare occasions that a situation arises that requires intervention.
+
+## Decision Making
+
+Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
+
+Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
+
+## Nominations
+
+An individual can be nominated to a Panel by:
+- A Solid Team Member
+- A member of the Panel in question
+- A member of another Panel
+- Self-nomination
+
+An individual's experience and skillset must clearly align with the Panel they are nominated to. Positive contribution to existing Solid project initiatives is weighed heavily in their favor, but not required.
+
+Panel members must be approved by a majority vote of the Panel (if already established), and a majority vote of the Solid Team. An individual may belong to more than one Panel. A Solid Team member may participate as a member of a Panel.
+
+## Vacancies
+
+A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the mechanism [articulated herein](#panel-nominations).
+
+## Conflicts of Interest
+
+Solid Panel members are trusted to act in the best interests of Solid rather than themselves or their employers. Violation may result in removal from the panel through a vote of no confidence.
+
+## Vote of No Confidence
+
+In exceptional circumstances, a Panel may need to be dissolved by a majority vote of the Solid Team.
+
+It may also be necessary to remove someone from a Solid Panel against their will. For example, due to egregious and ongoing code of conduct violations. Removal of a Solid Panel member must be supported by a majority vote of the Solid Panel in question. The Solid Team also reserves the right to remove a Panel member, or to veto the removal of a Panel member, through a majority vote of the Solid Team.
+
+They may also be removed by a majority vote of the rest of the Solid Team. The Solid Leader reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the mechanism [articulated herein](#team-nominations-and-member-selection).
+
 
 # Consultation Process
 
