@@ -4,35 +4,69 @@ This document identifies the individuals named to the Solid Team, as well any re
 
 # Solid Team Members
 
-The Solid Team are dedicated stewards of Solid, tasked with realizing the Solid Mission by supporting the fulfillment of the Solid Roadmap. See [Governance](governance.md) for more information on the role that the Solid Team plays in the governance of Solid.
+The Solid Team are dedicated stewards of Solid, tasked with realising the Solid Mission by supporting the fulfillment of the Solid Roadmap. See [Governance](governance.md) for more information on the role that the Solid Team plays in the governance of Solid.
+
+All members of the Solid Team are tasked with advancing the Solid mission through their work supporting the Solid Roadmap together. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](governance.md#team-mandate).
+
+Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
 
 | Individual            | Role                              |
 | --------------------- | --------------------------------- |
 | Tim Berners-Lee       | [Leader](#solid-leader)           |
 | Mitzi László          | [Manager](#solid-manager)         |
-| Kjetil Kjernsmo       | [Team Member](#solid-team-member) |
-| Ruben Verborgh        | [Team Member](#solid-team-member) |
-| Justin Bingham        | [Team Member](#solid-team-member) |
+| Ruben Verborgh        | [Solid Specification Manager](#solid-specification-manager) |
+| Justin Bingham        | [Solid Website Manager](#solid-website-manger) |
+| Kjetil Kjernsmo       | [Solid Research](#solid-research-manager) |
 
 # Solid Team Roles
 
 - [Solid Leader](#solid-leader)
 - [Solid Manager](#solid-manager)
-- [Solid Team Member](#solid-team-member)
+- [Solid Specification Manager](#solid-specification-manager)
+- [Solid Website Manager](#solid-website-manger)
+- [Solid Research](#solid-research-manager)
 
 ## Solid Leader
-The Solid Leader defines the governing mission and vision of Solid, along with key factors for success, which are manifested in the Solid Roadmap. They are the de-facto head of Solid, as well as the leading member of the Solid Team.
+The Solid Leader defines the governing mission and vision of Solid, along with key factors for success, which are manifested in the Solid Roadmap. The Solid Leader is the de-facto head of Solid, as well as the leading member of the Solid Team. 
+
+If there are differences of opinion, the Solid Leader has the final say on the way forward. The Solid Leader has unique veto power and can overide the decisions of the Solid Team.
+
+Responsibilities: 
+* approving governance related decisions such as descriptions of the responsibilities of the Solid team roles and processes for making decisions 
+* appointing individuals to the roles of the first Solid Team (further appointment is by a vote) 
+* reviewing decisions of the Solid Team and intervening with the decisions of the Solid Team if neccesary. 
 
 ## Solid Manager
-The Solid Manager is responsible for coordination and facilitation across the Solid Team, Solid Panels, and the greater Solid Community. They aim to foster collaboration across these groups in the ultimate goal of realizing the Solid Mission by fulfilling the Solid Roadmap.
+The Solid Manager implements the governing vision and mission of Solid.
 
-The Solid Manager is responsible for moderating the W3C Solid Community Group calls, as well as keeping the Solid information up to date. Consequently, they must ensure that Solid information repositories are well-organized, and communicate any changes clearly and publicly.
+Responsibilities: 
+* coordinating collaboration to develop Solid 
+* moderating Solid calls
+* ensuring that Solid information up to date and well-organised 
+* communicating any changes clearly and publicly
+* encouraging and supporting Solid Event organisers and other constructive community events and activities
+* encouraging and supporting Solid Projects which involves the publication of the project name, project scope as well as allocation of the Project Manager and Project Contributors
 
-The Solid Manager is responsible for encouraging and supporting Solid Event organizers and other constructive community events and activities.
+## Solid Specification Manager
+The Solid Specifications Manager ensures the Solid spec is inclusive, up to date, and clearly communicated. 
 
-## Solid Team Member
-All members of the Solid Team (including Solid Leader and Solid Manager) are tasked with advancing the Solid Mission through their work supporting the Solid Roadmap. Responsibilities for any given Solid Team member may include but are not limited to those items listed in the [Solid Team Mandate](governance.md#team-mandate).
+Responsibilities:
+* Ensuring that people working on and using Solid are aware of suggestions in time for them to give their opinion 
+* Incorporating suggestions into the Solid spec 
+* Communicating changes to the Solid specification clearly and publicy 
+* Maintaining the Solid specification in terms of formatting and grammar 
 
-Solid Team members have admin rights on all Solid repositories, managed properties and assets, and communication channels. They are expected both to participate in regular community group meetings and to maintain availability for project-specific collaboration as needed.
+## Solid Website Manager 
+The Solid Website Manager ensures that the Solid website is up to date, accurate, and publicy available
 
-.
+Responsibilities: 
+* Maintaining the Solid Website 
+* Updating the Solid Website to make sure information is relevant and up to date
+
+## Solid Research Manager 
+The Solid Research Manager investigates new trends relevant to Solid and ensures that they are applied to the Solid mission where appropriate. 
+
+Responsibilities: 
+* Identifying new trends pertinent to Solid 
+* Proposing how new techniques could be applied to Solid 
+* Communicating new trends to those working on and using Solid to make sure they are aware
