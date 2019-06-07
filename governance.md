@@ -111,7 +111,7 @@ We employ a framework for making decisions on the Solid Team and across Solid Pa
 
 This process may take place on or across different mediums. Wherever it transpires, what is most important is that the process is inclusive for those individuals that have a part in making the decision, and transparent for those who would be impacted by the same.
 
-1. __Identity the Problem__ - The problem and the reason why the problem needs to be solved must be well understood. This includes an understanding of how solving the problem supports the Solid Roadmap.
+1. __Identify the Problem__ - The problem and the reason why the problem needs to be solved must be well understood. This includes an understanding of how solving the problem supports the Solid Roadmap.
 
 2. __Lay out Options__ - Detail reasonable paths forward, including pros and cons for each option. This is important to ensure that informed decisions are made.
 
