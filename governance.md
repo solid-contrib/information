@@ -31,11 +31,11 @@ Transparency in the decision making process is important. Decisions will be docu
 
 For any substantial decisions where consensus cannot be reached, the Solid Team votes. The Solid Leader can always veto the voting outcome. Every Solid Team member must either vote or explicitly abstain. Passing requires a strict majority of non-abstaining Solid Team members. Stalemates are resolved by the Solid Leader.
 
-The Solid Team utilizes the decision making framework [articulated herein](#decision-making-process).
+The Solid Team utilizes the [Decision Making Process](#decision-making-process) articulated in this document.
 
 ## Vacancies
 
-Solid Team members may resign their position at any time. They may also be removed by a majority vote of the rest of the Solid Team. The Solid Leader reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the mechanism [articulated herein](#team-nominations-and-member-selection).
+Solid Team members may resign their position at any time. They may also be removed by a majority vote of the rest of the Solid Team. The Solid Leader reserves the right to remove any Solid Team member at any time. Whenever there is a vacancy on the Solid Team, a new team member will be nominated and selected through the [Team Nomination](#team-nominations) mechanism articulated in this document.
 
 Solid Team members may take a leave of absence for sickness, pregnancy, or for another reason deemed legitimate by a majority of the Solid Team. In these cases an interim individual may be nominated.
 
@@ -59,7 +59,7 @@ In exceptional circumstances, it may be necessary to remove someone from the Sol
 
 # Solid Panels
 
-Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification. Proposed, Active, and Archived Solid Panels are [listed here](solid-panels.md).
+Solid Panels are individual groups focused on a specific technical or non-technical domain that are sanctioned by the Solid Team. For example, a Security Panel could be tasked with evaluation and advancement of the Solid security model. A Specification Panel could be tasked with evolution of the Solid Specification. Proposed, Active, and Archived Solid Panels are listed on the [Solid Panels](solid-panels.md) page.
 
 A new Panel is sanctioned by a majority vote of the Solid Team. Requests for the formation of a new Panel may be submitted to any member of the Solid Team. To be considered, a Panel must be able to demonstrate a clear and substantial benefit to the Solid Mission, and must maintain that trajectory to remain active. Benefit and trajectory are measured by the Solid Team. Not all Panels will be expected to persist indefinitely.
 
@@ -75,7 +75,7 @@ Every Panel will have a stated purpose that can be mapped directly to the Solid 
 
 ## Decision Making
 
-Solid Panels are expected to use the Decision Making Framework [articulated herein](decision-making-process), to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
+Solid Panels are expected to use the [Decision Making Process](#decision-making-process) articulated in this document to be transparent in work being conducted under their mandate, and to provide regular status updates through established channels.
 
 Solid Panels should always strive to operate in a manner that aims for consensus without the need for formalized voting. When voting is necessary, stalemates are resolved by a majority vote of the Solid Team. The Solid Team reserves the right to raise any decisions made or in-process within a Panel to a vote by the Solid Team.
 
@@ -93,7 +93,7 @@ Panel members must be approved by a majority vote of the Panel (if already estab
 
 ## Vacancies
 
-A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the mechanism [articulated herein](#panel-nominations).
+A Solid Panel member may resign their position at any time. Whenever there is a vacancy in a Solid Panel, a new Panel member may be nominated and selected through the [Panel Nomination](#panel-nominations) mechanism detailed in this document.
 
 ## Conflicts of Interest
 
