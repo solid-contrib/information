@@ -57,7 +57,7 @@ Pod providers offer storage to the user. Some Pod providers are also identity pr
 Read a list of [Solid Apps](https://github.com/solid/solid-apps) as well as [instructions on how to build a Solid app](https://github.com/solid/information/blob/master/app-development.md). Solid applications are somewhat like multi-user applications where instances talk to each other through a shared filesystem, and the Web is that filesystem.
 
 # Team
-The [Solid GitHub account](https://github.com/solid) was started by the [Solid academic project at MIT](https://solid.mit.edu) and today is run by the [Solid Team](https://github.com/solid/information/blob/master/solid-team.md) using [defined processes](https://github.com/solid/information/blob/master/decision-making-processes.md). 
+Read more about the [Solid culture](https://github.com/solid/culture) around decision making and the Solid team. 
 
 # FAQs 
 Read all past questions or ask a new question on the [Frequently Unanswered Questions](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md) page. 
