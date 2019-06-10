@@ -15,33 +15,14 @@ Solid Events are run by members of the Solid community like you. Here you can
 find a comprehensive guide to help you along the way. Reach out to the Solid 
 Manager to set up a call and brainstorm the organisation of your event. 
 
-# Team 
-A good team can make all the difference. Examples of roles include: 
-- promotion 
-- ticketing 
-- equipment support 
-- presentation host
+Solid Events are a good vehicle to build a local network interested in using and working on Solid. 
 
-# Venue
-Partnering with existing meetups or organisations that regularly host events has 
-the benefit of learning from their experience and benefit from their existing 
-setup. Make sure to select a venue that can accommodate the number of people 
-you expect with sufficient tables and chairs. 
+# Solid Event Triplet Programme  
+A possible format is to hold a triplet of incrementally engaging Solid Events in the same city. 
 
-# Equipment
-Organising a projector, sound system, and laptop for displaying the presentation 
-in advance is important for a smooth running event. Make sure you have the right 
-cables and preferably do a trial run before the event. If you partner with a venue 
-that is familiar with hosting events, make sure to know who to contact about 
-equipment setup. 
+*First Solid Event: Meet and Greet* 
+The first Solid Event in a city is an opportunity to gather local interest for a meet and greet. During the first Solid Event in a city a general introduction is helpful to make sure there is a common understanding and there is an opportunity to ask questions and discuss local applications. 
 
-# Programme 
-A general introduction to Solid to kickstart your Solid Event can be helpful for 
-newcomers and to warm the attention of the crowd. If your event is general and 
-targeted to a wide audience using Solid or looking to use Solid, it is important 
-that you cover What, Why, How, When, described so anyone can understand. It is 
-useful to talk about the core values that define the Solid design. Value based 
-conversations can be an excellent route to moving these conversations forward. 
 Questions to answer in the opening introduction include: 
 * What is Solid? 
 * Why should I use Solid?
@@ -53,6 +34,26 @@ is a great introduction if you'd prefer to screen a recording.
 Demos of Solid solutions preferably by locals building on Solid help the audience 
 focus on practical implementations. You can also ask Solid app developers for 
 recorded demos. 
+
+Solid Chat Challenges are set by defining a common goal, for example building a Solid chat app. Ideally you have a Challenge leader to give support and guidance throughout the challenge. Possibly partnering with a local university as part of a course is a good way to provide structure to the challenge and engage with students. Set the challenge criteria carefully and clearly as well as the jury. 
+
+At the end of your first Solid Event it’s a good idea to announce a local Solid Chat Challenge. Possibly you will first want to understand local interest before defining the details however make sure to announce it and collect contact details at the first Solid Event. Follow up by sending a written description of the local Solid Chat Challenge. 
+
+*Second Solid Event: Solid Chat Challenge prize ceremony with an invitation for local companies and institutions* 
+The prize ceremony is an opportunity to touch base, recognise efforts made, and share experiences. 
+
+You can collect feedback in a written form too to understand how the local community found the experience. The Solid Team are also interested in hearing feedback to see how to improve the on boarding developer experience. 
+
+Make sure to invite local companies and institutions to the Sold Chat Challenge prize ceremony. You may want to start the ceremony with a presentation for the local companies to understand Solid and the local Solid challenge. The ambition of inviting local companies and institutions is to connect them with those who have built on Solid so that they can implement Solid into local implementations. 
+
+*Third Solid Event: Demonstration of work by local commercial bodies* 
+The third Solid Event in your city is a good opportunity for local companies and institutions to share their experiences of local implementation of Solid. It is likely that these implementations are still in early stages. The benefit of meeting is that you can ensure interoperable practices on a local level from inception.
+A general introduction to Solid to kickstart your Solid Event can be helpful for 
+newcomers and to warm the attention of the crowd. If your event is general and 
+targeted to a wide audience using Solid or looking to use Solid, it is important 
+that you cover What, Why, How, When, described so anyone can understand. It is 
+useful to talk about the core values that define the Solid design. Value based 
+conversations can be an excellent route to moving these conversations forward. 
 
 ## Speakers 
 Solid Events are a great opportunity to highlight local people building on Solid. 
@@ -76,6 +77,26 @@ Hackathons are great for passing on knowledge between those who are familiar
 with Solid to those who are learning. It is useful to have a concrete target 
 for your hackathon that you can work towards together. There is a collection 
 of educational materials available at [Solid Teaching Materials](solid-resources.md). 
+
+# Team 
+A good team can make all the difference. Examples of roles include: 
+- promotion 
+- ticketing 
+- equipment support 
+- presentation host
+
+# Venue
+Partnering with existing meetups or organisations that regularly host events has 
+the benefit of learning from their experience and benefit from their existing 
+setup. Make sure to select a venue that can accommodate the number of people 
+you expect with sufficient tables and chairs. 
+
+# Equipment
+Organising a projector, sound system, and laptop for displaying the presentation 
+in advance is important for a smooth running event. Make sure you have the right 
+cables and preferably do a trial run before the event. If you partner with a venue 
+that is familiar with hosting events, make sure to know who to contact about 
+equipment setup. 
 
 # Invitation 
 Eventbrite and Meetup provide invitation services that have been popular with 
