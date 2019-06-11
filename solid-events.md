@@ -15,27 +15,12 @@ Solid Events are run by members of the Solid community like you. Here you can
 find a comprehensive guide to help you along the way. Reach out to the Solid 
 Manager to set up a call and brainstorm the organisation of your event. 
 
-# Team 
-A good team can make all the difference. Examples of roles include: 
-- promotion 
-- ticketing 
-- equipment support 
-- presentation host
+# Solid Event Triplet 
+A Solid Event triplet is a series of three events in the same city designed to have incremental engagement with your local network. 
 
-# Venue
-Partnering with existing meetups or organisations that regularly host events has 
-the benefit of learning from their experience and benefit from their existing 
-setup. Make sure to select a venue that can accommodate the number of people 
-you expect with sufficient tables and chairs. 
+1.	Meet and Greet 
+Holding an informal meetup in a city is a good way to find out who else is working on Solid locally. 
 
-# Equipment
-Organising a projector, sound system, and laptop for displaying the presentation 
-in advance is important for a smooth running event. Make sure you have the right 
-cables and preferably do a trial run before the event. If you partner with a venue 
-that is familiar with hosting events, make sure to know who to contact about 
-equipment setup. 
-
-# Programme 
 A general introduction to Solid to kickstart your Solid Event can be helpful for 
 newcomers and to warm the attention of the crowd. If your event is general and 
 targeted to a wide audience using Solid or looking to use Solid, it is important 
@@ -53,6 +38,17 @@ is a great introduction if you'd prefer to screen a recording.
 Demos of Solid solutions preferably by locals building on Solid help the audience 
 focus on practical implementations. You can also ask Solid app developers for 
 recorded demos. 
+
+At the end of the first Solid Event it’s a good idea to announce your local Solid Challenge. A Solid Challenge is a small aim where individuals or groups can aim towards and compete. Try and design the Solid Challenge to be relevant to the local setting. Perhaps you want to gauge the temperature at the first event and collect contact details of those interested in a Solid Challenge rather than announcing it immediately. Either way, make sure to follow up with a written description of the Solid Challenge aim as well as the prize criteria and the jury. Partnering with a local university is a good way to engage with student activity and the incorporate Solid into the local academic training. 
+
+2.	Solid Challenge Prize Ceremony 
+
+Set a date for the second Solid Event where you can announce the winner. This is a good opportunity to invite local businesses and institutions who may be interested in implementing Solid with the people who engaged in the Solid Challenge. 
+
+Having speakers at the second Solid Event who can introduce Solid to businesses is helpful. 
+
+3.	Company and Institutional demonstrations 
+The third Solid Event is a good place to gather local companies and institutuions who have been working on implementing Solid. The first demonstrations are likely to be early stage which is helpful so that you can understand how best to complement and support each other. 
 
 ## Speakers 
 Solid Events are a great opportunity to highlight local people building on Solid. 
@@ -76,6 +72,26 @@ Hackathons are great for passing on knowledge between those who are familiar
 with Solid to those who are learning. It is useful to have a concrete target 
 for your hackathon that you can work towards together. There is a collection 
 of educational materials available at [Solid Teaching Materials](solid-resources.md). 
+
+# Team 
+A good team can make all the difference. Examples of roles include: 
+- promotion 
+- ticketing 
+- equipment support 
+- presentation host
+
+# Venue
+Partnering with existing meetups or organisations that regularly host events has 
+the benefit of learning from their experience and benefit from their existing 
+setup. Make sure to select a venue that can accommodate the number of people 
+you expect with sufficient tables and chairs. 
+
+# Equipment
+Organising a projector, sound system, and laptop for displaying the presentation 
+in advance is important for a smooth running event. Make sure you have the right 
+cables and preferably do a trial run before the event. If you partner with a venue 
+that is familiar with hosting events, make sure to know who to contact about 
+equipment setup. 
 
 # Invitation 
 Eventbrite and Meetup provide invitation services that have been popular with 
