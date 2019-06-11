@@ -1,5 +1,5 @@
 Solid World is a place to get a quick update about what's going on in the Solid Community this month. 
-# Solid Kine (1st July 2019)
+# Solid June (1st July 2019)
 
 ## New Solid Apps 
 * [Solid Notify](https://solid-notify.5apps.com)
