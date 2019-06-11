@@ -1,9 +1,19 @@
 Solid World is a place to get a quick update about what's going on in the Solid Community this month. 
+# Solid Kine (1st July 2019)
+
+## New Solid Apps 
+* [Solid Notify](https://solid-notify.5apps.com)
+
+## Solid Events Coming up this month 
+
+
+## Solid Events that happened this month 
+* [Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111) by Jose Emilio Labra Gayo
 
 # Solid May (1st June 2019)
 
 ## New Solid Apps 
-* 
+* Solid Blog apps 
 
 ## Solid Events Coming up this month 
 * [Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111) by Jose Emilio Labra Gayo
