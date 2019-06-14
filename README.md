@@ -4,7 +4,7 @@
 ![Solid Logo](https://avatars3.githubusercontent.com/u/14262490?v=3&s=200)
 
 Solid (derived from "**so**cial **li**nked **d**ata") aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification based on
-[Linked Data](http://www.w3.org/DesignIssues/LinkedData.html) principles. Read more about the [Solid values](https://github.com/solid/information/blob/master/solid-values.md).
+[Linked Data](http://www.w3.org/DesignIssues/LinkedData.html) principles. Read more about the [Solid values](https://github.com/solid/information/blob/master/solid-vision.md).
 
 ## Solid Specification
 The Solid Specification describes a rest api that extends those [existing standards](https://github.com/solid/information/blob/master/standards-used.md), contains design notes on the individual components used, and is intended as a guide for developers who plan to build Pods or Solid applications.The Solid specification is modular and extensible and relies as much as possible on existing
