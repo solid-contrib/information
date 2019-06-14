@@ -1,6 +1,12 @@
 # Solid Vision 
 
+Solid (derived from "social linked data") aims to decentralise power on the web to ensure that the web is used for the global public interest by providing the Solid specification based on Linked Data principles. 
+
+# Solid Mission 
+
 Solid is an open-source project to restore the power and agency of individuals on the web. 
+
+# Solid Values 
 
 ## Self-Determination
 **In Solid, decisions around personal data should be made by the person**
