@@ -54,5 +54,6 @@ When relating Solid to GDPR, the 'WebID' is the identifier of the data subject, 
 In Solid there is are default data sharing settings until a person turns 18. The default settings are defined as the minimum required to share to access the UN Human Rights while maximising data protection (Happy Solid?). 
 
 # References 
+* https://www.w3.org/2001/tag/doc/ethical-web-principles/
 * https://agilemanifesto.org/
 * https://www.iotmanifesto.com 
