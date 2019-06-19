@@ -35,3 +35,38 @@ Ideas for Roadmap:
   * pod providers that allow using your own domain name
   * instructions on how to host your webid on a static server, outside your pod
   * app that can handle contacts with multiple frequently changing WebID's
+
+# App Wishlist
+Wishlist items/suggestions go here.
+
+- [ ] Admin app - when you launch a Solid server and visit the root URL,
+    this is the app that gets served by default. Shows the status of the
+    server, allows Admin users to edit/remove profiles, etc.
+- [ ] Dashboard app
+- [ ] People/Group Picker + ACL Manager
+- [x] Profile editor [profile-editor](https://github.com/linkeddata/profile-editor)
+- [x] Signup app / initial profile creation. ([solid-signup](https://github.com/solid/solid-signup))
+- [ ] Welcome app - when users first sign up for a WebID account, they are
+    redirected to this app. Provides links/docs/introduction to the Solid
+    platform.
+    (see [solid/solid/issues/18](https://github.com/solid/solid/issues/18))
+-  Backup Manager (tar/gzip your account's data, for download, storage on S3/Glacier, etc.)
+- Calendar app (e.g., [example1](http://ui.toast.com/tui-calendar/))
+- Chat app
+- Check-in/Location app (with GPS annotations)
+- Clone of 750words.com
+- Clone of [jspaint](https://github.com/1j01/jspaint)
+- Clone of markdown app: https://tobloef.com/markant/
+-  Clone of mind map app: https://tobloef.com/text2mindmap/
+- Collection Manager (books, movies, games, etc.)
+- Consensus app - create decisions (similar to a Poll), invite people/teammates to participate, comments and discussion, vote on the outcome (simple majority or runoff voting)
+- Disqus clone
+- Ephemeral/temporary storage accounts
+- File share app (Dropbox/public folder type thing, or Pastebin/text share)
+- Friends app (add/remove w QR codes)
+- Hospitality Preference (allergies, dietary restrictions, etc.)
+- News app, e.g., RSS aggregator
+- Pastebin clone
+- Photo Album app (comments + likes + notifications)
+- Presence app (i.e., online/offline indicator) (possibly combine with Check-in/Location app)
+- Presentations app, e.g., https://github.com/tmcw/big/blob/gh-pages/docs/user-guide.md
