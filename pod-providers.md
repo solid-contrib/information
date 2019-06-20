@@ -18,7 +18,7 @@ In short, these are made for testing the latest, bleeding edge features and capa
 | https://solid.openlinksw.com:8445 |   [OpenLink Software](https://www.openlinksw.com/)  |         USA         |        NSS 5.x       |
 | https://dev.inrupt.net |  [Inrupt, Inc.](https://www.inrupt.com/)  |         USA         |        NSS 5.x       |
 | https://solid.authing.cn/         |                          ??                         |                        ??                         |         ??          |          ??          |
-| https://solidweb.org         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          |        
+| https://solidweb.org:8443         |                         [Matthias Evering](https://github.com/ewingson)                      |                        Germany                         |         NSS 5.x          |        
 | https://ld.solidbase.info | https://github.com/y0va| ? | NSS 5.1.0 |
 
 
