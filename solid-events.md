@@ -6,7 +6,6 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
 |2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda|
-|2019-07-06|[Solid London](https://www.meetup.com/Solid-London/events/262097388/)|Paul Worral|
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
