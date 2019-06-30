@@ -5,7 +5,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
-|2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda|
+
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
@@ -130,6 +130,7 @@ to speak with other Solid Event organisers
 
 | Date | Event | Organizer(s) |
 |------|-------|--------------|
+|2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda|
 |2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)|
 |2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)|
 | 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
