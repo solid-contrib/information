@@ -26,9 +26,9 @@ Data should slot seamlessly from one Solid app or Pod to another without permiss
 
 Unnecessary technical hurdles or business opportunities should not be used as an excuse to not provide interoperability.  
 
-* Self-Determination: 
+* Digital Sovereignty: 
 
-Users online should have the last word on granular data related decisions such as where each piece of data is stored, how it is used, by who, and for how long. 
+Users online should be able to self determine around granular data related decisions such as where each piece of data is stored, how it is used, by who, and for how long. 
 
 Granularity of the decisions as well as being presented with multiple options is important for that self determination to be valid. 
 
