@@ -130,6 +130,7 @@ to speak with other Solid Event organisers
 
 | Date | Event | Organizer(s) | Recordings and Slides |
 |------|-------|--------------|--------------|
+|2019-07-05|[Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/262620128/)|[John Bartas](http://www.bartas.net/resume.html)||
 |2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda| [The PLDN, Linked Data, Solid Intro & Demo](https://www.slideshare.net/PLDN/solid-the-hague-june-28th-2019-153348635)|
 |2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)||
 |2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)||
