@@ -128,23 +128,23 @@ to speak with other Solid Event organisers
 
 # Past events
 
-| Date | Event | Organizer(s) |
-|------|-------|--------------|
-|2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda|
-|2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)|
-|2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)|
-| 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) |
-| 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto) | 
-| 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort |
-| 2019-05-02 | [Solid Seattle](https://www.eventbrite.com/e/solid-seattle-tickets-60131990402) | [Jon Pederson](https://www.linkedin.com/in/jonpederson/) |
-| 2019-04-09 | [Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/260087036/) | [John Bartas](http://www.bartas.net/resume.html) |
-| 2019-04-09 | [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_–_April_9th_2019) | [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) |
-| 2019-03-27 | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-55479654139) | [Christian Buggadei](https://github.com/JollyOrc) |
-| 2019-03-22 | [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542) | [Kelly O'Brien](https://github.com/InruptKelly) |
-| 2019-03-21 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-57623377072) | [Kelly O'Brien](https://github.com/InruptKelly) |
-| 2019-02-20 | [Solid Saxony](https://forum.solidproject.org/t/solid-meetup-saxony-germany/1215) | [Team 4C](https://wefourc.com/) |
-| 2019-02-08 | [Solid Stockholm](https://www.meetup.com/Solid-Sweden/events/257923996/) | [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) |
-| 2019-01-09 | [Solid Berlin](https://supermarkt-berlin.net/event/solid-meetup-berlin/) | [Christian Buggadei](https://github.com/JollyOrc) |
-| 2018-12-12 | [Solid Oslo](https://www.meetup.com/Solid-Norway/events/256467181/) | [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) |
-| 2018-12-11 | [Solid Utrecht](https://www.meetup.com/Solid-Netherlands/) | [Pierluigi Casale](https://www.linkedin.com/in/pierluigi-casale-41271430/) |
-| 2018-12-05 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-52634666705) | [Mitzi László](https://github.com/Mitzi-Laszlo) |
+| Date | Event | Organizer(s) | Recordings and Slides |
+|------|-------|--------------|--------------|
+|2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda| [The PLDN, Linked Data, Solid Intro & Demo](https://www.slideshare.net/PLDN/solid-the-hague-june-28th-2019-153348635)|
+|2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)||
+|2019-05-29  | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-61643210502) | [Christian Buggedei](https://www.linkedin.com/in/buggedei)||
+| 2019-05-22 | [Solid London](https://www.meetup.com/Solid-London/) | [Paul Worral](https://www.linkedin.com/in/worrall/) ||
+| 2019-05-13 | [Solid Toronto](https://www.meetup.com/Solid-Toronto/) | [Li Lu](https://github.com/SolidToronto) || 
+| 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort ||
+| 2019-05-02 | [Solid Seattle](https://www.eventbrite.com/e/solid-seattle-tickets-60131990402) | [Jon Pederson](https://www.linkedin.com/in/jonpederson/) ||
+| 2019-04-09 | [Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/260087036/) | [John Bartas](http://www.bartas.net/resume.html) ||
+| 2019-04-09 | [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_–_April_9th_2019) | [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) ||
+| 2019-03-27 | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-55479654139) | [Christian Buggadei](https://github.com/JollyOrc) ||
+| 2019-03-22 | [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542) | [Kelly O'Brien](https://github.com/InruptKelly) ||
+| 2019-03-21 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-57623377072) | [Kelly O'Brien](https://github.com/InruptKelly) ||
+| 2019-02-20 | [Solid Saxony](https://forum.solidproject.org/t/solid-meetup-saxony-germany/1215) | [Team 4C](https://wefourc.com/) ||
+| 2019-02-08 | [Solid Stockholm](https://www.meetup.com/Solid-Sweden/events/257923996/) | [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) ||
+| 2019-01-09 | [Solid Berlin](https://supermarkt-berlin.net/event/solid-meetup-berlin/) | [Christian Buggadei](https://github.com/JollyOrc) ||
+| 2018-12-12 | [Solid Oslo](https://www.meetup.com/Solid-Norway/events/256467181/) | [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) ||
+| 2018-12-11 | [Solid Utrecht](https://www.meetup.com/Solid-Netherlands/) | [Pierluigi Casale](https://www.linkedin.com/in/pierluigi-casale-41271430/) ||
+| 2018-12-05 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-52634666705) | [Mitzi László](https://github.com/Mitzi-Laszlo) ||
