@@ -6,6 +6,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
 
+| 2018-07-11 | Solid Beijing | TBC |
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
