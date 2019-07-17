@@ -79,7 +79,7 @@ Groups implementing the Solid  have a dedicated channel based on the implemtatni
 * [solid/events](https://gitter.im/solid/solid-events): Solid Event organisers can share tips and ask questions on this channel 
 
 Solid Projects have dedicated chat channels. 
-* [site-and-docs](https://gitter.im/solid/site-and-docs): a place to talk about the Solid Project '[Solid Content Generation](https://github.com/orgs/solid/projects/6)'
+* [solid/site-and-docs](https://gitter.im/solid/site-and-docs): a place to talk about the Solid Project '[Solid Content Generation](https://github.com/orgs/solid/projects/6)'
 * [solid/test-suite](https://gitter.im/solid/test-suite): a place to talk about the Solid Project '[Test Suite](https://github.com/orgs/solid/projects/5)'
 * [solid/data-browser](https://gitter.im/solid/data-browser): a place to talk about the Solid Project '[Solid data browser UI/UX/DX](https://github.com/orgs/solid/projects/4)'
 * [solid/node-solid-server](https://gitter.im/solid/node-solid-server): originally a place to talk about [Solid Project NSS-v5.0.0](https://github.com/orgs/solid/projects/1) and now a dedicated space for [Solid Project ASAP on Server](https://github.com/orgs/solid/projects/2)
