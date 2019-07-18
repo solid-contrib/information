@@ -32,7 +32,7 @@ You can also use or contribute to the Solid [documentation](https://github.com/s
 
 The [Solid Roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md) details how all the implementations of Solid interact to deliver the Solid vision. 
 
-If you are looking for funding to be able to build on Solid read this list of [funding opportunities](https://github.com/solid/information/blob/master/solid-resources.md). 
+If you are looking for funding to be able to build on Solid read this list of [funding opportunities](https://github.com/solid/information/blob/master/resources.md). 
 
 # Use 
 There are multiple Solid prototypes that you can use and and explore already. 
@@ -42,7 +42,7 @@ In order to try out some of the Solid, you will first need to get a [WebID](http
 # [FAQs](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md)
 
 ## Press
-You can find past and upcoming articles and talks about Solid [here](https://github.com/solid/information/blob/master/solid-press.md). 
+You can find past and upcoming articles and talks about Solid [here](https://github.com/solid/information/blob/master/press.md). 
 
 ### Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Find out more about [organising a Solid Event](https://github.com/solid/information/blob/master/solid-events.md). 
