@@ -8,9 +8,14 @@ Solid is originally derived from ‘social linked data’ and is led by Sir Tim 
 2.	Pods: Solid users store their data on Pods. Each Solid each can have multiple Pods. Data generated while using Solid apps is stored on the Pod independently of the app. 
 3.	Apps: Solid apps get granular access to user data meaning they get a specific type of data, for a specific purpose, for a set timeframe, etc. 
 
+
+
 # Solid Mission 
 
 Solid’s mission is to make it possible for users online to move seamlessly from applications or data storage providers (‘Pods’) without interruption of service and take the data generated while using the previous application or Pod along with them. Solid does not define the user which could be anything from a person, to a company, to a government. Solid also does not define which data should be controlled by which user.
+
+Solid (derived from "**so**cial **li**nked **d**ata") aims to decentralise power on the web to ensure that the web is used for the global public interest. 
+
 
 # Solid Vision 
 
@@ -47,4 +52,4 @@ The web should be available everywhere and should be indiscriminate in the way i
 * https://www.w3.org/2001/tag/doc/ethical-web-principles/
 * https://agilemanifesto.org/
 * https://www.iotmanifesto.com
-* Linked Data principles
+* [Linked Data principles](http://www.w3.org/DesignIssues/LinkedData.html)
