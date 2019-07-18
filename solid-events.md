@@ -6,8 +6,6 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
 |2019-07-20|[Solid Beijing](https://www.eventbrite.com/e/solid-beijing-tickets-65524883691)|[Ivy Dom](https://github.com/leinue)|
-|2019-08-11|[Solid Cologne](https://programm.froscon.de/2019/events/2375.html)|[Angelo Veltens](https://github.com/angelo-v)|
-
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
