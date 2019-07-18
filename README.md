@@ -21,8 +21,6 @@ Read Solid's [mission, vision, and values](https://github.com/solid/information/
 # Develop 
 Solid is an open source project which anyone can contribute. Read more about [how collective decisions about Solid are made](https://github.com/solid/culture). 
 
-[This week on Solid](https://github.com/solid/information/blob/master/this-week-in-solid.md) is a great place to read about the latest developments. 
-
 # Build
 Anyone can implement the Solid [specification](https://github.com/solid/specification). 
 
@@ -37,6 +35,23 @@ There are multiple Solid prototypes that you can use and and explore already.
 
 In order to try out some of the Solid, you will first need to get a [WebID](https://github.com/solid/information/blob/master/pod-providers.md) and a [Pod](https://github.com/solid/information/blob/master/pod-providers.md). You can also [self host your Pod](https://github.com/solid/information/blob/master/self-hosting.md) rather than opt for a Pod provider. Once you have set your WebID and Pod you can use [Solid applications](https://github.com/solid/solid-apps). 
 
+# [FAQs](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md)
+
+## Press
+You can find past and upcoming articles and talks about Solid [here](https://github.com/solid/information/blob/master/solid-press.md). 
+
+### Solid Events 
+[Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Find out more about [organising a Solid Event](https://github.com/solid/information/blob/master/solid-events.md). 
+
+Find out about upcoming Solid Events or let others know about a Solid Event that you are organising [here](https://github.com/solid/information/blob/master/solid-events.md). 
+
 # Contact
 
 Contact the Solid Manager on info@solidproject.org
+
+## License 
+Get an [overview](https://github.com/solid/information/blob/master/license.md)of the Solid license.
+
+## Solid Logo and Terms 
+You can read a complete set of standardised definitions in the [Solid dictionary](https://github.com/solid/information/blob/master/solid-dictionary.md) and the [Solid Logo usage guidelines](https://github.com/solid/information/blob/master/solid-logo-usage-guidelines.md). 
+
