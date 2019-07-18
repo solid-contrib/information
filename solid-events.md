@@ -69,7 +69,7 @@ their funds are appropriate for Solid values.
 Hackathons are great for passing on knowledge between those who are familiar 
 with Solid to those who are learning. It is useful to have a concrete target 
 for your hackathon that you can work towards together. There is a collection 
-of educational materials available at [Solid Teaching Materials](solid-resources.md). 
+of educational materials available at [Solid Teaching Materials](resources.md).
 
 # Team 
 A good team can make all the difference. Examples of roles include: 
@@ -139,7 +139,7 @@ to speak with other Solid Event organisers
 | 2019-05-08 | [Solid New York](https://www.meetup.com/NextWeb-NYC/) | Brian Cort ||
 | 2019-05-02 | [Solid Seattle](https://www.eventbrite.com/e/solid-seattle-tickets-60131990402) | [Jon Pederson](https://www.linkedin.com/in/jonpederson/) ||
 | 2019-04-09 | [Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/260087036/) | [John Bartas](http://www.bartas.net/resume.html) ||
-| 2019-04-09 | [Solid Utrecht](http://www.pilod.nl/wiki/Solid_Netherlands_Kick-Off_–_April_9th_2019) | [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) ||
+| 2019-04-09 | [Solid Utrecht](http://www.pilod.nl/wiki/PLDN-Solid_Kick-Off_%E2%80%93_April_9th_2019) | [Pieter van Everdingen](https://www.linkedin.com/in/pietervaneverdingen/) ||
 | 2019-03-27 | [Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-55479654139) | [Christian Buggadei](https://github.com/JollyOrc) ||
 | 2019-03-22 | [Solid Boston](https://www.eventbrite.com/e/solid-startup-workshop-boston-tickets-57623868542) | [Kelly O'Brien](https://github.com/InruptKelly) ||
 | 2019-03-21 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-57623377072) | [Kelly O'Brien](https://github.com/InruptKelly) ||
