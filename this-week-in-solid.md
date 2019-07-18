@@ -45,7 +45,7 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 
 * After weeks of conversation and co-creating the process document explaining how we can make collective decisions has been through the review process. You can read the final result of the [decision making process](https://github.com/solid/culture). 
 
-#### Upcoming Events* 
+#### Upcoming Events
 
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md) 
 
