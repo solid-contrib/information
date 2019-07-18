@@ -30,6 +30,8 @@ Find out who is working on Solid implementations and let others know about how y
 
 You can also use or contribute to the Solid [documentation](https://github.com/solid/information/blob/master/documentation.md) explaining how to implement the Solid specification. 
 
+If you are looking for funding to be able to build on Solid read this list of [funding opportunities](https://github.com/solid/information/blob/master/solid-resources.md). 
+
 # Use 
 There are multiple Solid prototypes that you can use and and explore already. 
 
