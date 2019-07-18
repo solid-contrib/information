@@ -1,15 +1,3 @@
-# What is Solid? 
-
-Solid is a voluntary technical specification describing how to build interoperable software. 
-
-Solid is originally derived from ‘social linked data’ and is led by Sir Tim Berners-Lee, inventor of the World Wide Web. 
-
-1.	Login: Solid users identify themselves with a WebID which is domain name based. Ideally the user owns the domain used to identify themselves. 
-2.	Pods: Solid users store their data on Pods. Each Solid each can have multiple Pods. Data generated while using Solid apps is stored on the Pod independently of the app. 
-3.	Apps: Solid apps get granular access to user data meaning they get a specific type of data, for a specific purpose, for a set timeframe, etc. 
-
-
-
 # Solid Mission 
 
 Solid’s mission is to make it possible for users online to move seamlessly from applications or data storage providers (‘Pods’) without interruption of service and take the data generated while using the previous application or Pod along with them. Solid does not define the user which could be anything from a person, to a company, to a government. Solid also does not define which data should be controlled by which user.
