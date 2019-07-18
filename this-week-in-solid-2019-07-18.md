@@ -9,7 +9,7 @@ This Week in Solid is openly developed [on GitHub](https://github.com/solid/info
 ### Updates from the Solid Community
 
 #### News & Blog Posts
-* [The Full Complexity of Onboarding with Solid](https://medium.com/@JacksonMorgan/the-full-complexity-of-onboarding-with-solid-7aeaa842358) by Jackson Morgan
+Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week. 
 
 #### Call for Participation
 Always wanted to contribute to open-source projects but didn't know where to start? 
