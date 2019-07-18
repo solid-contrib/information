@@ -1,4 +1,4 @@
-# This Week in Solid 18th July 2019 
+# 18th July 2019 
 
 Hello and welcome to another issue of This Week in Solid! 
 
