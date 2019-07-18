@@ -1,3 +1,5 @@
+Solid applications are somewhat like multi-user applications where instances talk to each other through a shared filesystem, and the Web is that filesystem.
+
 * [Intro to Solid Tutorial](https://github.com/solid/solid-tutorial-intro)
 * [Solid Apps with Angular](https://solid.inrupt.com/docs/writing-solid-apps-with-angular)
 * [Solid Apps with React](https://solid.inrupt.com/docs/writing-solid-apps-with-react)
