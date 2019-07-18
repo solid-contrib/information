@@ -19,7 +19,7 @@ Pods: users store their unique data on Pods (personal online data stores) rather
 Read Solid's [mission, vision, and values](https://github.com/solid/information/blob/master/solid-vision-mission-values.md)
 
 # Develop 
-Solid is an open source project which anyone can contribute. Read more about [how collective decisions about Solid are made](https://github.com/solid/culture). 
+Solid is an open source project which anyone can contribute. Read more about [how collective decisions about Solid are made](https://github.com/solid/culture).
 
 # Build
 Anyone can implement the Solid [specification](https://github.com/solid/specification). 
@@ -27,6 +27,8 @@ Anyone can implement the Solid [specification](https://github.com/solid/specific
 Find out who is working on Solid implementations and let others know about how you are implementing Solid on the [App](https://github.com/solid/solid-apps), [Pod](https://github.com/solid/pods), and [Identity Provider](https://github.com/solid/solid-idp-list) listings. 
 
 You can also use or contribute to the Solid [documentation](https://github.com/solid/information/blob/master/documentation.md) explaining how to implement the Solid specification. 
+
+The [Solid Roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md) details how all the implementations of Solid interact to deliver the Solid vision. 
 
 If you are looking for funding to be able to build on Solid read this list of [funding opportunities](https://github.com/solid/information/blob/master/solid-resources.md). 
 
