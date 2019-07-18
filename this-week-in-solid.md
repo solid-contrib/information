@@ -11,7 +11,7 @@ Stay up to date with events, learning resources, and recent developments in Soli
 
 Hello and welcome to another issue of This Week in Solid! 
 
-[Solid](https://solid.github.io/information/) is a voluntary global technical specification for building interoperable software. This is a weekly sumary of its progress and community. Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send us a pull request](https://github.com/solid/information/blob/master/this-week-in-solid.md). Want to get involved? [We love contributions](https://github.com/solid/information#develop).  
+[Solid](https://solid.github.io/information/) is a voluntary global technical specification for building interoperable software. This is a weekly summary of its progress and community. Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send us a pull request](https://github.com/solid/information/blob/master/this-week-in-solid.md). Want to get involved? [We love contributions](https://github.com/solid/information#develop).  
 
 This Week in Solid is openly developed [on GitHub](https://github.com/solid/information/blob/master/this-week-in-solid.md). If you find any errors in this week's issue please submit a pull request. 
 
@@ -51,6 +51,8 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 There are two confirmed Solid Events coming up. 
 
+| Date | Event | Organiser |
+|------------ | ------------- | ------------- |
 |2019-07-20|[Solid Beijing](https://www.eventbrite.com/e/solid-beijing-tickets-65524883691)|[Ivy Dom](https://github.com/leinue)|
 |2019-08-11|[Solid Cologne](https://programm.froscon.de/2019/events/2375.html)|[Angelo Veltens](https://github.com/angelo-v)|
 
