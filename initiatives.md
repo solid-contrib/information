@@ -8,7 +8,7 @@ You can find detailed conversations discussing the Solid's connection to other i
 | [Freenet](https://freenetproject.org/) | ------------- | ------------- | ------------- |
 | [Zeronet](https://zeronet.io/) | ------------- | ------------- | ------------- |
 | [Safe](https://safenetwork.tech/) | ------------- | ------------- | [further reading](https://forum.solidproject.org/t/safe-and-solid-the-internet-as-it-should-be/347) |
-| [DAT](https://docs.datproject.org/dat-node) | ------------- | ------------- | ------------- |
+| [DAT](https://dat.foundation/) | ------------- | ------------- | ------------- |
 | [Threefold](http://threefold.io/) | ------------- | ------------- | ------------- |
 | [Unhosted](https://unhosted.org/) | ------------- | ------------- | ------------- |
 | [BBC Databox](http://www.databoxproject.uk) | ------------- | ------------- | ------------- |

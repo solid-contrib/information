@@ -19,7 +19,7 @@ ___
 
 # Values
 
-Solid has [core values](https://github.com/solid/information/blob/master/solid-values.md) that should be embodied in everything that it represents or represents it: Interoperability, Self-determination, Equal access, Sourcing, Public Value, Connecting
+Solid has [core values](/solid-vision-mission-values.md#solid-values) that should be embodied in everything that it represents or represents it: Interoperability, Self-determination, Equal access, Sourcing, Public Value, Connecting
 
 # Logo
 

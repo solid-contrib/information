@@ -9,7 +9,7 @@ Solid applications are somewhat like multi-user applications where instances tal
 * [Intro to Solid](https://github.com/solid/intro-to-solid-slides)
 * [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro)
 * [Solid Tutorial Angular](https://github.com/solid/solid-tutorial-angular)
-* [Solid Tutorial rdflib](https://github.com/solid/solid-tutorial-angular.js)
+* [Solid Tutorial rdflib](https://github.com/solid/solid-tutorial-rdflib.js)
 * [Solid Tutorial Profile Viewer Tutorial](https://github.com/solid/profile-viewer-tutorial)
 * [Solid Tutorial Understanding Linked Data](https://github.com/solid/understanding-linked-data)
 * [Solid Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin)
@@ -18,7 +18,6 @@ Solid applications are somewhat like multi-user applications where instances tal
 * [Userguide](https://github.com/solid/userguide)
 * [Solid Releases](https://github.com/solid/releases)
 * [Solid Namespace](https://github.com/solid/solid-namespace) 
-* [Some background](https://github.com/solid/information/blob/master/background.md)
 * https://www.w3.org/DesignIssues/diagrams/solid/2018-soild-work.svg 
 * https://github.com/LearnSolid/solid-roadmap
 * Pieter Heyvaert's detailed [writeup](https://forum.solidproject.org/t/decentralized-chess-game/365/20) on building [solid-chess](https://github.com/pheyvaer/solid-chess) provides a peek into architecting Solid applications.

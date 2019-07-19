@@ -30,7 +30,7 @@ Find out who is working on Solid implementations and let others know about how y
 
 You can also use or contribute to the Solid [documentation](https://github.com/solid/information/blob/master/documentation.md) explaining how to implement the Solid specification. 
 
-The [Solid Roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md) details how all the implementations of Solid interact to deliver the Solid vision. 
+The [Solid Roadmap](./roadmap.md) details how all the implementations of Solid interact to deliver the Solid vision.
 
 If you are looking for funding to be able to build on Solid read this list of [funding opportunities](https://github.com/solid/information/blob/master/resources.md). 
 
