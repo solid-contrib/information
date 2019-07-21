@@ -5,7 +5,6 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
-|2019-07-20|[Solid Beijing](https://www.eventbrite.com/e/solid-beijing-tickets-65524883691)|[Ivy Dom](https://github.com/leinue)|
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
 
@@ -130,6 +129,7 @@ to speak with other Solid Event organisers
 
 | Date | Event | Organizer(s) | Recordings and Slides |
 |------|-------|--------------|--------------|
+|2019-07-20|[Solid Beijing](https://www.eventbrite.com/e/solid-beijing-tickets-65524883691)|[Ivy Dom](https://github.com/leinue)|[Solid Beijing 2019](https://github.com/learnsolid/solid-beijing-2019)
 |2019-07-05|[Solid San Jose](https://www.meetup.com/San-Jose-SOLID-Technology-decentralized-Web-Meetup/events/262620128/)|[John Bartas](http://www.bartas.net/resume.html)||
 |2019-06-28|[Solid Hague](https://www.meetup.com/vierdevrijdag/events/jjtxlqyzjblc/)|Bart Roorda| [The PLDN, Linked Data, Solid Intro & Demo](https://www.slideshare.net/PLDN/solid-the-hague-june-28th-2019-153348635)|
 |2019-06-12|[Solid Oviedo](https://www.eventbrite.com/e/solid-oviedo-solid-chat-challenge-prize-ceremony-tickets-61938296111)|[Jose Emilio Labra Gayo](https://github.com/labra)||
