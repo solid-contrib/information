@@ -20,21 +20,23 @@ A future where everyone has complete freedom of movement for their user data and
 
 # Solid Values 
 
-* Freedom 
-
-Users should have the right to move seemlessly between applications and services without interruption or constraint. They should also have the freedom to choose how that data is accessed and used by third-parties.
-
-Data should slot seamlessly from one Solid app or Pod to another without permission from each other. Solid app and Pod providers should be able to easily innovate by creating new apps or improving current apps, all while reusing existing data that was created by other apps. 
-
-Unnecessary technical hurdles or business opportunities should not be used as an excuse to not provide interoperability.  
-
 * Self-determination 
 
-Users should have the right to determine where their user data is stored, who has access to it, how it is used and for how long. Granularity of these decisions, as well as being presented with multiple options, is important for that self determination to be valid. 
+Users should be able to freely chose how their data is accessed and used by who, when, and for how long, under what conditions. Users should have the right to determine where their user data is stored, who has access to it, how it is used and for how long. Granularity of these decisions, as well as being presented with multiple options, is important for that self determination to be valid. 
 
 Users should be able to use Solid in a way that works for them and shouldn’t be subject to doctrine, dictation or directive.
 
 Solid does not define which data should be controlled by which user.
+
+* Diversity
+
+Users should be able to chose a from a variety of services that work together with other services. Users should be able to change their mind about which service they use and take their data along with them in a convenient way.  
+
+Users should be able to move seamlessly between online services without interruption. 
+
+Online services including storage of data, identification online, and use of data for an application should always be interoperable with each other. Data should slot seamlessly from one Solid app or Pod to another without permission from each other. Solid app and Pod providers should be able to easily innovate by creating new apps or improving current apps, all while reusing existing data that was created by other apps.
+
+Unnecessary technical hurdles or business opportunities should not be used as an excuse to not provide interoperability. 
 
 * Equality
 
