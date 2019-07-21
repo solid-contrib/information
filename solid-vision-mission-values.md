@@ -38,9 +38,9 @@ Online services including storage of data, identification online, and use of dat
 
 Unnecessary technical hurdles or business opportunities should not be used as an excuse to not provide interoperability. 
 
-* Equality
+* Fairness
 
-Users should have equal access to the web both for consumption and creation i.e. the read-write web. While development may require education this should also be freely available and accessible to all.
+Online interactions should be fair for everyone involved both for consumption and creation i.e. the read-write web. While development may require education this should also be freely available and accessible to all.
 
 The web should be available everywhere and should be indiscriminate in the way it operates and speaks to everyone.
 
