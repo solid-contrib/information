@@ -24,7 +24,7 @@ Build solutions for interoperability against which all applications are built
 
 # Solid Vision 
 
-A future where everyone has complete freedom of movement for their user data and choice in how it is used.
+A nurturing love of collaboration and knowledge creation for the public interest
 
 # Solid Values 
 
