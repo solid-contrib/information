@@ -20,7 +20,7 @@ Solid works on three levels:
 
 # Solid Mission 
 
-Build solutions for interoperability against which all applications are built
+Build solutions for a fair web for all. 
 
 # Solid Vision 
 
