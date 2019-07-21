@@ -20,7 +20,7 @@ A future where everyone has complete freedom of movement for their user data and
 
 # Solid Values 
 
-* Self-determination 
+* Self-determination
 
 Users should be able to freely chose how their data is accessed and used by who, when, and for how long, under what conditions. Users should have the right to determine where their user data is stored, who has access to it, how it is used and for how long. Granularity of these decisions, as well as being presented with multiple options, is important for that self determination to be valid. 
 
@@ -45,6 +45,10 @@ Online interactions should be fair for everyone involved both for consumption an
 The web should be available everywhere and should be indiscriminate in the way it operates and speaks to everyone.
 
 Users can be anything from a person, to a company, to a government.
+
+* Efficiency 
+
+There should be a minimum number of rules. Rules should be essential to providing interoperability and fairness. 
 
 # References 
 
