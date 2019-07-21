@@ -1,6 +1,14 @@
 # What is Solid? 
 
-Solid is a global technical standard for building interoperable software. It aims to rest control of where user data resides, who it is used by and to what end to the users themselves. Solid-compliant applications allow users to securely move to other applications at will and take their user data with them. Users are also given autonomy over how that user data is accessed by others.
+Solid is a catalyst to create initiatives for building interoperable software. 
+
+These initiatives can be: 
+- Starting new technical standards or entering existing standards processes to ensure interoperability and privacy
+- Tools for users to identify which services are in line with the Solid values 
+- Building services that are essential to deliver the Solid values and do not yet exist in the market 
+- Providing forums to have conversations about recent developments and how to make sure they align with Solid values 
+
+It aims to rest control of where user data resides, who it is used by and to what end to the users themselves. Solid-compliant applications allow users to securely move to other applications at will and take their user data with them. Users are also given autonomy over how that user data is accessed by others.
 
 Solid is led by Sir Tim Berners-Lee, inventor of the World Wide Web, and originated at the Massachusetts Institute of Technology (MIT). It is a non-commerical, open source collaboration between thousands of expert contributors from around the globe.
 
@@ -12,7 +20,7 @@ Solid works on three levels:
 
 # Solid Mission 
 
-To set a global standard for interoperability against which all applications are built
+Build solutions for interoperability against which all applications are built
 
 # Solid Vision 
 
