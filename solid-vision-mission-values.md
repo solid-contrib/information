@@ -51,8 +51,9 @@ Users can be anything from a person, to a company, to a government.
 There should be a minimum number of rules. Rules should be essential to providing interoperability and fairness. 
 
 # References 
+The following texts have led up to the development of Solid and are key references to those working on Solid. 
 
-* https://www.w3.org/2001/tag/doc/ethical-web-principles/
-* https://agilemanifesto.org/
-* https://www.iotmanifesto.com
-* Linked Data principles
+* [Ethical Web Principles](https://www.w3.org/2001/tag/doc/ethical-web-principles/)
+* [Agile Manifesto](https://agilemanifesto.org/)
+* [IoT Manifesto](https://www.iotmanifesto.com)
+* [Linked Data Principles](https://www.futurelearn.com/courses/linked-data/0/steps/16087)
