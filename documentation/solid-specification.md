@@ -1,4 +1,20 @@
-The Solid specification uses the following standards.
+# Introduction to the Solid Specification
+
+Solid is a set of modular specifications, which build on, and extend the founding technology of the world wide web (HTTP, REST, HTML). They are 100% backwards compatible with the existing web. Each spec, taken in isolation, provides extra features to an existing system.  However, when used in combination, they enable exciting new possibilities for web sites and applications.
+
+Read the [Solid specification](https://github.com/solid/specification). 
+
+The main enhancement is that the web becomes a collaborative read-write space, passing control from owners of a server, to the users of that system. The Solid specification provides this functionality.
+
+In order to write data as well as to read it, and to protect privacy, it is important to control who has access to what. This is managed using the web access control list specification.
+
+For permissions it is essential to have a concept of identity, for which the WebID Identity spec is used.  This is a minimalistic identity spec, which allows a URI to denote a user, and return back machine readable data.
+
+Authentication of that identity is provided using WebID-TLS and WebID-OIDC right now, but other strategies, such as key fobs, or two factor authentication, could be added to depending on system needs.
+
+Discovery is the final piece, and allows the ability to tie all of these things together, and enables both humans and machines to participate in a rich ecosystem, leading to emergent and self organizing growth. The key tool for facilitating this is the URI specification. This forms the basis of the Linked Data philosophy which glues all of our data together, to create a complete Web Operating System.
+
+## Standards Used in the Solid Specification
 
 * [RDF 1.1 (Resource Description Framework)](http://www.w3.org/RDF/)
   (see also [RDF Primer](http://www.w3.org/TR/rdf11-concepts/)) is heavily
