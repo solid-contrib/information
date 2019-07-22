@@ -4,15 +4,15 @@
 
 # What is Solid? 
 
-Solid is led by Sir Tim Berners-Lee, inventor of the World Wide Web, and originated at the Massachusetts Institute of Technology (MIT). It is a non-commerical, open source collaboration between thousands of contributors from across the world.
+Solid is led by Sir Tim Berners-Lee, inventor of the World Wide Web, and originated at the Massachusetts Institute of Technology (MIT). It is a non-commercial, open source collaboration between thousands of contributors from across the world.
 
-Solid seperates user identification from data storage from data usage: 
+Solid separates user identification from data storage from data usage: 
 
 1.	Login: Solid identification online is designed so that it is independent from parties that could access who users are interacting with
 
-	2.	Pods: Solid data storage is designed so that data is stored safely by the user idependently of how that data is used in a recyclable reusable manor 
+	2.	Pods: Solid data storage is designed so that data is stored safely by the user independently of how that data is used in a recyclable reusable manor 
   
-	3.	Apps: Solid applications have granular access to user data meaning they only get a specific type of data neccesary to deliver the service provided
+	3.	Apps: Solid applications have granular access to user data meaning they only get a specific type of data necessary to deliver the service provided
 
 Read Solid's [mission, vision, and values](https://github.com/solid/information/blob/master/solid-vision-mission-values.md)
 
