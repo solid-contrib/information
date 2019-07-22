@@ -5,7 +5,7 @@ Solid applications are somewhat like multi-user applications where instances tal
 1. [Make a Solid App on Your Lunch Break](#make-a-solid-App-on-your-lunch-break)
 2. [Writing Solid Applications with Angular](#writing-solid-applications-with-angular)
 3. [Writing Solid Applications with React](#writing-solid-applications-with-react)
-4. [More Solid App Tutorials](#More Solid App Tutorials)
+4. [More Solid App Tutorials](#More-Solid-App-Tutorials)
 
 # Make a Solid App on Your Lunch Break 
 
