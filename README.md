@@ -35,7 +35,9 @@ The Solid Specification describes a rest api that extends those [existing standa
 # Use 
 There are multiple Solid prototypes that you can use and and explore already. 
 
-In order to try out some of the Solid, you will first need to get a [WebID](https://github.com/solid/information/blob/master/pod-providers.md) and a [Pod](https://github.com/solid/information/blob/master/pod-providers.md). You can also [self host your Pod](https://github.com/solid/information/blob/master/self-hosting.md) rather than opt for a Pod provider. Once you have set your WebID and Pod you can use [Solid applications](https://github.com/solid/solid-apps). 
+To get started you will first need to get a [Pod](https://github.com/solid/information/blob/master/pod-providers.md) and then you can use [Solid applications](https://github.com/solid/solid-apps). 
+
+You can also get an [identity provider](https://github.com/solid/solid-idp-list) that is independent from your Pod and [self host your Pod](https://github.com/solid/information/blob/master/self-hosting.md) rather than opt for a Pod provider. 
 
 # [FAQs](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md)
 
