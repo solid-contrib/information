@@ -28,7 +28,7 @@ Anyone can implement the Solid [specification](https://github.com/solid/specific
 
 Find out who is working on Solid implementations and let others know about how you are implementing Solid on the [App](https://github.com/solid/solid-apps), [Pod](https://github.com/solid/pods), and [Identity Provider](https://github.com/solid/solid-idp-list) listings. 
 
-You can also use or contribute to the Solid [documentation](https://github.com/solid/information/blob/master/documentation.md) explaining how to implement the Solid specification. 
+You can also use or contribute to the Solid [documentation](https://github.com/solid/information/blob/master/documentation/documentation.md) explaining how to implement the Solid specification. 
 
 The [Solid Roadmap](./roadmap.md) details how all the implementations of Solid interact to deliver the Solid vision.
 
