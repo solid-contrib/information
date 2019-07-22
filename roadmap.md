@@ -38,32 +38,23 @@ Ideas for Roadmap:
 
 # App Wishlist
 
-* Notepad - 
-* Event Organisation - easily invite all your friends, share updates with them, and allow them to hype eachother up)
-* Scheduling - 
-* Admin app - when you launch a Solid server and visit the root URL,
-    this is the app that gets served by default. Shows the status of the
-    server, allows Admin users to edit/remove profiles, etc.
-* Dashboard app
-* People/Group Picker + ACL Manager
-* Welcome app - when users first sign up for a WebID account, they are redirected to this app. Provides links/docs/introduction to the Solid platform (see [solid/solid/issues/18](https://github.com/solid/solid/issues/18))
-* Backup Manager (tar/gzip your account's data, for download, storage on S3/Glacier, etc.)
-* Calendar app (e.g., [example1](http://ui.toast.com/tui-calendar/))
-* Chat app
-* Check-in/Location app (with GPS annotations)
+* Notepad - a place to write personal notes 
+* Event Organisation - easily send invitation and share updates
+* Scheduling - finding a moment to meet in large groups 
+* Calendar 
+* Place to collect lists of books, movies, games, etc.
+* Consensus app - create decisions (similar to a Poll), invite people/teammates to participate, comments and discussion, vote on the outcome (simple majority or runoff voting)
+* Check-in based on location 
+* File sharing similar to Dropbox or Pastebin
+* News app that aggregates RSS feeds
+* Contacts that allows you to add or remove details with QR codes 
+* Photo Album app which allows you to selectively share, comment and like photos
+* Hospitality preferences record such as allergies, dietary restrictions, etc.
+* App to let others know if you are online or offline 
+* Presentations 
+
 * Clone of 750words.com
 * Clone of [jspaint](https://github.com/1j01/jspaint)
-* Clone of markdown app: https://tobloef.com/markant/
-* Clone of mind map app: https://tobloef.com/text2mindmap/
-* Collection Manager (books, movies, games, etc.)
-* Consensus app - create decisions (similar to a Poll), invite people/teammates to participate, comments and discussion, vote on the outcome (simple majority or runoff voting)
-* Disqus clone
-* Ephemeral/temporary storage accounts
-* File share app (Dropbox/public folder type thing, or Pastebin/text share)
-* Friends app (add/remove w QR codes)
-* Hospitality Preference (allergies, dietary restrictions, etc.)
-* News app, e.g., RSS aggregator
-* Pastebin clone
-* Photo Album app (comments + likes + notifications)
-* Presence app (i.e., online/offline indicator) (possibly combine with Check-in/Location app)
-* Presentations app, e.g., https://github.com/tmcw/big/blob/gh-pages/docs/user-guide.md
+* Clone of [markdown](https://tobloef.com/markant/)
+* Clone of [mind map](https://tobloef.com/text2mindmap/)
+* Clone of Disqus 
