@@ -1,5 +1,7 @@
 [Solid Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
 
+[Learn Solid](https://github.com/learnsolid) 
+
 # Apps
 
 https://github.com/solid/information/blob/master/app-development.md 
