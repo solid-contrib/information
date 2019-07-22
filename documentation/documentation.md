@@ -1,24 +1,20 @@
-[Solid Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
+If you want to make Solid applications, or get a better understanding for what's under the hood in Solid, you've come to the right place. These materials will continue to be a work in progress as the Solid ecosystem grows and expands, so please let us know if you can’t find what you’re looking for. We’ll do our best to get it added (and help you in the process). 
 
-[Learn Solid](https://github.com/learnsolid) 
+[Make a Solid app on your lunch break.](https://github.com/solid/information/blob/master/documentation/apps.md)
 
-# Apps
+Get your first decentralized Solid app working in the time it takes to find and finish a box of spring rolls. You’ll still want to come back and learn the fundamentals, but you’ll be surprised how quickly you can get something up and working without them. 
 
-https://github.com/solid/information/blob/master/app-development.md 
+# Learning the Basics
 
-Client development began with pure javascript apps with few or no external dependencies and javascript Angular apps such as [Warp](https://github.com/linkeddata/warp) and [Plume](https://github.com/deiu/solid-plume).  Plume now has different implementations, one of which [uses the Safe network](https://github.com/theWebalyst/solid-plume).  A client library abstracting interaction with pods, called [solid-auth-client](https://github.com/solid/solid-auth-client), was developed.  Originally client apps used a library for [RDF](https://www.w3.org/TR/rdf-primer/) serialization/deserialization and manipulation called [Rdflib.js](https://github.com/linkeddata/rdflib.js/).  A library for HTML5 user interface widgets for Solid, which uses solid-auth-client, was developed, called [solid-ui](https://github.com/solid/solid-ui) which is integrated with RDF using Rdflib.js, and it is used as the default user interface library via the [Data Browser aka Mashlib](https://github.com/linkeddata/mashlib) which is included with Solid pods.
+To really have fun making Solid applications, you’ll want to understand some of the fundamental concepts of the Solid specification, as well as the basics of Linked Data. The data model is built around Linked Data, and it drives the most powerful aspects of Solid.
 
-Rdflib.js is still used for many client apps, but another library for RDF has been developed called [Comunica](https://github.com/comunica), which is a modular implementation of a [Triple Pattern Fragments](https://www.hydra-cg.com/spec/latest/triple-pattern-fragments/) client. A Triple Pattern Fragment is data of a size situated midway between a full data dump, which is highly available to a client but comes at the high cost of downloading, and individual [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) queries, which have a high server cost and servers are often unavailable. Triple pattern fragments fill a need to make linked data queries more efficient.  Comunica is a modular framework, and it has an actor implementation that uses solid-auth-client available.
+Here's where to start:
 
-Both Rdflib.js and Comunica implement an emerging standard for RDF interaction called [Rdf/js](https://github.com/rdfjs), which has a community group at the W3C, and they “strive to design interface specifications with the goal that different JavaScript implementations of RDF concepts can interoperate”.  They have a specification for a data model.  Both Rdflib.js and Comunica support Rdf/js.
+1. Introduction to the Solid Specification
+2. [Introduction to Linked Data](https://github.com/solid/information/blob/master/documentation/learning-linked-data.md)
+3. Expressing Linked Data with Turtle
+4. Manipulating Linked Data
 
-The [React application generator](https://github.com/inrupt/generator-solid-react) and React examples are built on [LDflex](https://github.com/RubenVerborgh/LDflex), which is built on Comunica.  Solid-panes, which is included as the default user interface for Solid pods via the Data Browser, is built on solid-ui, which is built on Rdflib.js.
+# Are you a future developer?
 
-# Pods
-
- https://github.com/solid/information/blob/master/pod-development.md
- 
- https://github.com/solid/information/blob/master/self-hosting.md 
-
-# Identity Providers 
-
+A lot of people started creating the Web without any programming background, and in the future, this is what we aim at doing for the new Web. The perspective you and your friends have matters, and you should be able to make that practical on Solid. There’s a lot of work on us to get there, but follow this space, we’ll get there together. 
