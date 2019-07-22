@@ -149,3 +149,5 @@ to speak with other Solid Event organisers
 | 2018-12-12 | [Solid Oslo](https://www.meetup.com/Solid-Norway/events/256467181/) | [Eduardo Ibacache Rodriguez](https://github.com/eduardoinnorway) ||
 | 2018-12-11 | [Solid Utrecht](https://www.meetup.com/Solid-Netherlands/) | [Pierluigi Casale](https://www.linkedin.com/in/pierluigi-casale-41271430/) ||
 | 2018-12-05 | [Solid Boston](https://www.eventbrite.com/e/solid-boston-tickets-52634666705) | [Mitzi László](https://github.com/Mitzi-Laszlo) ||
+|2016-04-11|[Solid Montreal](http://www2016.ca/program/program-by-track/tutorials.html#building-decentralized-applications-for-the-social-web)|[International World Wide Web Conference](http://www2016.ca)|--------------|
+
