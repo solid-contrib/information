@@ -11,7 +11,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ### News & Blog Posts
 Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
 
-* 
+* Jackson and Tim were at the DWeb camp where they got a deploy of the archive.org Pod server working (though it’s not ready to go fully public yet), and presented to a big turnout of campers with an inquisitive and positive reception. 
 
 ### Active conversations about proposals
 
@@ -40,4 +40,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
+
+
+
 
