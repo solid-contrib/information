@@ -12,36 +12,29 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
 
 * Jackson and Tim were at the DWeb camp where they got a deploy of the archive.org Pod server working (though it’s not ready to go fully public yet), and presented to a big turnout of campers with an inquisitive and positive reception. 
+* [¿Internet está averiado? Tim Berners-Lee y otros están intentando repararlo - La Vanguardia](https://www.lavanguardia.com/tecnologia/20190724/463676999523/internet-averiado-tim-berners-lee-reparar-dweb-web-descentralizada-internet-descentralizado-p2p-blockchain.html)
+* [Getting real with digital innovation - Bai](https://www.bai.org/banking-strategies/article-detail/getting-real-with-digital-innovation)
 
 ### Active conversations about proposals
 
-* 
+* Applications to roles and process proposals on https://github.com/solid/culture/pulls 
 
 ### Reviewed Solid Proposals
-Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes).
-
-*
+Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). This week the roles are still being reviewed so 
 
 ### New and Updated Apps, Pods, and Identity Providers
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) make sure to add them to the list so they get included in next weeks edition.
 
 ## Quote of the week
 
-> A good quote is worth a thousand words
+> A good quote is worth a thousand words. If you see any quotes on Solid that you would like to mention, add them here. 
 
 ### Upcoming Events
 
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
-| Date | Event | Organiser |
-|------------ | ------------- | ------------- |
-|2019-07-25 | Tim Berners-Lee [will be giving a keynote](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) about, among other things, Solid | [Campus Party Italia](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) |
-|2019-xx-xx| | |
+This week there are no upcoming Solid Events but on 2019-07-25 Tim Berners-Lee [will be giving a keynote](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) about, among other things, Solid at [Campus Party Italia](https://italia.campus-party.org/speakers/sir-tim-berners-lee/). 
 
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
-
-
-
-
