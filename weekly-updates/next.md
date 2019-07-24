@@ -35,7 +35,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 | Date | Event | Organiser |
 |------------ | ------------- | ------------- |
-|2019-07-25 | Tim Berners-Lee [will be giving a keyote](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) about, among other things, Solid | [Campus Party Italia](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) |
+|2019-07-25 | Tim Berners-Lee [will be giving a keynote](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) about, among other things, Solid | [Campus Party Italia](https://italia.campus-party.org/speakers/sir-tim-berners-lee/) |
 |2019-xx-xx| | |
 
 Until next week!
