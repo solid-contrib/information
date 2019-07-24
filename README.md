@@ -14,7 +14,7 @@ Solid separates user identification from data storage from data usage:
   
 	3.	Apps: Solid applications have granular access to user data meaning they only get a specific type of data necessary to deliver the service provided
 
-Read Solid's [mission, vision, and values](https://github.com/solid/information/blob/master/solid-vision-mission-values.md)
+Read Solid's [mission, vision, and values](https://github.com/solid/information/pull/202)
 
 # Build
 Anyone can implement the Solid [specification](https://github.com/solid/specification). 
