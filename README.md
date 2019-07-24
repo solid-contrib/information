@@ -37,7 +37,7 @@ There are multiple Solid prototypes that you can use and and explore already.
 
 To get started you will first need to get a [Pod](https://github.com/solid/pods) and then you can use [Solid applications](https://github.com/solid/solid-apps). 
 
-You can also get an [identity provider](https://github.com/solid/solid-idp-list) that is independent from your Pod and [self host your Pod](https://github.com/solid/information/blob/master/self-hosting.md) rather than opt for a Pod provider. 
+You can also get an [identity provider](https://github.com/solid/solid-idp-list) that is independent from your Pod and [self host your Pod](https://github.com/solid/information/blob/master/documentation/pods.md#self-hosting-pods) rather than opt for a Pod provider. 
 
 # Contact
 
