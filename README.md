@@ -30,7 +30,7 @@ If you are looking for funding to be able to build on Solid read this list of [f
 # Develop 
 Solid is an open source project which anyone can contribute. Read more about [how collective decisions about Solid are made](https://github.com/solid/culture).
 
-The Solid Specification describes a rest api that extends those [existing standards](https://github.com/solid/information/blob/master/standards-used.md), contains design notes on the individual components used, and is intended as a guide for developers who plan to build Pods or Solid applications. The Solid specification is modular and extensible and relies as much as possible on existing [W3C](http://www.w3.org/) standards and protocols.
+The Solid Specification describes a rest api that extends those [existing standards](https://github.com/solid/information/blob/master/documentation/solid-specification.md#standards-used-in-the-solid-specification), contains design notes on the individual components used, and is intended as a guide for developers who plan to build Pods or Solid applications. The Solid specification is modular and extensible and relies as much as possible on existing [W3C](http://www.w3.org/) standards and protocols.
 
 # Use 
 There are multiple Solid prototypes that you can use and and explore already. 
