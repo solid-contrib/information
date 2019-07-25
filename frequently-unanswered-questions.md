@@ -217,4 +217,4 @@ STATUS: The specific issue is still being researched on, maybe not applicable fo
 ## Won't reliance on DNS get problematic? 
 
 ## When using Solid, how is data stored?
-According to Solid it doesn't actually matter, as long as it's accessible as a turtle file thorugh an http request. 
+Solid provides a general purpose read-write REST API to store data in individual files (resources) and directories (containers).
