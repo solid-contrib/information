@@ -14,6 +14,8 @@
 
 20180528 - [ACM Turing Lecture - Utopia to Dystopia in 29 short years](https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html)
 
+20180428 - [ Researcher-Centric Scholarly Communication workshop at The Web Conf 2018 - Building a researcher-centric world on the user-centric platform, Solid](https://linkedresearch.org/events/the-web-conf-2018/summary#researcher-centric-solid)
+
 20171212 [CNI Fall 2017 Meeting - Herbert van der Sompel](https://www.slideshare.net/hvdsomp/paul-evan-peters-lecture/)
 
 20160407 [IPRI meeting](https://slides.com/deiu/redecentralize-2015#/) and [slides](https://github.com/solid/talks/blob/master/slides-redecentralize-conf.html)
