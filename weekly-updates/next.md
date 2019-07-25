@@ -16,8 +16,36 @@ Have you seen any articles about Solid this week? If you've seen any articles or
 * [Getting real with digital innovation - Bai](https://www.bai.org/banking-strategies/article-detail/getting-real-with-digital-innovation)
 
 ### Active conversations about proposals
+Here is a little overview of active conversations this week. 
 
-* Applications to roles and process proposals on https://github.com/solid/culture/pulls 
+Specification
+* [Resource Versioning](https://github.com/solid/solid-spec/issues/204)
+* [Mark SPARQL GET at risk ](https://github.com/solid/solid-spec/pull/205)
+* [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206)
+* [Mutable and immutable resources](https://github.com/solid/solid-spec/issues/203)
+* [Remove globbing](https://github.com/solid/solid-spec/pull/151#pullrequestreview-266210495)
+
+Culture 
+* [Make definition of substantive changes more specific](https://github.com/solid/culture/pull/82)
+* [Add areas of focus to editors.md](https://github.com/solid/culture/pull/81)
+* [Detail Solid GitHub permissions associated to roles](https://github.com/solid/culture/pull/78)
+* [Update code-of-conduct.md](https://github.com/solid/culture/pull/80)
+* [Update solid-vision-mission-values.md](https://github.com/solid/information/pull/202)
+* [Applications to roles and process proposals](https://github.com/solid/culture/pulls) 
+
+Website
+* [URL Links & Button updates](https://github.com/solid/solidproject.org/pull/2)
+
+Data Browser Project
+* [Allows you to select a tab by name](https://github.com/solid/solid-ui/pull/75)
+* [Add link to delete your account to preferences](https://github.com/solid/solid-panes/pull/133)
+* [Need to support acl:default](https://github.com/solid/solid-ui/issues/76)
+* [Changing from defaultForNew to default with fallback](https://github.com/solid/solid-ui/pull/77) 
+
+Node Solid Server Project
+* [External web id as opt in](https://github.com/solid/node-solid-server/pull/1273)
+* [Remove the generated index.html for newly created accounts](https://github.com/solid/node-solid-server/issues/1275) 
+* [dev branch](https://github.com/solid/node-solid-server/pull/1277)
 
 ### Reviewed Solid Proposals
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). This week the roles are still being reviewed so 
