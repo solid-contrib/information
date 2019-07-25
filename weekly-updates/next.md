@@ -1,4 +1,4 @@
-# 25 July 2019
+# 1st August 2019
 
 Hello and welcome to another issue of This Week in Solid!
 
