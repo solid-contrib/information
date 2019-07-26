@@ -20,13 +20,13 @@ Solid seperates user identification from data storage from data usage:
 2.	Pods: Solid data storage is designed so that data is stored safely by the user idependently of how that data is used in a recyclable reusable manor 
 3.	Apps: Solid applications have granular access to user data meaning they only get a specific type of data neccesary to deliver the service provided
 
-# Solid Mission 
-
-Build solutions for a fair web for all. 
-
 # Solid Vision 
 
 A nurturing love of collaboration and knowledge creation for the public interest
+
+# Solid Mission 
+
+To explain how to technically build apps that are separate to data storage in such a way that the data could be conveniently recycled by the user. 
 
 # Solid Values 
 
