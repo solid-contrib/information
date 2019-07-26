@@ -13,7 +13,7 @@ If you know of activity that is not included on this table submit a pull request
 | Solid Roadmap | * [Roadmap](https://github.com/solid/Roadmap) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
 | Solid Documentation |  * [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
 | [ASAP on Server Project](https://github.com/orgs/solid/projects/2) | [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), [Solid Auth Client](https://github.com/solid/solid-auth-client) | [Jackson Morgan](https://github.com/jaxoncreed |
-| [Solid panes UI/US/DX Project](https://github.com/orgs/solid/projects/4) | [Solid Panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry) | Arne Hassel, [Tim Berners-Lee](https://github.com/timbl), Vincent Tunru|
+| [Solid panes UI/US/DX Project](https://github.com/orgs/solid/projects/4) | [Solid Panes](https://github.com/solid/solid-panes), [solid-ui](https://github.com/solid/solid-ui), [solid-namespace](https://github.com/solid/solid-namespace), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry) | Arne Hassel, [Tim Berners-Lee](https://github.com/timbl), Vincent Tunru|
 | [Solid MIT Website](https://solid.mit.edu)  | [Solid.mit.edu](https://github.com/solid/solid.mit.edu) | [Solid MIT Team](https://github.com/orgs/solid/teams/solid-mit)|
 | [Panels](https://github.com/solid/culture#solid-panels)| [external-interop](https://github.com/solid/external-interop) | [Panels](https://github.com/orgs/solid/teams/panels)|
 
@@ -45,7 +45,6 @@ If you think the content could be useful to include in another repository submit
 
 
 * [react-components](https://github.com/solid/react-components)
-* [solid-ui](https://github.com/solid/solid-ui)
 * [acl-check](https://github.com/solid/acl-check)
 * [gitter-solid](https://github.com/solid/gitter-solid)
 * [query-ldflex](https://github.com/solid/query-ldflex)
@@ -55,7 +54,6 @@ If you think the content could be useful to include in another repository submit
 * [oidc-op](https://github.com/solid/oidc-op)
 * [solid-architecture](https://github.com/solid/solid-architecture)
 * [solid-tpf](https://github.com/solid/solid-tpf)
-* [solid-namespace](https://github.com/solid/solid-namespace)
 * [node-solid-ws](https://github.com/solid/node-solid-ws)
 * [oidc-rp](https://github.com/solid/oidc-rp)
 * [solid-takeout-import](https://github.com/solid/solid-takeout-import)
