@@ -548,3 +548,806 @@ Both Rdflib.js and Comunica implement an emerging standard for RDF interaction c
 
 The [React application generator](https://github.com/inrupt/generator-solid-react) and React examples are built on [LDflex](https://github.com/RubenVerborgh/LDflex), which is built on Comunica.  Solid-panes, which is included as the default user interface for Solid pods via the Data Browser, is built on solid-ui, which is built on Rdflib.js.
 
+# Solid Angular Tutorial
+
+This book is a set of tutorials for building apps on the
+[Solid](https://github.com/solid-spec/) platform.
+
+This book is **not** an introductory guide to the Solid core platform, more
+designed as exercises to demonstrate what is possible. Each chapter will
+contain a tutorial showing how to build certain types of apps. In general, it
+is advisable to go through each chapter in order.
+
+The audience for this book is developers familiar with web technology that wish
+to learn how to use decentralized technology to create the next generation of
+web applications.
+
+So, let's get started!  Please continue to [Chapter 1](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter1.html).
+
+## App Gallery
+
+### [Solid Hello World](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter1.html)
+
+![Solid Hello World](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidhello.png)
+
+### [Solid Clip](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter2.html)
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/clip.png)
+
+### [Solid Video](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter3.html)
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/video.png)
+
+### [Solid Words](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter4.html)
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/words.png)
+
+### [Solid Chess](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter5.html)
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidchess.png)
+
+### [Solid Explorer](https://melvincarvalho.gitbooks.io/solid-tutorials/content/chapter6.html)
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidexplorer.png)
+
+#### Chapter 1 - Solid Hello World
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidhello.png)
+
+## Introduction
+
+In this tutorial we will cover how to build a simple client side hello world app
+using the [Solid](https://github.com/solid-spec/) framework.
+
+*What you will learn*
+
+* How to create your first client side [Solid](https://github.com/solid) app
+* How to use decentralized login and logout
+* How to delegate HEAD requests to identify using the [User](https://www.w3.org/community/rww/wiki/User_Header) header
+* How to use notifcations using [Lumx](http://ui.lumapps.com/) and [AngularJS](https://angularjs.org/)
+
+## The App
+
+[Solid](https://github.com/solid) apps typically run client side and do not
+require a server, except to identify a user, or store data.
+
+This app written using on [AngularJS](https://angularjs.org/). Setup and
+scaffolding of the app is out of scope for this tutorial. But there are many
+[guides](https://docs.angularjs.org/misc/started) online that show you how to
+get started. The code is also available for download in the footnotes.
+
+Hello world is a simple app that allows decentralized login and logout using the
+[WebID](http://webid.info/) Identity system. A remote server will perform the
+authentication, typically using TLS, but any authentication method is allowed
+provided that the [User](https://www.w3.org/community/rww/wiki/User_Header)
+header is sent back.
+
+First, we will look at how to use decentralized login using JavaScript. Using
+[WebID](http://webid.info/) it is possible to login using an HTTP URI that
+denotes you as person, and that can also be dereferenced to find out more about
+you. In this app, we will simply get the URI of the user and display it on
+screen. The **login** code is below:
+
+```javascript
+    $http({
+      method: 'HEAD',
+      url: AUTHENDPOINT,
+      withCredentials: true
+    }).success(function(data, status, headers) {
+      var header = 'User';
+      var scheme = 'http';
+      var user = headers(header);
+      if (user && user.length > 0 && user.slice(0,scheme.length) === scheme) {
+        $scope.notify('Login Successful!');
+        $scope.loggedIn = true;
+        $scope.user = user;
+      } else {
+        $scope.notify('WebID-TLS authentication failed.', 'error');
+      }
+      $scope.loginTLSButtonText = 'Login';
+    }).error(function(data, status, headers) {
+      $scope.notify('Could not connect to auth server: HTTP '+status);
+      $scope.loginTLSButtonText = 'Login';
+    });
+```
+
+The system used is a delegated authentication. What that means is that we use a
+server to identify and verify who is using the app. This is because a server is
+required in order to verify who a user is.
+
+The `AUTHENDPOINT` in our example is set to: https://databox.me/
+
+```javascript
+    AUTHENDPOINT = "https://databox.me/";
+```
+
+The `withCredentials` flag is set to true in order to prevent a CORS error.
+
+A HEAD request to any WebID enabled server will return a `User:` header which
+specifies  who is using the app. That user can then be used to customize the
+app. In our case we simply set `$scope.user`. This is enough to login to our
+simple app, and display a hello world message.
+
+The **logout** code simply unsets the `$scope.loggedIn` variable, and returns
+you to the start screen:
+
+```javascript
+  $scope.logout = function() {
+    $scope.init();
+    $scope.notify('Logout Successful!');
+  };
+```
+
+Putting this simple functionality together in using the
+[AngularJS](https://angularjs.org/) framework (with
+[lumx](http://ui.lumapps.com/) extensions) it is possible to create a simple
+demo:
+
+[Hello World Live Demo](http://melvincarvalho.github.io/helloworld/)
+
+The `$scope.notify` function returns a message to the user to tell them they
+have logged in or out. This completes the functionality of this simple app.
+
+## Summary
+
+In this chapter we have shown how to identify and verify a user using delegated
+login and WebID. We have packaged the code into an
+[AngularJS](https://angularjs.org/) app and presented a simple demo. In the next
+chapter we will show how to save data to your Personal Online Datastore (Pod).
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/helloworld)
+* [Live Demo](http://melvincarvalho.github.io/helloworld/)
+* [Solid](https://github.com/solid)
+* [WebID](http://webid.info/)
+* [AngularJS](https://angularjs.org/)
+* [Lumx](http://ui.lumapps.com/)
+* [User Header](https://www.w3.org/community/rww/wiki/User_Header)
+
+#### # Chapter 2 - Solid Clipboard
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/clip.png)
+
+## Introduction
+
+In this tutorial we will cover how to load and save data to a Personal Online
+Datastore (Pod). The app is a simple web clipboard that allows you to save data
+to a store and then recover it later.
+
+*What you will learn*
+
+* How to set up [rdflib.js](https://github.com/linkeddata/rdflib.js/) to work
+    with the web of data
+* How to read data from a Pod
+* How to write data to a Pod
+* How to change the location of the URL you are using
+* How to change query string to allow bookmarking
+* How to use the `#this` pattern
+* How to use the `urn:tmp:` pattern
+
+## The App
+
+This app builds on the previous hello world app, which enables login and logout
+by introducing Personal Data Stores (Pods) and allowing read and write to those
+stores using [rdflib.js](https://github.com/linkeddata/rdflib.js/). The app
+operates as a simple web clipboard that lets you save text to a location and
+retrieve it later.
+
+The first thing that we will do is set up
+[rdflib.js](https://github.com/linkeddata/rdflib.js/). It is sourced in to
+`index.html`
+
+```html
+    <script src="vendor/rdflib.min.js"></script>
+```
+
+After sourcing in the library, the first thing to do is to **initialize** a
+knowledge base graph, and a fetcher. This is done using the `$rdf` global
+variables.
+
+```javascript
+    g = $rdf.graph();
+    f = $rdf.fetcher(g);
+```
+
+The variable `g` will contain everything that is fetched using the fetcher, and
+also meta data about the documents that have been fetched. The variable `f` can
+be used to fetch documents.
+
+For convenience some common namespaces are set up so that RDF vocabularies can
+be called conveniently with a shorthand using `$rdf.Namespace`:
+
+```javascript
+  var CHAT  = $rdf.Namespace("https://ns.rww.io/chat#");
+  var CURR  = $rdf.Namespace("https://w3id.org/cc#");
+  var DCT   = $rdf.Namespace("http://purl.org/dc/terms/");
+  var FACE  = $rdf.Namespace("https://graph.facebook.com/schema/~/");
+  var FOAF  = $rdf.Namespace("http://xmlns.com/foaf/0.1/");
+  var LIKE  = $rdf.Namespace("http://ontologi.es/like#");
+  var LDP   = $rdf.Namespace("http://www.w3.org/ns/ldp#");
+  var MBLOG = $rdf.Namespace("http://www.w3.org/ns/mblog#");
+  var OWL   = $rdf.Namespace("http://www.w3.org/2002/07/owl#");
+  var PIM   = $rdf.Namespace("http://www.w3.org/ns/pim/space#");
+  var RDF   = $rdf.Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#");
+  var RDFS  = $rdf.Namespace("http://www.w3.org/2000/01/rdf-schema#");
+  var SIOC  = $rdf.Namespace("http://rdfs.org/sioc/ns#");
+  var SOLID = $rdf.Namespace("http://www.w3.org/ns/solid/app#");
+  var TMP   = $rdf.Namespace("urn:tmp:");
+```
+
+Next, we want to pull in the data, so we use the `nowOrWhenFetched` function of
+the fetcher to get data from a Pod.
+
+Before we can do this we must determine the location from the query string or
+from a default as follows, using the angularJS search function:
+
+```javascript
+    var storageURI = 'https://clip.databox.me/Public/.clip/Public/test';
+    if ($location.search().storageURI) {
+      storageURI = $location.search().storageURI;
+    }
+```
+
+For this app, the document is assumed to contain data of the form
+
+```html
+    <#this> <urn:tmp:clipboard> "data" .
+```
+
+The data above uses RDF/[Turtle](http://www.w3.org/TR/turtle/) notation. The
+`#this` subject is used to distinguish between document and data, and is similar
+to the `this` keyword in JavaScript.
+
+A best practice would be to mint an HTTP URI for the predicate. But for ease of
+demonstration purposes, a temporary URN is used at under the scheme `urn:tmp:`.
+It is advisable always to use HTTP URIs, rather than schemes such as `urn:`,
+when dealing with linked data; this will be covered in the next tutorial.
+
+Now we can fetch the data:
+
+```javascript
+    f.nowOrWhenFetched(storageURI, undefined, function(ok, body) {
+      var clipboard = g.any($rdf.sym(storageURI + '#this'), TMP('clipboard'));
+      $scope.clipboard = clipboard;
+      $scope.storageURI = storageURI;
+    });
+```
+
+The `nowOrWhenFetched` will call a callback either if the document is loaded in
+the graph, or once it is fetched from the web. The `$rdf.sym` function simply
+changes a string into a URI by placing angle brackets around it. We use the
+function `g.any` to get the object of the namespace TMP of value `'clipboard'`.
+
+Once we have fetched this data we can set it on the screen, and also set the
+`storageURI` which has come back successfully.
+
+To save the clipboard we issue a PUT request to the server.
+
+```javascript
+    $http({
+        method: 'PUT',
+        url: $scope.storageURI,
+        withCredentials: true,
+        headers: {
+            "Content-Type": "text/turtle"
+        },
+        data: '<#this> <urn:tmp:clipboard> """' + clipboard + '""" .',
+    }).
+    success(function(data, status, headers) {
+      $scope.notify('clipboard saved');
+      $location.search('storageURI', $scope.storageURI);
+    }).
+    error(function(data, status, headers) {
+      $scope.notify('could not save clipboard', 'error');
+    });
+```
+
+The line
+
+```javascript
+    $location.search('storageURI', $scope.storageURI);
+```
+
+Changes the query string to the storage URI so that the clipboard can be
+bookmarked or shared. It is important on the web that URIs reflect the state of
+a given app. Astute observers will also note that the address bar now becomes an
+input form where changing the query string can change the content.
+
+Putting this all together it should be possible to see a demo as follows:
+
+[Solid Clipboard Live Demo](http://melvincarvalho.github.io/clip/)
+
+The default location for storing the clip in this demo is the public location
+`https://clip.databox.me/Public/.clip/Public/test`, but in practice you would
+want to store data in a private workspace under your storage root. Automatically
+finding endpoints will be covered in future. See Appendix B for more details.
+
+A typical location could be
+
+```
+    <storage>/Private/.clip/clip1
+```
+
+## Summary
+
+In this tutorial we learned how to set up
+[rdflib.js](https://github.com/linkeddata/rdflib.js/) in order to read and write
+structured data to a personal data server. We looked at patterns for naming and
+functions to read, write, and allow bookmarking. In the next tutorial we will
+look at how to embed media in a webpage.
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/clip)
+* [Live Demo](http://melvincarvalho.github.io/clip/)
+* [rdflib.js](https://github.com/linkeddata/rdflib.js/)
+
+#### Chapter 3 - Solid Video
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/video.png)
+
+## Introduction
+
+In this tutorial we will cover how to load and save data video links to a
+Personal Online Datastore (Pod) and display it on screen. A slightly more
+sophisticated UI will also be used.
+
+*What you will learn*
+
+* How to read and write video URLs to a Pod
+* How to embed video in a page
+* How to add a sidebar
+* How to add a menu bar
+* How to display modal dialogs
+* How to add a DOAP project file
+
+## The App
+
+The video app follows the model of the previous clipboard app but adds a few
+more features to the UI and allows embedding of a video element via an iframe. A
+demo and the source code can be found in the footnotes.
+
+The data format used for storing a video in a file here is:
+
+```html
+    <#this> <http://rdfs.org/sioc/ns#content> "content" .
+```
+
+The predicate here is an HTTP URI that uses the
+[SIOC](http://rdfs.org/sioc/spec/) vocabulary. In this case, the content is an
+embeddable video URL (as a string). This is fetched after login using the code:
+
+```JavaScript
+  $scope.fetchVideo = function() {
+    f.nowOrWhenFetched($scope.storageURI, undefined, function(ok, body) {
+      var video = g.any($rdf.sym($scope.storageURI + '#this'), SIOC('content'));
+      $scope.setVideo(video);
+    });
+  };
+```
+
+The `setVideo` function simply embeds the video file in an `iframe` element
+after determining the width and height (for mobile optimization). Note: because
+of [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing), not all
+video URLs are embeddable in an `iframe`. For example, when working with Youtube
+videos, their URLs should take the form `/embed/<id>`.
+
+```javascript
+    var height = Math.round(( width * 3 ) / 4);
+    var iframe = '<iframe width="' + width + '" height="' + height +
+                 '" src="'+uri+'"></iframe>';
+    $('#video').empty().append(iframe);
+```
+
+While previous apps have been single-canvas, this app adds a few more features
+to allow extensibility. The CSS `flexbox` property is used to add a header and
+side bar. There are many [guides](http://www.paulund.co.uk/css-flexbox) on using
+`flexbox` online, so it wont be covered here.
+
+```html
+    <!-- menu -->
+    <div class="card">
+      <div class="toolbar">
+        <div class="toolbar__left mr+++">
+          <button class="btn btn--l btn--black btn--icon" lx-ripple>
+            <i class="mdi mdi-menu"></i>
+          </button>
+        </div>
+        <span class="toolbar__label fs-title">Videos</span>
+        <div class="toolbar__right">
+          <lx-dropdown position="right" from-top>
+            <button class="btn btn--l btn--black btn--icon" lx-ripple lx-dropdown-toggle>
+              <i class="mdi mdi-dots-vertical"></i>
+            </button>
+            <lx-dropdown-menu>
+              <ul>
+                <li><a ng-click="openDialog('about')" class="dropdown-link">About</a></li>
+              </ul>
+            </lx-dropdown-menu>
+          </lx-dropdown>
+        </div>
+      </div>
+    </div>
+    <!-- end menu -->
+```
+
+The code snippet above shows the addition of a menu toolbar. In this case some
+of the [Lumx](http://ui.lumapps.com/) effects are used, including dropdown,
+ripple, toggle and menu. A dropdown is added that triggers an about model using
+the `openDialog('about')` function. The code for this brings to the top the
+`about` div and allows it to close on escape.
+
+```javascript
+  $scope.openDialog = function(elem) {
+    LxDialogService.open(elem);
+    $(document).keyup(function(e) {
+      if (e.keyCode===27) {
+        LxDialogService.close(elem);
+      }
+    });
+  };
+```
+
+The sidebar is created using `flexbox` and is shown only if there is enough
+space on the screen.
+
+```html
+      <!-- sidebar -->
+      <div flex-item="2" flex-item-order="1">
+        <div class="sidebar sidebar--shown" ng-class="{'sidebar--shown': isVisible()}">
+          <div class="sidebar-menu">
+            <ul>
+              <li><a class="sidebar-menu__link">Sidebar</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- end sidebar -->
+```
+
+Further description of the UI is out of scope of this tutorial, but each element
+is well documented elsewhere.
+
+To wrap up this app, a
+[manifest.json](https://developer.chrome.com/extensions/manifest) file is added,
+to provide machine-readable information about this page. For example, one
+particularly useful function in the Chrome browser is to use the menu option
+"Create application shortcuts" which will package a webpage as an app that can
+be run on desktop or mobile.
+
+The [DOAP (Description of a Project)](https://github.com/edumbill/doap/wiki)
+system is used to add linked data fields to an app. It is stored in `doap.ttl`
+which Github Pages conveniently serves using the mime type `text/turtle`.
+Auto-discovery is performed using the line
+
+```html
+  <meta href="doap.ttl#this" rel="http://www.w3.org/ns/solid/app#configuration">
+```
+
+In the file you will find descriptions of the solid app:
+
+```html
+<#this>
+    a <http://usefulinc.com/ns/doap#Project>, <http://www.w3.org/ns/solid/app#Configuration> ;
+    <http://usefulinc.com/ns/doap#description> "A Video Saving for the Solid platform" ;
+    <http://usefulinc.com/ns/doap#download-page> <https://melvincarvalho.github.io/video/> ;
+    <http://usefulinc.com/ns/doap#homepage> <https://melvincarvalho.github.io/video/> ;
+    <http://usefulinc.com/ns/doap#license> "mit" ;
+    <http://usefulinc.com/ns/doap#maintainer> <http://melvincarvalho.com/#me> ;
+    <http://usefulinc.com/ns/doap#name> "Video" ;
+    <http://usefulinc.com/ns/doap#shortdesc> "A Video App for the Solid platform" ;
+    <http://usefulinc.com/ns/doap#shortname> "Video" ;
+    <http://www.w3.org/ns/solid/app#description> "A Video App for the Solid platform" ;
+    <http://www.w3.org/ns/solid/app#homepage> <https://melvincarvalho.github.io/video/> ;
+    <http://www.w3.org/ns/solid/app#icon> <http://melvincarvalho.github.io/video/images/icon.png> ;
+    <http://www.w3.org/ns/solid/app#name> "Video" .
+```
+
+This enables Linked Data app stores to process your app, copy and install it to
+new spaces.
+
+When all this is combined you will see a running something like:
+
+[Solid Video Live Demo](http://melvincarvalho.github.io/video/)
+
+# Summary
+
+In this tutorial we showed how to embed video in a page. Some more advanced UI
+techniques such as sidebar, menu and dialog boxes were covered. We also showed
+how to make your app semantically rich using manifests, DOAP and auto discovery.
+In the next tutorial we will expand on these patterns and create a more complex
+game type app.
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/video)
+* [Live Demo](http://melvincarvalho.github.io/video/)
+* [SIOC](http://rdfs.org/sioc/spec/)
+* [How to get started with CSS flexbox](http://www.paulund.co.uk/css-flexbox)
+* [manifest.json](https://developer.chrome.com/extensions/manifest)
+* [DOAP](https://github.com/edumbill/doap/wiki)
+* [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+
+#### Chapter 4 - Solid Words
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/words.png)
+
+## Introduction
+
+In this tutorial we will expand on the previous Video tutorial, and show you
+how to create a useful app for word training and vocabulary.
+
+*What you will learn*
+
+* How to structure JavaScript into several parts
+* How to set up a Turtle data file on github
+* How to use `localStorage` to save state
+* How to automatically remember a user and login
+* How to prepare language files to be used in vocab training
+* How to add audio to apps
+
+## The App
+
+Next, we will create an app that is used to learn vocabulary in a foreign
+language. A file is prepared containing the 10,000 most common words in a target
+language. The source for word frequency was
+[Wiktionary Frequency Lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists).
+For this demo I have used the Czech and English languages, but any language pair
+is possible. The app will test you randomly on the 1000 most common words. You
+can click on the word if you don't know it, and a translation will momentarily
+appear. If you know the word you can click 'easy' if you don't know the word,
+click 'again', and if you almost know it, click 'good'. This is a typical style
+for [Spaced Repetition Memorization](https://en.wikipedia.org/wiki/Spaced_repetition)
+style learning.
+
+The number of words can be cycled to 2000, 3000, 5000 or 10000 as you progress
+using the changer on the left. Or an arbitrary number can be tested using the
+max query string parameter. Displayed next to the graph is how difficult the
+word is in terms of frequency. As you make more trials the number of words
+increases and your percentage right. It is possible to reset the number by
+tapping it.
+
+From a list of words it's possible to paste it into an online translator and get
+a list of translations (provided by Google Translate). A simple program can
+change a 2 column text file into the needed Turtle format.
+I've used `awk` for this:
+
+```
+awk -F $'\t' ' { print "<#" ++i "> <http://www.w3.org/2000/01/rdf-schema#label>" " \""  $2 "\"" "@en .\n" "<#" i ">  <http://www.w3.org/2000/01/rdf-schema#label>" " \""  $1 "\"" "@cs ." }'
+```
+
+Which should give you output similar to this:
+
+```html
+    <#1512> <http://www.w3.org/2000/01/rdf-schema#label> "žádost"@cs .
+    <#1512> <http://www.w3.org/2000/01/rdf-schema#label> "application"@en .
+````
+
+One line is in Czech (cs) one in English (en). This file can be conveniently
+stored as a .ttl in `gh-pages` on Github, so that it can be
+[loaded](https://github.com/melvincarvalho/data/blob/master/vocab/czech.ttl)
+into the app dynamically. This is a great way to host all sorts of Linked Data
+content.
+
+A number of things are persisted in `localStorage`: the word totals in each
+bucket (easy, good and again), your user id, and the word lists. This is used to
+log you in automatically on future usage of the app
+
+```javascript
+    if (localStorage.getItem('user')) {
+      var user = JSON.parse(localStorage.getItem('user'));
+      $scope.loginSuccess(user);
+    }
+```
+
+The app is divided into sections for init, auth, fetching, rendering and helper
+functions. This will be a typical division of functions for more complex apps.
+
+Audio has also bee added to the buttons using the
+[ngAudio](https://danielstern.github.io/ngAudio/#/) function and a simple tag
+in the html
+
+````html
+   "ng-audio="audio/button-3.mp3"
+```
+
+Putting these pieces together creates a complete and quite useful Solid
+application:
+
+[Solid Words Live Demo](http://melvincarvalho.github.io/vocab/)
+
+While the English-Czech language pair was used as default, any word file could
+be used for vocabulary testing.
+
+## Summary
+
+In this chapter, we learned how to put together a complex set of flows into an
+app structure that is more robust. `localStorage` was used to persist common
+items, and login was remembered. Turtle files were created, hosted and pulled in
+dynamically, and audio was added. In the next tutorial we will show how to
+create realtime updates using
+[Websockets](https://en.wikipedia.org/wiki/WebSocket).
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/vocab/)
+* [Live Demo](http://melvincarvalho.github.io/vocab/)
+* [wictionary](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+* [Spaced Repitition](https://en.wikipedia.org/wiki/Spaced_repetition)
+* [ngAudio](https://danielstern.github.io/ngAudio/#/)
+
+#### # Chapter 5 - Solid Chess
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidchess.png)
+
+## Introduction
+
+In this tutorial we will cover how to play a game of chess in realtime using
+Solid and [Websockets](https://en.wikipedia.org/wiki/WebSocket) updates. A
+JavaScript board is embedded in the page, updates occur in realtime, and a link
+is provided to a chess engine to enable hints.
+
+*What you will learn*
+
+* How to add [Websockets](https://en.wikipedia.org/wiki/WebSocket) support
+* How to send moves to a Pod in realtime
+* How to update the board when a new move is made remotely
+* How to create your own vocabulary
+* How to embed a JavaScript chess widget in a page
+* How to link to a chess engine for hints
+
+## The App
+
+The main aspect of this tutorial is realtime updates via Websockets. Solid uses
+a pub/sub mechanism to allow users to subscribe to a resource, and will send out
+updates when one of those resources changes.
+
+[Websockets](https://en.wikipedia.org/wiki/WebSocket) are built into the browser,
+and are started using the:
+
+```javascript
+    new WebSocket(uri)
+```
+
+syntax. After opening the socket, we then have access to the `onopen`,
+`onclose`, `onerror` and `onmessage` functions. When a socket closes or errors,
+we would like to restart it by calling a restart function.
+
+```javascript
+    socket.onerror = function(){
+      console.log('socket error');
+      setTimeout(connect, RECONNECT);
+    };
+```
+
+After a socket has been opened, we will send a subscription to a resource:
+
+```javascript
+    socket.onopen = function(){
+      console.log(sub);
+      $scope.socket = socket;
+      socket.send('sub ' + sub, socket);
+      if (!quiet) {
+        setInterval(function() { socket.send('ping'); }, INTERVAL);
+      }
+    };
+```
+
+Additionally, some web servers silently time out if not periodically pinged, so
+we will send a ping message every 4 minutes. If we get a message, we check for
+the 'pub' command and if found we will fire a callback for further processing.
+
+```javascript
+    socket.onmessage = function(msg) {
+      var a = msg.data.split(' ');
+      if (a[0] !== 'pub') return;
+      processSocket(a[1]);
+    };
+```
+
+When we get a message, the server will tell us which resource updated. So we can
+now drop the cache, notify the user and fetch the resource again.
+
+```javascript
+  function processSocket(uri) {
+    $scope.invalidate(uri);
+    $scope.fetchBoard();
+    $scope.audio.play();
+  }
+```
+
+More Coming soon ...
+
+[Solid Chess Live Demo](http://melvincarvalho.github.io/chess/)
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/chess)
+* [Live Demo](http://melvincarvalho.github.io/chess/)
+* [Websockets](https://en.wikipedia.org/wiki/WebSocket)
+
+#### Chapter 6 - Solid Explorer
+
+![](https://melvincarvalho.gitbooks.io/solid-tutorials/content/solidexplorer.png)
+
+## Introduction
+
+Explorer is a tool for exploring an debugging Solid workspaces.
+
+*What you will learn*
+
+## The App
+
+More Coming soon ...
+
+## See Also
+
+* [Source Code](https://github.com/melvincarvalho/explorer)
+* [Live Demo](http://melvincarvalho.github.io/explorer/)
+
+#### Appendix B - SoLiD Discovery
+
+# SoLiD Discovery (Draft)
+
+The following describes discovery in the SoLiD framework using HTTP link following aka "follow your nose".
+
+### Starting point -- WebID
+
+The starting point of SoLiD discovery is a [WebID](http://www.w3.org/2005/Incubator/webid/spec/identity/) user profile, which is a hash based URI, typically denoting a (FOAF) Agent.  From this profile all of your storage can be found (discovery).
+
+### Storage Discovery
+
+#### Storage
+
+* Starting Point: WebID
+* Type: [pim : storage](http://www.w3.org/ns/pim/space#storage)
+
+Storage is a root place to store files and data, which is used to create workspaces (see below).  Storage can also be of type:
+* Public (everyone can see)
+* Personal (only the user can see)
+* Controlled (allows sharing)
+
+#### Workspaces
+
+* Starting Point: WebID or preferencesFile
+* Type: [pim : workspace](http://www.w3.org/ns/pim/space#workspace)
+
+Workspaces are where data is stored.  There are various types of workspaces, which normally will have their own type.  For example workspaces can be
+* Personal (only the user can see)
+* Private (only the user can see)
+* Shared (allows sharing)
+* Master (a workspace about other workspaces)
+
+#### App Configuration Workspace
+
+* Starting Point: WebID or preferencesFile
+* Type: [pim : workspace](http://www.w3.org/ns/pim/space#workspace)
+
+The app configuration workspace is a container of many different app configurations.  It is also possile to use the "glob * " function, for convenience, to get all configurations of various apps that are in use.
+
+#### Preferences File
+
+* Starting Point: WebID
+* Type: [pim : preferencesFile](http://www.w3.org/ns/pim/space#preferencesFile)
+* Access: Private
+
+Preferences File is a private file that is linked from your WebID, and contains miscellaneous data not in your public profile.
+
+
+#### App configuration Files
+
+* Starting Point: App Configuration Workspace
+* Type: [pim : ConfigurationFile](http://www.w3.org/ns/pim/space#configurationFile)
+
+App configuration files contain all information related to an app.  
+
+
+### Ontologies
+
+* pim : http://www.w3.org/ns/pim/space#
+
+
+### Illustration
+
+![discovery illustration](assets/discovery.png "discovery illustration")
