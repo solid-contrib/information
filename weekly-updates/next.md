@@ -24,6 +24,8 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 ### New and Updated Apps, Pods, and Identity Providers
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) make sure to add them to the list so they get included in next weeks edition.
 
+* Updates to the [vue-solid-plugin](https://github.com/JordanShurmer/vue-solid-plugin) allowing you to load data from the Type Registry extremely easily! See the README for all the details. Still a version 0 plugin, so things may be changing, but it's usable for sure. [![NPM Package](https://img.shields.io/npm/v/vue-solid-plugin.svg)](http://npmjs.com/package/vue-solid-plugin)
+
 ## Quote of the week
 
 > A good quote is worth a thousand words. If you see any quotes on Solid that you would like to mention, add them here. 
