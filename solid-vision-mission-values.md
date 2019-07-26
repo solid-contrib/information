@@ -22,7 +22,7 @@ Solid seperates user identification from data storage from data usage:
 
 # Solid Vision 
 
-A nurturing love of collaboration and knowledge creation for the public interest
+Solid’s vision is to make it possible for users online to have many options about how to use the Web. 
 
 # Solid Mission 
 
