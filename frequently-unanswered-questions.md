@@ -218,3 +218,9 @@ STATUS: The specific issue is still being researched on, maybe not applicable fo
 
 ## When using Solid, how is data stored?
 Solid provides a general purpose read-write REST API to store data in individual files (resources) and directories (containers).
+
+## To what extent are Pods conceived as distinct from the WebIDs?
+
+An identity provider delivers your webid as a form of authentifaction. The identity provider is the domain your WebID Profile is found. A Pod provider delivers one or more domains pointed to by solid:storage statements which can be the same of different to your identity provider.
+
+
