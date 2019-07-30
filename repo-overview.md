@@ -7,7 +7,8 @@ If you know of activity that is not included on this table submit a pull request
 
 | Activity  |  Associated Repositories  | Individuals Currently Active | 
 | ------------- | ------------- | ------------- |
-| Website | * [Information](https://github.com/solid/information) * [App Listing](https://github.com/solid/solid-apps) * [Pod Listing](https://github.com/solid/pods) * [Identity Provider Listing](https://github.com/solid/solid-idp-list) | [Administrators](https://github.com/orgs/solid/teams/administrators) |
+| Website | * [Information](https://github.com/solid/information) 
+* [App Listing](https://github.com/solid/solid-apps) * [Pod Listing](https://github.com/solid/pods) * [Identity Provider Listing](https://github.com/solid/solid-idp-list) | [Administrators](https://github.com/orgs/solid/teams/administrators) |
 | Governance | * [Culture](https://github.com/solid/culture) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
 | Solid Specifications | [Specification](https://github.com/solid/specification), [Solid Spec](https://github.com/solid/solid-spec) [Web Access Control Spec](https://github.com/solid/web-access-control-spec), [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec), [vocab](https://github.com/solid/vocab)  | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
 | Solid Roadmap | * [Roadmap](https://github.com/solid/Roadmap) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
