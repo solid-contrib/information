@@ -14,6 +14,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
 
 * [Opinion: Think Britain beats the world on digital services? Think again. China rules the digital waves - CSW](https://civilserviceworld.com/articles/opinion/opinion-think-britain-beats-world-digital-services-think-again-china-rules-digital) 
+* [Apple joins Google, Facebook, and Twitter in data-sharing project - The Verge]((https://www.theverge.com/2019/7/30/20746868/apple-data-transfer-project-google-microsoft-twitter)
 
 ### Panel Conversation
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
