@@ -75,7 +75,7 @@ There have also been updates to:
 
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
-There are no upcoming events confirmed although there are possible event organisers in Solid Amsterdam and Solid San Francisco coming up. If you are interested in organising a Solid Event contact the Solid Manager. 
+There are no upcoming events confirmed although there are possible event organisers in Solid Amsterdam and Solid San Francisco coming up. 
 
 Until next week!
 
