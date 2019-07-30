@@ -36,6 +36,13 @@ There are many repositories that include content that could be combined with oth
 | [Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 
 
+# Inactive Repositories that can be Archived 
+The repositories listed below are understood to be inactive and can be archived in the coming weeks. 
+
+
+
+
+
 # Repositories Without Known Link to Activity
 
 The repositiories listed below are not known to be associated with any activity and will therefore eventually be archived. 
