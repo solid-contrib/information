@@ -49,3 +49,4 @@ If you think the content could be useful to include in another repository submit
 * [solid-takeout-import](https://github.com/solid/solid-takeout-import) 
 * [solid-email](https://github.com/solid/solid-email)
 * [mavo-solid](https://github.com/solid/mavo-solid)
+* [solid-permissions](https://github.com/solid/solid-permissions) ([existing issue](https://github.com/solid/solid-permissions/issues/33)
