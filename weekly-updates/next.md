@@ -27,7 +27,7 @@ You can apply to roles by submitting a pull request to the .md file of the role 
 
 Once these have been approved it will be possible to carry through the [editorial process](https://github.com/solid/culture#reviewing-proposals). For now panels are working on developing proposals for review which you are encouraged to join in with. 
 
-### Panel Conversation
+### Panel Conversation to Generate Proposals 
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
 This week the [Privacy and Individuals Rights Protection Panel](https://github.com/solid/culture/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) was started. 
@@ -35,21 +35,17 @@ This week the [Privacy and Individuals Rights Protection Panel](https://github.c
 Here is an overview of active panel conversations this week. 
 
 #### Proposals for the [Solid Specification](https://github.com/solid/specification)
-* [Specification Entry Document Panel](https://github.com/solid/culture/blob/master/panels.md#specification-entry-document-panel)
-- [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19#issuecomment-516140550)
+
+| Proposal  | Panel |
+| ------------- | ------------- |
+| - [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19#issuecomment-516140550)
 - [Add CORS section](https://github.com/solid/specification/pull/13)
 - [Write CORS section](https://github.com/solid/specification/issues/12)
 - [Add that a pod server MAY be an Identity Provider](https://github.com/solid/specification/issues/7)
-- [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19)
-
-* [Cryptography (Signing and Encryption) Panel](https://github.com/solid/culture/blob/master/panels.md#cryptography-signing-and-encryption-panel)
-- [Add security entries for all places where external content is fetched](https://github.com/solid/specification/issues/21) 
-
-* [Data Interoperability](https://github.com/solid/culture/blob/master/panels.md#data-interoperability)
-- [PR to add the Common Core Ontology](https://github.com/solid/solid-namespace/pull/8) and [Request to add the Common Core Ontology to the namespace](https://github.com/solid/solid-namespace/issues/12) merged
-
-There were other conversations not related to panels on: 
-- [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206#issuecomment-514736803)
+- [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19)  | [Specification Entry Document Panel](https://github.com/solid/culture/blob/master/panels.md#specification-entry-document-panel) |
+| [Add security entries for all places where external content is fetched](https://github.com/solid/specification/issues/21)   | [Cryptography (Signing and Encryption) Panel](https://github.com/solid/culture/blob/master/panels.md#cryptography-signing-and-encryption-panel) |
+| - [PR to add the Common Core Ontology](https://github.com/solid/solid-namespace/pull/8) and [Request to add the Common Core Ontology to the namespace](https://github.com/solid/solid-namespace/issues/12) merged| [Data Interoperability](https://github.com/solid/culture/blob/master/panels.md#data-interoperability) |
+| - [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206#issuecomment-514736803)
 - [Explain current document status](https://github.com/solid/solid-spec/pull/207)
 - [Discuss returning 404 for privacy reasons](https://github.com/solid/specification/issues/14)
 - [Various Documentation improvements](https://github.com/solid/webid-oidc-spec/pull/27#issuecomment-502040911)
@@ -57,12 +53,14 @@ There were other conversations not related to panels on:
 - [Add URI Normalization](https://github.com/solid/specification/issues/22) 
 - [Add time constraints to WAC rules](https://github.com/solid/specification/issues/20)
 - [Clarify where new acl files should be created](https://github.com/solid/web-access-control-spec/issues/62#issuecomment-516407391)
-- [API methods for copy/move/rename](https://github.com/solid/solid-spec/issues/156#issuecomment-516141860)
+- [API methods for copy/move/rename](https://github.com/solid/solid-spec/issues/156#issuecomment-516141860) | ------------- |
+
 
 #### Proposals for the [Solid Roadmap](https://github.com/solid/roadmap) 
 
-* [Explaining the Vision Panel](https://github.com/solid/culture/blob/master/panels.md#explaining-the-vision-panel)
-- [several proposals](https://github.com/solid/roadmap/pulls) were submitted and are still being worked on
+| Proposal  | Panel |
+| ------------- | ------------- |
+|[several proposals](https://github.com/solid/roadmap/pulls) were submitted and are still being worked on | [Explaining the Vision Panel](https://github.com/solid/culture/blob/master/panels.md#explaining-the-vision-panel) |
 
 #### [Supporting Documentation](https://github.com/solid/information/tree/master/documentation)
 There were no proposals for the supporting documentation this week. 
@@ -83,6 +81,8 @@ There was no activity in the following panels:
 Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
 
 Below are a list of proposals that are ready for editorial review. If you are part of a panel and want to add a proposal for editorial review submit a pull request to add them to the list below. 
+
+This week there are no proposals ready for editorial review. 
 
 ### Reviewed Solid Proposals
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). This week the roles are still being reviewed so the editorial process is on hold. 
