@@ -15,7 +15,7 @@ In the W3C Solid Community Call there was a conversation about making sure all r
 ### News & Blog Posts
 Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
 
-* [Sarven Capadisli Thesis](https://csarven.ca/linked-research-decentralised-web) 
+* [Linked Research on the Decentralised Web](https://csarven.ca/linked-research-decentralised-web) - [@csarven](https://github.com/csarven)'s thesis describing a Solid based scientific communication ecosystem.
 * [Opinion: Think Britain beats the world on digital services? Think again. China rules the digital waves - CSW](https://civilserviceworld.com/articles/opinion/opinion-think-britain-beats-world-digital-services-think-again-china-rules-digital) 
 * [Apple joins Google, Facebook, and Twitter in data-sharing project - The Verge](https://www.theverge.com/2019/7/30/20746868/apple-data-transfer-project-google-microsoft-twitter)
 
