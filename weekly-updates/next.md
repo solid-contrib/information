@@ -38,22 +38,10 @@ Here is an overview of active panel conversations this week.
 
 | Proposal  | Panel |
 | ------------- | ------------- |
-| - [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19#issuecomment-516140550)
-- [Add CORS section](https://github.com/solid/specification/pull/13)
-- [Write CORS section](https://github.com/solid/specification/issues/12)
-- [Add that a pod server MAY be an Identity Provider](https://github.com/solid/specification/issues/7)
-- [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19)  | [Specification Entry Document Panel](https://github.com/solid/culture/blob/master/panels.md#specification-entry-document-panel) |
+| [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19#issuecomment-516140550), [Add CORS section](https://github.com/solid/specification/pull/13), [Write CORS section](https://github.com/solid/specification/issues/12), [Add that a pod server MAY be an Identity Provider](https://github.com/solid/specification/issues/7), [Proposal: Support COPY use case](https://github.com/solid/specification/issues/19)  | [Specification Entry Document Panel](https://github.com/solid/culture/blob/master/panels.md#specification-entry-document-panel) |
 | [Add security entries for all places where external content is fetched](https://github.com/solid/specification/issues/21)   | [Cryptography (Signing and Encryption) Panel](https://github.com/solid/culture/blob/master/panels.md#cryptography-signing-and-encryption-panel) |
 | - [PR to add the Common Core Ontology](https://github.com/solid/solid-namespace/pull/8) and [Request to add the Common Core Ontology to the namespace](https://github.com/solid/solid-namespace/issues/12) merged| [Data Interoperability](https://github.com/solid/culture/blob/master/panels.md#data-interoperability) |
-| - [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206#issuecomment-514736803)
-- [Explain current document status](https://github.com/solid/solid-spec/pull/207)
-- [Discuss returning 404 for privacy reasons](https://github.com/solid/specification/issues/14)
-- [Various Documentation improvements](https://github.com/solid/webid-oidc-spec/pull/27#issuecomment-502040911)
-- [Discuss and align definitions of data pod, app, etc.](https://github.com/solid/specification/issues/16) 
-- [Add URI Normalization](https://github.com/solid/specification/issues/22) 
-- [Add time constraints to WAC rules](https://github.com/solid/specification/issues/20)
-- [Clarify where new acl files should be created](https://github.com/solid/web-access-control-spec/issues/62#issuecomment-516407391)
-- [API methods for copy/move/rename](https://github.com/solid/solid-spec/issues/156#issuecomment-516141860) | ------------- |
+| [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206#issuecomment-514736803), [Explain current document status](https://github.com/solid/solid-spec/pull/207), [Discuss returning 404 for privacy reasons](https://github.com/solid/specification/issues/14), [Various Documentation improvements](https://github.com/solid/webid-oidc-spec/pull/27#issuecomment-502040911), [Discuss and align definitions of data pod, app, etc.](https://github.com/solid/specification/issues/16), [Add URI Normalization](https://github.com/solid/specification/issues/22) , [Add time constraints to WAC rules](https://github.com/solid/specification/issues/20), [Clarify where new acl files should be created](https://github.com/solid/web-access-control-spec/issues/62#issuecomment-516407391), [API methods for copy/move/rename](https://github.com/solid/solid-spec/issues/156#issuecomment-516141860) | ------------- |
 
 
 #### Proposals for the [Solid Roadmap](https://github.com/solid/roadmap) 
