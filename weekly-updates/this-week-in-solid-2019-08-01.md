@@ -34,7 +34,7 @@ This week the [Privacy and Individuals Rights Protection Panel](https://github.c
 
 Here is an overview of active panel conversations this week. 
 
-#### Proposals for the [Solid Specification](https://github.com/solid/specification)
+#### Panel Conversation about the [Solid Specification](https://github.com/solid/specification)
 
 | Proposal  | Panel |
 | ------------- | ------------- |
@@ -44,13 +44,13 @@ Here is an overview of active panel conversations this week.
 | [Remove SPARQL on GET](https://github.com/solid/solid-spec/pull/206#issuecomment-514736803), [Explain current document status](https://github.com/solid/solid-spec/pull/207), [Discuss returning 404 for privacy reasons](https://github.com/solid/specification/issues/14), [Various Documentation improvements](https://github.com/solid/webid-oidc-spec/pull/27#issuecomment-502040911), [Discuss and align definitions of data pod, app, etc.](https://github.com/solid/specification/issues/16), [Add URI Normalization](https://github.com/solid/specification/issues/22) , [Add time constraints to WAC rules](https://github.com/solid/specification/issues/20), [Clarify where new acl files should be created](https://github.com/solid/web-access-control-spec/issues/62#issuecomment-516407391), [API methods for copy/move/rename](https://github.com/solid/solid-spec/issues/156#issuecomment-516141860) | ------------- |
 
 
-#### Proposals for the [Solid Roadmap](https://github.com/solid/roadmap) 
+#### Panel Conversation about the [Solid Roadmap](https://github.com/solid/roadmap) 
 
 | Proposal  | Panel |
 | ------------- | ------------- |
 |[several proposals](https://github.com/solid/roadmap/pulls) were submitted and are still being worked on | [Explaining the Vision Panel](https://github.com/solid/culture/blob/master/panels.md#explaining-the-vision-panel) |
 
-#### [Supporting Documentation](https://github.com/solid/information/tree/master/documentation)
+#### Panel Conversation about [Supporting Documentation](https://github.com/solid/information/tree/master/documentation)
 There were no proposals for the supporting documentation this week. 
 
 There was no activity in the following panels: 
