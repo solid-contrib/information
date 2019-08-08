@@ -33,6 +33,9 @@ Here is an overview of active panel conversations this week.
 | Proposal  | Panel |
 | ------------- | ------------- |
 | [What is the scope of the Solid specification?](https://github.com/solid/specification/issues/29). On the [W3C Solid Community Group call on the 1st August](https://www.w3.org/community/solid/wiki/Meetings#20190801_1600CEST) there was a conversation about which repository of Solid GitHub to identify as the normative specification where proposals in the form of pull requests should be submitted to? and what should be done with repositories that could be considered confusing to avoid confusion? In response an issue has been opened where you can [submit proposals on how to resolve it](https://github.com/solid/process/issues/100) and [vote](https://github.com/solid/process/issues/100) by putting a thumbs up or thumbs down on proposals you support or don't support.  | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) |
+| [Determine HTTP to HTTPS upgrade mechanism](https://github.com/solid/specification/issues/27) | Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |
+| [Status messages for client errors](https://github.com/solid/specification/issues/28) | Unknown |
+| [create use cases doc](https://github.com/solid/app-authorization-panel/issues/9#issuecomment-518112306) | [App Authorisation Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) |
 
 #### [Solid Roadmap](https://github.com/solid/roadmap) 
 
@@ -59,8 +62,17 @@ Below are a list of proposals that are ready for editorial review. If you are pa
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). 
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
+* [GET on ANY container with an index.html returns HTML, not Turtle](https://github.com/solid/node-solid-server/issues/1264#issuecomment-519263331)
+* [Modifying new-account templates doesn't seem to work](https://github.com/solid/node-solid-server/issues/1283)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
+* [Stop try parent on HTTP STATUS 200](https://github.com/solid/solid-ui/pull/79)
+* [Will prepend the name of the pane if multiple panes create same class](https://github.com/solid/solid-ui/pull/82)
+* [This allows external code to get the list of dashboard panes](https://github.com/solid/solid-panes/pull/138)
+* [Login/profile workflow](https://github.com/solid/mashlib/issues/43)
+* [Dev profile - tweak color preferences form](https://github.com/solid/solid-panes/pull/137)
+* [Dev-profile -- tweaks to the profile color form](https://github.com/solid/solid-panes/pull/136)
+* [Alternative solution to https://github.com/solid/solid-ui/issues/78](https://github.com/solid/solid-ui/pull/80)
 
 ### New and Updated Apps, Pods, and Identity Providers
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) make sure to add them to the list so they get included in next weeks edition.
