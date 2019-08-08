@@ -30,6 +30,8 @@ Here is an overview of active panel conversations this week.
 
 #### [Solid Specification](https://github.com/solid/specification)
 
+Weekly App Authorisation Panel calls have started. You can join the panel and find out the call in details [here](https://github.com/solid/process/blob/master/panels.md#app-authorization). 
+
 | Proposal  | Panel |
 | ------------- | ------------- |
 | [What is the scope of the Solid specification?](https://github.com/solid/specification/issues/29). On the [W3C Solid Community Group call on the 1st August](https://www.w3.org/community/solid/wiki/Meetings#20190801_1600CEST) there was a conversation about which repository of Solid GitHub to identify as the normative specification where proposals in the form of pull requests should be submitted to? and what should be done with repositories that could be considered confusing to avoid confusion? In response an issue has been opened where you can [submit proposals on how to resolve it](https://github.com/solid/process/issues/100) and [vote](https://github.com/solid/process/issues/100) by putting a thumbs up or thumbs down on proposals you support or don't support.  | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) |
