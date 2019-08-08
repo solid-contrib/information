@@ -73,6 +73,13 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * [Dev profile - tweak color preferences form](https://github.com/solid/solid-panes/pull/137)
 * [Dev-profile -- tweaks to the profile color form](https://github.com/solid/solid-panes/pull/136)
 * [Alternative solution to https://github.com/solid/solid-ui/issues/78](https://github.com/solid/solid-ui/pull/80)
+* [This should make the model correct wrt default values ](https://github.com/solid/solid-ui/pull/83)
+* [Making sure that list of pods are loaded](https://github.com/solid/solid-panes/pull/139)
+* [Issues with databrowser as deployed for testing on dev.inrupt.net](https://github.com/solid/mashlib/issues/45)
+* [Header with link to pod ](https://github.com/solid/mashlib/pull/37)
+* [Added TypeScript to make code base easier to maintain](https://github.com/solid/mashlib/pull/35)
+* [Adding prettier and Standard JS to maintain code base better](https://github.com/solid/mashlib/pull/36)
+* [Allows you to select a tab by name](https://github.com/solid/solid-ui/pull/75/files/6aa8bdfa8d51742c77887ea0b63796a739f019cd..b099444dcd934868de398d2cf59d434f3d7a5999)
 
 ### New and Updated Apps, Pods, and Identity Providers
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) make sure to add them to the list so they get included in next weeks edition.
