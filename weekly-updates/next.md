@@ -39,14 +39,12 @@ Here is an overview of active panel conversations this week.
 
 #### [Solid Roadmap](https://github.com/solid/roadmap) 
 
-| Proposal  | Panel |
-| ------------- | ------------- |
+This week there were no conversations about the Solid roadmap. 
 
 
 #### [Supporting Documentation](https://github.com/solid/information/tree/master/documentation)
 
-| Proposal  | Panel |
-| ------------- | ------------- |
+This week there were no conversations about the supporting documentation. 
 
 ### Panel Proposals for Editorial Review 
 Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
