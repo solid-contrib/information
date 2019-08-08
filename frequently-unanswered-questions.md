@@ -223,4 +223,7 @@ Solid provides a general purpose read-write REST API to store data in individual
 
 An identity provider delivers your webid as a form of authentication. The identity provider is the domain your WebID Profile is found. A Pod provider delivers one or more domains pointed to by solid:storage statements which can be the same of different to your identity provider.
 
+## Is it possible to use Solid offline (at least partially)? 
+
+Yes, the Solid long term vision includes local first and a flexibility of different topologies of patch-passing sync networks. However, there are no implementations yet. 
 
