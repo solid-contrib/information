@@ -14,7 +14,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ### News & Blog Posts
 Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
 
-* 
+* [The future of the decentralized web](https://medium.com/berkman-klein-center/the-future-of-the-decentralized-web-707915f12360) by the Berkman Klein Center
 
 ### Culture Conversations 
 
