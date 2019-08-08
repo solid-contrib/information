@@ -35,19 +35,19 @@ It’s a great start. The next step is to build a healthy array of options for u
 Hosting providers have commitments to the individuals and legal entities that they provide services to based on the law of the countries in which the hosting provider is operating. As a hosting provider you should seek professional advice on how to be compliant. As an individual Solid user, you should carefully read the agreement with your hosting provider before agreeing. 
 
 ## Could the solid technology be a tool to trace or control criminal actions?
-The law determines the remit of the government to track or control criminal action. The users choice of where to store their POD would determine which jurisdiction had oversight of the data in that POD. Expect if the user is based in Europe, in which case the General Data Protection Regulation applies regardless of where the POD is stored. 
+The law determines the remit of the government to track or control criminal action. The users choice of where to store their Pod would determine which jurisdiction had oversight of the data in that Pod. Expect if the user is based in Europe, in which case the General Data Protection Regulation applies regardless of where the Pod is stored. 
 
-## Will Solid POD providers get paid? By who? 
+## Will Solid Pod providers get paid? By who? 
 This will be determined by the market. 
 
-## Is data in my POD safe? Is the POD encrypted while it is stored on a provider's system?
-Data stored on your POD is not encrypted, ideally this would be introduced in the near future. 
+## Is data in my Pod safe? Is the Pod encrypted while it is stored on a provider's system?
+Data stored on your Pod is not encrypted, ideally this would be introduced in the near future. 
 
 ## Is my data safe when I use a Solid application? 
 Your data is always encrypted in transit. 
 
-## Is data on my POD stored on a centralised server of the provider?
-Data on your POD is stored where you choose to store it. You can either store your POD on a hosting provider or chose to self host. All data on a single POD is centrally stored in the same place. 
+## Is data on my Pod stored on a centralised server of the provider?
+Data on your Pod is stored where you choose to store it. You can either store your Pod on a hosting provider or chose to self host. All data on a single Pod is centrally stored in the same place. 
 
 ## If all my data is in one place, does it not become a vulnerable target for hackers? 
 When it comes to malicious cyber attacks, an attack on a single source of many people's data is generally more likely than on an individual level. 
@@ -65,7 +65,7 @@ Yes. Today, other people and organisations have a copy of your data, but you may
 No. Search engines and communication tools do not need to track you to work.  Hopefully over time all the nice things you get from silos which don’t let you control your data will be echoed by new solid-compatible ones which do.
 
 ## Can people working at the place where I choose to store my data see my data? 
-Today, the POD is not encrypted therefore your service provider could see your data. The Solid community is working on POD encryption to change this. 
+Today, the Pod is not encrypted therefore your service provider could see your data. The Solid community is working on Pod encryption to change this. 
 
 ## When I want to leave a hosting provider, can I take my data with me?
 This depends on the agreement you have with your hosting provider. 
@@ -83,26 +83,26 @@ No. Solid is not a blockchain technology, but it can interact and use other bloc
 You can choose to self host or select a hosting provider. Self hosting means that your data would sit at home on your own physical hard drive.
 
 ## How does Solid help store data of an organisation, not an individual?  
-Organisations that are legal entities can get a WebID and POD in exactly the same way as an individual would. 
+Organisations that are legal entities can get a WebID and Pod in exactly the same way as an individual would. 
 
-## Can a data exist in more than one POD? 
-Yes, if the original data controller allows an app to transfer and store personal data, that data can exist in more than one POD. 
+## Can a data exist in more than one Pod? 
+Yes, if the original data controller allows an app to transfer and store personal data, that data can exist in more than one Pod. 
 
 ## Does Solid mean we won’t need so many password? 
-Yes. When you use Solid you can use applications that would interact with your POD and therefore the login mechanism would be much simpler than having to create accounts on each and every service. However, you will still have to manage what data you would like to share with each application. 
+Yes. When you use Solid you can use applications that would interact with your Pod and therefore the login mechanism would be much simpler than having to create accounts on each and every service. However, you will still have to manage what data you would like to share with each application. 
 
 ## Where does authorisation happen? 
 In the container server. 
 
 ## How does Solid ensure consumers really have control over data when companies need to have it on their own systems to actually get some work done?
 Category: Solid: The Basics 
-Data protection does not mean a total lock down of data, it means ensuring that data is used to the advantage and wishes of the individual to which that data belongs. If a service needs data to provide a service that the individual would like and does not put the individual at unnecessary risk, then that data transfer is legitimate. Solid provides an overview to an individual of their complete data via their POD and allows them to conveniently give access and deny access at any point.
+Data protection does not mean a total lock down of data, it means ensuring that data is used to the advantage and wishes of the individual to which that data belongs. If a service needs data to provide a service that the individual would like and does not put the individual at unnecessary risk, then that data transfer is legitimate. Solid provides an overview to an individual of their complete data via their Pod and allows them to conveniently give access and deny access at any point.
 
-## How does a POD determine who has access to data?
+## How does a Pod determine who has access to data?
 The specification for how Solid figures out access to a given resource is described in Web Access Control (WAC). The specification uses the terms Access Control List Resources (or simply ACLs) and agents (e.g. a random visitor or a authenticated user) to describe which modes of access a user might have to a resource (the modes described are Read, Write, Append, and Control).In addition to describing resources to a specific resource, ACLs can also be used to describe default access to resources that reside within a given container. So if a resource doesn’t have ACLs describing that specific resource, Solid will try to figure out which default access that resource have based on the containers it resides in. If it doesn’t find ACLs for the container, it will continue to look in the parent container, and so on, until it reaches the root container.You can think of containers as folders on your computer. In this case, Solid will look for ACLs for a resource by looking through the parent folders of a document until it comes to the root of your computer.
 
 ## What is a Solid pane?
-Panes are an integral part of the Solid Data Browser, which is the view you’ll get when you’re consuming certain types of resources on the Solid server (and is the view most people discover once they’ve created a WebID and start looking around their POD). 
+Panes are an integral part of the Solid Data Browser, which is the view you’ll get when you’re consuming certain types of resources on the Solid server (and is the view most people discover once they’ve created a WebID and start looking around their Pod). 
 
 You can think of them as interfaces that allows you to view aspects of a resource a given way, like you would look at something through the panes of a window. You can also reuse panes within other panes, which makes this metaphor very similar to composite design pattern, i.e. components that are a dear concepts to many programmers.
 
@@ -134,19 +134,19 @@ Note that you might run into trouble when using Postman to send requests to your
 https://forum.solidproject.org/t/testing-http-methods-on-local-server-using-postman/499
 PROGRESS: Researching (easy to do on servers with proper certificates, not easy with self-signed certificates); Waiting for reply from Dmitri: https://forum.solidproject.org/t/testing-http-methods-on-local-server-using-postman/499/5 
 
-## How do I  upload a document onto my POD?
+## How do I  upload a document onto my Pod?
 You can upload a document using the the Solid Data Browser by navigating to the container you want to upload the file to. If you navigate to your public container (e.g. https://YOUR-USERNAME.solid.community/public) you might see something like this:
 
 By dropping documents onto the green plus-icon it will attempt to upload that file. If successful, you should see a new entry in the list of resources.
 
-## How do I delete a document from my POD?
+## How do I delete a document from my Pod?
 To delete a document using the Solid Data Browser you need to navigate to the container the resource resides in (e.g. the container of https://megoth.solid.community/public/test.txt is https://megoth.solid.community/public/). Open the resource you want to delete, and look at the tools. Then choose the Internals pane:
 
 Once you’ve selected that you should can hover the left side to see a stop sign icon:
 
 By clicking this you’ll be asked to verify the action a couple of times, and then it will be removed. (Right now there is [a bug](https://github.com/solid/solid-panes/issues/71) so that the list isn’t reloaded when the resource is deleted, so you have to reload the page to see the change in the list.)
 
-## How to add your picture to your Solid POD? 
+## How to add your picture to your Solid Pod? 
 If you want to add a picture to your profile, the easiest thing is to use the Contact pane (it’s the default pane shown when you navigate to your WebID).
 
 You should see something like this:
@@ -174,10 +174,10 @@ Note: As long as you have Control access to a resource (meaning that you can see
 
 Then you’ll see something like this:
 
-Currently there is no way of reverting this, and you’ll have to contact your POD providers support if you need it changed.
+Currently there is no way of reverting this, and you’ll have to contact your Pod providers support if you need it changed.
 
 ## How can I delete my WebID? 
-If you want to delete your WebID (and POD), your POD provider should offer an endpoint for doing that. This should be at <your-pod-provider>/account/delete, e.g.:
+If you want to delete your WebID (and Pod), your Pod provider should offer an endpoint for doing that. This should be at <your-pod-provider>/account/delete, e.g.:
 
 ## How to integrate iOS and Android apps into Solid? 
 Currently there are no developer kits in development for Android or iOS.
