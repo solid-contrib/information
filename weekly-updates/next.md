@@ -60,7 +60,7 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) make sure to add them to the list so they get included in next weeks edition.
 
 This week there was a new app: 
-* 
+* [Solid Weather](https://bitbucket.org/dylanmartin/solidweatherapp/src/master/) uses the national weather service API so it is currently only able to fetch weather in the United States.2019. Dylan Martin. Users can switch between this app and [Solid Calendar](https://bitbucket.org/dylanmartin/solidcalendar/src/master/)
 
 There have also been updates to: 
 
