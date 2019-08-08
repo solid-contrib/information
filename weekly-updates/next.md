@@ -31,6 +31,7 @@ Here is an overview of active panel conversations this week.
 #### [Solid Specification](https://github.com/solid/specification)
 
 | Proposal  | Panel |
+| ------------- | ------------- |
 | [What is the scope of the Solid specification?](https://github.com/solid/specification/issues/29). On the [W3C Solid Community Group call on the 1st August](https://www.w3.org/community/solid/wiki/Meetings#20190801_1600CEST) there was a conversation about which repository of Solid GitHub to identify as the normative specification where proposals in the form of pull requests should be submitted to? and what should be done with repositories that could be considered confusing to avoid confusion? In response an issue has been opened where you can [submit proposals on how to resolve it](https://github.com/solid/process/issues/100) and [vote](https://github.com/solid/process/issues/100) by putting a thumbs up or thumbs down on proposals you support or don't support.  | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) |
 
 #### [Solid Roadmap](https://github.com/solid/roadmap) 
@@ -50,6 +51,7 @@ Anyone may propose improvements by submitting proposals for the Solid Specificat
 Below are a list of proposals that are ready for editorial review. If you are part of a panel and want to add a proposal for editorial review submit a pull request to add them to the list below. 
 
 | Proposal  | Panel | Proposal Location |  
+| ------------- | ------------- | ------------- |
 | [Add HTTP section](https://github.com/solid/specification/pull/26) | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | [Specification](https://github.com/solid/specification) |  
 | [Add CORS section](https://github.com/solid/specification/pull/13) | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | [Specification](https://github.com/solid/specification) |  
 
@@ -75,6 +77,7 @@ There have also been updates to:
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
 |Date|Event|Organiser|
+| ------------- | ------------- |------------- |
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 
 Until next week!
