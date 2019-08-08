@@ -72,6 +72,9 @@ There have also been updates to:
 
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
+|Date|Event|Organiser|
+|10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
+
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
