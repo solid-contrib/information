@@ -63,7 +63,8 @@ This week there was a new app:
 * 
 
 There have also been updates to: 
-* 
+
+* [Solid Focus](https://github.com/NoelDeMartin/solid-focus), a Task Manager for Solid. The latest update includes editing, scheduling, describing, and deleting tasks.
 
 ### Upcoming Events
 
