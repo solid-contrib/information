@@ -8,7 +8,6 @@ If you know of activity that is not included on this table submit a pull request
 | Activity  |  Associated Repositories  | Individuals Currently Active | 
 | ------------- | ------------- | ------------- |
 | [Solid Project Website](https://www.solidproject.org) | [Information](https://github.com/solid/information) | Solid Director, Solid Manager |
-| [Solid MIT Website](https://solid.mit.edu)  | [Solid.mit.edu](https://github.com/solid/solid.mit.edu) | [Solid MIT Team](https://github.com/orgs/solid/teams/solid-mit)|
 | Lists of Solid Implementations | [App Listing](https://github.com/solid/solid-apps), [Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list) | [Administrators](https://github.com/orgs/solid/teams/administrators) | [Administrators](https://github.com/orgs/solid/teams/administrators)|
 | Governance | [Process](https://github.com/solid/process) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
 | Solid Specification | [Specification](https://github.com/solid/specification), [Solid Spec](https://github.com/solid/solid-spec) [Web Access Control Spec](https://github.com/solid/web-access-control-spec), [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec), [vocab](https://github.com/solid/vocab),[solid-namespace](https://github.com/solid/solid-namespace) | [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), Solid Director, Solid Manager |
@@ -37,6 +36,7 @@ There are many repositories that include content that could be combined with oth
 | [Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [solid-architecture](https://github.com/solid/solid-architecture) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [solid-platform](https://github.com/solid/solid-platform) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
+| [Solid.mit.edu](https://github.com/solid/solid.mit.edu) | no | yes |
 
 # Repositories Without Known Link to Activity that can be Archived
 
