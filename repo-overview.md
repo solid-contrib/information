@@ -53,29 +53,6 @@ There are many repositories that include content that could be combined with oth
 | [Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [solid-architecture](https://github.com/solid/solid-architecture) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [solid-platform](https://github.com/solid/solid-platform) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
-| [Solid.mit.edu](https://github.com/solid/solid.mit.edu) | no | yes |
-| [Solid Spec](https://github.com/solid/solid-spec) [Web Access Control Spec](https://github.com/solid/web-access-control-spec), [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec), [vocab](https://github.com/solid/vocab),[solid-namespace](https://github.com/solid/solid-namespace) | no | yes |
-| [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), [Solid Auth Client](https://github.com/solid/solid-auth-client), [node-solid-ws](https://github.com/solid/node-solid-ws) | no | yes and close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) |
-| - [acl-check](https://github.com/solid/acl-check)
-- [oidc-op](https://github.com/solid/oidc-op)
-- [oidc-rp](https://github.com/solid/oidc-rp)
-- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
-- [solid-permissions](https://github.com/solid/solid-permissions)
-- [wac-allow](https://github.com/solid/wac-allow) | [App Authorisation Repository](https://github.com/solid/app-authorization-panel/issues/)  | Yes |
-| - [oidc-rs](https://github.com/solid/oidc-rs)
-- [keychain](https://github.com/solid/keychain)
-- [jose](https://github.com/solid/jose)
-- [oidc-web](https://github.com/solid/oidc-web)
-- [kvplus-files](https://github.com/solid/kvplus-files)
-- [solid-auth-tls](https://github.com/solid/solid-auth-tls) | - [authentication panel repository](https://github.com/solid/authentication-panel) | Yes |
-| - [react-components](https://github.com/solid/react-components)
-- [query-ldflex](https://github.com/solid/query-ldflex)
-- [ldp-glob](https://github.com/solid/ldp-glob)
-- [solid-cli](https://github.com/solid/solid-cli)
-- [solid-inbox](https://github.com/solid/solid-inbox)
-- [solid-client](https://github.com/solid/solid-client)
-- [solid-web-client](https://github.com/solid/solid-web-client)
-- [solid-notifications](https://github.com/solid/solid-notifications) | [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel) | yes |
 
 # Repositories Without Known Link to Activity that can be Archived
 
@@ -92,3 +69,31 @@ If you think the content could be useful to include in another repository submit
 * [solid-permissions](https://github.com/solid/solid-permissions) ([existing issue](https://github.com/solid/solid-permissions/issues/33)
 * [solid zagel](https://github.com/solid/solid-zagel)
 * [gitter-solid](https://github.com/solid/gitter-solid)
+* [Solid.mit.edu](https://github.com/solid/solid.mit.edu)
+* [Solid Spec](https://github.com/solid/solid-spec) 
+* [Web Access Control Spec](https://github.com/solid/web-access-control-spec)
+* [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec)
+* [vocab](https://github.com/solid/vocab)
+* [solid-namespace](https://github.com/solid/solid-namespace) 
+* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), [Solid Auth Client](https://github.com/solid/solid-auth-client), [node-solid-ws](https://github.com/solid/node-solid-ws)
+* [acl-check](https://github.com/solid/acl-check)
+* [oidc-op](https://github.com/solid/oidc-op)
+* [oidc-rp](https://github.com/solid/oidc-rp)
+* [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
+* [solid-permissions](https://github.com/solid/solid-permissions)
+* [wac-allow](https://github.com/solid/wac-allow)
+* [oidc-rs](https://github.com/solid/oidc-rs)
+* [keychain](https://github.com/solid/keychain)
+* [jose](https://github.com/solid/jose)
+* [oidc-web](https://github.com/solid/oidc-web)
+* [kvplus-files](https://github.com/solid/kvplus-files)
+* [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
+* [authentication panel repository](https://github.com/solid/authentication-panel) | Yes |
+* [react-components](https://github.com/solid/react-components)
+* [query-ldflex](https://github.com/solid/query-ldflex)
+* [ldp-glob](https://github.com/solid/ldp-glob)
+* [solid-cli](https://github.com/solid/solid-cli)
+- [solid-inbox](https://github.com/solid/solid-inbox)
+- [solid-client](https://github.com/solid/solid-client)
+- [solid-web-client](https://github.com/solid/solid-web-client)
+- [solid-notifications](https://github.com/solid/solid-notifications) | [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel) | yes |
