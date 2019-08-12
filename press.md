@@ -1,6 +1,6 @@
 ## Talks 
 
-20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v)
+20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)
 
 20190330 - [How a chess app interacts with Solid](https://pieterheyvaert.com/blog/2019/03/30/solid-chess-interaction)
 
