@@ -25,3 +25,4 @@ You can find detailed conversations discussing the Solid's connection to other i
 | [Data Transfer Project](https://datatransferproject.dev/) | ------------- | ------------- | ------------- |
 | [Upspin](https://github.com/upspin/upspin) | ------------- | ------------- | ------------- |
 | [MeWe](https://mewe.com) | ------------- | ------------- | ------------- |
+| [AtomGraph](https://atomgraph.com) | ------------- | ------------- | ------------- |
