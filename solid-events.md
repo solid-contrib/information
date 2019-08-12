@@ -4,6 +4,7 @@ Solid Events are an opportunity for the Solid community to meet in personal loca
 # Upcoming events
 
 | Date | Event | Organiser(s) |
+|------|-------|--------------|
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
