@@ -12,14 +12,12 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 
 ## Updates from the Solid Community
 
-### News & Blog Posts
-Have you seen any articles about Solid this week? If you've seen any articles or written blog posts about Solid please do send them over for next week.
+### [News & Blog Posts](https://github.com/solid/information/blob/master/press.md)
+Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-* [The Verge: Brain-computer interfaces are developing faster than the policy debate around them](https://www.theverge.com/interface/2019/7/31/20747916/facebook-brain-computer-interface-policy-neuralink)
-* [TechDirt: Don't Let This Get Lost In The Shuffle: The Data Transfer Project Is Expanding, And Could Help Create Real Competition Online](https://www.techdirt.com/articles/20190731/17390142693/dont-let-this-get-lost-shuffle-data-transfer-project-is-expanding-could-help-create-real-competition-online.shtml)
-* [Gadgetbridge: Apple signs up for the Data Transfer Project: Find out more](https://www.gadgetbridge.com/news/apple-signs-up-for-the-data-transfer-project-find-out-more/) 
-* [CMS wire:Gartner Describes CDO v4.0, Microsoft Axes Skype for Business Online and Other News](https://www.cmswire.com/digital-workplace/gartner-describes-cdo-v40-microsoft-axes-skype-for-business-online-and-other-news/)
-* [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
+20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)
+
+20190808 - [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
 
 ## Development of the Specification, Roadmap and Documentation 
 
