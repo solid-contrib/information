@@ -1,4 +1,4 @@
-Solid Events are an opportunity for the Solid community to meet in personal locally. 
+Solid Events are an opportunity for the Solid community to meet in person locally. 
 
 
 # Upcoming events
