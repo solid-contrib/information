@@ -49,7 +49,13 @@ Anyone can make suggestions about how to improve the development process. This w
 * [Specification repo should not be top-listed on solid org](https://github.com/solid/process/issues/100#issuecomment-519520673)
 
 Anyone can apply to roles, here are the open applications: 
-* 
+* [Add Sarven to Data Interoperability and Test Suite Panels](https://github.com/solid/process/pull/109)
+* [Add Sarven to Explaining the Vision Panel](https://github.com/solid/process/pull/110#event-2556197898)
+* [Add Simon Shapiro to Data Interoperability Panel](https://github.com/solid/process/pull/108)
+* [Add Justin to Editors](https://github.com/solid/process/pull/29)
+* [Add Sarven to Editors](https://github.com/solid/process/pull/30)
+* [Add Dmitri to Editors](https://github.com/solid/process/pull/34)
+* [Add Kjetil to Editors](https://github.com/solid/process/pull/94)
 
 ### Panel Conversation to Generate Proposals 
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
@@ -61,25 +67,27 @@ Here is an overview of active panel conversations this week.
 | [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility-panel) | | 
 | [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | |
 | [Artificial Intelligence Panel](https://github.com/solid/process/blob/master/panels.md#artificial-intelligence-panel) | |
-| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) |  |
+| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) | https://github.com/solid/specification/issues/32 |
 | [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) | |
 | [Client Side Libraries Panel](https://github.com/solid/process/blob/master/panels.md#client-side-libraries-panel) |  |
 | [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) |  |
-| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | |
+| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | https://github.com/solid/user-stories/issues/46|
 | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | |
 | [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) |  |
 | [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |  |
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
 | [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |  |
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | https://github.com/solid/query-ldflex/issues/22#issuecomment-521002249 and https://github.com/solid/query-ldflex/issues/30#issuecomment-521124352 |
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |[what is the scope of the Solid spec?](https://github.com/solid/specification/issues/29#issuecomment-519490374),  |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
-| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |  |
+| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) | https://github.com/solid/test-suite/issues/36 |
 
 Conversations with an unknown panel: 
 * https://github.com/solid/specification/issues/27#issuecomment-519199610
 * https://github.com/solid/specification/issues/28#issuecomment-519173417
+* https://github.com/solid/specification/issues/31
+* https://github.com/solid/solid-spec/issues/142#issuecomment-521271248
 
 ### Panel Proposals for Editorial Review 
 Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
@@ -102,6 +110,26 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
 * https://github.com/solid/node-solid-server/issues/1264#issuecomment-519311943
 * https://github.com/solid/node-solid-server/pull/1277/files/8f95befbe2f82cfbd4edd5599a9359b72d27db48..1e5872d07144499432faaa51bb6866c07d689d68
+* https://github.com/solid/node-solid-server/issues/1268
+* https://github.com/solid/node-solid-server/issues/1267 
+* https://github.com/solid/node-solid-server/issues/1271
+* https://github.com/solid/node-solid-server/issues/1275#issuecomment-514176401
+* https://github.com/solid/solid/issues/18#issuecomment-520821489
+* https://github.com/solid/solid/issues/22#issuecomment-520822062
+* https://github.com/solid/solid/issues/24#issuecomment-520822726
+* https://github.com/solid/solid/issues/108#issuecomment-520823328
+* https://github.com/solid/solid/issues/108#event-2553277792
+* https://github.com/solid/node-solid-server/pull/1277#pullrequestreview-266268754
+* https://github.com/solid/node-solid-server/pull/1218#event-2554371902
+* https://github.com/solid/node-solid-server/pull/1269
+* https://github.com/solid/node-solid-server/pull/1272
+* https://github.com/solid/node-solid-server/pull/1273#issuecomment-514133587
+* https://github.com/solid/node-solid-server/pull/1276
+* https://github.com/solid/node-solid-server/issues/1284
+* https://github.com/solid/node-solid-server/issues/1285
+* https://github.com/solid/node-solid-server/pull/1287
+* https://github.com/solid/node-solid-server/pull/1282
+* https://github.com/solid/node-solid-server/issues/1288
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 * https://github.com/solid/solid-panes/pull/138#event-2542830940
@@ -115,6 +143,9 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * https://github.com/solid/solid-panes/pull/139
 * https://github.com/solid/contacts-pane/pull/1/files/351c2734edc568412df09668c98ce1ae40849fc8..bcf98a62e3e5ff3f86cecf066f8201ebb1ad99af
 * https://github.com/solid/mashlib/issues/45#issuecomment-518868325
+* https://github.com/solid/solid-ui/pull/91
+* https://github.com/solid/solid-ui/pull/90
+* https://github.com/solid/solid-panes/issues/144
 
 Until next week!
 
