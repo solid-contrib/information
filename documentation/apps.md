@@ -1350,4 +1350,6 @@ App configuration files contain all information related to an app.
 
 ### Illustration
 
-![discovery illustration](assets/discovery.png "discovery illustration")
+![discovery illustration](assets/discovery.png "discovery illustration")\
+
+* [Yo Tutorial](https://github.com/RubenVerborgh/solid-yo/blob/612043e9a34c6ad4dc51651b14136175776aa52e/scripts/YoSource.js#L69-L87)
