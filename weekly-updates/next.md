@@ -2,33 +2,51 @@
 
 Hello and welcome to another issue of This Week in Solid!
 
-[Solid](https://solid.github.io/information/) is a specification for building apps with separate data storage. If you have a suggestion on how to improve this description you may be interested in [joining the Explaining the Vision panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) who are working on [submitting a pull request](https://github.com/solid/roadmap/blob/master/what-is-solid.md) with proposals. 
+[Solid](https://solid.github.io/information/) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along.
 
-This is a weekly summary of its progress and community. 
+If you have a suggestion on how to improve this description you may be interested in [joining the Explaining the Vision panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) who are working on describing [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel). 
+
+This is a weekly summary of Solid progress. 
 
 Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send a pull request](https://github.com/solid/information/edit/master/weekly-updates/next.md). Want to get involved? [Contributions are welcome](https://github.com/solid/information#develop).
 
 This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
 
-## Updates from the Solid Community
+## Press
 
-### [News & Blog Posts](https://github.com/solid/information/blob/master/press.md)
+### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)
 
 20190808 - [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
 
-## Development of the Specification, Roadmap and Documentation 
+### Upcoming Events
 
-### Conversations on the Open Source Process 
+Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
-You can read about [how the Solid open source process works](https://github.com/solid/process). This week there were the following process proposals: 
+|Date|Event|Organiser|
+| ------------- | ------------- |------------- |
+|10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
+
+## Solid Implementation
+If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
+
+This week there was a new app: 
+* [Solid Weather](https://bitbucket.org/dylanmartin/solidweatherapp/src/master/) uses the national weather service API so it is currently only able to fetch weather in the United States.2019. Dylan Martin. Users can switch between this app and [Solid Calendar](https://bitbucket.org/dylanmartin/solidcalendar/src/master/)
+
+There have also been updates to: 
+* [Solid Focus](https://github.com/NoelDeMartin/solid-focus), a Task Manager for Solid. The latest update includes editing, scheduling, describing, and deleting tasks.
+
+## Solid Development 
+The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). You can read about [how development of the Solid specification works](https://github.com/solid/process).
+
+### Solid Process Proposals
+Anyone can make suggestions about how to improve the development process. This week there were the following process proposals: 
 
 * [Specification repo should not be top-listed on solid org](https://github.com/solid/process/issues/100#issuecomment-519520673)
 
 Anyone can apply to roles, here are the open applications: 
-
 * 
 
 ### Panel Conversation to Generate Proposals 
@@ -77,6 +95,7 @@ Below are a list of proposals that are ready for editorial review. If you are pa
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). 
 
 ## Updates on Solid Projects
+[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
 * https://github.com/solid/node-solid-server/issues/1264#issuecomment-519311943
