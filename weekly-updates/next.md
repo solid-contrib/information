@@ -41,6 +41,8 @@ There have also been updates to:
 ## Solid Development 
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). You can read about [how development of the Solid specification works](https://github.com/solid/process).
 
+All work on Solid Development is carried out on the [Solid GitHub](https://github.com/solid) account. Here is an [overview of the the repositories on the Solid GitHub](https://github.com/solid/information/blob/master/repo-overview.md). 
+
 ### Solid Process Proposals
 Anyone can make suggestions about how to improve the development process. This week there were the following process proposals: 
 
