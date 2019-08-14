@@ -1,6 +1,6 @@
 ## Talks 
 
-20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)
+20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://angelo.veltens.org/profile/card#me) - german - [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web)
 
 20190808 - [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
 
