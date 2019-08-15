@@ -59,19 +59,19 @@ Here is an overview of active panel conversations this week.
 | Panel | Conversations  | 
 | ------------- | ------------- | 
 | [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility-panel) | | 
-| [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | |
+| [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | meeting on Mondays at 1000 ET where the conversation was about creating a discovery proposal for Data Interoperability Panel|
 | [Artificial Intelligence Panel](https://github.com/solid/process/blob/master/panels.md#artificial-intelligence-panel) | |
 | [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) | https://github.com/solid/specification/issues/32 |
 | [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) | |
 | [Client Side Libraries Panel](https://github.com/solid/process/blob/master/panels.md#client-side-libraries-panel) |  |
-| [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) |  |
-| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | https://github.com/solid/user-stories/issues/46|
+| [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) | no activity yet |
+| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | https://github.com/solid/user-stories/issues/46 went over 5 existing issues, discussed models and mechanisms, changes  and standardizations|
 | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | |
 | [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) |  |
-| [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |  |
+| [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) | no activity yet |
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
-| [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
+| [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) | Looking into choices made in other panels and their impact on privacy. Started reviewing the websites, documentation and where the vulnerabilities lie |
 | [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | https://github.com/solid/query-ldflex/issues/22#issuecomment-521002249 and https://github.com/solid/query-ldflex/issues/30#issuecomment-521124352 |
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |[what is the scope of the Solid spec?](https://github.com/solid/specification/issues/29#issuecomment-519490374),  |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
