@@ -39,23 +39,17 @@ There have also been updates to:
 * [Solid Focus](https://github.com/NoelDeMartin/solid-focus), a Task Manager for Solid. The latest update includes editing, scheduling, describing, and deleting tasks.
 
 ## Solid Development 
-The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). You can read about [how development of the Solid specification works](https://github.com/solid/process).
+The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). 
 
 All work on Solid Development is carried out on the [Solid GitHub](https://github.com/solid) account. Here is an [overview of the the repositories on the Solid GitHub](https://github.com/solid/information/blob/master/repo-overview.md). 
 
-### Solid Process Proposals
-Anyone can make suggestions about how to improve the development process. This week there were the following process proposals: 
+You can read about [how development of the Solid specification works](https://github.com/solid/process) which is led by the [editors](https://github.com/solid/process/blob/master/editors.md). 
 
-* [Specification repo should not be top-listed on solid org](https://github.com/solid/process/issues/100#issuecomment-519520673)
-
-Anyone can apply to roles, here are the open applications: 
-* [Add Sarven to Data Interoperability and Test Suite Panels](https://github.com/solid/process/pull/109)
-* [Add Sarven to Explaining the Vision Panel](https://github.com/solid/process/pull/110#event-2556197898)
-* [Add Simon Shapiro to Data Interoperability Panel](https://github.com/solid/process/pull/108)
-* [Add Justin to Editors](https://github.com/solid/process/pull/29)
-* [Add Sarven to Editors](https://github.com/solid/process/pull/30)
-* [Add Dmitri to Editors](https://github.com/solid/process/pull/34)
-* [Add Kjetil to Editors](https://github.com/solid/process/pull/94)
+Anyone can apply to be an editor by [submitting a pull request](https://github.com/solid/process/blob/master/editors.md), here are the open appliations: 
+* [Justin Bingham](https://github.com/solid/process/pull/29)
+* [Sarven Capadisli](https://github.com/solid/process/pull/30)
+* [Dmitri Zagidulin](https://github.com/solid/process/pull/34)
+* [Kjetil Kjernsmo](https://github.com/solid/process/pull/94)
 
 ### Panel Conversation to Generate Proposals 
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
