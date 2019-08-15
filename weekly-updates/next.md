@@ -1,4 +1,4 @@
-# 15th August 2019
+# 22nd August 2019
 
 Hello and welcome to another issue of This Week in Solid!
 
@@ -17,10 +17,6 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)
-
-20190808 - [Innovation Excellence: Inventor of the Web, Tim Berners-Lee, Has Launched a New Startup](https://www.innovationexcellence.com/blog/2019/08/08/inventor-of-the-web-tim-berners-lee-has-launched-a-new-startup/)
-
 ### Upcoming Events
 
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
@@ -33,10 +29,10 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
 
 This week there was a new app: 
-* [Solid Weather](https://bitbucket.org/dylanmartin/solidweatherapp/src/master/) uses the national weather service API so it is currently only able to fetch weather in the United States.2019. Dylan Martin. Users can switch between this app and [Solid Calendar](https://bitbucket.org/dylanmartin/solidcalendar/src/master/)
+* 
 
 There have also been updates to: 
-* [Solid Focus](https://github.com/NoelDeMartin/solid-focus), a Task Manager for Solid. The latest update includes editing, scheduling, describing, and deleting tasks.
+* 
 
 ## Solid Development 
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). 
@@ -61,27 +57,24 @@ Here is an overview of active panel conversations this week.
 | [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility-panel) | | 
 | [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | |
 | [Artificial Intelligence Panel](https://github.com/solid/process/blob/master/panels.md#artificial-intelligence-panel) | |
-| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) | https://github.com/solid/specification/issues/32 |
+| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) | |
 | [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) | |
 | [Client Side Libraries Panel](https://github.com/solid/process/blob/master/panels.md#client-side-libraries-panel) |  |
 | [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) |  |
-| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | https://github.com/solid/user-stories/issues/46|
+| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | |
 | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | |
 | [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) |  |
 | [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |  |
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
 | [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | https://github.com/solid/query-ldflex/issues/22#issuecomment-521002249 and https://github.com/solid/query-ldflex/issues/30#issuecomment-521124352 |
-| [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |[what is the scope of the Solid spec?](https://github.com/solid/specification/issues/29#issuecomment-519490374),  |
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | |
+| [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
-| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) | https://github.com/solid/test-suite/issues/36 |
+| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |  |
 
 Conversations with an unknown panel: 
-* https://github.com/solid/specification/issues/27#issuecomment-519199610
-* https://github.com/solid/specification/issues/28#issuecomment-519173417
-* https://github.com/solid/specification/issues/31
-* https://github.com/solid/solid-spec/issues/142#issuecomment-521271248
+* 
 
 ### Panel Proposals for Editorial Review 
 Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
@@ -102,44 +95,8 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
-* https://github.com/solid/node-solid-server/issues/1264#issuecomment-519311943
-* https://github.com/solid/node-solid-server/pull/1277/files/8f95befbe2f82cfbd4edd5599a9359b72d27db48..1e5872d07144499432faaa51bb6866c07d689d68
-* https://github.com/solid/node-solid-server/issues/1268
-* https://github.com/solid/node-solid-server/issues/1267 
-* https://github.com/solid/node-solid-server/issues/1271
-* https://github.com/solid/node-solid-server/issues/1275#issuecomment-514176401
-* https://github.com/solid/solid/issues/18#issuecomment-520821489
-* https://github.com/solid/solid/issues/22#issuecomment-520822062
-* https://github.com/solid/solid/issues/24#issuecomment-520822726
-* https://github.com/solid/solid/issues/108#issuecomment-520823328
-* https://github.com/solid/solid/issues/108#event-2553277792
-* https://github.com/solid/node-solid-server/pull/1277#pullrequestreview-266268754
-* https://github.com/solid/node-solid-server/pull/1218#event-2554371902
-* https://github.com/solid/node-solid-server/pull/1269
-* https://github.com/solid/node-solid-server/pull/1272
-* https://github.com/solid/node-solid-server/pull/1273#issuecomment-514133587
-* https://github.com/solid/node-solid-server/pull/1276
-* https://github.com/solid/node-solid-server/issues/1284
-* https://github.com/solid/node-solid-server/issues/1285
-* https://github.com/solid/node-solid-server/pull/1287
-* https://github.com/solid/node-solid-server/pull/1282
-* https://github.com/solid/node-solid-server/issues/1288
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-* https://github.com/solid/solid-panes/pull/138#event-2542830940
-* https://github.com/solid/mashlib/pull/46#pullrequestreview-272173936
-* https://github.com/solid/solid-ui/pull/82
-* https://github.com/solid/solid-ui/pull/79#pullrequestreview-270870429
-* https://github.com/solid/solid-ui/pull/75#issuecomment-519499128
-* https://github.com/solid/mashlib/pull/36#pullrequestreview-265268181
-* https://github.com/solid/mashlib/pull/35#pullrequestreview-265244733
-* https://github.com/solid/mashlib/pull/37#pullrequestreview-265283028
-* https://github.com/solid/solid-panes/pull/139
-* https://github.com/solid/contacts-pane/pull/1/files/351c2734edc568412df09668c98ce1ae40849fc8..bcf98a62e3e5ff3f86cecf066f8201ebb1ad99af
-* https://github.com/solid/mashlib/issues/45#issuecomment-518868325
-* https://github.com/solid/solid-ui/pull/91
-* https://github.com/solid/solid-ui/pull/90
-* https://github.com/solid/solid-panes/issues/144
 
 Until next week!
 
