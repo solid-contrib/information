@@ -98,6 +98,9 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 
+## Tasks
+If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md).
+
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
