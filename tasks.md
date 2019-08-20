@@ -9,3 +9,9 @@ Description of task with relevant links to where to get started.
 
 ## Mentors
 * include name and preferred contact detail of the mentor
+
+# Improve Documentation
+The existing documentation sits in [this file](https://github.com/solid/information/tree/master/documentation) with [this landing page](https://github.com/solid/information/blob/master/documentation/documentation.md). There are many links and descriptions that need tidying up and the instructions need to be improved on the whole. 
+
+## Mentors
+* Mitzi László mitzil@inrupt.com @mitzilaszlo
