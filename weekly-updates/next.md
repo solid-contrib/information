@@ -2,33 +2,26 @@
 
 Hello and welcome to another issue of This Week in Solid!
 
-[Solid](https://solid.github.io/information/) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along.
-
-If you have a suggestion on how to improve this description you may be interested in [joining the Explaining the Vision panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) who are working on describing [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel). 
-
-This is a weekly summary of Solid progress. 
-
-Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send a pull request](https://github.com/solid/information/edit/master/weekly-updates/next.md). Want to get involved? [Contributions are welcome](https://github.com/solid/information#develop).
-
-This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
-
 ## Press
 
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+
+  * ...
+  * ...
+
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 * 
 
 ### Upcoming Events
 
-Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
-
 |Date|Event|Organiser|
 | ------------- | ------------- |------------- |
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 
+Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
+
 ## Solid Implementation
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
 
 This week there was a new app: 
 * 
@@ -36,7 +29,10 @@ This week there was a new app:
 There have also been updates to: 
 * 
 
-## Solid Development 
+If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
+
+## Solid Development
+
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). 
 
 All work on Solid Development is carried out on the [Solid GitHub](https://github.com/solid) account. Here is an [overview of the the repositories on the Solid GitHub](https://github.com/solid/information/blob/master/repo-overview.md). 
@@ -52,7 +48,6 @@ Anyone can apply to be an editor by [submitting a pull request](https://github.c
 Conversation about process changes with activity this week: 
 
 ### Panel Conversation to Generate Proposals 
-Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
 New panels: 
 *
@@ -86,8 +81,9 @@ Here is an overview of active panel conversations this week.
 Conversations with an unknown panel: 
 * 
 
+Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
+
 ### Panel Proposals for Editorial Review 
-Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
 
 Below are a list of proposals that are ready for editorial review. If you are part of a panel and want to add a proposal for editorial review submit a pull request to add them to the list below. 
 
@@ -106,11 +102,12 @@ Proposals in specification repositories with unknown panel:
 * [Is WAC-Allow part of the solid spec?](https://github.com/solid/solid-spec/issues/161)
 * [Specify kind of actors and class of interactions](https://github.com/solid/specification/issues/36)
 
+Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
+
 ### Reviewed Solid Proposals
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). 
 
 ## Updates on Solid Projects
-[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
 * 
@@ -118,9 +115,25 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 * 
 
+[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. 
+
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
 
 Until next week!
 
 [Mitzi László](https://github.com/Mitzi-Laszlo)
+
+## About This Week on Solid
+
+This is a weekly summary of Solid progress. 
+
+Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send a pull request](https://github.com/solid/information/edit/master/weekly-updates/next.md). Want to get involved? [Contributions are welcome](https://github.com/solid/information#develop).
+
+This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
+
+## About Solid
+
+[Solid](https://solid.github.io/information/) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along.
+
+If you have a suggestion on how to improve this description you may be interested in [joining the Explaining the Vision panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) who are working on describing [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel). 
