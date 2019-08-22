@@ -62,7 +62,8 @@ New panels:
 * [humans and machines panel](https://github.com/solid/process/pull/111) by @sideshowtom
 
 New panellists:
-* [Arne Hassel to the Data Interoperability Panel](https://github.com/solid/process/pull/112) 
+* [Arne Hassel on the Data Interoperability Panel](https://github.com/solid/process/pull/112) 
+* [Danny Haider from Freedom Box on the Self Hsting Panel](https://github.com/solid/process/blob/master/panels.md#self-hosting-panel)
 
 Here is an overview of active panel conversations this week. 
 
