@@ -1,6 +1,8 @@
 # 29th August 2019
 
-Hello and welcome to another issue of This Week in Solid!
+Hello and welcome to another issue of *This Week in Solid*!
+
+[Solid](https://solid.github.io/information/) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along.
 
 ## Press
 
