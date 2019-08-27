@@ -71,7 +71,7 @@ Here is an overview of active panel conversations this week.
 | [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) | |
 | [Client Side Libraries Panel](https://github.com/solid/process/blob/master/panels.md#client-side-libraries-panel) |  |
 | [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) |  |
-| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | |
+| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) |[meeting minutes](https://github.com/solid/data-interoperability-panel/blob/master/meetings/2-08262019.md) |
 | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | |
 | [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) | |
 | [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |  |
