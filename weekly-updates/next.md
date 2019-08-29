@@ -62,7 +62,7 @@ Conversation about process changes with activity this week:
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
 New panels: 
-*
+* [Notification Panel](https://github.com/solid/process/pull/116#event-2579196928) 
 
 New panellists:
 * [Sarven joined the app authorisation panel](Add csarven to App Authorization Panel)
@@ -87,13 +87,16 @@ Here is an overview of active panel conversations this week.
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
 | [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972) |
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972), [The function .properties returns all document properties](https://github.com/solid/query-ldflex/issues/32)|
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
 | [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |  |
 
 Conversations with an unknown panel: 
-* 
+* [Support LDflex expressions that do not resolve to a thenable](https://github.com/solid/react-components/issues/12#event-2588482989) 
+* [Support LDflex expressions resulting in unthenable](https://github.com/solid/react-components/pull/17/files/22f81eed8386f14a3645aa411f8683ac3bcfdd5e..03ff64a57b385da0aac7cc28abbc24d473c538a6) 
+* [useLDflex should clear values if a changed expression errors](https://github.com/solid/react-components/issues/18#event-2588743183) 
+* [If query fails, multiple results display is not cleared](https://github.com/solid/ldflex-playground/issues/6#event-2588758794) 
 
 ### Panel Proposals for Editorial Review 
 Anyone may propose improvements by submitting proposals for the Solid Specification, Solid Roadmap, or Supporting Documentation. Submitted proposals are reviewed through an [editorial process](https://github.com/solid/culture#reviewing-proposals) before they are accepted.
@@ -124,6 +127,12 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
 * [Server home page should link to pod when user is logged in](https://github.com/solid/node-solid-server/issues/1291)
 * [PR # 1282 with minimized rewrite on ressource-mapper.js](https://github.com/solid/node-solid-server/pull/1292) 
+* [Fix false response despite accept headers for containers](https://github.com/solid/node-solid-server/pull/1294) 
+* [:ant: Reuse ldp](https://github.com/solid/node-solid-server/pull/1293) 
+* [reduced solid server/api/microservice](https://github.com/solid/node-solid-server/issues/1295) 
+* [GET on ANY container with an index.html returns HTML, not Turtle](https://github.com/solid/node-solid-server/issues/1264) 
+* [Resource-mapper now considers content type when inserting index.html](https://github.com/solid/node-solid-server/pull/1260#event-2584823088) 
+* [fix issues #1120 #1256 from NSS5.1.6 ressource-mapper](https://github.com/solid/node-solid-server/pull/1282)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 * [Documentation](https://github.com/solid/solid-ui/pull/97#event-2574291980)
@@ -147,6 +156,19 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * [Data browser web app has vanished](https://github.com/solid/mashlib/issues/57) 
 * [Generate GH-pages HTML files again](https://github.com/solid/mashlib/pull/61) 
 * [Current mashlib.js and .css breaks the app](https://github.com/solid/form-playground/issues/6) 
+* [The warning about using `require('mashlib')` should only be given if it is used](https://github.com/solid/mashlib/issues/65)
+* [Reintroduce basicPreferences](https://github.com/solid/solid-panes/issues/144#issuecomment-520476125)
+* [Add developer and power user mode](https://github.com/solid/solid-panes/issues/145)
+* [A basic preferences global Pane that allows the user to indicate whether they're a Power User and/or a Developer](https://github.com/solid/solid-panes/pull/157) 
+* [Transition to non-default export for rdflib v1](https://github.com/solid/solid-ui/pull/104) 
+* [Allow loading .ttl files](https://github.com/solid/solid-panes/pull/155/files/a696958c10e52eb1757ceb0f3d354394b4174fb0..127ed25ad61fc8fc4f34cdd93c922087e72925dc) 
+* [409 Error when attempting to edit Profile Highlight Color](https://github.com/solid/solid-ui/issues/105)
+* [Restore undefined newThing](https://github.com/solid/solid-ui/pull/107) 
+* [Cannot Add Address, Email or Phone to Profile](https://github.com/solid/solid-ui/issues/106) 
+* [Move TrustedApplications to the basicPreferences Pane](https://github.com/solid/solid-panes/issues/151#event-2587823611) 
+* [Move trustedApplications into basicPreferences](https://github.com/solid/solid-panes/pull/165) 
+* [Extract TTL for basicPreferences into own files](https://github.com/solid/solid-panes/pull/164) 
+
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
