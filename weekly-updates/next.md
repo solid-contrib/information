@@ -65,7 +65,9 @@ New panels:
 *
 
 New panellists:
-* 
+* [Sarven joined the app authorisation panel](Add csarven to App Authorization Panel)
+
+* [The Entry Document Panel will discuss items on the specification issues](https://github.com/solid/process/pull/114/files)
 
 Here is an overview of active panel conversations this week. 
 
@@ -85,7 +87,7 @@ Here is an overview of active panel conversations this week.
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
 | [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | |
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972) |
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
 | [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |  |
@@ -120,10 +122,31 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
-* 
+* [Server home page should link to pod when user is logged in](https://github.com/solid/node-solid-server/issues/1291)
+* [PR # 1282 with minimized rewrite on ressource-mapper.js](https://github.com/solid/node-solid-server/pull/1292) 
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-* 
+* [Documentation](https://github.com/solid/solid-ui/pull/97#event-2574291980)
+* [Make the new module system in rdflib work](https://github.com/solid/mashlib/pull/60)
+* [Release mashlib as version 1.0.0](https://github.com/solid/mashlib/issues/48#issuecomment-521441687)
+* [Look at ContactPicker API for integration with Solid Copntacts](https://github.com/solid/contacts-pane/issues/4) 
+* [clean up forms-intro.html](https://github.com/solid/solid-ui/pull/98)
+* [Allow either default or non-default export in pane API](https://github.com/solid/solid-panes/issues/159)
+* [Cannot Add Address, Email or Phone to Profile](https://github.com/solid/solid-ui/issues/106)
+* [Add Friends on Profile not working](https://github.com/solid/solid-panes/issues/162) 
+* [Publish to npm on every push](https://github.com/solid/mashlib/pull/64) 
+* [Do Not Show "Log in" or "Sign Up for Solid" buttons when logged in and visiting another Pod](https://github.com/solid/solid-panes/issues/158) 
+* [Add form field for ORDERED list of things](https://github.com/solid/solid-ui/issues/100) 
+* [Remove/obsolete the part/sequence way of making forms](https://github.com/solid/solid-ui/issues/101) 
+* [Add enum choice field](https://github.com/solid/solid-ui/issues/102) 
+* [Writing away `import $rdf` to prepare for next version of rdflib](https://github.com/solid/solid-panes/pull/156) 
+* [error on editing file.acl with solid-sharing pane](https://github.com/solid/solid-ui/issues/103) 
+* [Mashlib should work as a general purpose library](https://github.com/solid/mashlib/issues/58) 
+* [Make mashlib work as a library again](https://github.com/solid/mashlib/pull/63) 
+* [Generate GH-pages HTML files again (alternative approach)](https://github.com/solid/mashlib/pull/62) 
+* [Data browser web app has vanished](https://github.com/solid/mashlib/issues/57) 
+* [Generate GH-pages HTML files again](https://github.com/solid/mashlib/pull/61) 
+* [Current mashlib.js and .css breaks the app](https://github.com/solid/form-playground/issues/6) 
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
