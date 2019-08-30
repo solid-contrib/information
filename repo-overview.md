@@ -56,10 +56,6 @@ There are many repositories that include content that could be combined with oth
 | [intro to Solid slides](https://github.com/solid/intro-to-solid-slides) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [understanding linked data](https://github.com/solid/understanding-linked-data) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 
-
-
-| [solid-architecture](https://github.com/solid/solid-architecture) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
-
 # Repositories Without Known Link to Activity that can be Archived
 
 The repositiories listed below are not known to be associated with any activity and will therefore eventually be archived. 
@@ -110,17 +106,11 @@ If you think the content could be useful to include in another repository submit
 * [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
 * [solid-notifications](https://github.com/solid/solid-notifications)
 
-
 Last activity in 2017 or earlier: 
 * [solid-profile-ui](https://github.com/solid/solid-profile-ui) 
 * [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui) 
 * [solid-signup-ui](https://github.com/solid/solid-signup-ui)
 * [solid-signin-ui](https://github.com/solid/solid-signin-ui)
-
- ([existing issue](https://github.com/solid/solid-permissions/issues/33)
+* [solid-sign-up](https://github.com/solid/solid-sign-up)
 * [solid zagel](https://github.com/solid/solid-zagel)
-* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), , [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), , 
-* [solid-permissions](https://github.com/solid/solid-permissions)
-* [authentication panel repository](https://github.com/solid/authentication-panel) | Yes |
- | [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel) | yes |
-- [solid-namespace](https://github.com/solid/solid-namespace)
+* [solid tutorial angular](https://github.com/solid/solid-tutorial-angular)
