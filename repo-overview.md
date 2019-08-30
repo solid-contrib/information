@@ -43,10 +43,13 @@ There are many repositories that include content that could be combined with oth
 
 | Repository | Add Content To Repository  | Archive |
 | ------------- | ------------- | ------------- |
-| [Userguide](https://github.com/solid/userguide) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
-| [d-web summit](https://github.com/solid/dweb-summit-2018) | [press](https://github.com/solid/information/blob/master/press.md) | yes |
 | [solid](https://github.com/solid/solid) | [Information](https://github.com/solid/information) | yes |
 | [user stories](https://github.com/solid/user-stories) | [Roadmap](https://github.com/solid/Roadmap) | ------------- |
+
+
+| [Userguide](https://github.com/solid/userguide) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
+| [d-web summit](https://github.com/solid/dweb-summit-2018) | [press](https://github.com/solid/information/blob/master/press.md) | yes |
+
 | [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [Solid Profile Viewer Tutorial](https://github.com/solid/profile-viewer-tutorial) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [Talks](https://github.com/solid/talks) |[press](https://github.com/solid/information/blob/master/press.md) | yes |
@@ -64,6 +67,18 @@ If you know about the the following repositories being linked to current activit
 
 If you think the content could be useful to include in another repository submit a pull request to take the repository off this list and add the repository to the table of proposals to link repository content to activity. 
 
+* [Web Access Control Spec](https://github.com/solid/web-access-control-spec)
+* [Solid Spec](https://github.com/solid/solid-spec) 
+* [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec)
+* [ldflex-playground](https://github.com/solid/ldflex-playground) 
+* [react-components](https://github.com/solid/react-components)
+* [form-playground](https://github.com/solid/form-playground) 
+* [test-idp](https://github.com/solid/test-idp)
+* [query-ldflex](https://github.com/solid/query-ldflex)
+* [Solid Auth Client](https://github.com/solid/solid-auth-client)
+* [solid-namespace](https://github.com/solid/solid-namespace) 
+* [websci-2019](https://github.com/solid/websci-2019)
+
 * [Solid sign up](https://github.com/solid/solid-sign-up) 
 * [solid-takeout-import](https://github.com/solid/solid-takeout-import) 
 * [solid-email](https://github.com/solid/solid-email)
@@ -72,11 +87,10 @@ If you think the content could be useful to include in another repository submit
 * [solid zagel](https://github.com/solid/solid-zagel)
 * [gitter-solid](https://github.com/solid/gitter-solid)
 * [Solid.mit.edu](https://github.com/solid/solid.mit.edu)
-* [Solid Spec](https://github.com/solid/solid-spec) 
-* [Web Access Control Spec](https://github.com/solid/web-access-control-spec)
-* [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec)
-* [solid-namespace](https://github.com/solid/solid-namespace) 
-* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), [Solid Auth Client](https://github.com/solid/solid-auth-client), [node-solid-ws](https://github.com/solid/node-solid-ws)
+
+
+
+* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), , [node-solid-ws](https://github.com/solid/node-solid-ws)
 * [acl-check](https://github.com/solid/acl-check)
 * [oidc-op](https://github.com/solid/oidc-op)
 * [oidc-rp](https://github.com/solid/oidc-rp)
@@ -90,8 +104,6 @@ If you think the content could be useful to include in another repository submit
 * [kvplus-files](https://github.com/solid/kvplus-files)
 * [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
 * [authentication panel repository](https://github.com/solid/authentication-panel) | Yes |
-* [react-components](https://github.com/solid/react-components)
-* [query-ldflex](https://github.com/solid/query-ldflex)
 * [ldp-glob](https://github.com/solid/ldp-glob)
 * [solid-cli](https://github.com/solid/solid-cli)
 - [solid-inbox](https://github.com/solid/solid-inbox)
