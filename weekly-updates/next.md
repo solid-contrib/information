@@ -50,13 +50,19 @@ All work on Solid Development is carried out on the [Solid GitHub](https://githu
 
 You can read about [how development of the Solid specification works](https://github.com/solid/process) which is led by the [editors](https://github.com/solid/process/blob/master/editors.md). 
 
+New editors: 
+* [Dmitri Zagidulin](https://github.com/solid/process/pull/34#issuecomment-525764123)
+
 Anyone can apply to be an editor by [submitting a pull request](https://github.com/solid/process/blob/master/editors.md), here are the open appliations: 
-* [Justin Bingham](https://github.com/solid/process/pull/29)
-* [Sarven Capadisli](https://github.com/solid/process/pull/30)
-* [Dmitri Zagidulin](https://github.com/solid/process/pull/34)
-* [Kjetil Kjernsmo](https://github.com/solid/process/pull/94)
+* [Justin Bingham](https://github.com/solid/process/pull/120) 
+* [Sarven Capadisli](https://github.com/solid/process/pull/121) 
 
 Conversation about process changes with activity this week: 
+* [Definition of substantive changes in the editorial process might cause trouble](https://github.com/solid/process/issues/57) 
+
+Process review:
+* [Add editor assignments, permission scheme, and substantive changes](https://github.com/solid/process/pull/95) 
+* [Current editor PRs do not provide sufficient details for an informed decision](https://github.com/solid/process/issues/36) 
 
 ### Panel Conversation to Generate Proposals 
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
@@ -90,7 +96,7 @@ Here is an overview of active panel conversations this week.
 | [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972), [The function .properties returns all document properties](https://github.com/solid/query-ldflex/issues/32)|
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
-| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |  |
+| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) | [Authenticated tests](https://github.com/solid/test-suite/pull/38), [Public IDP for testing that just goes "OK"](https://github.com/solid/test-suite/issues/36), [Initial Pod Content for Tests](https://github.com/solid/test-suite/issues/40), [Replace example.org URIs with something dereferenceable](https://github.com/solid/test-suite/issues/41)|
 
 Conversations with an unknown panel: 
 * [Support LDflex expressions that do not resolve to a thenable](https://github.com/solid/react-components/issues/12#event-2588482989) 
@@ -168,6 +174,26 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * [Move TrustedApplications to the basicPreferences Pane](https://github.com/solid/solid-panes/issues/151#event-2587823611) 
 * [Move trustedApplications into basicPreferences](https://github.com/solid/solid-panes/pull/165) 
 * [Extract TTL for basicPreferences into own files](https://github.com/solid/solid-panes/pull/164) 
+* [Add link to delete user profile from basicPreferences](https://github.com/solid/solid-panes/issues/146) 
+* [Add account deletion link(s) to preferences](https://github.com/solid/solid-panes/pull/163)
+* [Adjusting for changes in global dashboard in solid-panes](https://github.com/solid/mashlib/pull/67) 
+* [Release solid-ui as version 1.0.0](https://github.com/solid/solid-ui/issues/87) 
+* [Movement path for user menu is unforgiving and sometimes behind other elements](https://github.com/solid/mashlib/issues/51#event-2590125635) 
+* [Move the content of the subheader into a footer](https://github.com/solid/solid-panes/issues/150)
+* [Being able to delete existing pictures from "Edit your profile"](https://github.com/solid/solid-panes/issues/148) 
+* [Consolidate main.css and tabbedtab.css into one file: mash.css ](https://github.com/solid/solid-panes/issues/149) 
+* [Should not list available panes within a global dashboard pane ](https://github.com/solid/solid-panes/issues/142) 
+* [Profile picture looks weird in user menu ](https://github.com/solid/mashlib/issues/54) 
+* [Add "View your profile" in the user menu](https://github.com/solid/mashlib/issues/55) 
+* [Forms UI should remove user input UI when resource not editable](https://github.com/solid/solid-ui/issues/88)
+* [Only show panes based on the type of user](https://github.com/solid/solid-panes/issues/167) 
+* [Can create a folder at /(root) level but not edit the related .acl](https://github.com/solid/solid-ui/issues/99)
+* [Allow for creation of ACL resources on folders directly under root](https://github.com/solid/solid-ui/pull/108) 
+* [Separating dashboard and outline](https://github.com/solid/solid-panes/pull/166) 
+* [409 Error when attempting to edit Profile Highlight Color](https://github.com/solid/solid-ui/issues/105) 
+* [Prevent users from deleting their root ACLs](https://github.com/solid/solid-ui/pull/96) 
+* [Stop specific sharing pane on /(root) deletes .acl](https://github.com/solid/solid-ui/issues/94) 
+* [Adjusting for changes in global dashboard in solid-panes](https://github.com/solid/mashlib/pull/67) 
 
 
 ## Tasks
