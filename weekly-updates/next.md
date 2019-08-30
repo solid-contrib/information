@@ -53,6 +53,7 @@ You can read about [how development of the Solid specification works](https://gi
 New editors: 
 * [Dmitri Zagidulin](https://github.com/solid/process/pull/34#issuecomment-525764123)
 * [Kjetil Kjernsmo](https://github.com/solid/process/pull/94/files/f79add23b2683961e7ed98bc3e434f88bcabe065..23c1f8e67e2097d9a3ab5da9f8944b8e8b0d8544)
+* [Ruben Verborgh](https://github.com/solid/process/pull/117)
 
 Anyone can apply to be an editor by [submitting a pull request](https://github.com/solid/process/blob/master/editors.md), here are the open appliations: 
 * [Justin Bingham](https://github.com/solid/process/pull/120) 
@@ -60,6 +61,7 @@ Anyone can apply to be an editor by [submitting a pull request](https://github.c
 
 Conversation about process changes with activity this week: 
 * [Definition of substantive changes in the editorial process might cause trouble](https://github.com/solid/process/issues/57) 
+* [Storing panels data on a Pod](https://github.com/solid/process/issues/123) 
 
 Process review:
 * [Add editor assignments, permission scheme, and substantive changes](https://github.com/solid/process/pull/95) 
@@ -100,10 +102,10 @@ Here is an overview of active panel conversations this week.
 | [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |  |
 | [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |  |
 | [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |  |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972), [The function .properties returns all document properties](https://github.com/solid/query-ldflex/issues/32)|
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |[Error when try to get properties or subjects from document](https://github.com/solid/query-ldflex/issues/31#issuecomment-523656972), [The function .properties returns all document properties](https://github.com/solid/query-ldflex/issues/32), [Cannot display properties of some iterable resources](https://github.com/solid/query-ldflex/issues/33)|
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
-| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) | [Authenticated tests](https://github.com/solid/test-suite/pull/38), [Public IDP for testing that just goes "OK"](https://github.com/solid/test-suite/issues/36), [Initial Pod Content for Tests](https://github.com/solid/test-suite/issues/40), [Replace example.org URIs with something dereferenceable](https://github.com/solid/test-suite/issues/41)|
+| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) | [Authenticated tests](https://github.com/solid/test-suite/pull/38), [Public IDP for testing that just goes "OK"](https://github.com/solid/test-suite/issues/36), [Initial Pod Content for Tests](https://github.com/solid/test-suite/issues/40), [Replace example.org URIs with something dereferenceable](https://github.com/solid/test-suite/issues/41), [inrupt-pod-server Dockerfile is missing config.json](https://github.com/solid/test-suite/issues/42)|
 
 Conversations with an unknown panel: 
 * [Support LDflex expressions that do not resolve to a thenable](https://github.com/solid/react-components/issues/12#event-2588482989) 
@@ -133,6 +135,10 @@ Proposals in specification repositories with unknown panel:
 
 ### Reviewed Solid Proposals
 Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Documentation submitted for review go through an editorial process before they are accepted. You can read more about the details of the submission and review process of proposals [here](https://github.com/solid/culture#how-to-make-changes). 
+
+* [Write CORS section](https://github.com/solid/specification/issues/12)
+* [Add CORS section](https://github.com/solid/specification/pull/13) 
+* [Add HTTP section](https://github.com/solid/specification/pull/26) 
 
 ## Updates on Solid Projects
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
@@ -202,6 +208,15 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * [Stop specific sharing pane on /(root) deletes .acl](https://github.com/solid/solid-ui/issues/94) 
 * [Adjusting for changes in global dashboard in solid-panes](https://github.com/solid/mashlib/pull/67) 
 * [Tweaks to get the tests for tabs.js working](https://github.com/solid/solid-ui/pull/111) 
+* [Don't store a field's default value in the store ](https://github.com/solid/solid-ui/pull/109) 
+* [Some default styles are missing from mash.css](https://github.com/solid/mashlib/issues/66) 
+* [Filter panes based on user roles](https://github.com/solid/folder-pane/pull/3) 
+* [Adding audience](https://github.com/solid/issue-pane/pull/1) 
+* [Adding audience to panes and filtering based on that and user roles](https://github.com/solid/solid-panes/pull/168) 
+* [Adds feature to add cancelButton to end of tabs](https://github.com/solid/solid-ui/pull/110)
+* [Added methods to filter panes based on user roles (Developer/PowerUser)](https://github.com/solid/solid-ui/pull/112) 
+* [The rounded corners on the tabs.js tabs are rather wide](https://github.com/solid/solid-ui/issues/113) 
+* [Separating dashboard and outline](https://github.com/solid/solid-panes/pull/166) 
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
