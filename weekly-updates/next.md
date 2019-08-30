@@ -52,6 +52,7 @@ You can read about [how development of the Solid specification works](https://gi
 
 New editors: 
 * [Dmitri Zagidulin](https://github.com/solid/process/pull/34#issuecomment-525764123)
+* [Kjetil Kjernsmo](https://github.com/solid/process/pull/94/files/f79add23b2683961e7ed98bc3e434f88bcabe065..23c1f8e67e2097d9a3ab5da9f8944b8e8b0d8544)
 
 Anyone can apply to be an editor by [submitting a pull request](https://github.com/solid/process/blob/master/editors.md), here are the open appliations: 
 * [Justin Bingham](https://github.com/solid/process/pull/120) 
@@ -63,12 +64,18 @@ Conversation about process changes with activity this week:
 Process review:
 * [Add editor assignments, permission scheme, and substantive changes](https://github.com/solid/process/pull/95) 
 * [Current editor PRs do not provide sufficient details for an informed decision](https://github.com/solid/process/issues/36) 
+* [include reference to links ](https://github.com/solid/process/pull/83#pullrequestreview-281087305)
+* [Update code-of-conduct.md](https://github.com/solid/process/pull/80) 
+* [Style document with headings](https://github.com/solid/process/issues/40) 
 
 ### Panel Conversation to Generate Proposals 
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
 New panels: 
 * [Notification Panel](https://github.com/solid/process/pull/116#event-2579196928) 
+
+Closed panels: 
+* [remove humans and machines panel](https://github.com/solid/process/pull/122) 
 
 New panellists:
 * [Sarven joined the app authorisation panel](Add csarven to App Authorization Panel)
@@ -194,7 +201,7 @@ Candidate proposals to the Solid Specification, Solid Roadmap, or Supporting Doc
 * [Prevent users from deleting their root ACLs](https://github.com/solid/solid-ui/pull/96) 
 * [Stop specific sharing pane on /(root) deletes .acl](https://github.com/solid/solid-ui/issues/94) 
 * [Adjusting for changes in global dashboard in solid-panes](https://github.com/solid/mashlib/pull/67) 
-
+* [Tweaks to get the tests for tabs.js working](https://github.com/solid/solid-ui/pull/111) 
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
