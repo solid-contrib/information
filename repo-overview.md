@@ -45,14 +45,13 @@ There are many repositories that include content that could be combined with oth
 | ------------- | ------------- | ------------- |
 | [solid](https://github.com/solid/solid) | [Information](https://github.com/solid/information) | yes |
 | [user stories](https://github.com/solid/user-stories) | [Roadmap](https://github.com/solid/Roadmap) | ------------- |
-
-
-| [Userguide](https://github.com/solid/userguide) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
-| [d-web summit](https://github.com/solid/dweb-summit-2018) | [press](https://github.com/solid/information/blob/master/press.md) | yes |
-
-| [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [Solid Profile Viewer Tutorial](https://github.com/solid/profile-viewer-tutorial) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [Talks](https://github.com/solid/talks) |[press](https://github.com/solid/information/blob/master/press.md) | yes |
+| [Userguide](https://github.com/solid/userguide) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
+| [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
+| [d-web summit](https://github.com/solid/dweb-summit-2018) | [press](https://github.com/solid/information/blob/master/press.md) | yes |
+
+
 | [releases](https://github.com/solid/releases) | .md file in [Specification](https://github.com/solid/specification) | yes |
 | [intro to Solid slides](https://github.com/solid/intro-to-solid-slides) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
 | [Tutorial Pastebin](https://github.com/solid/solid-tutorial-pastebin) | [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | yes |
@@ -78,22 +77,27 @@ If you think the content could be useful to include in another repository submit
 * [Solid Auth Client](https://github.com/solid/solid-auth-client)
 * [solid-namespace](https://github.com/solid/solid-namespace) 
 * [websci-2019](https://github.com/solid/websci-2019)
+* [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js)
+* [acl-check](https://github.com/solid/acl-check)
+* [gitter-solid](https://github.com/solid/gitter-solid)
+* [solid-cli](https://github.com/solid/solid-cli)
+* [node-solid-ws](https://github.com/solid/node-solid-ws)
+* [profile-viewer-react](https://github.com/solid/profile-viewer-react)
+* [ldp-glob](https://github.com/solid/ldp-glob)
+* [oidc-op](https://github.com/solid/oidc-op)
+* [Solid.mit.edu](https://github.com/solid/solid.mit.edu)
+* [solid-architechture](https://github.com/solid/solid-architecture)
+* [oidc-rp](https://github.com/solid/oidc-rp)
+* [solid-takeout-import](https://github.com/solid/solid-takeout-import) 
+* [solid-client](https://github.com/solid/solid-client) 
+* [solid-inbox](https://github.com/solid/solid-inbox)
 
 * [Solid sign up](https://github.com/solid/solid-sign-up) 
-* [solid-takeout-import](https://github.com/solid/solid-takeout-import) 
 * [solid-email](https://github.com/solid/solid-email)
 * [mavo-solid](https://github.com/solid/mavo-solid)
 * [solid-permissions](https://github.com/solid/solid-permissions) ([existing issue](https://github.com/solid/solid-permissions/issues/33)
 * [solid zagel](https://github.com/solid/solid-zagel)
-* [gitter-solid](https://github.com/solid/gitter-solid)
-* [Solid.mit.edu](https://github.com/solid/solid.mit.edu)
-
-
-
-* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), , [node-solid-ws](https://github.com/solid/node-solid-ws)
-* [acl-check](https://github.com/solid/acl-check)
-* [oidc-op](https://github.com/solid/oidc-op)
-* [oidc-rp](https://github.com/solid/oidc-rp)
+* Close [Node Solid Server Project](https://github.com/orgs/solid/projects/2) and archive assciated repositories: [Node Solid Server](https://github.com/solid/node-solid-server), [Solid Auth OICD](https://github.com/solid/solid-auth-oidc), [OIDC Auth Manager](https://github.com/solid/oidc-auth-manager), , 
 * [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
 * [solid-permissions](https://github.com/solid/solid-permissions)
 * [wac-allow](https://github.com/solid/wac-allow)
@@ -104,10 +108,8 @@ If you think the content could be useful to include in another repository submit
 * [kvplus-files](https://github.com/solid/kvplus-files)
 * [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
 * [authentication panel repository](https://github.com/solid/authentication-panel) | Yes |
-* [ldp-glob](https://github.com/solid/ldp-glob)
-* [solid-cli](https://github.com/solid/solid-cli)
-- [solid-inbox](https://github.com/solid/solid-inbox)
-- [solid-client](https://github.com/solid/solid-client)
+
+
 - [solid-web-client](https://github.com/solid/solid-web-client)
 - [solid-notifications](https://github.com/solid/solid-notifications) | [client side libraries panel repository](https://github.com/solid/client-side-libraries-panel) | yes |
 - [solid-namespace](https://github.com/solid/solid-namespace)
