@@ -58,13 +58,13 @@ There are many repositories that include content that could be combined with oth
 
 # Repositories Without Known Link to Activity that can be Archived
 
-The repositiories listed below are not known to be associated with any activity and will therefore eventually be archived. 
+The repositiories listed below are not known to be associated with any activity with a specific aim.  
 
 If you know about the the following repositories being linked to current activity submit a pull request to take the repository off this list and add the repository to the table of activity above.  
 
 If you think the content could be useful to include in another repository submit a pull request to take the repository off this list and add the repository to the table of proposals to link repository content to activity. 
 
-
+Active repositories without known defined aim: 
 * [ldflex-playground](https://github.com/solid/ldflex-playground) 
 * [react-components](https://github.com/solid/react-components)
 * [form-playground](https://github.com/solid/form-playground) 
@@ -73,7 +73,6 @@ If you think the content could be useful to include in another repository submit
 * [Solid Auth Client](https://github.com/solid/solid-auth-client)
 * [solid-namespace](https://github.com/solid/solid-namespace) 
 * [websci-2019](https://github.com/solid/websci-2019)
-* [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js)
 * [acl-check](https://github.com/solid/acl-check)
 * [gitter-solid](https://github.com/solid/gitter-solid)
 * [solid-cli](https://github.com/solid/solid-cli)
@@ -95,16 +94,12 @@ If you think the content could be useful to include in another repository submit
 * [jose](https://github.com/solid/jose)
 * [oidc-web](https://github.com/solid/oidc-web)
 * [solid-email](https://github.com/solid/solid-email)
+
+The following repositories have had no activity since later than January 2018 and will therefore be archived: 
+* [kvplus-files](https://github.com/solid/kvplus-files)
+* [solid-connections-ui](https://github.com/solid/solid-connections-ui)
 * [mavo-solid](https://github.com/solid/mavo-solid)
 * [wac-allow](https://github.com/solid/wac-allow)
-* [solid-connections-ui](https://github.com/solid/solid-connections-ui)
-* [kvplus-files](https://github.com/solid/kvplus-files)
-* [solid-web-client](https://github.com/solid/solid-web-client)
-* [Solid sign up](https://github.com/solid/solid-sign-up) 
-* [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
-* [solid-notifications](https://github.com/solid/solid-notifications)
-
-Last activity in 2017 or earlier: 
 * [solid-profile-ui](https://github.com/solid/solid-profile-ui) 
 * [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui) 
 * [solid-signup-ui](https://github.com/solid/solid-signup-ui)
@@ -112,3 +107,8 @@ Last activity in 2017 or earlier:
 * [solid-sign-up](https://github.com/solid/solid-sign-up)
 * [solid zagel](https://github.com/solid/solid-zagel)
 * [solid tutorial angular](https://github.com/solid/solid-tutorial-angular)
+* [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js)
+* [solid-web-client](https://github.com/solid/solid-web-client)
+* [Solid sign up](https://github.com/solid/solid-sign-up) 
+* [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
+* [solid-notifications](https://github.com/solid/solid-notifications)
