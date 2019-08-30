@@ -121,7 +121,6 @@ This week the following proposals were reviewed.
 | Proposal | Associated Panel |Editorial Assignment | Substantive Change (yes/no)  | Vote of Assigned Editors |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Write CORS section](https://github.com/solid/specification/issues/12) | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | ------------- | ------------- | ------------- |
-| [Add CORS section](https://github.com/solid/specification/pull/13) | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | ------------- | ------------- | ------------- |
 | [Add HTTP section](https://github.com/solid/specification/pull/26)  | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) | ------------- | ------------- | ------------- |
 
 ## Updates on Solid Projects
