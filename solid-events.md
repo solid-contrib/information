@@ -5,6 +5,7 @@ Solid Events are an opportunity for the Solid community to meet in person locall
 
 | Date | Event | Organiser(s) |
 |------|-------|--------------|
+|12-09-2019|[Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-70748445505)|[Christian Buggadei](https://github.com/JollyOrc)|
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 
 (past events are [listed below](https://github.com/solid/information/blob/master/solid-events.md#past-events))
