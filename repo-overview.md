@@ -10,7 +10,7 @@ If you know of activity that is not included on this table submit a pull request
 | [Solid Project Website](https://www.solidproject.org) | [Information](https://github.com/solid/information), [solidproject.org](https://github.com/solid/solidproject.org) | Solid Director, Solid Manager, [Administrators](https://github.com/orgs/solid/teams/administrators) |
 | Lists of Solid Implementations | [App Listing](https://github.com/solid/solid-apps), [Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list) | Solid Director, Solid Manager, [Stakeholders](https://github.com/solid/process/blob/master/stakeholders.md) |
 | Governance | [Process](https://github.com/solid/process) | Solid Director, Solid Manager, [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators), [Stakeholders](https://github.com/solid/process/blob/master/stakeholders.md), Solid Director, Solid Manager |
-| Specification | [Specification](https://github.com/solid/specification), [vocab](https://github.com/solid/vocab) | Solid Director, Solid Manager, [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators) |
+| Specification | [Specification](https://github.com/solid/specification), [vocab](https://github.com/solid/vocab), [Web Access Control Spec](https://github.com/solid/web-access-control-spec), [Solid Spec](https://github.com/solid/solid-spec), [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec)| Solid Director, Solid Manager, [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators) |
 | Roadmap | [Roadmap](https://github.com/solid/Roadmap) | Solid Director, Solid Manager, [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators) |
 | Documentation |  [Solid Infomation/Documentation](https://github.com/solid/information/tree/master/documentation) | Solid Director, Solid Manager, [Panels](https://github.com/orgs/solid/teams/panels), [Editors](https://github.com/orgs/solid/teams/editors), [Administrators](https://github.com/orgs/solid/teams/administrators) |
 | [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility) | [Accessibility Panel Repository](https://github.com/solid/process/blob/master/panels.md#accessibility) | Solid Director, Solid Manager, [Administrators](https://github.com/orgs/solid/teams/administrators), [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility-panel) |
@@ -64,9 +64,7 @@ If you know about the the following repositories being linked to current activit
 
 If you think the content could be useful to include in another repository submit a pull request to take the repository off this list and add the repository to the table of proposals to link repository content to activity. 
 
-* [Web Access Control Spec](https://github.com/solid/web-access-control-spec)
-* [Solid Spec](https://github.com/solid/solid-spec) 
-* [WebID OIDC Spec](https://github.com/solid/webid-oidc-spec)
+
 * [ldflex-playground](https://github.com/solid/ldflex-playground) 
 * [react-components](https://github.com/solid/react-components)
 * [form-playground](https://github.com/solid/form-playground) 
