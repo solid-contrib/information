@@ -92,6 +92,14 @@ There have been some changes to panels:
 ### Proposals for Editorial Review 
 Anyone can [draft a proposal](https://github.com/solid/process#drafting-proposals) and submit it for [editorial review](https://github.com/solid/culture#reviewing-proposals). There are no proposal for editorial review this week. 
 
+Below are a list of proposals that are ready for editorial review. If you are part of a panel and want to add a proposal for editorial review submit a pull request to add them to the list below. 
+
+| Item | Proposal  | Panel |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+
 ### Editorial Revision
 Proposals to Solid undergo [editorial review](https://github.com/solid/culture#reviewing-proposals) by the [editors](https://github.com/solid/process/blob/master/editors.md). 
 
