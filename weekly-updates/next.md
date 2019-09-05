@@ -13,7 +13,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ## Weekly Solid Call
 Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. 
 
-You can read the [minutes of this weeks call here](https://www.w3.org/community/solid/wiki/Meetings). 
+You can read the [minutes of this weeks call here](https://www.w3.org/community/solid/wiki/Meetings#20190905_1000CEST). 
 
 Next weeks call will be on the 12th September at 1600CEST on [this line](https://zoom.us/j/121552099). You can find [the agenda here](https://www.w3.org/community/solid/wiki/Meetings#20190912_1600CEST) where you can also add items by [joining the W3C Solid Community Group](https://www.w3.org/community/solid/) or send an email to info@solidproject.org.
 
@@ -38,88 +38,80 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 ## Solid Development 
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). 
 
-All work on Solid Development is carried out on the [Solid GitHub](https://github.com/solid) account. Here is an [overview of the the repositories on the Solid GitHub](https://github.com/solid/information/blob/master/repo-overview.md). 
+All work on Solid Development is carried out on the [Solid GitHub](https://github.com/solid) account. Here is an [overview of the the repositories on the Solid GitHub](https://github.com/solid/information/blob/master/repo-overview.md).
 
 ### Solid Development Process
 You can read about [how development of the Solid specification works](https://github.com/solid/process) which is led by the [editors](https://github.com/solid/process/blob/master/editors.md). 
 
-
 Process Proposals: 
 * [Appoint a Solid Manager (if still needed) ](https://github.com/solid/process/issues/129#event-2599262406) 
-Changes to the process: 
-* [Update code-of-conduct.md ](https://github.com/solid/process/pull/80#event-2592374480) and [Style document with headings](https://github.com/solid/process/issues/40) 
-* [Update code-of-conduct.md](https://github.com/solid/process/pull/119)
-* [Provide more context around items under editorial review](https://github.com/solid/process/issues/104) 
-* [Correct contact info](https://github.com/solid/process/pull/118#pullrequestreview-281179616)
-* [Update stakeholders.md ](https://github.com/solid/process/pull/124) 
 * [Represent elements related to solid/process in RDF](https://github.com/solid/process/issues/132) 
 * [For what purposes should administrator privileges be used?](https://github.com/solid/process/issues/128#event-2599260681) 
 * [Standard LICENSE.md for panel repos ](https://github.com/solid/process/issues/103)
+* [Specification repo should not be top-listed on solid org](https://github.com/solid/process/issues/100)
+* [Restore overwrites and update links from prior merge](https://github.com/solid/process/pull/134) 
 
-New editors: 
-* [Sarven C](https://github.com/solid/process/pull/30) 
-* [Ruben V](https://github.com/solid/process/pull/117) 
+Approved Process changes
+* [Update code-of-conduct.md ](https://github.com/solid/process/pull/80#event-2592374480) and [Style document with headings](https://github.com/solid/process/issues/40) and [Update code-of-conduct.md](https://github.com/solid/process/pull/119)
+* [Provide more context around items under editorial review](https://github.com/solid/process/issues/104) 
 
 ### Solid Development Roles
 
-* [Create solid-manager.md](https://github.com/solid/process/pull/89) 
+This week the [Solid Manager](https://github.com/solid/process/pull/89) role was approved. 
+
+Stakeholders.md [got updated this week](https://github.com/solid/process/pull/124). If you would like to be listed on stakeholders please submit a pull request. 
 
 #### Editors
 [Editors](https://github.com/solid/process/blob/master/editors.md) are responsible for [reviewing proposals](https://github.com/solid/process#reviewing-proposals) to the Solid specification. 
 
 Anyone can apply to be an editor by [submitting a pull request](https://github.com/solid/process/blob/master/editors.md). 
 
-There are some open editor applications from: 
-* [Justin Bingham](https://github.com/solid/process/pull/120) 
-* [Sarven Capadisli](https://github.com/solid/process/pull/121)
-* (insert editor applications) 
+New editors: 
+* [Sarven C](https://github.com/solid/process/pull/30) 
+* [Ruben V](https://github.com/solid/process/pull/117) 
+* [Justin B](https://github.com/solid/process/pull/120)  
 
 #### Panellists
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
-* [Justin Richer to Authentication Panel](https://github.com/solid/process/pull/133) 
+* [Justin Richer joined the Authentication Panel](https://github.com/solid/process/pull/133) 
 
+### Solid Proposal Development
+Here is an overview of active panel conversations to work on generating proposals this week. 
+
+There have been some changes to panels: 
 * [remove humans and machines panel](https://github.com/solid/process/pull/122) 
 * [remove natural language processing panel](https://github.com/solid/process/pull/126/) 
 * [Match Panels to Editor Assignments and List Tools](https://github.com/solid/process/pull/125) 
 * [Abrupt change to form and scope of panels](Abrupt change to form and scope of panels)
 * [Link panels to editor teams](https://github.com/solid/process/pull/130)
-
-### Solid Proposal Development
-Here is an overview of active panel conversations to work on generating proposals this week. 
+* [Storing panels data on a Pod](https://github.com/solid/process/issues/123) 
+* [Correct contact info](https://github.com/solid/process/pull/118#pullrequestreview-281179616)
 
 | [Panel](https://github.com/solid/process/blob/master/panels.md) | Conversations  | 
 | ------------- | ------------- | 
 | [Accessibility Panel](https://github.com/solid/process/blob/master/panels.md#accessibility-panel) | no activity | 
-| [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | |
-| [Artificial Intelligence Panel](https://github.com/solid/process/blob/master/panels.md#artificial-intelligence-panel) | |
-| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) | |
-| [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) |no activity | |
-| [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) | |
-| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) | |
-| [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | |
-| [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) | |
-| [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |  |
-| [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) | |
-| [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) | |
-| [Notifications Panel](https://github.com/solid/process/blob/master/panels.md#notifications-panel) | |
-| [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) | |
-| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) | |
-| [Self Hosting](https://github.com/solid/process/blob/master/panels.md#self-hosting-panel) | |
+| [App Authorization Panel](https://github.com/solid/process/blob/master/panels.md#app-authorization) | no activity  |
+| [Artificial Intelligence Panel](https://github.com/solid/process/blob/master/panels.md#artificial-intelligence-panel) | no activity|
+| [Authentication Panel](https://github.com/solid/process/blob/master/panels.md#authentication-panel) |no activity |
+| [Caching Panel](https://github.com/solid/process/blob/master/panels.md#caching-panel) |no activity | 
+| [Cryptography (Signing and Encryption) Panel](https://github.com/solid/process/blob/master/panels.md#cryptography-signing-and-encryption-panel) | no activity|
+| [Data Interoperability Panel](https://github.com/solid/process/blob/master/panels.md#data-interoperability) |no activity |
+| [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) |no activity |
+| [External Interop and Outreach Panel](https://github.com/solid/process/blob/master/panels.md#external-interop-and-outreach-panel) | no activity|
+| [Identity Panel](https://github.com/solid/process/blob/master/panels.md#identity-panel) |no activity  |
+| [Internationalisation Panel](https://github.com/solid/process/blob/master/panels.md#internationalisation-panel) |no activity |
+| [Natural Language Processing Panel](https://github.com/solid/process/blob/master/panels.md#natural-language-processing-panel) |no activity |
+| [Notifications Panel](https://github.com/solid/process/blob/master/panels.md#notifications-panel) |no activity |
+| [Privacy and Individuals Rights Protection Panel](https://github.com/solid/process/blob/master/panels.md#privacy-and-individuals-rights-protection-panel) |no activity|
+| [Query Panel](https://github.com/solid/process/blob/master/panels.md#query-panel) |no activity|
+| [Self Hosting](https://github.com/solid/process/blob/master/panels.md#self-hosting-panel) |no activity|
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |[How does client apps know that certain ACL files cannot be deleted?](https://github.com/solid/specification/issues/37) |
-| [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
+| [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) | no activity|
 | [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |[Added inrupt pod sever config](https://github.com/solid/test-suite/pull/43), [inrupt-pod-server Dockerfile is missing config.json ](https://github.com/solid/test-suite/issues/42), [Update some version dependencies](https://github.com/solid/test-suite/pull/39), [More tests with authenticated users and various origins](https://github.com/solid/test-suite/pull/44)|
 
 ### Proposals for Editorial Review 
-Anyone can [draft a proposal](https://github.com/solid/process#drafting-proposals) and submit it for [editorial review](https://github.com/solid/culture#reviewing-proposals).
-
-Below are a list of proposals that are ready for editorial review. If you are part of a panel and want to add a proposal for editorial review submit a pull request to add them to the list below. 
-
-| Item | Proposal  | Panel |
-| ------------- | ------------- | ------------- |
-| [Solid Specification](https://github.com/solid/specification) | ------------- | ------------- |
-| [Solid Roadmap](https://github.com/solid/roadmap) | ------------- | ------------- |
-| [Supporting Documentation](https://github.com/solid/information/tree/master/documentation) | ------------- | ------------- |
+Anyone can [draft a proposal](https://github.com/solid/process#drafting-proposals) and submit it for [editorial review](https://github.com/solid/culture#reviewing-proposals). There are no proposal for editorial review this week. 
 
 ### Editorial Revision
 Proposals to Solid undergo [editorial review](https://github.com/solid/culture#reviewing-proposals) by the [editors](https://github.com/solid/process/blob/master/editors.md). 
@@ -127,8 +119,8 @@ Proposals to Solid undergo [editorial review](https://github.com/solid/culture#r
 This week the following proposals were reviewed. 
 
 | Proposal | Associated Panel |Editorial Assignment | Substantive Change (yes/no)  | Vote of Assigned Editors |
-| [Write CORS section](https://github.com/solid/specification/issues/12#event-2593725734) and [Add CORS section](https://github.com/solid/specification/pull/13) | ------------- | ------------- | ------------- | ------------- |
-| [Add HTTP section](https://github.com/solid/specification/pull/26) | ------------- | ------------- | ------------- | ------------- |
+| [Write CORS section](https://github.com/solid/specification/issues/12#event-2593725734) and [Add CORS section](https://github.com/solid/specification/pull/13) | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | Unknown | Unknown | Unknown |
+| [Add HTTP section](https://github.com/solid/specification/pull/26) | [Explaining the Vision Panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) | Unknown | Unknown | Unknown |
 
 ## Updates on Solid Projects
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects. 
@@ -137,6 +129,9 @@ This week the following proposals were reviewed.
 * [Reverting a fix that redirects user to Pod to agressively](https://github.com/solid/node-solid-server/pull/1296)
 * [:ant: Reuse ldp](https://github.com/solid/node-solid-server/pull/1293)
 * [reduced solid server/api/microservice](https://github.com/solid/node-solid-server/issues/1295) 
+* [GET on ANY container with an index.html returns HTML, not Turtle](https://github.com/solid/node-solid-server/issues/1264#issuecomment-519671942) 
+* [/profile/card should not use searchIndex in resource-mapper.mapUrlTofile ](https://github.com/solid/node-solid-server/issues/1297)
+* [.acl resource created with POST are created as .acl.ttl](https://github.com/solid/node-solid-server/issues/1298) 
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 * [v1.1.0](https://github.com/solid/solid-ui/releases/tag/v1.1.0) 
@@ -172,6 +167,8 @@ This week the following proposals were reviewed.
 * [Menu does not show Profile image](https://github.com/solid/solid-panes/issues/169)
 * [Can edit Trusted App URL but does not save](https://github.com/solid/solid-panes/issues/170)
 * [Multiple Green Pluses on Sharing Pane](https://github.com/solid/solid-panes/issues/171)
+* [Fix typo: contets -> contents](https://github.com/solid/solid-ui/pull/117)
+* [How to process transformations on a container](https://github.com/solid/query-ldflex/issues/35) 
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
