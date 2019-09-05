@@ -24,6 +24,9 @@ Have you seen any articles or talks about Solid this week? If you've seen any ta
 
 * [Accelerating the pace of change for data ownership by David Lee in The Scotsman](https://www.scotsman.com/business/accelerating-the-pace-of-change-for-data-ownership-1-4993209)
 
+Upcoming Solid talks: 
+* Mitzi L to speak at the [Nextcloud conference on the 15th September](https://nextcloud.com/conf-2019/)
+
 ### Upcoming Events
 Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md). 
 
