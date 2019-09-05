@@ -52,6 +52,9 @@ Changes to the process:
 * [Provide more context around items under editorial review](https://github.com/solid/process/issues/104) 
 * [Correct contact info](https://github.com/solid/process/pull/118#pullrequestreview-281179616)
 * [Update stakeholders.md ](https://github.com/solid/process/pull/124) 
+* [Represent elements related to solid/process in RDF](https://github.com/solid/process/issues/132) 
+* [For what purposes should administrator privileges be used?](https://github.com/solid/process/issues/128#event-2599260681) 
+* [Standard LICENSE.md for panel repos ](https://github.com/solid/process/issues/103)
 
 New editors: 
 * [Sarven C](https://github.com/solid/process/pull/30) 
@@ -74,10 +77,13 @@ There are some open editor applications from:
 #### Panellists
 Solid Panels are groups of individuals focused on a specific problem or domain relevant to Solid, with an aim to propose changes to the Solid Specification, Solid Roadmap, and/or Supporting Documentation. Anyone may join a panel or suggest a new panel by [submitting a pull request](https://github.com/solid/culture/blob/master/panels.md).
 
+* [Justin Richer to Authentication Panel](https://github.com/solid/process/pull/133) 
+
 * [remove humans and machines panel](https://github.com/solid/process/pull/122) 
 * [remove natural language processing panel](https://github.com/solid/process/pull/126/) 
 * [Match Panels to Editor Assignments and List Tools](https://github.com/solid/process/pull/125) 
-* [Abrupt change to form and scope of panels](Abrupt change to form and scope of panels) 
+* [Abrupt change to form and scope of panels](Abrupt change to form and scope of panels)
+* [Link panels to editor teams](https://github.com/solid/process/pull/130)
 
 ### Solid Proposal Development
 Here is an overview of active panel conversations to work on generating proposals this week. 
@@ -102,7 +108,7 @@ Here is an overview of active panel conversations to work on generating proposal
 | [Self Hosting](https://github.com/solid/process/blob/master/panels.md#self-hosting-panel) | |
 | [Specification Entry Document Panel](https://github.com/solid/process/blob/master/panels.md#specification-entry-document-panel) |[How does client apps know that certain ACL files cannot be deleted?](https://github.com/solid/specification/issues/37) |
 | [Teaching Materials Panel](https://github.com/solid/process/blob/master/panels.md#teaching-material-panel) |  |
-| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |[Added inrupt pod sever config](https://github.com/solid/test-suite/pull/43)|
+| [Test Suite Panel](https://github.com/solid/process/blob/master/panels.md#test-suite-panel) |[Added inrupt pod sever config](https://github.com/solid/test-suite/pull/43), [inrupt-pod-server Dockerfile is missing config.json ](https://github.com/solid/test-suite/issues/42), [Update some version dependencies](https://github.com/solid/test-suite/pull/39), [More tests with authenticated users and various origins](https://github.com/solid/test-suite/pull/44)|
 
 ### Proposals for Editorial Review 
 Anyone can [draft a proposal](https://github.com/solid/process#drafting-proposals) and submit it for [editorial review](https://github.com/solid/culture#reviewing-proposals).
@@ -129,10 +135,17 @@ This week the following proposals were reviewed.
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2) 
 * [Reverting a fix that redirects user to Pod to agressively](https://github.com/solid/node-solid-server/pull/1296)
+* [:ant: Reuse ldp](https://github.com/solid/node-solid-server/pull/1293)
+* [reduced solid server/api/microservice](https://github.com/solid/node-solid-server/issues/1295) 
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 * [v1.1.0](https://github.com/solid/solid-ui/releases/tag/v1.1.0) 
 * [v1.0.4](https://github.com/solid/folder-pane/releases/tag/v1.0.4) 
+* [v1.0.4](https://github.com/solid/issue-pane/releases/tag/v1.0.4) 
+* [v1.0.4](https://github.com/solid/meeting-pane/releases/tag/v1.0.4) 
+* [v2.0.0](https://github.com/solid/solid-panes/releases/tag/v2.0.0)
+* [v1.1.0](https://github.com/solid/mashlib/releases/tag/v1.1.0) 
+* [v1.1.1](https://github.com/solid/mashlib/releases/tag/v1.1.1)
 * [Tweaks to get the tests for tabs.js working](https://github.com/solid/solid-ui/pull/111/files/053ddc7efea45bfdbc5dbc4f52ea47901874c409..27725d3c6ad667f59500504eef07c2112bc8feb5) 
 * [Adding normalize](https://github.com/solid/mashlib/pull/68) 
 * [Some default styles are missing from mash.css](https://github.com/solid/mashlib/issues/66) 
@@ -150,6 +163,15 @@ This week the following proposals were reviewed.
 * [Filter panes based on user roles](https://github.com/solid/folder-pane/pull/3) 
 * [Global panes should replace the view for normal panes](https://github.com/solid/solid-panes/issues/154#event-2600783585)
 * [Only show panes based on the type of user](https://github.com/solid/solid-panes/issues/167) 
+* [Adding audience to panes and filtering based on that and user roles](https://github.com/solid/solid-panes/pull/168) 
+* [Separating dashboard and outline ](https://github.com/solid/solid-panes/pull/166) 
+* [Adjusting for changes in global dashboard in solid-panes](https://github.com/solid/mashlib/pull/67)
+* [Adding normalize via NPM](https://github.com/solid/mashlib/pull/69) 
+* [Fixes to user-menu after replacing reset.css with normalize.css](https://github.com/solid/mashlib/pull/70)
+* [WIP - starting a little doc for tracker config](https://github.com/solid/issue-pane/pull/2)
+* [Menu does not show Profile image](https://github.com/solid/solid-panes/issues/169)
+* [Can edit Trusted App URL but does not save](https://github.com/solid/solid-panes/issues/170)
+* [Multiple Green Pluses on Sharing Pane](https://github.com/solid/solid-panes/issues/171)
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
