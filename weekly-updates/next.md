@@ -22,7 +22,7 @@ Next weeks call will be on the 12th September at 1600CEST on [this line](https:/
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week. 
 
-* [Accelerating the pace of change for data ownership by David Lee in The Scotsman](https://www.scotsman.com/business/accelerating-the-pace-of-change-for-data-ownership-1-4993209]
+* [Accelerating the pace of change for data ownership by David Lee in The Scotsman](https://www.scotsman.com/business/accelerating-the-pace-of-change-for-data-ownership-1-4993209)
 
 ### Upcoming Events
 Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md). 
@@ -44,7 +44,6 @@ All work on Solid Development is carried out on the [Solid GitHub](https://githu
 You can read about [how development of the Solid specification works](https://github.com/solid/process) which is led by the [editors](https://github.com/solid/process/blob/master/editors.md). 
 
 Process Proposals: 
-* [Appoint a Solid Manager (if still needed) ](https://github.com/solid/process/issues/129#event-2599262406) 
 * [Represent elements related to solid/process in RDF](https://github.com/solid/process/issues/132) 
 * [For what purposes should administrator privileges be used?](https://github.com/solid/process/issues/128#event-2599260681) 
 * [Standard LICENSE.md for panel repos ](https://github.com/solid/process/issues/103)
@@ -57,9 +56,9 @@ Approved Process changes
 
 ### Solid Development Roles
 
-This week the [Solid Manager](https://github.com/solid/process/pull/89) role was approved. 
+This week the [Solid Manager](https://github.com/solid/process/pull/89) role was approved with a corresponding [conversation](https://github.com/solid/process/issues/129#event-2599262406) 
 
-Stakeholders.md [got updated this week](https://github.com/solid/process/pull/124). If you would like to be listed on stakeholders please submit a pull request. 
+Stakeholders.md [got updated this week](https://github.com/solid/process/pull/124). If you would like to be listed on stakeholders please [submit a pull request](https://github.com/solid/process/blob/master/stakeholders.md). 
 
 #### Editors
 [Editors](https://github.com/solid/process/blob/master/editors.md) are responsible for [reviewing proposals](https://github.com/solid/process#reviewing-proposals) to the Solid specification. 
