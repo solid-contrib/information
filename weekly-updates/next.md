@@ -22,7 +22,7 @@ Next weeks call will be on the 19th September at 1000CEST on [this line](https:/
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week. 
 
-* (add talks here)
+* [Solid Social Linked Data in Beijin](https://github.com/learnsolid/meetup/blob/master/2019-09-08%20:%20Beijing%20SoLiD%20Social%20Linked%20Data.pdf)
 
 Upcoming: 
 * Mitzi L to speak at the [Nextcloud conference on the 15th September](https://nextcloud.com/conf-2019/)
