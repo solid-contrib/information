@@ -38,6 +38,18 @@ Solid Events are run by members of the Solid community like you. If you are inte
 ## Solid Implementation
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition. There are no updates on Solid implementations this week. 
 
+### Have you ever heard about Startin'Blox? 
+
+**Startin'Blox** is a french community of freelancers developping a framework of web components to be used in the creation of applications. 
+
+#### TA DA ! 
+On September 4th **Happy Dev** has published its brand new web site entirely made with **Startinblox** ! 
+
+**Happy Dev** is a European network of 500+ digital freelancers: https://happy-dev.fr
+
+And guess what, all **Startin’blox** components are **Solid** compatible.
+This is the 5th **Startin’Blox** application running in production, and more coming soon!
+
 ## Solid Development 
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification). 
 
