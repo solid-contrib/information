@@ -44,7 +44,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 ## Solid Implementation
 
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implementations make sure to add them to the list so they get included in next week's edition.
+If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ### Solid Data Workers
 NLNet Foundation [has accepted](https://nlnet.nl/project/SOLIDdataworkers/) the application to the NGI0 PET Fund for the Solid Data Workers project, which aims to populate and enrich the personal linked data graph hosted in a Solid pod by fetching data from existing sources through dedicated applications (called "Workers"). You can find progress notes about the various components involved in the project - still in a very early stage - at https://semantic.builders/
