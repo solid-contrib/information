@@ -115,6 +115,16 @@ This week the following proposals were reviewed.
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 
+- **Introducing user types Developer and Power User:** The data browser team at inrupt is dedicated to make the Solid data browser the best that it can be. As part of this work, we want to focus on the views (aka panes) that are most valuable to non-technical users (which we think also will be valuable to all types of users). A challenge related to this is how to let the data browser decide which views that should be presented to these users.
+
+  To address this we've introduced the concept of [user types](https://megoth.inrupt.net/public/SolidDataBrowser//current.html#user-types---developer-and-power-user). These are opt-in and saved in user's preferences, which are private by default. The idea is that the various views can describe which user types they consider as their audience, and the data browser will hide these views if the user hasn't self-assigned that user type.
+
+  An exception to this rule is that if a given resource is about a very specific thing, the data browser will still include the most relevant view for this, even thought the view have indicated an audience that you're not part of.
+
+  **How will this affect my experience of the data browser:** If the Solid server that hosts your Pod is using a version that utilizes this feature (solid.community and inrupt.net will upgrade to this as soon as we've fixed some bugs, probably in a couple of weeks), you will notice that some views disappear. To get access to these views you will have to ser user roles for yourself. You can do this through Preferences, which you can access through your Dashboard (which is globally available through your user menu, or on the root of your Pod).
+
+  To get a complete list of views and which ones that are connected to the various user roles, please refer to [this document that describes the current state of the data browser (work in progress)](https://megoth.inrupt.net/public/SolidDataBrowser//current.html#conceptual-model-of-panes-in-the-current-data-browser).
+
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
 
