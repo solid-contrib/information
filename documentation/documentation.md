@@ -14,8 +14,12 @@ Get your first decentralised  app working in the time it takes to find and finis
 
 Pods are personal online data stores. One can either use a Pod provider who offers data storage as a service or self host a Pod.
 
-Learn how to [install and run node Solid server](https://github.com/solid/information/blob/master/documentation/pods.md#installing-and-running-node-solid-server) or [self host](https://github.com/solid/information/blob/master/documentation/pods.md#self-hosting-pods). 
+Learn how to [become a Pod provider](https://github.com/solid/information/blob/master/documentation/pods.md#installing-and-running-node-solid-server) or [self host](https://github.com/solid/information/blob/master/documentation/pods.md#self-hosting-pods). 
 
 You may also find the [Solid developer tools](https://github.com/solid/information/blob/master/documentation/developer-tools.md) helpful.
 
-Pods may or may not be linked to identification. [Read the  current approach for implementing a new WebID](https://github.com/solid/solid/issues/146#issuecomment-392948919). 
+Pods may or may not be linked to identification. 
+
+# Identity 
+
+[Read the  current approach for implementing a new WebID](https://github.com/solid/solid/issues/146#issuecomment-392948919). 
