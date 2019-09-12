@@ -114,6 +114,9 @@ This week the following proposals were reviewed.
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
+A number of libraries that together combine to form the data browser have seen a version 1 release. More specifically, this concerns [mashlib](https://www.npmjs.com/package/mashlib), [solid-ui](https://www.npmjs.com/package/mashlib) and [rdflib](https://www.npmjs.com/package/mashlib).
+
+These releases do not contain major changes; rather, marking them as v1 merely represents the reality of trying not to introduce breaking changes to them.
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
