@@ -1,4 +1,4 @@
-# 12th September 2019
+# 19th September 2019
 
 Hello and welcome to another issue of *This Week in Solid*!
 
