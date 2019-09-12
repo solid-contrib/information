@@ -10,6 +10,9 @@ Want something mentioned? Contact the Solid Manager at info@solidproject.org or 
 
 This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
 
+## Weekly Solid Call
+Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. This week the call was cancelled so there are no minutes but next weeks call will be on the 19th September at 1000CEST on [this line](https://zoom.us/j/121552099).
+
 ## Press
 
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
