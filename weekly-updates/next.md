@@ -36,6 +36,11 @@ Solid Events are run by members of the Solid community like you. If you are inte
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 
 ## Solid Implementation
+
+If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
+
+### Solid Data Workers
+NLNet Foundation [has accepted](https://nlnet.nl/project/SOLIDdataworkers/) the application to the NGI0 PET Fund for the Solid Data Workers project, which aims to populate and enrich the personal linked data graph hosted in a Solid pod by fetching data from existing sources through dedicated applications (called "Workers"). You can find progress notes about the various components involved in the project - still in a very early stage - at https://semantic.builders/
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition. There are no updates on Solid implementations this week.
 
 ### Have you ever heard about Startin'Blox? 
