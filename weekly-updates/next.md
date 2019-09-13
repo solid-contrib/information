@@ -44,25 +44,22 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 ## Solid Implementation
 
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
+If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ### Solid Data Workers
 NLNet Foundation [has accepted](https://nlnet.nl/project/SOLIDdataworkers/) the application to the NGI0 PET Fund for the Solid Data Workers project, which aims to populate and enrich the personal linked data graph hosted in a Solid pod by fetching data from existing sources through dedicated applications (called "Workers"). You can find progress notes about the various components involved in the project - still in a very early stage - at https://semantic.builders/
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition. There are no updates on Solid implementations this week.
 
 ### Have you ever heard about Startin'Blox? 
 
-**Startin'Blox** is a french community of freelancers developping a framework of web components to be used in the creation of applications. 
+**Startin'Blox** is a French community of freelancers developing a framework of web components to be used in the creation of applications. 
 
 #### TA DA ! 
-On September 4th **Happy Dev** has published its brand new web site entirely made with **Startinblox** ! 
+On September 4th **Happy Dev** has published its brand new web site entirely made with **Startin'blox** ! 
 
 **Happy Dev** is a European network of 500+ digital freelancers: https://happy-dev.fr
 
 And guess what, all **Startin’blox** components are **Solid** compatible.
 This is the 5th **Startin’Blox** application running in production, and more coming soon!
-
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list) or there are updates to existing Solid implemntations make sure to add them to the list so they get included in next weeks edition.
 
 ## Solid Development
 
@@ -202,12 +199,12 @@ This week the following proposals were reviewed.
 | ---- | ---- | ---- | ---- | ---- |
 
 ## Updates on Solid Projects
-[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panesl. Below are the links to where there were active conversations on each of the projects.
+[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. Below are the links to where there were active conversations on each of the projects.
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-A number of libraries that together combine to form the data browser have seen a version 1 release. More specifically, this concerns [mashlib](https://www.npmjs.com/package/mashlib), [solid-ui](https://www.npmjs.com/package/mashlib) and [rdflib](https://www.npmjs.com/package/mashlib).
+A number of libraries that together combine to form the data browser have seen a version 1 release. More specifically, this concerns [mashlib](https://www.npmjs.com/package/mashlib), [solid-ui](https://www.npmjs.com/package/solid-ui) and [rdflib](https://www.npmjs.com/package/rdflib).
 
 These releases do not contain major changes; rather, marking them as v1 merely represents the reality of trying not to introduce breaking changes to them.
 
