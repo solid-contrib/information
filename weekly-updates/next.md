@@ -204,21 +204,7 @@ This week the following proposals were reviewed.
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-A number of libraries that together combine to form the data browser have seen a version 1 release. More specifically, this concerns [mashlib](https://www.npmjs.com/package/mashlib), [solid-ui](https://www.npmjs.com/package/solid-ui) and [rdflib](https://www.npmjs.com/package/rdflib).
 
-These releases do not contain major changes; rather, marking them as v1 merely represents the reality of trying not to introduce breaking changes to them.
-
-[Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. 
-
-- **Introducing user types Developer and Power User:** The data browser team at inrupt is dedicated to make the Solid data browser the best that it can be. As part of this work, we wanted to improve the onboarding experience for new users, and we identified the number of views (aka panes) as one of the challenges for new users. Some of these views are also difficult to use, and we concluded that it might be prudent to limit some of the views shown.
-
-  To address this we've introduced the concept of [user types](https://megoth.inrupt.net/public/SolidDataBrowser//current.html#user-types---developer-and-power-user). These are opt-in and saved in user's preferences, which are private by default. The idea is that the various views can describe which user types they consider as their audience, and the data browser will hide these views if the user hasn't self-assigned that user type.
-
-  An exception to this rule is that if a given resource is about a very specific thing, the data browser will still include the most relevant view for this, even thought the view have indicated an audience that you're not part of (this is useful when resources are shared with other users that have other or no user types self-assigned).
-
-  **How will this affect my experience of the data browser:** If the Solid server that hosts your Pod is using a version of the data browser that utilizes this feature (solid.community and inrupt.net will upgrade to this as soon as we've fixed some bugs, probably in a couple of weeks), you will notice that some views disappear. To access these views you will have to set user roles for yourself. You can do this through Preferences, which you can access through your Dashboard (which is globally available through your user menu, or on the root of your Pod).
-
-  To get a complete list of views and which ones that are connected to the various user roles, please refer to [this document that describes the current state of the data browser (work in progress)](https://megoth.inrupt.net/public/SolidDataBrowser//current.html#conceptual-model-of-panes-in-the-current-data-browser).
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
