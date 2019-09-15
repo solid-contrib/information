@@ -3,6 +3,17 @@
 The [Solid GitHub organization](https://github.com/solid/) contains several repositories.
 This document aims to provide an overview of them.
 
+| Activity | Associated Repositories | Individuals Currently Active | 
+| ------------- | ------------- | ------------- |
+| Specification Editing | [Specification](https://github.com/solid/specification) | Editors |
+| Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Kjetil Kjernsmo |
+| Specification Development | ------------- | [Solid Panels](https://github.com/solid/process/blob/master/panels.md) |
+| Administration | all repos | administrators |
+| [Implementation of Solid Server](https://github.com/orgs/solid/projects/2) | [node-solid-server](https://github.com/solid/node-solid-server), [node-solid-ws](https://github.com/solid/node-solid-ws) | [Jackson Morgan](https://github.com/jaxoncreed), Michiel de Jong |
+| [Data Browser](https://github.com/orgs/solid/projects/4) | [solid-ui](https://github.com/solid/solid-ui), [mashlib](https://github.com/solid/mashlib), [solid-panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry) | Arne Hassel, Tim Berners-Lee, Vincent Tunru, Kevin Howard, Daphne |
+| solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [Information](https://github.com/solid/information), [App Listing](https://github.com/solid/solid-apps),[Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list), [Explaining the Vision](https://github.com/solid/Explaining-the-Vision-Panel) | Creators |
+| Process | [Process](https://github.com/solid/process) | Solid Director, Solid Manager |
+
 ## Software projects
 ### Apps
 - [profile-viewer-react](https://github.com/solid/profile-viewer-react)
@@ -38,23 +49,6 @@ This document aims to provide an overview of them.
 - [react-components](https://github.com/solid/react-components)
 - [form-playground](https://github.com/solid/form-playground) 
 
-### Data Browser
-- [solid-ui](https://github.com/solid/solid-ui)
-- [mashlib](https://github.com/solid/mashlib)
-- [solid-panes](https://github.com/solid/solid-panes)
-- [Chat Pane](https://github.com/solid/chat-pane)
-- [Solid Pane Source](https://github.com/solid/solid-pane-source)
-- [Source Pane](https://github.com/solid/source-pane)
-- [Issue Pane](https://github.com/solid/issue-pane)
-- [Contacts Pane](https://github.com/solid/contacts-pane)
-- [Folder Pane](https://github.com/solid/folder-pane)
-- [Meeting Pane](https://github.com/solid/meeting-pane)
-- [Pane Registry](https://github.com/solid/pane-registry)
-
-### Server
-- [node-solid-server](https://github.com/solid/node-solid-server)
-- [node-solid-ws](https://github.com/solid/node-solid-ws)
-
 ### Querying
 - [query-ldflex](https://github.com/solid/query-ldflex)
 - [ldflex-playground](https://github.com/solid/ldflex-playground) 
@@ -73,9 +67,6 @@ This document aims to provide an overview of them.
 - [solid-notifications](https://github.com/solid/solid-notifications)
 
 ## Documentation
-### Specifications
-- [Specification](https://github.com/solid/specification)
-- [Test Suite](https://github.com/solid/test-suite)
 
 ### Guides and tutorials
 - [profile-viewer-tutorial](https://github.com/solid/profile-viewer-tutorial)
@@ -93,12 +84,4 @@ This document aims to provide an overview of them.
 - [dweb-summit-2018](https://github.com/solid/dweb-summit-2018)
 
 ### Communication
-- [Information](https://github.com/solid/information)
-- [App Listing](https://github.com/solid/solid-apps)
-- [Pod Listing](https://github.com/solid/pods)
-- [Identity Provider Listing](https://github.com/solid/solid-idp-list)
-- [Process](https://github.com/solid/process)
 - [Roadmap](https://github.com/solid/Roadmap)
-
-## Panels
-See [Solid Panels](https://github.com/solid/process/blob/master/panels.md).
