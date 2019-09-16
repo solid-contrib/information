@@ -96,3 +96,14 @@ This document aims to provide an overview of them.
 - [solid spec](https://github.com/solid/solid-spec)
 https://github.com/solid/talks
 https://github.com/solid/userguide
+https://github.com/solid/solid-architecture
+https://github.com/solid/vocab
+https://github.com/solid/solid-tpf
+https://github.com/solid/solid-tutorial-intro
+https://github.com/solid/solid-idps
+https://github.com/solid/solid-platform
+https://github.com/solid/releases
+https://github.com/solid/solid-tutorial-pastebin
+https://github.com/solid/intro-to-solid-slides
+https://github.com/solid/solid-signup
+https://github.com/solid/understanding-linked-data
