@@ -21,7 +21,7 @@ Next weeks call will be on the 19th September at 1000CEST on [this line](https:/
 
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 
-  * ...
+  * [presentation about iSumo, Karl H. Richters prototype to track impact on the product supply chain 5](https://prezi.com/view/LYxjoqXdogJioXuh4mBR/)
   * ...
 
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
