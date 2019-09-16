@@ -5,10 +5,10 @@ This document aims to provide an overview of them.
 
 | Activity | Associated Repositories | Individuals Currently Active | 
 | ------------- | ------------- | ------------- |
+| Administration | [owner on Solid members](https://github.com/orgs/solid/people) | Solid Director, Solid Manager, Administrators |
 | Specification Editing | [Specification](https://github.com/solid/specification) | Editors |
 | Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Kjetil Kjernsmo |
-| Specification Development | ------------- | [Solid Panels](https://github.com/solid/process/blob/master/panels.md) |
-| Administration | all repos | administrators |
+| Specification Development | [data interoperability panel](https://github.com/solid/data-interoperability-panel), [app authorisation panel](https://github.com/solid/app-authorization-panel), [notifications panel](https://github.com/solid/notifications-panel), [authentication panel](https://github.com/solid/authentication-panel), [data portability](https://github.com/solid/data-portability), [auditing](https://github.com/solid/auditing), [asseccibility](https://github.com/solid/Accessibility), [artificial intelligence](https://github.com/solid/Artificial-Intelligence), [natural-language-processing-panel](https://github.com/solid/natural-language-processing-panel), Self Hosting Panel| [Solid Panels](https://github.com/solid/process/blob/master/panels.md) |
 | [Implementation of Solid Server](https://github.com/orgs/solid/projects/2) | [node-solid-server](https://github.com/solid/node-solid-server), [node-solid-ws](https://github.com/solid/node-solid-ws) | [Jackson Morgan](https://github.com/jaxoncreed), Michiel de Jong |
 | [Data Browser](https://github.com/orgs/solid/projects/4) | [solid-ui](https://github.com/solid/solid-ui), [mashlib](https://github.com/solid/mashlib), [solid-panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry) | Arne Hassel, Tim Berners-Lee, Vincent Tunru, Kevin Howard, Daphne |
 | solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [Information](https://github.com/solid/information), [App Listing](https://github.com/solid/solid-apps),[Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list), [Explaining the Vision](https://github.com/solid/Explaining-the-Vision-Panel) | Creators |
@@ -85,3 +85,9 @@ This document aims to provide an overview of them.
 
 ### Communication
 - [Roadmap](https://github.com/solid/Roadmap)
+
+# Unknown
+- [context](https://github.com/solid/context)
+- [solid](https://github.com/solid/solid)
+- [resource-access](https://github.com/solid/resource-access)
+- [web-access-control-spec](https://github.com/solid/web-access-control-spec)
