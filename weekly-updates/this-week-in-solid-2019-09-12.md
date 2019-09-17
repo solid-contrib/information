@@ -61,7 +61,7 @@ These releases do not contain major changes; rather, marking them as v1 merely r
 
 #### Introducing user types Developer and Power User
 
-The data browser team at inrupt is dedicated to improving the Solid data browser. As part of this work, we wanted to improve the on-boarding experience for new users, and we identified the number of views (aka panes) as one of the challenges for new users. Some of these views are also difficult to use, and we concluded that it might be prudent to limit some of the views shown.
+The data browser team at inrupt is dedicated to improving the Solid data browser. As part of this work, we wanted to improve the onboarding experience for new users, and we identified the number of views (aka panes) as one of the challenges for new users. Some of these views are also difficult to use, and we concluded that it might be prudent to limit some of the views shown.
 
 To address this we've introduced the concept of [user types](https://megoth.inrupt.net/public/SolidDataBrowser//current.html#user-types---developer-and-power-user). These are opt-in and saved in user's preferences, which are private by default. The idea is that the various views can describe which user types they consider as their audience, and the data browser will hide these views if the user hasn't self-assigned that user type.
 
