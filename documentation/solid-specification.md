@@ -83,7 +83,7 @@ Discovery is the final piece, and allows the ability to tie all of these things 
  3. [RDF](#rdf)
  4. [Reading and writing data using LDP](#reading-and-writing-data-using-ldp)
  5. [Reading and writing data using SPARQL](#reading-and-writing-data-using-sparql)
- 6. [CORS](#cors---cross-origin-resource-sharing)
+ 6. [CORS (Cross-Origin Resource Sharing)](#cors)
  7. [Live updates](#live-updates)
  8. [Identity management](#identity-management-based-on-webid)
  9. [Personal data workspaces](#personal-data-workspaces)
@@ -182,7 +182,7 @@ However, we have found that while LDP is usually sufficient, there are some case
 Our existing servers support the following HTTP methods for reading data:
 
 ####The HEAD method
-Returns a list of headers related to the resource in question. Among these headers, two very important Link headers contain pointers to corresponding ACL and metadata resources. More information on naming conventions for these resources can be found [here](#wac).
+Returns a list of headers related to the resource in question. Among these headers, two very important Link headers contain pointers to corresponding ACL and metadata resources. More information on naming conventions for these resources can be found [here](#web-access-control).
 
 REQUEST:
 ```
@@ -484,8 +484,8 @@ HTTP/1.1 200 OK
 
 **IMPORTANT:** There is currently no support for blank nodes and RDF lists in our SPARQL patches.
 
-## CORS - Cross Origin Resource Sharing
-There are two different ways CORS support must be implemented on SoLiD servers. First, when the request is sent through a browser that sets the Origin header. And second, when clients do not set an Origin header (e.g. curl or non-browser clients).
+## CORS
+There are two different ways CORS (Cross Origin Resource Sharing) support must be implemented on SoLiD servers. First, when the request is sent through a browser that sets the Origin header. And second, when clients do not set an Origin header (e.g. curl or non-browser clients).
 
 When the Origin header is set:
 
