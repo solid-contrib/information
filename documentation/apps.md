@@ -2,10 +2,10 @@ Solid applications are somewhat like multi-user applications where instances tal
 
 ## Table of Contents
 
-1. [Make a Solid App on Your Lunch Break](#make-a-solid-App-on-your-lunch-break)
+1. [Make a Solid App on Your Lunch Break](#make-a-solid-app-on-your-lunch-break)
 2. [Writing Solid Applications with Angular](#writing-solid-applications-with-angular)
 3. [Writing Solid Applications with React](#writing-solid-applications-with-react)
-4. [More Solid App Tutorials](#More-Solid-App-Tutorials)
+4. [More Solid App Tutorials](#more-solid-app-tutorials)
 
 # Make a Solid App on Your Lunch Break 
 
@@ -522,7 +522,7 @@ Enzyme test setup helpers.
 * [Solid Apps with Angular](https://solid.inrupt.com/docs/writing-solid-apps-with-angular)
 * [Solid Apps with React](https://solid.inrupt.com/docs/writing-solid-apps-with-react)
 * [Jackson Morgan Instructions](https://github.com/jaxoncreed/solid-in-your-lunch-hour)
-* [Developer Tools](https://github.com/solid/information/blob/master/developer-tools.md)
+* [Developer Tools](https://github.com/solid/information/blob/master/documentation/developer-tools.md)
 * [Solid Servers Tools and Packages](https://github.com/solid/solid-platform)
 * [Intro to Solid](https://github.com/solid/intro-to-solid-slides)
 * [Solid Tutorial Intro](https://github.com/solid/solid-tutorial-intro)
@@ -551,7 +551,7 @@ The [React application generator](https://github.com/inrupt/generator-solid-reac
 # Solid Angular Tutorial
 
 This book is a set of tutorials for building apps on the
-[Solid](https://github.com/solid-spec/) platform.
+[Solid](https://solidproject.org/) platform.
 
 This book is **not** an introductory guide to the Solid core platform, more
 designed as exercises to demonstrate what is possible. Each chapter will
@@ -597,7 +597,7 @@ So, let's get started!  Please continue to [Chapter 1](https://melvincarvalho.gi
 ## Introduction
 
 In this tutorial we will cover how to build a simple client side hello world app
-using the [Solid](https://github.com/solid-spec/) framework.
+using the [Solid](https://solidproject.org/) framework.
 
 *What you will learn*
 
@@ -942,8 +942,8 @@ videos, their URLs should take the form `/embed/<id>`.
 
 While previous apps have been single-canvas, this app adds a few more features
 to allow extensibility. The CSS `flexbox` property is used to add a header and
-side bar. There are many [guides](http://www.paulund.co.uk/css-flexbox) on using
-`flexbox` online, so it wont be covered here.
+side bar. There are many guides on using `flexbox` online, so it wont be covered
+here.
 
 ```html
     <!-- menu -->
@@ -1064,7 +1064,6 @@ game type app.
 * [Source Code](https://github.com/melvincarvalho/video)
 * [Live Demo](http://melvincarvalho.github.io/video/)
 * [SIOC](http://rdfs.org/sioc/spec/)
-* [How to get started with CSS flexbox](http://www.paulund.co.uk/css-flexbox)
 * [manifest.json](https://developer.chrome.com/extensions/manifest)
 * [DOAP](https://github.com/edumbill/doap/wiki)
 * [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)

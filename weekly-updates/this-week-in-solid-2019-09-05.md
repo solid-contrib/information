@@ -150,7 +150,7 @@ This week the following proposals were reviewed.
 * [Allow blank nodes to be reused across expressions](https://github.com/solid/query-ldflex/issues/34) 
 * [Adding audience](https://github.com/solid/meeting-pane/pull/1)
 * [Added methods to filter panes based on user roles (Developer/PowerUser)](https://github.com/solid/solid-ui/pull/112)
-* [Adds optional cancelButton to end of tabs](https://github.com/solid/solid-ui/pull/110/files/d888c5dd4b9e9cb70d0f3110146e40eb0a233ae5..0db7d0c9cbb1aaf0442bb65253dda32034e14148)
+* [Adds optional cancelButton to end of tabs](https://github.com/solid/solid-ui/pull/110/)
 * [Don't store this field's default value in the store](https://github.com/solid/solid-ui/pull/109) 
 * [Cannot display properties of some iterable resources](https://github.com/solid/query-ldflex/issues/33)
 * [Cannot open a folder containing index.html ](https://github.com/solid/solid-ui/issues/114) 
