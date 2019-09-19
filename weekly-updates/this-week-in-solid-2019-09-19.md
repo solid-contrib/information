@@ -13,7 +13,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ## Weekly Solid Call
 Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid.
 
-You can read the [minutes of this weeks call here]().
+You can read the [minutes of this weeks call here](https://www.w3.org/2019/09/19-solid-minutes.html).
 
 Next weeks call will be on the 26th September at 1600CEST on [this line](https://zoom.us/j/121552099).
 
