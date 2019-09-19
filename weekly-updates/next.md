@@ -1,4 +1,4 @@
-# 19th September 2019
+# 26th September 2019
 
 Hello and welcome to another edition of *This Week in Solid*!
 
@@ -15,23 +15,23 @@ Every Thursday there is an hour long public call where newcomers can introduce t
 
 You can read the [minutes of this weeks call here]().
 
-Next weeks call will be on the 26th September at 1600CEST on [this line](https://zoom.us/j/121552099).
+Next weeks call will be on the 3rd October at 1000CEST on [this line](https://zoom.us/j/121552099).
 
 ## Press
 
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-* [Solid Social Linked Data in Beijing](https://github.com/learnsolid/meetup/blob/master/2019-09-08%20:%20Beijing%20SoLiD%20Social%20Linked%20Data.pdf) 
-* [presentation about iSumo, Karl H. Richters prototype to track impact on the product supply chain 5](https://prezi.com/view/LYxjoqXdogJioXuh4mBR/)
-* Mitzi László Spoke at the [Nextcloud conference on the 15th September](https://nextcloud.com/conf-2019/)
+* 
+
+Upcoming: 
+
 
 ### Upcoming Events
 Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md).
 
 |Date|Event|Organiser|
 | ------------- | ------------- |------------- |
-|12-09-2019|[Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-70748445505)|[Christian Buggadei](https://github.com/JollyOrc)|
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 |11-10-2019|[Solid Copenhagen](https://www.meetup.com/Solid-Copenhagen-Meetup-Group/events/264871687/)|Sarmad Reda|
 
@@ -42,8 +42,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ## Solid Development
-
-The Solid standard is currently referred to as [the specification](https://github.com/solid/specification) and is being led by the [editors](https://github.com/solid/specification/milestones). The focus at the moment is to define the scope of a Solid spec deliverable for December by [submitting issues to the specifciation repository](https://github.com/solid/specification/issues). On the 27th December the editors will finalise the decision on which issues to include in the December deliverable scope by organising them into a defined [milestone](https://github.com/solid/specification/milestones). 
+(editors to insert update)
 
 ## Updates on Solid Projects
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. Below are the links to where there were active conversations on each of the projects.
