@@ -37,11 +37,9 @@ Solid Events are run by members of the Solid community like you. If you are inte
 Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
 
 ## Solid Implementation
-
-If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
+This week there are no updates or new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list). 
 
 ## Solid Development
-
 The Solid standard is currently referred to as [the specification](https://github.com/solid/specification) and is being led by the [editors](https://github.com/solid/specification/milestones). The focus at the moment is to define the scope of a Solid spec deliverable for December by [submitting issues to the specifciation repository](https://github.com/solid/specification/issues). On the 27th December the editors will finalise the decision on which issues to include in the December deliverable scope by organising them into a defined [milestone](https://github.com/solid/specification/milestones). 
 
 ## Updates on Solid Projects
