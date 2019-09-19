@@ -31,7 +31,6 @@ Solid Events are run by members of the Solid community like you. If you are inte
 
 |Date|Event|Organiser|
 | ------------- | ------------- |------------- |
-|12-09-2019|[Solid Berlin](https://www.eventbrite.com/e/solid-meetup-berlin-tickets-70748445505)|[Christian Buggadei](https://github.com/JollyOrc)|
 |10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
 |11-10-2019|[Solid Copenhagen](https://www.meetup.com/Solid-Copenhagen-Meetup-Group/events/264871687/)|Sarmad Reda|
 
@@ -49,9 +48,12 @@ The Solid standard is currently referred to as [the specification](https://githu
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. Below are the links to where there were active conversations on each of the projects.
 
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2)
+Are you interested in leading the Node Solid Server Project? The current team are looking for support so if you are interested reach out info@solidproject.org. 
+
+There has been some speculation about changes and just to reassure you that there are no concrete changes on the horizon and if there are I'll be sure to keep you posted. 
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-
+No updates this week. 
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
