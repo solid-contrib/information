@@ -13,7 +13,16 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 ## Weekly Solid Call
 Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid.
 
-You can read the [minutes of this weeks call here](https://www.w3.org/2019/09/19-solid-minutes.html).
+You can read the minutes of the call here. 
+
+Moderator: Mitzi László
+Present: Vincent Turn, Michiel de John, Sharon, Sam, Zhang Chun Long @whitesnow0321
+Scribe: Mitzi László
+Minutes: 
+* Sam and Sharon introduced the apps they were working on which are both related to locational data. https://arcanemaps.com/ was one of the projects that were raised along with https://waag.org/nl/event/data-commons-1-fietsdata 
+* Spoke about the Solid app tutorials work that was being covered by the creators and shared a link of a draft version for Sharon and Sam to test. https://vincenttunru.gitlab.io/tripledoc/docs/writing-a-solid-app/writing-a-solid-app.html
+* Walked through an overview of the Solid specification work as stated in This Week in Solid 
+* Gave an update about Node Solid Server project as stated in This Week in Solid 
 
 Next weeks call will be on the 26th September at 1600CEST on [this line](https://zoom.us/j/121552099).
 
