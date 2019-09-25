@@ -42,7 +42,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ## Solid Development
-(editors to insert update)
+The scope of work that needs to happen on the Solid specification has been written down as issues which you can read [here](https://github.com/solid/specification/issues). If you feel something is missing from the scope of the Solid specification [submit an issue](https://github.com/solid/specification/issues). On Friday the [editors](https://github.com/solid/process/blob/master/editors.md) will define which issues to include in the [milestone](https://github.com/solid/specification/milestone/1) to be delivered on December 19th which will define the focus of work until then. 
 
 ## Updates on Solid Projects
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. Below are the links to where there were active conversations on each of the projects.
@@ -50,7 +50,6 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 ### [Node Solid Server Project](https://github.com/orgs/solid/projects/2)
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
