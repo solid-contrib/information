@@ -11,9 +11,7 @@ Want something mentioned? Contact the Solid Manager at info@solidproject.org or 
 This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
 
 ## Weekly Solid Call
-Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid.
-
-You can read the [minutes of this weeks call here]().
+Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. This week Jim, Alessandra, Dan, Michiel, Jackson, Justin, and Dmitri tuned in and we had a round of introductions. Then we talked through the activity in the panels this week which included: data interoperability, authorisation and access control, and authentication. The [issues on the specficiation respository](https://github.com/solid/specification/issues) define the scope of work that needs to be done, there was an invitation to read through these, comment and add any issues that you feel are missing. 
 
 Next weeks call will be on the 3rd October at 1000CEST on [this line](https://zoom.us/j/121552099).
 
