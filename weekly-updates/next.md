@@ -22,7 +22,17 @@ Next weeks call will be on the 3rd October at 1000CEST on [this line](https://zo
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-* 
+## Solid implementation
+The brand new version 0.9 of **Startin’blox** is out in beta this week !
+
+This version includes **Ld-flex**, the store that allows the app to get data on the server.
+
+This is the **second Solid library** that has been integrated into **Startin’blox** after **Solid-auth**.
+
+**Thousand thanks to Ruben and his teammates**, for their initiatives and contributions.
+
+https://git.happy-dev.fr/startinblox/framework/sib-core
+
 
 Upcoming: 
 
