@@ -44,6 +44,9 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 ## Solid Development
 The scope of work that needs to happen on the Solid specification has been written down as issues which you can read [here](https://github.com/solid/specification/issues). If you feel something is missing from the scope of the Solid specification [submit an issue](https://github.com/solid/specification/issues). On Friday the [editors](https://github.com/solid/process/blob/master/editors.md) will define which issues to include in the [milestone](https://github.com/solid/specification/milestone/1) to be delivered on December 19th which will define the focus of work until then.
 
+Panel work included: 
+* [Data Interoperability - use case](https://github.com/solid/data-interoperability-panel/blob/49bf3b2debfbe20af6fe97b9fc0dee4b9558300c/user-profile/use-cases.md) where feedback is very welcome
+
 ## Updates on Solid Projects
 [Solid projects](https://github.com/orgs/solid/projects) are activities happening on the Solid GitHub other than panels. Below are the links to where there were active conversations on each of the projects.
 
