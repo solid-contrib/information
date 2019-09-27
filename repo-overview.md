@@ -10,21 +10,13 @@ This document aims to provide an overview of them.
 | Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Kjetil Kjernsmo |
 | Specification Development | [data interoperability panel](https://github.com/solid/data-interoperability-panel), [app authorisation panel](https://github.com/solid/app-authorization-panel), [notifications panel](https://github.com/solid/notifications-panel), [authentication panel](https://github.com/solid/authentication-panel), [data portability](https://github.com/solid/data-portability), [auditing](https://github.com/solid/auditing), [asseccibility](https://github.com/solid/Accessibility), [artificial intelligence](https://github.com/solid/Artificial-Intelligence), [natural-language-processing-panel](https://github.com/solid/natural-language-processing-panel), Self Hosting Panel, [external-interop-panel](https://github.com/solid/external-interop-panel), [privacy-and-individuals-rights-protection-panel](https://github.com/solid/privacy-and-individuals-rights-protection-panel), [identity](https://github.com/solid/identity-panel), [internationalisation](https://github.com/solid/internationalisation)| [Solid Panels](https://github.com/solid/process/blob/master/panels.md) |
 | [Implementation of Solid Server](https://github.com/orgs/solid/projects/2) | [node-solid-server](https://github.com/solid/node-solid-server), [node-solid-ws](https://github.com/solid/node-solid-ws) | [Jackson Morgan](https://github.com/jaxoncreed), Michiel de Jong |
-| [Data Browser](https://github.com/orgs/solid/projects/4) | [solid-ui](https://github.com/solid/solid-ui), [mashlib](https://github.com/solid/mashlib), [solid-panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry) | Arne Hassel, Tim Berners-Lee, Vincent Tunru, Kevin Howard, Daphne |
+| [Data Browser](https://github.com/orgs/solid/projects/4) | [solid-ui](https://github.com/solid/solid-ui), [mashlib](https://github.com/solid/mashlib), [solid-panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry), [userguide](https://github.com/solid/userguide) | Arne Hassel, Tim Berners-Lee, Vincent Tunru, Kevin Howard, Daphne |
 | solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [Information](https://github.com/solid/information), [App Listing](https://github.com/solid/solid-apps),[Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list), [Explaining the Vision](https://github.com/solid/Explaining-the-Vision-Panel) | Creators |
 | Process | [Process](https://github.com/solid/process) | Solid Director, Solid Manager |
+| Example Applications (these are not actively maintained) | [profile-viewer-react](https://github.com/solid/profile-viewer-react), [solid-connections-ui](https://github.com/solid/solid-connections-ui), [solid-profile-ui](https://github.com/solid/solid-profile-ui), [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui), [solid-signup-ui](https://github.com/solid/solid-signup-ui), [solid-signin-ui](https://github.com/solid/solid-signin-ui), [solid-sign-up](https://github.com/solid/solid-sign-up), [solid zagel](https://github.com/solid/solid-zagel) | ? |
+| Lists of reference ontologies, shapes, etc | [context](https://github.com/solid/context), [vocab](https://github.com/solid/vocab), [solid-namespace](https://github.com/solid/solid-namespace)  | ? |
 
-## Software projects
-### Apps
-- [profile-viewer-react](https://github.com/solid/profile-viewer-react)
-- [solid-connections-ui](https://github.com/solid/solid-connections-ui)
-- [solid-profile-ui](https://github.com/solid/solid-profile-ui) 
-- [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui) 
-- [solid-signup-ui](https://github.com/solid/solid-signup-ui)
-- [solid-signin-ui](https://github.com/solid/solid-signin-ui)
-- [solid-sign-up](https://github.com/solid/solid-sign-up)
-- [solid zagel](https://github.com/solid/solid-zagel)
-
+## Specification Implementation Tools
 ### Authentication
 - [solid-auth-client](https://github.com/solid/solid-auth-client)
 - [solid-auth-oidc](https://github.com/solid/solid-auth-oidc)
@@ -54,7 +46,6 @@ This document aims to provide an overview of them.
 - [ldflex-playground](https://github.com/solid/ldflex-playground) 
 
 #### Varia
-- [solid-namespace](https://github.com/solid/solid-namespace) 
 - [solid-email](https://github.com/solid/solid-email)
 - [gitter-solid](https://github.com/solid/gitter-solid)
 - [ldp-glob](https://github.com/solid/ldp-glob)
@@ -87,7 +78,7 @@ This document aims to provide an overview of them.
 - [Roadmap](https://github.com/solid/Roadmap)
 
 # Unknown
-- [context](https://github.com/solid/context)
+- 
 - [solid](https://github.com/solid/solid)
 - [resource-access](https://github.com/solid/resource-access)
 - [web-access-control-spec](https://github.com/solid/web-access-control-spec)
@@ -95,9 +86,7 @@ This document aims to provide an overview of them.
 - [webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
 - [solid spec](https://github.com/solid/solid-spec)
 https://github.com/solid/talks
-https://github.com/solid/userguide
 https://github.com/solid/solid-architecture
-https://github.com/solid/vocab
 https://github.com/solid/solid-tpf
 https://github.com/solid/solid-tutorial-intro
 https://github.com/solid/solid-idps
