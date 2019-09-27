@@ -1,9 +1,9 @@
-# Repository overview of Solid on GitHub
+# Solid GitHub Repository Overview
 
 The [Solid GitHub organization](https://github.com/solid/) contains several repositories.
-This document aims to provide an overview of them.
+This document aims to provide an overview of them including the aim of each repository and who is actively maintaining it. 
 
-| Activity | Associated Repositories | Individuals Currently Active | 
+| Activity | Associated Repositories | Individuals Currently Active |
 | ------------- | ------------- | ------------- |
 | Administration | [owner on Solid members](https://github.com/orgs/solid/people) | Solid Director, Solid Manager, Administrators |
 | Specification Editing | [Specification](https://github.com/solid/specification) | Editors |
