@@ -30,7 +30,12 @@ To be included, items must:
 * **[Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle)**
 \- A JavaScript SPARQL API for Solid Pods
 \- by [Jeff Zucker](https://github.com/jeff-zucker/)
-
+* **[Comunica](https://github.com/comunica/comunica)**
+\- A highly modular and flexible meta query engine for the Web
+\- by [Ruben Taelman](https://www.rubensworks.net/)
+* **[GraphQL-LD for Solid](https://github.com/rubensworks/graphql-ld-comunica-solid.js)**
+\- A GraphQL-LD engine with Solid authentication 
+\- by [Ruben Taelman](https://www.rubensworks.net/)
 
 ## Libraries and Toolkits for React
 
@@ -40,6 +45,9 @@ To be included, items must:
 * **[React SDK for Solid](https://github.com/inrupt-inc/solid-react-sdk)**
 \- Libraries, components, documentation, best practices, and an application generator to accelerate development of high-quality Solid applications
 \- by [inrupt](https://www.inrupt.com)
+* **[GraphQL-LD Solid React Components](https://github.com/rubensworks/solid-react-graphql-ld.js)**
+\- A GraphQL-LD engine with Solid authentication 
+\- by [Ruben Taelman](https://www.rubensworks.net/)
 
 ## Libraries and Toolkits for the Panes UI
 
