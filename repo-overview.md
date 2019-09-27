@@ -13,37 +13,21 @@ This document aims to provide an overview of them.
 | [Data Browser](https://github.com/orgs/solid/projects/4) | [solid-ui](https://github.com/solid/solid-ui), [mashlib](https://github.com/solid/mashlib), [solid-panes](https://github.com/solid/solid-panes), [Chat Pane](https://github.com/solid/chat-pane), [Solid Pane Source](https://github.com/solid/solid-pane-source), [Source Pane](https://github.com/solid/source-pane), [Issue Pane](https://github.com/solid/issue-pane), [Contacts Pane](https://github.com/solid/contacts-pane), [Folder Pane](https://github.com/solid/folder-pane), [Meeting Pane](https://github.com/solid/meeting-pane), [Pane Registry](https://github.com/solid/pane-registry), [userguide](https://github.com/solid/userguide) | Arne Hassel, Tim Berners-Lee, Vincent Tunru, Kevin Howard, Daphne |
 | solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [Information](https://github.com/solid/information), [App Listing](https://github.com/solid/solid-apps),[Pod Listing](https://github.com/solid/pods), [Identity Provider Listing](https://github.com/solid/solid-idp-list), [Explaining the Vision](https://github.com/solid/Explaining-the-Vision-Panel) | Creators |
 | Process | [Process](https://github.com/solid/process) | Solid Director, Solid Manager |
-| Example Applications (these are not actively maintained) | [profile-viewer-react](https://github.com/solid/profile-viewer-react), [solid-connections-ui](https://github.com/solid/solid-connections-ui), [solid-profile-ui](https://github.com/solid/solid-profile-ui), [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui), [solid-signup-ui](https://github.com/solid/solid-signup-ui), [solid-signin-ui](https://github.com/solid/solid-signin-ui), [solid-sign-up](https://github.com/solid/solid-sign-up), [solid zagel](https://github.com/solid/solid-zagel) | ? |
-| Lists of reference ontologies, shapes, etc | [context](https://github.com/solid/context), [vocab](https://github.com/solid/vocab), [solid-namespace](https://github.com/solid/solid-namespace)  | ? |
 
-## Specification Implementation Tools
-### Authentication
-- [solid-auth-client](https://github.com/solid/solid-auth-client)
-- [solid-auth-oidc](https://github.com/solid/solid-auth-oidc)
-- [solid-auth-tls](https://github.com/solid/solid-auth-tls) 
-- [oidc-auth-manager](https://github.com/solid/oidc-auth-manager)
-- [solid-cli](https://github.com/solid/solid-cli)
-- [solid-client](https://github.com/solid/solid-client) 
-- [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client)
-- [oidc-web](https://github.com/solid/oidc-web)
-- [oidc-op](https://github.com/solid/oidc-op)
-- [oidc-rp](https://github.com/solid/oidc-rp)
-- [oidc-rs](https://github.com/solid/oidc-rs)
-- [keychain](https://github.com/solid/keychain)
-- [jose](https://github.com/solid/jose)
-- [wac-allow](https://github.com/solid/wac-allow)
+There are some repositories that are there for reference but do not have defined people maintaining the repositories at preesent. 
 
-### Authorization
-- [acl-check](https://github.com/solid/acl-check)
-- [solid-permissions](https://github.com/solid/solid-permissions)
+| Description | Associated Repositories | 
+| ------------- | ------------- | 
+| example applications | [profile-viewer-react](https://github.com/solid/profile-viewer-react), [solid-connections-ui](https://github.com/solid/solid-connections-ui), [solid-profile-ui](https://github.com/solid/solid-profile-ui), [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui), [solid-signup-ui](https://github.com/solid/solid-signup-ui), [solid-signin-ui](https://github.com/solid/solid-signin-ui), [solid-sign-up](https://github.com/solid/solid-sign-up), [solid zagel](https://github.com/solid/solid-zagel) | 
+| Lists of reference ontologies, shapes, etc | [context](https://github.com/solid/context), [vocab](https://github.com/solid/vocab), [solid-namespace](https://github.com/solid/solid-namespace)  | 
+| where spec developmnet work used to happen | [webid-oidc-spec](https://github.com/solid/webid-oidc-spec), [solid spec](https://github.com/solid/solid-spec), [web-access-control-spec](https://github.com/solid/web-access-control-spec) |
+| authentication tools | [solid-auth-client](https://github.com/solid/solid-auth-client), [solid-auth-oidc](https://github.com/solid/solid-auth-oidc), [solid-auth-tls](https://github.com/solid/solid-auth-tls), [oidc-auth-manager](https://github.com/solid/oidc-auth-manager), [solid-cli](https://github.com/solid/solid-cli), [solid-client](https://github.com/solid/solid-client), [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client), [oidc-web](https://github.com/solid/oidc-web), [oidc-op](https://github.com/solid/oidc-op), [oidc-rp](https://github.com/solid/oidc-rp)[oidc-rs](https://github.com/solid/oidc-rs), [keychain](https://github.com/solid/keychain), [jose](https://github.com/solid/jose), [wac-allow](https://github.com/solid/wac-allow) | 
+| authorisation tools | [acl-check](https://github.com/solid/acl-check), [solid-permissions](https://github.com/solid/solid-permissions) | 
+| client-side libraries | [react-components](https://github.com/solid/react-components), [form-playground](https://github.com/solid/form-playground)  | 
+| querying tools | [query-ldflex](https://github.com/solid/query-ldflex), [ldflex-playground](https://github.com/solid/ldflex-playground)| 
 
-### Client-side libraries
-- [react-components](https://github.com/solid/react-components)
-- [form-playground](https://github.com/solid/form-playground) 
 
-### Querying
-- [query-ldflex](https://github.com/solid/query-ldflex)
-- [ldflex-playground](https://github.com/solid/ldflex-playground) 
+
 
 #### Varia
 - [solid-email](https://github.com/solid/solid-email)
@@ -81,10 +65,9 @@ This document aims to provide an overview of them.
 - 
 - [solid](https://github.com/solid/solid)
 - [resource-access](https://github.com/solid/resource-access)
-- [web-access-control-spec](https://github.com/solid/web-access-control-spec)
+- 
 - [user-stories](https://github.com/solid/user-stories)
-- [webid-oidc-spec](https://github.com/solid/webid-oidc-spec)
-- [solid spec](https://github.com/solid/solid-spec)
+- 
 https://github.com/solid/talks
 https://github.com/solid/solid-architecture
 https://github.com/solid/solid-tpf
@@ -96,3 +79,5 @@ https://github.com/solid/solid-tutorial-pastebin
 https://github.com/solid/intro-to-solid-slides
 https://github.com/solid/solid-signup
 https://github.com/solid/understanding-linked-data
+
+
