@@ -26,7 +26,7 @@ There are some repositories that are there for reference but do not have defined
 | client-side libraries | [react-components](https://github.com/solid/react-components), [form-playground](https://github.com/solid/form-playground)  | 
 | querying tools | [query-ldflex](https://github.com/solid/query-ldflex), [ldflex-playground](https://github.com/solid/ldflex-playground), [solid-tpf](https://github.com/solid/solid-tpf)| 
 | used to be linked to websites | [solid.mit.edu](https://github.com/solid/solid.mit.edu), [websci-2019](https://github.com/solid/websci-2019) | 
-| [solid-architecture](https://github.com/solid/solid-architecture) | a description of one way to implement the specification | 
+| a description of one way to implement the specification | [solid-architecture](https://github.com/solid/solid-architecture) | 
 | a record of issues with the Solid specification | [solid](https://github.com/solid/solid) | 
 | a way to take data from gitter chat and move it into Solid | [gitter-solid](https://github.com/solid/gitter-solid) | 
 | a description of what users should be able to do with Solid | [user-stories](https://github.com/solid/user-stories) | 
