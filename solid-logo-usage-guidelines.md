@@ -1,9 +1,3 @@
----
-layout: default
-title: Solid Logo Usage Guidelines
-permalink: about/solid-logo-usage-guidelines
----
-
 [![](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
 
 # Introduction
