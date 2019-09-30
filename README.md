@@ -54,5 +54,3 @@ Get an [overview](https://github.com/solid/information/blob/master/license.md) o
 
 ## Solid Logo and Terms 
 You can read a complete set of standardised definitions in the [Solid dictionary](https://github.com/solid/information/blob/master/documentation/solid-dictionary.md) and the [Solid Logo usage guidelines](https://github.com/solid/information/blob/master/solid-logo-usage-guidelines.md). 
-
-## [FAQs](https://github.com/solid/information/blob/master/frequently-unanswered-questions.md)
