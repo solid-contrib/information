@@ -22,6 +22,7 @@ There are various Solid-related libraries being led by [Ruben Verborgh](https://
 | authorisation tools | [acl-check](https://github.com/solid/acl-check), [solid-permissions](https://github.com/solid/solid-permissions) | 
 | client-side libraries | [react-components](https://github.com/solid/react-components), [form-playground](https://github.com/solid/form-playground)  | 
 | querying tools | [query-ldflex](https://github.com/solid/query-ldflex), [ldflex-playground](https://github.com/solid/ldflex-playground), [solid-tpf](https://github.com/solid/solid-tpf)| 
+| a description of one way to implement the specification | [solid-architecture](https://github.com/solid/solid-architecture) | 
 
 There are various implementations of the Solid specification. 
 
@@ -37,7 +38,6 @@ There are some repositories that are there for reference but do not have defined
 | ------------- | ------------- | 
 | where spec developmnet work used to happen | [webid-oidc-spec](https://github.com/solid/webid-oidc-spec), [solid spec](https://github.com/solid/solid-spec), [web-access-control-spec](https://github.com/solid/web-access-control-spec) |
 | used to be linked to websites | [solid.mit.edu](https://github.com/solid/solid.mit.edu), [websci-2019](https://github.com/solid/websci-2019) | 
-| a description of one way to implement the specification | [solid-architecture](https://github.com/solid/solid-architecture) | 
 | a record of issues with the Solid specification | [solid](https://github.com/solid/solid) | 
 | a way to take data from gitter chat and move it into Solid | [gitter-solid](https://github.com/solid/gitter-solid) | 
 | a description of what users should be able to do with Solid | [user-stories](https://github.com/solid/user-stories) | 
