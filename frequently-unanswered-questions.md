@@ -232,3 +232,6 @@ An identity provider delivers your webid as a form of authentication. The identi
 Yes, the Solid long term vision includes local first and a flexibility of different topologies of patch-passing sync networks. However, there are no implementations yet. 
 
 ## What is a Pod? 
+
+## I just signed up but have two profile locations, please could you advice the difference between the two? 
+Solid allows you to use services from a variety of identity providers, Pod providers, and apps and take the data along with you when you switch. You can find out the differences between each of the service providers by looking at their respective websites and terms and conditions.
