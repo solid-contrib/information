@@ -26,6 +26,22 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | web-access-control-spec](https://github.com/solid/web-access-control-spec/blob/master/LICENSE.md)| 2016 - present||-------------|
 | [chat pane](https://github.com/solid/chat-pane/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
 | [react-components](https://github.com/solid/react-components/blob/master/LICENSE.md)| 2018 - present| Ruben Verborgh| 
+| [query-ldflex](https://github.com/solid/query-ldflex/blob/master/LICENSE.md)|  2018 - present| Ruben Verborgh| 
+| [context](https://github.com/solid/context/blob/master/LICENSE.md)  | 2018 - present| Ruben Verborgh| 
+| [notifications](https://github.com/solid/notifications-panel/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [form playground](https://github.com/solid/form-playground/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [meeting pane](https://github.com/solid/meeting-pane/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [folder-pane](https://github.com/solid/folder-pane/blob/master/LICENSE.md)  | 2018 - present  | -------------|
+| [solid](https://github.com/solid/solid/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
+| [resource access](https://github.com/solid/resource-access/blob/master/LICENSE.md/LICENSE.md)  | 2019 - present  | ------------- |
+| [cryptography-and-security](https://github.com/solid/cryptography-and-security/blob/master/LICENSE.md)| 2019 - present  | ------------- |
+| [auditing](https://github.com/solid/auditing/blob/master/LICENSE.md/LICENSE.md)  | 2019 - present  | ------------- |
+| [accessibility](https://github.com/solid/Accessibility/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [roadmap](https://github.com/solid/roadmap/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [artificial-intelligence](https://github.com/solid/Artificial-Intelligence/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+
+
+
 
 
 
@@ -35,7 +51,6 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | chat-pane  | MIT license | 2018 - present  | Tim Berners-Lee |
 | community  | MIT license | 2018  - present  | Justin Bingham, Kjetil Kjernsmo, Tim Berners-Lee, Mitzi László |
 | dweb-summit-2018  | [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) | 2018  - present  | Ruben Verborgh |
-| folder-pane  | MIT license | 2018 - present  | Tim Berners-Lee |
 | intro-to-solid  | MIT license | 2016 - present  | Dmitri Zagidulin |
 | issue-pane | MIT license| 2018 - present| Tim Berners-Lee | 
 | jose| MIT license| 2016 - present| Anvil Research, Inc. | 
@@ -54,7 +69,7 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | profile-viewer-
 | MIT license| | Ruben Verborgh| 
 | profile-viewer-tutorial| MIT license| | Ruben Verborgh| 
-| query-ldflex| MIT license| 2018 - present| Ruben Verborgh| 
+
 | releases| MIT license| 2016 - present| | 
 | solid| MIT license | | Dmitri Zagiduli, Sarven Capadisli, Nicola Greco 
 solid-apps| Melvin Carvalho,  Andrei Sambra, Nicola Greco, Noam Bachmann, Dmitri Zagiduli, Amy Guy, Sarven Capadisli
