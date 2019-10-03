@@ -1,4 +1,4 @@
-# 3rd October 2019
+# 10th October 2019
 
 Hello and welcome to another edition of *This Week in Solid*!
 
@@ -11,7 +11,7 @@ Want something mentioned? Contact the Solid Manager at info@solidproject.org or 
 This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
 
 ## Weekly Solid Call
-Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. This week was a general conversation about open source Solid servers. Next weeks call will be cancelled so the next call will be on the 17th October at 1000CEST on [this line](https://zoom.us/j/121552099).
+Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. This week (insert note on minutes). Next weeks call will be cancelled so the next call will be on the 17th October at 1000CEST on [this line](https://zoom.us/j/121552099).
 
 ## Press
 
@@ -36,7 +36,7 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ## Solid Development
-The editors have chissled down the [scope of the next milestone](https://github.com/solid/specification/milestone/1) sprint to be delivered on December 19th. Looking forward to seeing all the proposals from the panels come forward on these issues! 
+(insert updates)
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
