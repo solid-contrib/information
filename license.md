@@ -23,7 +23,7 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | [mashlib](https://github.com/solid/mashlib/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
 | [solid-auth-client](https://github.com/solid/solid-auth-client/blob/master/LICENSE.md)| 2017 - present| -------------| 
 | [contacts-pane](https://github.com/solid/contacts-pane/blob/master/LICENSE.md)  | 2018  - present  |-------------|
-| web-access-control-spec](https://github.com/solid/web-access-control-spec/blob/master/LICENSE.md)| 2016 - present||-------------|
+| [web-access-control-spec](https://github.com/solid/web-access-control-spec/blob/master/LICENSE.md)| 2016 - present||-------------|
 | [chat pane](https://github.com/solid/chat-pane/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
 | [react-components](https://github.com/solid/react-components/blob/master/LICENSE.md)| 2018 - present| Ruben Verborgh| 
 | [query-ldflex](https://github.com/solid/query-ldflex/blob/master/LICENSE.md)|  2018 - present| Ruben Verborgh| 
@@ -83,9 +83,28 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
 | [solid-auth-oidc](https://github.com/solid/solid-auth-oidc/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
 | [oidc-rd](https://github.com/solid/oidc-rs/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.](http://anvil.io) |
-| -------------  | -------------  | ------------- |
-| -------------  | -------------  | ------------- |
-| -------------  | -------------  | ------------- |
-| -------------  | -------------  | ------------- |
-| -------------  | -------------  | ------------- |
-| -------------  | -------------  | ------------- |
+| [keychain](https://github.com/solid/keychain/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.](http://anvil.io) |
+| [jose](https://github.com/solid/jose/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.]
+| [solid-idps](https://github.com/solid/solid-idps/blob/gh-pages/LICENSE.md) | 2015 - present  | ------------- |
+| [solid platform](https://github.com/solid/solid-platform/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [oidc-web](https://github.com/solid/oidc-web/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
+| [solid email](https://github.com/solid/solid-email/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
+| [releases](https://github.com/solid/releases/blob/gh-pages/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid tutorial pastebin](https://github.com/solid/solid-tutorial-pastebin/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [mavo solid](https://github.com/solid/mavo-solid/blob/master/LICENSE.md)  | 2017 - present  |  [Solid MIT](https://solid.mit.edu/) |
+| [wac allow](https://github.com/solid/wac-allow/blob/master/LICENSE.md)  | 2017 - present  | Ruben Verborgh |
+| [intro-to-solid-slides](https://github.com/solid/intro-to-solid-slides/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-connections-ui](https://github.com/solid/solid-connections-ui/blob/gh-pages/LICENSE.md)  | 2016 - present  | ------------- |
+| [kvplus-files](https://github.com/solid/kvplus-files/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-web-client](https://github.com/solid/solid-web-client/blob/master/LICENSE.md)  | 2015 - present  | ------------- |
+| [solid signup](https://github.com/solid/solid-signup/blob/gh-pages/LICENSE.md)  | 2015 - present  | ------------- |
+| [solid-auth-tls](https://github.com/solid/solid-auth-tls/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-notifications](https://github.com/solid/solid-notifications/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-profile-ui](https://github.com/solid/solid-profile-ui/blob/master/LICENSE.md)  | 2016 - present | ------------- |
+| [solid-dashboard-ui](https://github.com/solid/solid-dashboard-ui/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-signup-ui](https://github.com/solid/solid-signup-ui/blob/gh-pages/LICENSE.md)  | 2019 - present  | ------------- |
+| [solid-signin-ui](https://github.com/solid/solid-signin-ui/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [understanding-linked-data](https://github.com/solid/understanding-linked-data/blob/gh-pages/LICENSE.md)  | 2016 - present  | Dmitri Zagidulin |
+| [solid-sign-up](https://github.com/solid/solid-sign-up/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [solid-zagel](https://github.com/solid/solid-zagel/blob/dev/LICENSE.md)  | 2019 - present  | ------------- |
+| [solid-tutorial-angular](https://github.com/solid/solid-tutorial-angular/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
