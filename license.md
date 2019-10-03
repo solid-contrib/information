@@ -10,7 +10,7 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | [test-suite](https://github.com/solid/test-suite/blob/master/LICENSE.md)  | 2019-present  | ------------- |
 | [process](https://github.com/solid/process/blob/master/LICENSE.md)  | 2019-present  | ------------- |
 | [specification](https://github.com/solid/specification/blob/master/LICENSE.md)  | 2019-present  | ------------- |
-| node-solid-server| MIT license| 2014 - present| Nicola Greco, Ruben Verborgh, Dmitri Zagidulin, Andrei Sambra, Kjetil Kjernsmo, Arne Hassel| 
+| node-solid-server| 2014 - present| Nicola Greco, Ruben Verborgh, Dmitri Zagidulin, Andrei Sambra, Kjetil Kjernsmo, Arne Hassel| 
 | [Authorisation and Access Control](https://github.com/solid/authorization-and-access-control-panel/blob/master/LICENSE.md)  | 2019-panel  | ------------- |
 | [Data Interoperability](https://github.com/solid/data-interoperability-panel/blob/master/LICENSE.md)  | present-2019  | ------------- |
 | [information](https://github.com/solid/information/blob/master/LICENSE.md)  | 2018-present  | ------------- |
@@ -68,9 +68,25 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | [talks](https://github.com/solid/talks/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
 | [userguide](https://github.com/solid/userguide/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
 | [profile-viewer-react](https://github.com/solid/profile-viewer-react/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [ldp-glob](https://github.com/solid/ldp-glob/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [oidc-op](https://github.com/solid/oidc-op/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.](http://anvil.io) |
+| [solid.mit.edu](https://github.com/solid/solid.mit.edu/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid architechture](https://github.com/solid/solid-architecture/blob/master/LICENSE.md)  | 2019 - present | ------------- |
+| [vocab](https://github.com/solid/vocab/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
+| [solid-tpf](https://github.com/solid/solid-tpf/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
+| [oidc-rp](https://github.com/solid/oidc-rp/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.](http://anvil.io) |
+| [solid-pane-source](https://github.com/solid/solid-pane-source/blob/master/LICENSE.md)  | 2014 - present  | ------------- |
+| [solid tuturial intro](https://github.com/solid/solid-tutorial-intro/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-takeout-import](https://github.com/solid/solid-takeout-import/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
+| [solid-client](https://github.com/solid/solid-client/blob/master/LICENSE.md)  | 2015 - present  | ------------- |
+| [solid-inbox](https://github.com/solid/solid-inbox/blob/gh-pages/LICENSE.md)  | 2015 - present   | ------------- |
+| [dweb-summit-2018](https://github.com/solid/dweb-summit-2018/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
+| [solid-multi-rp-client](https://github.com/solid/solid-multi-rp-client/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [solid-auth-oidc](https://github.com/solid/solid-auth-oidc/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
+| [oidc-rd](https://github.com/solid/oidc-rs/blob/master/LICENSE.md)  | 2016 - present  | [Anvil Research, Inc.](http://anvil.io) |
 | -------------  | -------------  | ------------- |
 | -------------  | -------------  | ------------- |
 | -------------  | -------------  | ------------- |
 | -------------  | -------------  | ------------- |
 | -------------  | -------------  | ------------- |
-
+| -------------  | -------------  | ------------- |
