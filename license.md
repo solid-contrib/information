@@ -49,7 +49,6 @@ The Solid Logo is under the CC-BY 4.0 license and was designed by Guillaume Baud
 | [user stories](https://github.com/solid/user-stories/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
 | [explaining the vision](https://github.com/solid/Explaining-the-Vision-Panel/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
 | [webid-oidc-spec](https://github.com/solid/webid-oidc-spec/blob/master/LICENSE.md) | 2017 - present|-------------| 
-
 | [identity panel](https://github.com/solid/identity-panel/blob/master/LICENSE.md)  | 2019 - present  | ------------- |
 | [internationalisation](https://github.com/solid/internationalisation/blob/master/LICENSE.md/LICENSE.md)  | 2019 - present  | ------------- |
 | [source pane](https://github.com/solid/source-pane/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
