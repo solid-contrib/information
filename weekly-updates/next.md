@@ -39,7 +39,7 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 
 ### [Data Browser Project](https://github.com/orgs/solid/projects/4)
 
-A new version of the Data Browser was deployed to https://inrupt.net. It's been available for testing on https://dev.inrupt.net for the while, and is now generally available. This release is another step in the direction of making the Data Browser more approachable to new users: it adds the ability to mark yourself as a Power User or Developer. This will allow us to hide some more advanced functionality for new users, while keeping it available to those to whom it might be relevant. The new option can be found under the new "Preferences" item in your user menu.
+A new version of the Data Browser was deployed to https://inrupt.net. It's been available for testing on https://dev.inrupt.net for a while, and is now generally available. This release is another step toward making the Data Browser more approachable to new users: it adds the ability to mark yourself as a Power User or Developer. This will allow us to hide some more-advanced functionality from new users, while keeping it available to those to whom it might be relevant. The new option can be found under the new "Preferences" item in your user menu.
 
 ## Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
