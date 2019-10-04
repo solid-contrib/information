@@ -1,5 +1,6 @@
 ## Specification Development
-* [specifcation](https://gitter.im/solid/specification?source=orgpage)
+Could include more channels for other the panels
+* [specifcation](https://gitter.im/solid/specification?source=orgpage) includes all panellists and editors
 * [security-cryptography-and-privacy](https://gitter.im/solid/cryptography-security-and-privacy#)
 * [app-authoriisation-panel](https://gitter.im/solid/app-authorization-panel?source=orgpage)
 * [authentication panel](https://gitter.im/solid/authentication-panel?source=orgpage)
