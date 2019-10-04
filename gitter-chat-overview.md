@@ -1,3 +1,5 @@
+# Solid Development
+
 ## Specification Development
 Could include more channels for other the panels
 * [specifcation](https://gitter.im/solid/specification?source=orgpage) includes all panellists and editors
@@ -12,7 +14,7 @@ Could include more channels for other the panels
 ## Solidproject.org
 * [solidproject.org](https://gitter.im/solid/solidproject.org?source=orgpage)
 
-## Implementation
+# Implementation
 Doubled up on https://forum.solidproject.org/categories
 * [pods](https://gitter.im/solid/pods?source=orgpage)
 * [app development](https://gitter.im/solid/app-development?source=orgpage)
@@ -24,7 +26,8 @@ Doubled up on https://forum.solidproject.org/categories
 Doubled up on https://forum.solidproject.org/categories
 * [solid-events](https://gitter.im/solid/solid-events?source=orgpage)
 
-## Unknown Purpose
+# Unknown Purpose
+The following chat channels don't have a clearly stated focus at the moment or have focuses that overlap with other gitter channels. If you use the chat channel regularly and know the focus submit a pull request to let others know.
 * [Solid Chat](https://gitter.im/solid/chat?source=orgpage) 
 * [solid-spec](https://gitter.im/solid/solid-spec?source=orgpage)
 * [site-and-docs](https://gitter.im/solid/site-and-docs?source=orgpage)
