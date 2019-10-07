@@ -17,7 +17,7 @@ Next weeks call will be on the 3rd October at 1000CEST on [this line](https://zo
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 * 26-09-2019 Ruben Verborgh in [Pakhuis de Zwijger](https://waag.org/nl/event/data-commons-1-fietsdata), Amsterdam

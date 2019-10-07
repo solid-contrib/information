@@ -41,9 +41,6 @@ You can also get an [identity provider](https://github.com/solid/solid-idp-list)
 
 Contact the Solid Manager on info@solidproject.org
 
-## Press
-You can find past and upcoming articles and talks about Solid [here](https://github.com/solid/information/blob/master/press.md). 
-
 ## Solid Events 
 [Solid Events](https://github.com/solid/information/blob/master/solid-events.md) provide an opportunity for anyone to meet and talk about Solid in person. Find out more about [organising a Solid Event](https://github.com/solid/information/blob/master/solid-events.md). 
 

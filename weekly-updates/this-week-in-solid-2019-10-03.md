@@ -15,7 +15,7 @@ Every Thursday there is an hour long public call where newcomers can introduce t
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 * 10-10-2019 Mitzi László in [Data Ethics Forum](https://dataethics.eu/conference19/), Copenhagen
