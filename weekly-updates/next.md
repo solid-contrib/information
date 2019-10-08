@@ -15,7 +15,7 @@ Every Thursday there is an hour long public call where newcomers can introduce t
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 * [Who says using RDF is hard? by Ruben Taelman](https://www.rubensworks.net/blog/2019/10/06/using-rdf-in-javascript/)

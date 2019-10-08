@@ -14,7 +14,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 * none this week 
