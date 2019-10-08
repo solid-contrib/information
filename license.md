@@ -63,7 +63,7 @@ All content in the [Solid GitHub account](https://github.com/solid) is licensed 
 | [solid email](https://github.com/solid/solid-email/blob/master/LICENSE.md)  | 2018 - present  | ------------- |
 | [solid-auth-client](https://github.com/solid/solid-auth-client/blob/master/LICENSE.md)| 2017 - present| -------------| 
 | [solid](https://github.com/solid/solid/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
-| [webid-oidc-spec](https://github.com/solid/webid-oidc-spec/blob/master/LICENSE.md) | 2017 - present|-------------| 
+| [webid-oidc-spec](https://github.com/solid/webid-oidc-spec/blob/master/LICENSE) | 2017 - present|-------------| 
 | [oidc-auth-manager](https://github.com/solid/oidc-auth-manager/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
 | [solid-tpf](https://github.com/solid/solid-tpf/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
 | [oidc-web](https://github.com/solid/oidc-web/blob/master/LICENSE.md)  | 2017 - present  | ------------- |
@@ -71,7 +71,7 @@ All content in the [Solid GitHub account](https://github.com/solid) is licensed 
 | [wac allow](https://github.com/solid/wac-allow/blob/master/LICENSE.md)  | 2017 - present  | Ruben Verborgh |
 | [solid panes](https://github.com/solid/solid-panes/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
 | [mashlib](https://github.com/solid/mashlib/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
-| [web-access-control-spec](https://github.com/solid/web-access-control-spec/blob/master/LICENSE.md)| 2016 - present||-------------|
+| [web-access-control-spec](https://github.com/solid/web-access-control-spec/blob/master/LICENSE)| 2016 - present||-------------|
 | [solid-namespace](https://github.com/solid/solid-namespace/blob/master/LICENSE.md) | 2016 - present| -------------|
 | [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
 | [acl-check](https://github.com/solid/acl-check/blob/master/LICENSE.md)  | 2016 - present  | ------------- |
