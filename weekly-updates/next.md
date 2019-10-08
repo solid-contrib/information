@@ -18,6 +18,7 @@ Every Thursday there is an hour long public call where newcomers can introduce t
 ### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
+* [Who says using RDF is hard? by Ruben Taelman](https://www.rubensworks.net/blog/2019/10/06/using-rdf-in-javascript/)
 * 10-10-2019 Mitzi László in [Data Ethics Forum](https://dataethics.eu/conference19/), Copenhagen
 * 24-09-2019 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
 
