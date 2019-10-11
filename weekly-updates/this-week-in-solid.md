@@ -11,7 +11,7 @@ You can always check here for the most current issue as well as find a record of
 
 # Next Up
 
-We're currently working on next week's edition. You can contribute by [making a Pull Request](./next.md)!
+We're currently working on next week's edition. You can contribute by [making a Pull Request](https://github.com/solid/information/edit/master/weekly-updates/next.md)!
 
 # Past Issues
 
