@@ -7,7 +7,7 @@ You can always check here for the most current issue as well as find a record of
 
 # Current Issue
 
-* [3rd October 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-10-03.md)
+* [10th October 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-10-10.md)
 
 # Next Up
 
@@ -15,6 +15,7 @@ We're currently working on next week's edition. You can contribute by [making a 
 
 # Past Issues
 
+* [3rd October 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-10-03.md)
 * [26th September 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-09-26.md)
 * [19th September 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-09-19.md)
 * [12th September 2019](https://github.com/solid/information/blob/master/weekly-updates/this-week-in-solid-2019-09-12.md)
