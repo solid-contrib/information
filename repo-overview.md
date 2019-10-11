@@ -12,7 +12,7 @@ This document aims to provide an overview of them including the aim of each repo
 | Test Suite Development | [Test Suite](https://github.com/solid/test-suite) | Kjetil Kjernsmo |
 | solidproject.org | [solidproject.org](https://github.com/solid/solidproject.org), [solid github io](https://github.com/solid/solid.github.io) | Creators |
 
-
+## Solid Libraries
 There are various Solid-related libraries being led by [Ruben Verborgh](https://github.com/RubenVerborgh). 
 
 | Description | Associated Repositories | 
