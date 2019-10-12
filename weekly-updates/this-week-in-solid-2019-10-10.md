@@ -25,7 +25,7 @@ The next Weekly Solid call will be on the 17th October at 1000CEST on [this line
 This week there was a talk on Solid at the [Data Ethics Forum](https://dataethics.eu/conference19/) in Copenhagen. 
 
 Upcoming talks on Solid include: 
-* 24-09-2019 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
+* 24-10-2019 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
 
 ### Upcoming Solid Events
 Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md).
