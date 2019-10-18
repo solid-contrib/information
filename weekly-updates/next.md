@@ -44,6 +44,10 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 
 A new version of the Data Browser was deployed to https://inrupt.net. It's been available for testing on https://dev.inrupt.net for a while, and is now generally available. This release is another step toward making the Data Browser more approachable to new users: it adds the ability to mark yourself as a Power User or Developer. This will allow us to hide some more-advanced functionality from new users, while keeping it available to those to whom it might be relevant. The new option can be found under the new "Preferences" item in your user menu.
 
+#### Test Suite
+
+A new module to translate from the [Test Anything Protocol (TAP)](http://testanything.org/) to the [Evaluation and Report Language (EARL)](https://www.w3.org/TR/EARL10-Guide/) saw its first pre-release namely [TAP::Formatter::EARL](https://metacpan.org/release/TAP-Formatter-EARL). Since Solid tests will be formulated with RDF, and EARL is also RDF, there is great potential in making it all Linked Data. The current release isn't there yet, but it should export the most important data to allow us to create consistent interface for data coming from different test frameworks.
+
 ### Tasks
 If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
 
