@@ -20,9 +20,9 @@ Every Thursday there is an hour long public call where newcomers can introduce t
 ### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-* [Who says using RDF is hard? by Ruben Taelman](https://www.rubensworks.net/blog/2019/10/06/using-rdf-in-javascript/)
-* 10-10-2019 Mitzi László in [Data Ethics Forum](https://dataethics.eu/conference19/), Copenhagen
-* 24-09-2019 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
+
+* 2019-10-24 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
+* 2019-10-26 [Solid London](https://www.eventbrite.com/e/solid-intro-workshop-this-is-for-everyone-join-the-movement-tickets-77597174237?aff=ebdssbdestsearch) organised by [Kartika Tulusan](https://github.com/ktulusan)
 
 ### Upcoming Solid Events
 Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md).
