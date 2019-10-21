@@ -14,7 +14,7 @@ This Week in Solid is openly developed [on GitHub](./next.md). If you find any e
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
 20190811 - [Lecture: Die Rückeroberung des Social Web](https://programm.froscon.de/2019/events/2375.html) by [Angelo Veltens](https://github.com/angelo-v) - [video](https://media.ccc.de/v/froscon2019-2375-die_ruckeroberung_des_social_web) and [slides](https://angelo.veltens.org/slides/2019/solid-einfuehrung/)

@@ -19,7 +19,7 @@ Next weeks call will be on the 5th September at 1000CEST on [this line](https://
 
 ## Press
 
-### [Talks & Articles](https://github.com/solid/information/blob/master/press.md)
+### Talks & Articles
 Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week. This week there were no talks or articles on Solid. 
 
 ### Upcoming Events
