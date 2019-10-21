@@ -1,12 +1,12 @@
 All content in the [Solid GitHub account](https://github.com/solid) is licensed under the MIT license
 
-| Repository | Years |  Licensors | 
-| -------------  | -------------  | ------------- |
-| [solid.github.io](https://github.com/solid/solid.github.io/blob/master/LICENSE.md)  | 2019 |  ------------- |
-| [test-suite](https://github.com/solid/test-suite/blob/master/LICENSE.md)  | 2019  | ------------- |
-| [process](https://github.com/solid/process/blob/master/LICENSE.md)  | 2019  | ------------- |
-| [specification](https://github.com/solid/specification/blob/master/LICENSE.md)  | 2019  | ------------- |
-| [Authorisation and Access Control](https://github.com/solid/authorization-and-access-control-panel/blob/master/LICENSE.md)  | 2019-panel  | ------------- |
+| Repository | Years | Licensors | 
+| ------------- | ------------- | ------------- |
+| [solid.github.io](https://github.com/solid/solid.github.io/blob/master/LICENSE.md) | 2019 | ------------- |
+| [test-suite](https://github.com/solid/test-suite/blob/master/LICENSE.md) | 2019 | ------------- |
+| [process](https://github.com/solid/process/blob/master/LICENSE.md) | 2019 | ------------- |
+| [specification](https://github.com/solid/specification/blob/master/LICENSE.md) | 2019 | ------------- |
+| [Authorisation and Access Control](https://github.com/solid/authorization-and-access-control-panel/blob/master/LICENSE.md) | 2019 | ------------- |
 | [Data Interoperability](https://github.com/solid/data-interoperability-panel/blob/master/LICENSE.md) | 2019 | ------------- |
 | [authentication](https://github.com/solid/authentication-panel/blob/master/LICENSE.md) | 2019 | ------------- |
 | [arduino solid server](https://github.com/solid/authentication-panel/blob/master/LICENSE.md) | 2019 | ------------- |
@@ -52,7 +52,7 @@ All content in the [Solid GitHub account](https://github.com/solid) is licensed 
 | [contacts-pane](https://github.com/solid/contacts-pane/blob/master/LICENSE.md) | 2018–2019 |-------------|
 | [chat pane](https://github.com/solid/chat-pane/blob/master/LICENSE.md) | 2018–2019 | ------------- |
 | [react-components](https://github.com/solid/react-components/blob/master/LICENSE.md)| 2018–2019 | Ruben Verborgh| 
-| [query-ldflex](https://github.com/solid/query-ldflex/blob/master/LICENSE.md)|  2018–2019 | Ruben Verborgh| 
+| [query-ldflex](https://github.com/solid/query-ldflex/blob/master/LICENSE.md)| 2018–2019 | Ruben Verborgh| 
 | [context](https://github.com/solid/context/blob/master/LICENSE.md) | 2018–2019 | Ruben Verborgh| 
 | [ldflex-playground](https://github.com/solid/ldflex-playground/blob/master/LICENSE.md) | 2018–2019 | Ruben Verborgh| 
 | [solid-cli](https://github.com/solid/solid-cli/blob/master/LICENSE.md) | 2018–2019 | Ruben Verborgh |
@@ -67,7 +67,7 @@ All content in the [Solid GitHub account](https://github.com/solid) is licensed 
 | [oidc-auth-manager](https://github.com/solid/oidc-auth-manager/blob/master/LICENSE.md) | 2017–2019 | ------------- |
 | [solid-tpf](https://github.com/solid/solid-tpf/blob/master/LICENSE.md) | 2017–2019 | ------------- |
 | [oidc-web](https://github.com/solid/oidc-web/blob/master/LICENSE.md) | 2017–2019 | ------------- |
-| [mavo solid](https://github.com/solid/mavo-solid/blob/master/LICENSE.md) | 2017–2019 |  [Solid MIT](https://solid.mit.edu/) |
+| [mavo solid](https://github.com/solid/mavo-solid/blob/master/LICENSE.md) | 2017–2019 | [Solid MIT](https://solid.mit.edu/) |
 | [wac allow](https://github.com/solid/wac-allow/blob/master/LICENSE.md) | 2017–2019 | Ruben Verborgh |
 | [solid panes](https://github.com/solid/solid-panes/blob/master/LICENSE.md) | 2016–2019 | ------------- |
 | [mashlib](https://github.com/solid/mashlib/blob/master/LICENSE.md) | 2016–2019 | ------------- |
