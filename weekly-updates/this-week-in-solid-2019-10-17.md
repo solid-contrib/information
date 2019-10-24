@@ -14,8 +14,9 @@ Want to get involved? [Contributions are welcome.](https://github.com/solid/proc
 
 Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. 
 
-The next Solid Weekly will be at 1600 CEST on the 24th October on [this line](https://whereby.com/solid-project) where [Michiel de Jong](https://github.com/michielbdejong) will be giving a special introduction to Solid app development. 
-Press
+The next Solid Weekly will be at 1600 CEST on the 24th October on [this line](https://whereby.com/solid-project) where [Michiel de Jong](https://github.com/michielbdejong) will be giving a special introduction to Solid app development.
+
+## Press
 
 This week you read about and come and see talks on Solid here: 
 
