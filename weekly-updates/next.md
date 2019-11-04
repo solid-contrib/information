@@ -38,6 +38,8 @@ Solid Events are run by members of the Solid community like you. Solid Event org
 
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
+* App
+
 ### Solid Development
 
 #### [Data Browser Project](https://github.com/orgs/solid/projects/4)
