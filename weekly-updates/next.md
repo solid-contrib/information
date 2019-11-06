@@ -40,6 +40,10 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 
 * App
 
+https://github.com/SharonStrats/SolidRestaurantSearch this is the app I would like to add. I wish we could change the name to something like LBSPrototype if that's possible. I can't seem to find a way to do it on my end.
+Purpose/Use of application: Update Location adds three location files each with a different precision based on your current location, RestaurantSearch uses your location added to find your nearest restaurants, FindMyFriend shows you friends location detail if they have it and to the level they have specified on their POD to the location files.
+Masters Research Project - University of Melbourne, Australia
+
 ### Solid Development
 
 #### [Data Browser Project](https://github.com/orgs/solid/projects/4)
