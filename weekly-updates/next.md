@@ -43,6 +43,8 @@ If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://
 https://github.com/SharonStrats/SolidRestaurantSearch this is the app I would like to add. I wish we could change the name to something like LBSPrototype if that's possible. I can't seem to find a way to do it on my end.
 Purpose/Use of application: Update Location adds three location files each with a different precision based on your current location, RestaurantSearch uses your location added to find your nearest restaurants, FindMyFriend shows you friends location detail if they have it and to the level they have specified on their POD to the location files.
 Masters Research Project - University of Melbourne, Australia
+* **[Notepod](https://notepod.vincenttunru.com/)** is a new simple note-taking app that stores notes in your Solid Pod. It was created as a demonstration of how to create Solid apps — inspect [its commit messages](https://gitlab.com/vincenttunru/notepod/commits/master) for more detailed guidance on [reading data](https://gitlab.com/vincenttunru/notepod/commit/5c534abdd2d6ed18be8ddc256427fb7bc0baae71), [authenticating](https://gitlab.com/vincenttunru/notepod/commit/f42f8ae6e55f1a1996050d5061252b5ac615b5aa), and more.
+
 
 ### Solid Development
 
