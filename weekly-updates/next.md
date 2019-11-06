@@ -1,63 +1,52 @@
+---
+layout: blog
+title: Welcome to another edition
+permalink: /weekly-updates/next
+tags: [weekly, updates]
+categories: [Updates]
+author: Mitzi László
+---
+
 # 7th November
 
 Hello and welcome to another edition of *This Week in Solid*!
 
-[Skip to updates](#updates).
+If you are familiar with this newsletter you can [skip directly to updates](##updates).
 
-[Solid](https://solid.github.io/information/) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along. If you have a suggestion on how to improve this description you may be interested in [joining the Explaining the Vision panel](https://github.com/solid/process/blob/master/panels.md#explaining-the-vision-panel) who are working on describing [Solid in a Nutshell](https://github.com/solid/Explaining-the-Vision-Panel).
+[Solid](https://solidproject.org) is a standard that describes how to build data storage and applications in such a way that users can conveniently switch between data storage providers and application providers and take the data generated along.
 
 This is a weekly summary of Solid progress.
 
-Want something mentioned? Contact the Solid Manager at info@solidproject.org or [send a pull request](https://github.com/solid/information/edit/master/weekly-updates/next.md). Want to get involved? [Contributions are welcome](https://github.com/solid/information#develop).
+Want something mentioned? Contact the Solid Manager at info@solidproject.org. This Week in Solid is openly developed [on GitHub](https://github.com/solid/information/blob/master/weekly-updates/next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls). 
 
-This Week in Solid is openly developed [on GitHub](./next.md). If you find any errors in this week's issue please [submit a pull request](https://github.com/solid/information/pulls).
+Want to get involved? [Contributions are welcome.](https://github.com/solid/process)
 
 ## Updates
 
 ### Weekly Solid Call
-Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. This week (insert note on minutes). Next weeks call will be cancelled so the next call will be on the 17th October at 1000CEST on [this line](https://zoom.us/j/121552099).
+Every Thursday there is an hour long public call where newcomers can introduce themselves, anyone can ask general questions about Solid, and we recap the weeks works on Solid. 
 
-### Talks & Articles
-Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
+Tune in next week on the 14th November at 1000 CEST on [this line](https://zoom.us/j/121552099).
 
+### Press
+There are few upcoming events where you can learn more and meet others working on Solid: 
+* 2019-11-14 Mitzi László will be speaking at the [ECP Jaarcongres](https://ecp.nl/jaarcongres/programma/#event-158) in the Hague 
+* 2019-11-20 [Solid London](https://www.eventbrite.com/e/data-control-ethics-solid-workshop-this-is-for-everyone-join-the-movement-tickets-79208132657?ref=estw) organised by Kartika Tulusan
+* 2019-11-21 [Solid Montreal](https://www.meetup.com/Montreal-Decentralized-Linked-Data-Meetup/events/266218723/?fbclid=IwAR2sJy5LIwzjJG52HSyfj88TSW4t5w_svUsWKA-STNG_e-pwrkfoLC5ROpE) organised by [David H Manson](https://github.com/vid)|
+* 2019-12-10 [Solid Enschede](http://www.pilod.nl/wiki/Solid_Christmas_Meetup_Enschede_-_How_to_Fix_the_Internet!) organised by Erwin Folmer
+* 2019-01-xx (date to be confirmed) Solid Amsterdam organised by [Jeroen van Beele](https://github.com/jjvbeele)
 
-* 2019-10-24 Mitzi László about [Ada Lovelace Festival](https://www.ada-lovelace-festival.com), Berlin
-* 2019-10-26 [Solid London](https://www.eventbrite.com/e/solid-intro-workshop-this-is-for-everyone-join-the-movement-tickets-77597174237?aff=ebdssbdestsearch) organised by [Kartika Tulusan](https://github.com/ktulusan)
+Solid Events are run by people like you, read more about tips on organising a successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md). Have you seen any articles or talks about Solid this week? If you've seen any talks, articles, or written blog posts about Solid please do send them over for next week.
 
-### Upcoming Solid Events
-Solid Events are run by members of the Solid community like you. If you are interested in organising a Solid Event you may be interested in reading the tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md).
+### Solid Apps, Pods, and ID
 
-|Date|Event|Organiser|
-| ------------- | ------------- |------------- |
-|10-10-2019|[Solid Amsterdam](https://www.meetup.com/nl-NL/Solid-Netherlands/events/263745707)|[Jeroen van Beele](https://github.com/jjvbeele)|
-|11-10-2019|[Solid Copenhagen](https://www.meetup.com/Solid-Copenhagen-Meetup-Group/events/264871687/)|Sarmad Reda|
-
-Solid Events are run by members of the Solid community like you. Solid Event organisers write tips for a organising successful Solid events [here](https://github.com/solid/information/blob/master/solid-events.md)
-
-### Solid Implementation
+* **[LBSPrototype](https://github.com/SharonStrats/SolidRestaurantSearch)** is a way to search for restaurants by location. Update Location adds three location files each with a different precision based on your current location, RestaurantSearch uses your location added to find your nearest restaurants, FindMyFriend shows you friends location detail if they have it and to the level they have specified on their POD to the location files. LBSPrototype was created as part of a masters research project at the University of Melbourne, Australia
+* **[Notepod](https://notepod.vincenttunru.com/)** is a new simple note-taking app that stores notes in your Solid Pod. It was created as a demonstration of how to create Solid apps — inspect [its commit messages](https://gitlab.com/vincenttunru/notepod/commits/master) for more detailed guidance on [reading data](https://gitlab.com/vincenttunru/notepod/commit/5c534abdd2d6ed18be8ddc256427fb7bc0baae71), [authenticating](https://gitlab.com/vincenttunru/notepod/commit/f42f8ae6e55f1a1996050d5061252b5ac615b5aa), and more.
 
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
-* App
+### The Solid Standard 
 
-https://github.com/SharonStrats/SolidRestaurantSearch this is the app I would like to add. I wish we could change the name to something like LBSPrototype if that's possible. I can't seem to find a way to do it on my end.
-Purpose/Use of application: Update Location adds three location files each with a different precision based on your current location, RestaurantSearch uses your location added to find your nearest restaurants, FindMyFriend shows you friends location detail if they have it and to the level they have specified on their POD to the location files.
-Masters Research Project - University of Melbourne, Australia
-* **[Notepod](https://notepod.vincenttunru.com/)** is a new simple note-taking app that stores notes in your Solid Pod. It was created as a demonstration of how to create Solid apps — inspect [its commit messages](https://gitlab.com/vincenttunru/notepod/commits/master) for more detailed guidance on [reading data](https://gitlab.com/vincenttunru/notepod/commit/5c534abdd2d6ed18be8ddc256427fb7bc0baae71), [authenticating](https://gitlab.com/vincenttunru/notepod/commit/f42f8ae6e55f1a1996050d5061252b5ac615b5aa), and more.
-
-
-### Solid Development
-
-#### [Data Browser Project](https://github.com/orgs/solid/projects/4)
-
-A new version of the Data Browser was deployed to https://inrupt.net. It's been available for testing on https://dev.inrupt.net for a while, and is now generally available. This release is another step toward making the Data Browser more approachable to new users: it adds the ability to mark yourself as a Power User or Developer. This will allow us to hide some more-advanced functionality from new users, while keeping it available to those to whom it might be relevant. The new option can be found under the new "Preferences" item in your user menu.
-
-#### Test Suite
-
-A new module to translate from the [Test Anything Protocol (TAP)](http://testanything.org/) to the [Evaluation and Report Language (EARL)](https://www.w3.org/TR/EARL10-Guide/) saw its first pre-release namely [TAP::Formatter::EARL](https://metacpan.org/release/TAP-Formatter-EARL). Since Solid tests will be formulated with RDF, and EARL is also RDF, there is great potential in making it all Linked Data. The current release isn't there yet, but it should export the most important data to allow us to create consistent interface for data coming from different test frameworks.
-
-### Tasks
-If you are keen to get started but are not sure where, check out the [list of tasks](https://github.com/solid/information/blob/master/tasks.md). If you need help on something specific or know of something that would be useful to do make sure it's listed by [submitting a pull request](https://github.com/solid/information/blob/master/tasks.md)
 
 Until next week!
 
