@@ -46,7 +46,7 @@ Solid Events are run by people like you, read more about tips on organising a su
 If you have any new [apps](https://github.com/solid/solid-apps), [Pods](https://github.com/solid/pods), or [identity providers](https://github.com/solid/solid-idp-list), or there are updates to existing Solid implementations, make sure to add them to the list so they get included in next week's edition.
 
 ### The Solid Standard 
-
+The data interoperability panel and the authorisation panel are starting to collaborate around the intersection of how data is organised and discovered in the pod and how users authorise access to it.
 
 Until next week!
 
