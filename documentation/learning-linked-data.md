@@ -302,11 +302,11 @@ This will pull in the user’s profile to make the picture and name for my own c
 
 Then for each of the friends it will load their profile to fill in the name and picture of the friend.
 
-Tip: if you are doing this in the Solid world it is good to make any representation of a thing draggable with the URI of the thing as the dragged URI. That means users of your UI will be able to drag say, people from your window into another solid app, to say add them to a group, give them access to things, and so on. Similarly, if your window real estate would be a logical place for users to drop other things or people, make it a drag target. For devices with drag and drop anyway.
+Tip: if you are doing this in the Solid world it is good to make any representation of a thing draggable with the URI of the thing as the dragged URI. That means users of your UI will be able to drag say, people from your window into another Solid app, to say add them to a group, give them access to things, and so on. Similarly, if your window real estate would be a logical place for users to drop other things or people, make it a drag target. For devices with drag and drop anyway.
 
 Listing Data
 
-Everything in RDF is a thing. We store data about all things in the same sort of way, just using different vocabulary. Suppose you want to list the content of the folder in someone’s solid space. It is very like listing their friends. The namespace for the contents of folders is LDP. So..
+Everything in RDF is a thing. We store data about all things in the same sort of way, just using different vocabulary. Suppose you want to list the content of the folder in someone’s Solid space. It is very like listing their friends. The namespace for the contents of folders is LDP. So..
 
 const LDP = $rdf.Namespace(‘http://www.w3.org/ns/ldp#>’);
 
