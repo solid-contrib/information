@@ -341,7 +341,7 @@ UPDATE: USING UPDATEMANAGER TO UPDATE THE WEB
 
 For further documentation, please see the JS Docs.
 
-The UpdateManager is another helper object for the store. Just as the Fetcher allows the store to read and write resources from the web, generally a resource (file) at a time, the UpdateManager object allows the store to send small changes to the data web. It also allows the web app to subscribe to a stream of changes that other people have made, and so keep all places wher the data is displayed in sync.
+The UpdateManager is another helper object for the store. Just as the Fetcher allows the store to read and write resources from the web, generally a resource (file) at a time, the UpdateManager object allows the store to send small changes to the data web. It also allows the web app to subscribe to a stream of changes that other people have made, and so keep all places where the data is displayed in sync.
 
     const store = $rdf.graph()
     const fetcher = new $rdf.Fetcher(store)
@@ -372,7 +372,7 @@ So in this second case, the function will first find any statements which give t
 
 409 Conflict
 
-Note that update operation (which does a PATCH operation) is specified by solid to be atomic, in that it will either complete both deletion and insertion, or it will fail and do nothing. If the server is not able to delete the statements, for example because someone else has just deleted them first, then the update must fail with a 409 conflict. In that case, the web app will typically beep or turn pink and back out the user's attempted change in the UI.
+Note that update operation (which does a PATCH operation) is specified by Solid to be atomic, in that it will either complete both deletion and insertion, or it will fail and do nothing. If the server is not able to delete the statements, for example because someone else has just deleted them first, then the update must fail with a 409 conflict. In that case, the web app will typically beep or turn pink and back out the user's attempted change in the UI.
 
 DELETING RESOURCES
 
@@ -447,7 +447,7 @@ or words to that effect. This will cause the div to be repainted. That isn't as 
 
   syncMugshots()
   updater.addDownstreamChangeListener(doc, syncMugshots)
-This uses a handy function syncTableToArray, whcih comes with solid-ui, but is include here to be complete. Also, to encourage you to make UI which syncs in both directions, even if it isn't built into the framework you are using. So fiund a way that rdflib fits naturally with your favorite UI framework, if you have one. See the Inrupt Solid documentation for some hints about using specific frameworks.
+This uses a handy function syncTableToArray, whcih comes with solid-ui, but is include here to be complete. Also, to encourage you to make UI which syncs in both directions, even if it isn't built into the framework you are using. So find a way that rdflib fits naturally with your favorite UI framework, if you have one. See the Inrupt Solid documentation for some hints about using specific frameworks.
 
   function syncTableToArray (table, things, createNewRow) {
     let foundOne, row, i
@@ -491,7 +491,7 @@ This uses a handy function syncTableToArray, whcih comes with solid-ui, but is i
   } // syncTableToArray
 CONCLUSION
 
-We've looked at how to interact directly with the store as a local in-memory triple store, and we have looked at how to load it and save it, web resource at a time. We see how it ina away acts as a local in-memory cache of the big wide web of linked data, allowing a user-interface to keep in sync with the state of the data web. As developers we can now write code which will allow users to explore, create, modify and link together a web of linked data which can grow to encompass more and more domains, different applications.
+We've looked at how to interact directly with the store as a local in-memory triple store, and we have looked at how to load it and save it, web resource at a time. We see how it in a away acts as a local in-memory cache of the big wide web of linked data, allowing a user-interface to keep in sync with the state of the data web. As developers we can now write code which will allow users to explore, create, modify and link together a web of linked data which can grow to encompass more and more domains, different applications.
 
 
 
