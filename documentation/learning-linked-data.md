@@ -66,7 +66,7 @@ Here are some basic vocabulary terms we'll be using throughout this document.
 * UpdateManager - An even more helper object. The UpdateManager allows you to send small changes to the server to “patch” the data as your user changes data in real time. It also allows you to subscribe to changes other people make to the same file, keeping track of upstream and downstream changes, and signaling any conflict between them.
 * Graph - A database for the semantic web. This database is seemingly arbitrary in terms of what is related to what. There are no parent or root nodes, and the connections between nodes is key.
 * Triples - An RDF concept that comprise of subject, predicate, and object. For example, storing the data “I have the name John” would be represented as a triple. Similarly,
-* Quad is like a triplebut also has a property to explain where the data came from.
+* Quad is like a triple but also has a property to explain where the data came from.
 * Statement - Another word for quad.
 
 ## Setting up rdflib.js
