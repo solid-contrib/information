@@ -66,7 +66,7 @@ Here are some basic vocabulary terms we'll be using throughout this document.
 * UpdateManager - An even more helper object. The UpdateManager allows you to send small changes to the server to “patch” the data as your user changes data in real time. It also allows you to subscribe to changes other people make to the same file, keeping track of upstream and downstream changes, and signaling any conflict between them.
 * Graph - A database for the semantic web. This database is seemingly arbitrary in terms of what is related to what. There are no parent or root nodes, and the connections between nodes is key.
 * Triples - An RDF concept that comprise of subject, predicate, and object. For example, storing the data “I have the name John” would be represented as a triple. Similarly,
-* Quad is like a triplebut also has a property to explain where the data came from.
+* Quad is like a triple but also has a property to explain where the data came from.
 * Statement - Another word for quad.
 
 ## Setting up rdflib.js
@@ -302,11 +302,11 @@ This will pull in the user’s profile to make the picture and name for my own c
 
 Then for each of the friends it will load their profile to fill in the name and picture of the friend.
 
-Tip: if you are doing this in the Solid world it is good to make any representation of a thing draggable with the URI of the thing as the dragged URI. That means users of your UI will be able to drag say, people from your window into another solid app, to say add them to a group, give them access to things, and so on. Similarly, if your window real estate would be a logical place for users to drop other things or people, make it a drag target. For devices with drag and drop anyway.
+Tip: if you are doing this in the Solid world it is good to make any representation of a thing draggable with the URI of the thing as the dragged URI. That means users of your UI will be able to drag say, people from your window into another Solid app, to say add them to a group, give them access to things, and so on. Similarly, if your window real estate would be a logical place for users to drop other things or people, make it a drag target. For devices with drag and drop anyway.
 
 Listing Data
 
-Everything in RDF is a thing. We store data about all things in the same sort of way, just using different vocabulary. Suppose you want to list the content of the folder in someone’s solid space. It is very like listing their friends. The namespace for the contents of folders is LDP. So..
+Everything in RDF is a thing. We store data about all things in the same sort of way, just using different vocabulary. Suppose you want to list the content of the folder in someone’s Solid space. It is very like listing their friends. The namespace for the contents of folders is LDP. So..
 
 const LDP = $rdf.Namespace(‘http://www.w3.org/ns/ldp#>’);
 
@@ -341,7 +341,7 @@ UPDATE: USING UPDATEMANAGER TO UPDATE THE WEB
 
 For further documentation, please see the JS Docs.
 
-The UpdateManager is another helper object for the store. Just as the Fetcher allows the store to read and write resources from the web, generally a resource (file) at a time, the UpdateManager object allows the store to send small changes to the data web. It also allows the web app to subscribe to a stream of changes that other people have made, and so keep all places wher the data is displayed in sync.
+The UpdateManager is another helper object for the store. Just as the Fetcher allows the store to read and write resources from the web, generally a resource (file) at a time, the UpdateManager object allows the store to send small changes to the data web. It also allows the web app to subscribe to a stream of changes that other people have made, and so keep all places where the data is displayed in sync.
 
     const store = $rdf.graph()
     const fetcher = new $rdf.Fetcher(store)
@@ -372,7 +372,7 @@ So in this second case, the function will first find any statements which give t
 
 409 Conflict
 
-Note that update operation (which does a PATCH operation) is specified by solid to be atomic, in that it will either complete both deletion and insertion, or it will fail and do nothing. If the server is not able to delete the statements, for example because someone else has just deleted them first, then the update must fail with a 409 conflict. In that case, the web app will typically beep or turn pink and back out the user's attempted change in the UI.
+Note that update operation (which does a PATCH operation) is specified by Solid to be atomic, in that it will either complete both deletion and insertion, or it will fail and do nothing. If the server is not able to delete the statements, for example because someone else has just deleted them first, then the update must fail with a 409 conflict. In that case, the web app will typically beep or turn pink and back out the user's attempted change in the UI.
 
 DELETING RESOURCES
 
@@ -447,7 +447,7 @@ or words to that effect. This will cause the div to be repainted. That isn't as 
 
   syncMugshots()
   updater.addDownstreamChangeListener(doc, syncMugshots)
-This uses a handy function syncTableToArray, whcih comes with solid-ui, but is include here to be complete. Also, to encourage you to make UI which syncs in both directions, even if it isn't built into the framework you are using. So fiund a way that rdflib fits naturally with your favorite UI framework, if you have one. See the Inrupt Solid documentation for some hints about using specific frameworks.
+This uses a handy function syncTableToArray, whcih comes with solid-ui, but is include here to be complete. Also, to encourage you to make UI which syncs in both directions, even if it isn't built into the framework you are using. So find a way that rdflib fits naturally with your favorite UI framework, if you have one. See the Inrupt Solid documentation for some hints about using specific frameworks.
 
   function syncTableToArray (table, things, createNewRow) {
     let foundOne, row, i
@@ -491,7 +491,7 @@ This uses a handy function syncTableToArray, whcih comes with solid-ui, but is i
   } // syncTableToArray
 CONCLUSION
 
-We've looked at how to interact directly with the store as a local in-memory triple store, and we have looked at how to load it and save it, web resource at a time. We see how it ina away acts as a local in-memory cache of the big wide web of linked data, allowing a user-interface to keep in sync with the state of the data web. As developers we can now write code which will allow users to explore, create, modify and link together a web of linked data which can grow to encompass more and more domains, different applications.
+We've looked at how to interact directly with the store as a local in-memory triple store, and we have looked at how to load it and save it, web resource at a time. We see how it in a away acts as a local in-memory cache of the big wide web of linked data, allowing a user-interface to keep in sync with the state of the data web. As developers we can now write code which will allow users to explore, create, modify and link together a web of linked data which can grow to encompass more and more domains, different applications.
 
 
 
